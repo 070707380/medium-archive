@@ -1,5 +1,98 @@
 [
   {
+    "id": "item-1785528300872",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMc7XHBSsCyhGW5uRyf9HR8a_ASP_1Zyd0tLoquTHxgg&s",
+    "title": "Terraria",
+    "mainCreator": "Re-Logic",
+    "otherCreators": [
+      "Andrew \"Redigit\" Spinks/Lead Developer",
+      "Whitney \"Cenx\" Spinks/Lead Developer"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Re-Logic",
+        "category": "Studio / Company",
+        "nation": "United States",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Re-Logic&ved=2ahUKEwimkuW_2f2VAxWLcfEDHdy5JF0QFnoECFIQAQ&usg=AOvVaw0cUq7V42NAqdYE8oLTzFnA"
+      },
+      {
+        "name": "Andrew \"Redigit\" Spinks",
+        "category": "Lead Developer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew%20%22Redigit%22%20Spinks"
+      },
+      {
+        "name": "Whitney \"Cenx\" Spinks",
+        "category": "Lead Developer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Whitney%20%22Cenx%22%20Spinks"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2011-05-16",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "Sandbox",
+      "Boss Fight",
+      "Side Scroller"
+    ],
+    "philosophicalTags": [
+      "Cosmic Horror",
+      "Nihilistic Outlook",
+      "Man vs. Nature",
+      "Good and Evil",
+      "Balance"
+    ],
+    "genreStyleTags": [
+      "2d platformer",
+      "pixel art",
+      "zombie",
+      "vampire",
+      "alien",
+      "day/night cycle",
+      "base building",
+      "character customization",
+      "metroidvania",
+      "bullet hell",
+      "science fiction",
+      "survival craft",
+      "slime",
+      "open world",
+      "blocks"
+    ],
+    "summaryPlot": "Long ago, the ancient race of Dryads went to war with the cosmic entity Cthulhu, tearing off some of his limbs before he retreated to the dark side of the Moon. Centuries later, you, the Terrarian, venture into the world to stop Cthulhu—now known as the Moon Lord—for good.",
+    "pros": [],
+    "cons": [],
+    "hornetScore": 9,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Core Keeper",
+      "Necesse",
+      "Core Keeper",
+      "Craft The World",
+      "Dig or Die",
+      "Crea",
+      "Alchemage"
+    ],
+    "mediumInfluences": [
+      "Minecraft",
+      "Metroid",
+      "Castlevania",
+      "Super Mario Bros. X",
+      "Dwarf Fortress"
+    ],
+    "consumedVersion": "Mobile",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Product Wikipedia / Store Page",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/105600/Terraria/&ved=2ahUKEwjc98qd2_2VAxVd9LsIHb5cMI8QFnoECCcQAQ&usg=AOvVaw2cX2UyXCe2ieLs25b_EwXy"
+      }
+    ],
+    "createdAt": "2026-07-31T20:05:00.872Z",
+    "updatedAt": "2026-07-31T20:05:00.893Z"
+  },
+  {
     "id": "item-1785509633181",
     "cover": "https://geeklikveotesine.com/wp-content/uploads/2021/04/1fffb-eraseddd.jpg?w=720&h=405",
     "title": "Erased",
