@@ -1,0 +1,6 @@
+{
+  "name": "Medium Archive",
+  "description": "Personal media archive vault with advanced philosophical and genre filtering, Hornet's Score system, and hidden admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
