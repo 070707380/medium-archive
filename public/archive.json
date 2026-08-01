@@ -1,5 +1,110 @@
 [
   {
+    "id": "item-1785574968158",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJC319oFz5AZT1DWBuM57-S2Ke-FuZkBK2octcTXn8w&s=10",
+    "title": "Gintama",
+    "mainCreator": "Shinji Takamatsu",
+    "otherCreators": [
+      "Yoichi Fujita/Director",
+      "Akatsuki Yamatoya/Scriptwriter"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Shinji Takamatsu",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Shinji_Takamatsu"
+      },
+      {
+        "name": "Yoichi Fujita",
+        "category": "Director",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yoichi%20Fujita"
+      },
+      {
+        "name": "Akatsuki Yamatoya",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Akatsuki%20Yamatoya"
+      }
+    ],
+    "mediaFormat": "TV Show",
+    "releaseDate": "2006-03-25",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "Parody",
+      "Absurdist Comedy",
+      "Satire",
+      "Slapstick",
+      "Chanbara"
+    ],
+    "philosophicalTags": [],
+    "genreStyleTags": [
+      "situational comedy",
+      "action",
+      "samurai",
+      "Seinen",
+      "meta-humor",
+      "fourth-wall",
+      "edo-period",
+      "alternate history",
+      "tragedy",
+      "backstories",
+      "brainrot",
+      "animation"
+    ],
+    "summaryPlot": "In an alternate Edo-period Japan where aliens called the Amanto have invaded and banned samurai from carrying swords, the eccentric former warrior Gintoki Sakata runs an \"odd jobs\" shop (Yorozuya) with his apprentice Shinpachi Shimura and the alien girl Kagura, taking on any request to pay rent. Their bizarre adventures—ranging from slapstick comedy and pop-culture parodies to serious battles against former allies and government conspiracies—slowly unravel Gintoki's traumatic past as a soldier in the war against the Amanto.",
+    "pros": [
+      "When switching to major plot arcs (Courtesan of a Nation, Shogun Assassination), the narrative delivers grounded samurai combat with real consequences.",
+      "Masterfully breaks the fourth wall to lampoon shonen jump tropes, production budgets and anime industry cliches with biting meta-humor.",
+      "Gintoki Sakata breaks standard shonen tropes by being a lazy, sugar-addicted, debt-ridden veteran with past trauma rather than an earnest kid pursuing a dream.",
+      "Combining feudal Japanese culture with an alien occupation (Amanto) provides a bizarre setting for world-building and character dynamics.",
+      "Key sword fights emphasize raw physicality, sword-wear and desperation rather than generic magical power-ups.",
+      "Supporting groups like the Shinsengumi and the Yorozuya crew hold distinct motives and tactical roles rather than functioning as passive background noise.",
+      "The show occasionally lands poignant character studies regarding grief, aging and loyalty amidst its chaotic comedic framing.",
+      "Voice acting performance is phenomenal.",
+      "Utilizes static background stills, intentionally bad animation cuts and visual censorship as active comedic devices.",
+      "Cleverly reshapes real-life Bakumatsu period figures (Kondo, Hijikata, Katsura) into unhinged, memorable modern archetypes."
+    ],
+    "cons": [
+      "Heavy reliance on crude jokes (scatological gags, vomiting, penile humor) recurs constantly, often wearing thin over long arcs.",
+      "The show jumps jarringly between absurd slapstick comedy and dark, bloody genocide themes without smooth structural transitions.",
+      "Secondary cast members are frequently flattener into single repetitive gags (stalking, mayonnaise addiction, glasses jokes) during non-serious arcs.",
+      "The early episodes take a long time to establish character relationships and world rules, resulting in a sluggish initial burn, \"bro real deal starts after episode 200\" cliche.",
+      "Serious story progression is scattered sparsely across hundreds of episodes, making central narrative tracking feel disjointed.",
+      "Many comedy bits follow an identical blueprint: a minor misunderstanding snowballing into absurd public chaos through screaming reactions, creates a predictable formula.",
+      "Comedy/parody shows work best when they're way shorter and critical."
+    ],
+    "hornetScore": 6,
+    "hornetVerdict": "Gintama reaches impressive heights during its grounded samurai climax arcs and clever meta-parodies but its structural score remains hundreds of aimless filler episodes, repetitive crude humor and inconsistent narrative pacing.",
+    "similarMedia": [
+      "The Disastrous Life of Saiki K.",
+      "Daily Lives of High School Boys",
+      "Hinamatsuri",
+      "Space Dandy",
+      "School Rumble",
+      "Great Teacher Onizuka"
+    ],
+    "mediumInfluences": [
+      "Dragon Ball",
+      "Urusei Yatsura",
+      "City Hunter",
+      "Sket Dance",
+      "Samurai Champloo",
+      "Abarenbo Shogun"
+    ],
+    "consumedVersion": "Digital",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Prime Video",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.primevideo.com/-/tr/detail/0FCDH7ACH0ZNHLGP5E0JCE86XQ&ved=2ahUKEwi75vbWhv-VAxUCA9sEHRp5F6cQFnoECDAQAQ&usg=AOvVaw1RvDQxp2cSLB47gCbR2ZFO"
+      }
+    ],
+    "createdAt": "2026-08-01T09:02:48.163Z",
+    "updatedAt": "2026-08-01T09:02:48.190Z"
+  },
+  {
     "id": "item-1785568533275",
     "cover": "https://2danicritic.github.io/index_files/ReviewImages/review_Kaiba.jpg",
     "title": "Kaiba",
