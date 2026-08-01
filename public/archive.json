@@ -718,23 +718,23 @@
     ],
     "summaryPlot": "Long ago, the ancient race of Dryads went to war with the cosmic entity Cthulhu, tearing off some of his limbs before he retreated to the dark side of the Moon. Centuries later, you, the Terrarian, venture into the world to stop Cthulhu—now known as the Moon Lord—for good.",
     "pros": [
-      "Unlike open-ended sandboxes that leave goals up to player imagination, Terraria features a satisfying progression framework where defeating specific bosses unlocks new world states, ores and mechanics.",
-      "Melee, Ranged, Magic and Summoner paths with distinct accessories and armor set bonuses offers building variety.",
-      "The subterranean world layering (Surface, Underground, Caverns, Underworld) creates a sense of structural descent and danger.",
-      "Mid-game dramatically alters the existing map by introducing spreading biomes (The Hallow/Corrupt) and tougher enemy variants, creates variety and breaks the beginning loop.",
+      "Unlike sandboxes that leave goals up to gamer imagination, Terraria features a satisfying progression where defeating bosses unlocks new world states, ores and mechanics.",
+      "Melee, Ranged, Magic and Summoner paths with unique rich accessories and armor set bonuses offers building variety.",
+      "The subterranean world layering (Surface, Underground, Caverns, Underworld) is structural descent and builds danger.",
+      "Mid-game alters the existing map by introducing spreading biomes (The Hallow/Corrupt) and tougher enemy variants, creates variety and breaks the beginning loop.",
       "Invasions, Blood Moons and Solar Eclipses break up the standard gameplay with sudden waves that test base defenses and player gear.",
-      "The late-game mobility options (grappling hooks, wings, dashes, boots) transform combat, raising the physical skill ceiling significantly.",
+      "The late-game mobility options (grappling hooks, wings, dashes, boots) transform combat, raising the skill ceiling harshly.",
       "Unique biome mechanics (such as jungle poison hazards, desert sandstorms and underworld lava) force players to adapt their gear and strategies per region.",
       "Game's sandbox enriched the co-op experience by letting the gamers design whole new competitive sports with unique rules, includes golf and highly complex electric systems."
     ],
     "cons": [
       "Game highly relies on external factors such as guides and Wikis, reliance on external factors is unforgivable mechanic.",
-      "Certain essential crafting materials and accessories rely on low percentage chance drops, introducing frustrating artificial padding.",
+      "Certain essential crafting materials and accessories rely on low percentage chance drops which is frustrating artificial padding.",
       "The expansion of Corruption/Crimson and Hallow can permanently ruin structural builds and NPC housing unless countered with expensive cleansing grinds which is also serious waste of time.",
       "While the town/NPC system provides vendors, the requirements (a box with a door, light and simple chair) and happiness mechanics feel surface-level.",
-      "Preparing for high-tier boss encounters requires repetitive terraforming and placing platforms/buff stations across large segments of the map.",
+      "Preparing for high-tier bosses requires repetitive placing platforms/buff stations across large parrts of the map.",
       "Game's core pacing is totally broken. Hundreds of hours grinding and mining activities drains most of the gameplay time.",
-      "Certain classes (like Summoner) suffer from awkward progression gaps and weak survivability at specific stages of the game compared to more straightforward builds."
+      "Certain classes (like Summoner) suffer from awkward progression gaps and weak survivability at specific stages of the game."
     ],
     "hornetScore": 6,
     "hornetVerdict": "Terraria delivers a satisfying boss-gated progression with deep class customization but its score is decreased due to tedious inventory management, heavy reliance on external wikis and annoying repetitive grinding with time draining chores.",
@@ -764,7 +764,7 @@
       }
     ],
     "createdAt": "2026-07-31T20:05:00.872Z",
-    "updatedAt": "2026-07-31T20:45:38.676Z"
+    "updatedAt": "2026-08-01T18:25:22.808Z"
   },
   {
     "id": "item-1785509633181",
