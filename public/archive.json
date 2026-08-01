@@ -83,7 +83,12 @@
     "hornetScore": 4,
     "hornetVerdict": "The original Dead Space introduces a tactical  dismemberment system and atmospheric space horror concept but repetitive ship-repair objectives, backtracking and uninspired boss mechanics ruins the execution.",
     "similarMedia": [
-      "Resident Evil 4",
+      {
+        "title": "Resident Evil 4",
+        "type": "media",
+        "customCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/ss_82e7509b972bd648bce288c714973a5c3c02ce0b.1920x1080.jpg?t=1768960618",
+        "note": "Linked to Video Game"
+      },
       "The Evil Within",
       "Alien: Isolation",
       "Prey",
@@ -188,7 +193,12 @@
     "hornetScore": 7,
     "hornetVerdict": "The original Resident Evil 4 stands as a masterclass in survival-action design whose deliberate stop-and-shoot combat and spatial inventory mechanics earn it fascinating score, despite late-game action fatigue, B-movie tropes and intrusive QTEs.",
     "similarMedia": [
-      "Dead Space",
+      {
+        "title": "Dead Space",
+        "type": "media",
+        "customCover": "https://storage.oyungezer.com.tr/ogz-public/images/haberler/2021/08/deadspace/deadspace1-01.jpg",
+        "note": "Linked to Video Game"
+      },
       "Gears of War",
       "The Evil Within",
       "Alan Wake",
