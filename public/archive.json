@@ -511,20 +511,20 @@
       "Vivi Ornitier’s journey exploring mortality and purpose provides a satisfying philosophical spine.",
       "Returning to distinct character roles (Black Mage, Thief, Knight) creates defined tactical archetypes in battle.",
       "Learning skills and passives directly from weapons and armor provides a tangible sense of gear progression and customization.",
-      "The high-fantasy aesthetic of Gaia, from Alexandria to Treno offers dense environmental detail and distinct regional cultures.",
-      "The sidequest provides a rewarding exploration loop with valuable systemic gear rewards.",
-      "The optional narrative vignettes expand world context and secondary character perspectives without halting main story momentum.",
-      "Encounters like Ozma offer tactical hurdles that require optimized gear setups and precise status protection."
+      "The high-fantasy aesthetic of Gaia, from Alexandria to Treno serves environmental detail and distinct regional cultures.",
+      "The sidequest are rewarding exploration with valuable systemic gear rewards.",
+      "The optional narrative expand world context and secondary character perspectives without damaging main story.",
+      "Encounters like Ozma offer tactical hurdles that require optimized gears and status protection."
     ],
     "cons": [
       "Battle initialization animations, camera pans and execution delays make basic random encounters feel sluggish.",
       "The limit break equivalent triggers automatically when filled, often wasting poweful states on weak random mobs right before boss fights.",
       "Frequent hidden battle triggers interrupt exploration and puzzle-solving momentum throughout dungeons.",
-      "The sudden introduction of Necron at the final boss fight feels unearned structurally and lacks proper narrative foreshadowing.",
-      "Zidane’s steal drop rates for rare boss gear are notoriously low, resulting in tedious turn-stalling during boss encounters.",
-      "Tetra Master’s card battle outcomes rely on obscure hidden RNG mechanics that lack clear in-game strategy.",
+      "The sudden introduction of Necron at the final boss fight feels unearned structurally and lacks any foreshadowing.",
+      "Zidane’s steal drop rates for rare boss gear are too low, causes turn-stalling during boss-fights.",
+      "Tetra Master’s card battle outcomes rely on very obscure hidden RNG mechanics that lack clear in-game strategy.",
       "UI layout is messy, basically isn't the best out there.",
-      "The game occasionally jumps jarringly between slapstick cartoon comedy and existential genocide themes, tonal whiplash is serious."
+      "The game occasionally jumps between slapstick cartoon comedy and existential genocide themes, tonal whiplash is serious."
     ],
     "hornetScore": 5,
     "hornetVerdict": "Final Fantasy IX boasts exceptional existential character arcs and a charming high-fantasy world but it's painfully slow ATB combat, uncontrollable annoying mechanics and unrewarding end-game pacing damages the execution.",
@@ -549,7 +549,7 @@
       }
     ],
     "createdAt": "2026-08-01T06:46:24.955Z",
-    "updatedAt": "2026-08-01T16:05:11.270Z"
+    "updatedAt": "2026-08-01T18:14:34.461Z"
   },
   {
     "id": "item-1785530015107",
