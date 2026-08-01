@@ -1,5 +1,114 @@
 [
   {
+    "id": "item-1785566784954",
+    "cover": "https://image.api.playstation.com/cdn/EP0082/CUSA08918_00/FREE_CONTENTktlLLBrbG7Gy8GXYcJwN/4.jpg",
+    "title": "Final Fantasy IX",
+    "mainCreator": "Hiroyuki Ito",
+    "otherCreators": [
+      "Hironobu Sakaguchi/Producer",
+      "Shinji Hashimoto/Producer",
+      "Hideo Minaba/Art Director",
+      "Yoshitaka Amano/Concept Artist"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Hiroyuki Ito",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Hiroyuki_Ito%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwiErb6v5v6VAxXMRfEDHSl4D4UQFnoECEcQAQ&usg=AOvVaw1rQBcnBDtcdUsNOOTk_2Nj"
+      },
+      {
+        "name": "Hironobu Sakaguchi",
+        "category": "Producer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hironobu%20Sakaguchi"
+      },
+      {
+        "name": "Shinji Hashimoto",
+        "category": "Producer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Shinji%20Hashimoto"
+      },
+      {
+        "name": "Hideo Minaba",
+        "category": "Art Director",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hideo%20Minaba"
+      },
+      {
+        "name": "Yoshitaka Amano",
+        "category": "Concept Artist",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yoshitaka%20Amano"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2000-07-07",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "J-RPG",
+      "Turned-Based Combat",
+      "High Fantasy"
+    ],
+    "philosophicalTags": [
+      "The Meaning of Life",
+      "Existialism",
+      "Mortality",
+      "Home and Belonging"
+    ],
+    "genreStyleTags": [
+      "party based",
+      "fixed camera",
+      "low poly",
+      "medieval",
+      "random encounters",
+      "steampunk",
+      "minigames",
+      "alien"
+    ],
+    "summaryPlot": "A young thief named Zidane Tribal kidnaps Princess Garnet from the kingdom of Alexandria as part of a plot to stop Queen Brahne's war campaign, but their journey uncovers a deeper conspiracy involving the arms dealer Kuja and the destruction of two worlds. The party must travel across the planet Gaia to stop Kuja from achieving a world-ending catastrophe, confronting existential questions about life, death, and purpose along the way.",
+    "pros": [
+      "Vivi Ornitier’s journey exploring mortality and purpose provides a satisfying philosophical spine.",
+      "Returning to distinct character roles (Black Mage, Thief, Knight) creates defined tactical archetypes in battle.",
+      "Learning skills and passives directly from weapons and armor provides a tangible sense of gear progression and customization.",
+      "The high-fantasy aesthetic of Gaia, from Alexandria to Treno offers dense environmental detail and distinct regional cultures.",
+      "The sidequest provides a rewarding exploration loop with valuable systemic gear rewards.",
+      "The optional narrative vignettes expand world context and secondary character perspectives without halting main story momentum.",
+      "Encounters like Ozma offer tactical hurdles that require optimized gear setups and precise status protection."
+    ],
+    "cons": [
+      "Battle initialization animations, camera pans and execution delays make basic random encounters feel sluggish.",
+      "The limit break equivalent triggers automatically when filled, often wasting poweful states on weak random mobs right before boss fights.",
+      "Frequent hidden battle triggers interrupt exploration and puzzle-solving momentum throughout dungeons.",
+      "The sudden introduction of Necron at the final boss fight feels unearned structurally and lacks proper narrative foreshadowing.",
+      "Zidane’s steal drop rates for rare boss gear are notoriously low, resulting in tedious turn-stalling during boss encounters.",
+      "Tetra Master’s card battle outcomes rely on obscure hidden RNG mechanics that lack clear in-game strategy.",
+      "UI layout is messy, basically isn't the best out there.",
+      "The game occasionally jumps jarringly between slapstick cartoon comedy and existential genocide themes, tonal whiplash is serious."
+    ],
+    "hornetScore": 5,
+    "hornetVerdict": "Final Fantasy IX boasts exceptional existential character arcs and a charming high-fantasy world but it's painfully slow ATB combat, uncontrollable annoying mechanics and unrewarding end-game pacing damages the execution.",
+    "similarMedia": [
+      "Dragon Quest VII",
+      "Chrono Cross",
+      "Legend of Mana",
+      "Suikoden II",
+      "Breath of Fire IV"
+    ],
+    "mediumInfluences": [
+      "The Dark Crystal",
+      "Nausicaä of the Valley of the Wind"
+    ],
+    "consumedVersion": "PlayStation 1",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Steam",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/&ved=2ahUKEwjH5qu-5_6VAxVOgP0HHVXEFz4QFnoECBMQAQ&usg=AOvVaw1XqpU7Z2Av6eCBsleDe6Q5"
+      }
+    ],
+    "createdAt": "2026-08-01T06:46:24.955Z",
+    "updatedAt": "2026-08-01T06:46:24.962Z"
+  },
+  {
     "id": "item-1785530015107",
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTqixUVYp-5AJEBwDIKIgGREfyzft5uBzyyhGhPl4eTgprxjyxUbnEcdE1UBZ8gvS8u95x4YJKQvdZtTNFNez_PXcFieg0zeKErbhq5ZG-ek1C9yOgT_dDTpktg-S9gef2XeWlq2X3CDpMSa6FXgEF_mXSz1Mk-TDoewySZSMlo2LgELzymZuyh70iZeNm/s1920/Slam%20Dunk%20Movie%205a.jpg",
     "title": "Slam Dunk",
