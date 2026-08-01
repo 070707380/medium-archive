@@ -171,24 +171,23 @@
     ],
     "summaryPlot": "Six years after the Raccoon City incident, U.S. agent Leon S. Kennedy is sent to a remote Spanish village to rescue the President's daughter, Ashley Graham, who has been kidnapped by a mysterious cult called Los Illuminados. Leon discovers that the villagers are infected with a parasitic organism called Las Plagas, and he must fight through hordes of infected locals, monstrous creatures, and a conspiracy involving a rogue ex-agent to save Ashley and escape the nightmare alive.",
     "pros": [
-      "Forcing players to stop in place to aim creates a spatial puzzle where positioning and environment management are paramount.",
-      "The tile-based puzzle grid forces satisfying resource prioritization and weapon organization then tactical inventory optimization.",
+      "Forcing players to stop to aim values positioning and environment management.",
+      "The puzzle grid forces satisfying resource prioritization and weapon organization then tactical inventory optimization.",
       "Shooting specific body parts (headshots for melee follow-ups, kneecaps for crowd control, shooting thrown axes out of the air) rewards mechanical accuracy.",
-      "Upgrading weapons at the Merchant (power, reload speed, capacity) provides a clear scaling loop.",
-      "The campaign transitions cleanly from the claustrophobic rural Village to the Castle traps and Island military zones.",
+      "Upgrading weapons at the Merchant provides a clear scaling loop.",
       "The nercenaries arcade mode offers mechanics showcase centered on time management, kill chains and arena routing.",
-      "Firearms deliver impactful physical feedback, knockbacks and stun animations that make combat feel tactile and precise.",
-      "Fights like El Gigante, Del Lago and Krauser test specific mechanics (positioning, QTE timing, weak-point focus) effectively.",
-      "Tightly balanced ammos pushes the player to the brink of running out of resources without ever stranding them."
+      "Firearms deliver impactful physical feedback, knockbacks and stun animations that make combat feel better.",
+      "Fights like El Gigante, Del Lago and Krauser test mechanics such as positioning, QTE timing and weak-point focus effectively.",
+      "Tightly balanced ammos pushes the player to the running out of resources without ever stranding them."
     ],
     "cons": [
-      "Instant-death Quick Time Events during cutscenes and boss fights break combat flow and rely on cheap reaction-check deaths.",
-      "Managing Ashley Graham’s health and AI pathfinding introduces babysitting downtime during intense room clears.",
-      "The Island section abandons survival horror elements in favor of linear military gunfights against mobs with miniguns.",
+      "Instant-death Quick Time Events during cutscenes and boss fights break combat flow and rely on cheap reaction.",
+      "Managing Ashley Graham’s health and AI is just babysitting during room clears.",
+      "The Island section abandons survival horror elements just for linear military gunfights against mobs with miniguns.",
       "Swapping weapons requires pausing combat to enter the inventory menu every single time, a combat pacing problem.",
-      "Meme-ish B-movie dialogue and exaggerated Hollywood villain theatrics occasionally undermine the horror atmosphere.",
-      "Fights like the Krauser cinematic rely heavily on button-mashing rather than gameplay mechanics.",
-      "Certain Castle sub-areas feel artificially padded with wave-defense rooms to drag out chapter runtimes.",
+      "Meme-ish B-movie dialogue and exaggerated Hollywood villain theatrics undermine the horror atmosphere.",
+      "Fights like the Krauser cinematic rely heavily on button-mashing.",
+      "Certain Castle areas feel artificially padded with wave-defense rooms to extend chapter runtimes.",
       "Side characters as Ada Wong and Luis Sera barely has impact on the story or gameplay depth."
     ],
     "hornetScore": 7,
@@ -228,7 +227,7 @@
       }
     ],
     "createdAt": "2026-08-01T15:43:05.882Z",
-    "updatedAt": "2026-08-01T17:41:27.150Z"
+    "updatedAt": "2026-08-01T17:59:24.526Z"
   },
   {
     "id": "item-1785574968158",
