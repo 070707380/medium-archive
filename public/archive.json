@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "item-1785617055652",
+    "cover": "https://www.denofgeek.com/wp-content/uploads/2019/01/hulu-anime-cowboy-bebop.jpg?fit=1967%2C1106",
+    "title": "Cowboy Bebop",
+    "mainCreator": "Shinichirō Watanabe",
+    "otherCreators": [
+      "Keiko Nobumoto/Scriptwriter",
+      "Sunrise/Animation Studio"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Shinichirō Watanabe",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shinichir%25C5%258D_Watanabe&ved=2ahUKEwia5djooICWAxWCnf0HHdBXAQ0QFnoECBEQAQ&usg=AOvVaw0aeccnhgwKYJRDxUKCzQ8Z"
+      },
+      {
+        "name": "Keiko Nobumoto",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Keiko%20Nobumoto"
+      },
+      {
+        "name": "Sunrise",
+        "category": "Animation Studio",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sunrise"
+      }
+    ],
+    "mediaFormat": "TV Show",
+    "releaseDate": "1998-10-23",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "Space Western",
+      "Neo Noir",
+      "Science Fiction"
+    ],
+    "philosophicalTags": [
+      "Existentialism",
+      "Nihilism",
+      "Karma",
+      "Buddhist Impermanence",
+      "Heideggerian Being Toward Death",
+      "Sartrean Bad Faith"
+    ],
+    "genreStyleTags": [
+      "space opera",
+      "martial arts",
+      "detective",
+      "dystopian",
+      "colonies",
+      "cowboys",
+      "melancholy",
+      "retro futuristic",
+      "bounty hunter",
+      "tragedy"
+    ],
+    "summaryPlot": "The series follows the bounty hunting crew of the spaceship Bebop—former hitman Spike Spiegel, ex-cop Jet Black, con artist Faye Valentine, child prodigy hacker Ed, and a genetically engineered corgi named Ein—as they travel through space chasing criminals for money while confronting their own haunted pasts. Spike's journey is ultimately defined by his unresolved history with the criminal syndicate Red Dragon and his lost love Julia, leading to a fatalistic confrontation that forces him to choose between the past and the present.",
+    "pros": [
+      "Spike Spiegel is a detached and moody well-written protagonist.",
+      "Episodic structure keeps each story self contained.",
+      "Retro futuristic world blending science fiction with noir elements looks detailed, rich and pretty.",
+      "Hand drawn animation holds up well.",
+      "Faye Valentine’s hidden backstory adds emotional depth successfully.",
+      "Space combat scenes are satisfying and grounded.",
+      "Jet Black acts as a steady anchor for the crew.",
+      "Ed brings a chaotic energy to balance the heavy atmosphere successfully.",
+      "Melancholic tone weight stays consistent throughout the series.",
+      "Theme of being trapped in the past is written solid.",
+      "Visually unqiue planets make the universe feel worn in.",
+      "Short character arcs avoid forced melodrama.",
+      "Dialogue is minimal and lets visual storytelling work.",
+      "Ending serves a clear and decisive resolution.",
+      "Noir tropes fit naturally into the space setting.",
+      "Action relies on realistic movement and rhythm.",
+      "Bounty hunts allow for diverse sub genres enrich the product.",
+      "Sound design enhances the overall atmosphere."
+    ],
+    "cons": [
+      "The main storyline with Vicious feels sparse and spread out.",
+      "Episodic format blocks continuous plot development.",
+      "Julia’s character functions mostly as a plot device.",
+      "Some episodes feel detached from the core vibe.",
+      "Spike’s tragic past is kept too vague for too long.",
+      "Pacing is sluggish during dialogue-light scenes.",
+      "Some side villains are generic bounty targets.",
+      "Tone shifts between comedy and dark existentialism feels jarring.",
+      "Faye's origin reveal comes too late in the show.",
+      "Crew rarely acts as a cohesive team.",
+      "World building history is told through quick cheap hints.",
+      "Vicious lacks motivations beyond being an antagonist.",
+      "Syndicate politics are vague in the background.",
+      "Over reliance on classic western tropes is predictable.",
+      "Bounty hunts rarely yield meaningful plot progression.",
+      "Some emotional moments are just some musical context.",
+      "Character background reveals are somewhat fragmented.",
+      "Stakes are often low during standalone episodes.",
+      "Secondary cast members leave without any resolution."
+    ],
+    "hornetScore": 5,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Samurai Champloo",
+      "Space Dandy",
+      "Firefly",
+      "The Mandalorian",
+      "Blade Runner: Black Lotus"
+    ],
+    "mediumInfluences": [
+      "Blade Runner",
+      "The Dirty Pair",
+      "Outlaw Star",
+      "Trigun",
+      "Lupin the Third",
+      "John Woo",
+      "Jean Pierre Melville",
+      "Jack Kerouac",
+      "Frank Miller",
+      "Sergio Leone",
+      "Akira Kurosawa"
+    ],
+    "consumedVersion": "Digital",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Netflix",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/tr/title/80001305&ved=2ahUKEwjD6eGKo4CWAxWDhf0HHRDTD1YQFnoECCwQAQ&usg=AOvVaw289YlEStTI7bXG_FaY6yWe"
+      }
+    ],
+    "createdAt": "2026-08-01T20:44:15.656Z",
+    "updatedAt": "2026-08-01T20:44:15.668Z"
+  }
+]
