@@ -163,10 +163,12 @@
     ],
     "genreStyleTags": [
       "zombie",
-      "Boss Fight",
+      "boss fight",
       "minigames",
       "body horror",
-      "one-man-army"
+      "one-man-army",
+      "gore",
+      "quick time event"
     ],
     "summaryPlot": "Six years after the Raccoon City incident, U.S. agent Leon S. Kennedy is sent to a remote Spanish village to rescue the President's daughter, Ashley Graham, who has been kidnapped by a mysterious cult called Los Illuminados. Leon discovers that the villagers are infected with a parasitic organism called Las Plagas, and he must fight through hordes of infected locals, monstrous creatures, and a conspiracy involving a rogue ex-agent to save Ashley and escape the nightmare alive.",
     "pros": [
@@ -195,7 +197,6 @@
     "similarMedia": [
       {
         "title": "Dead Space",
-        "type": "media",
         "customCover": "https://storage.oyungezer.com.tr/ogz-public/images/haberler/2021/08/deadspace/deadspace1-01.jpg",
         "note": "Linked to Video Game"
       },
@@ -228,7 +229,7 @@
       }
     ],
     "createdAt": "2026-08-01T15:43:05.882Z",
-    "updatedAt": "2026-08-01T15:43:05.886Z"
+    "updatedAt": "2026-08-01T17:41:27.150Z"
   },
   {
     "id": "item-1785574968158",
