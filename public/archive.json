@@ -1,5 +1,121 @@
 [
   {
+    "id": "item-1785669348801",
+    "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
+    "title": "Terraria",
+    "mainCreator": "Re-Logic",
+    "otherCreators": [
+      "Andrew \"Redigit\" Spinks/Lead Developer",
+      "Whitney \"Cenx\" Spinks/Lead Developer"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Re-Logic",
+        "category": "Studio / Company",
+        "nation": "United States",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Re-Logic"
+      },
+      {
+        "name": "Andrew \"Redigit\" Spinks",
+        "category": "Lead Developer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew%20%22Redigit%22%20Spinks"
+      },
+      {
+        "name": "Whitney \"Cenx\" Spinks",
+        "category": "Lead Developer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Whitney%20%22Cenx%22%20Spinks"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2026-08-02",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "Sandbox",
+      "High Fantasy",
+      "Boss Fight"
+    ],
+    "philosophicalTags": [
+      "Cosmic Horror",
+      "Nihilistic Outlook",
+      "Man vs. Nature",
+      "Good and Evil",
+      "Balance"
+    ],
+    "genreStyleTags": [
+      "day night cycle",
+      "side scroller",
+      "pixel art",
+      "base building",
+      "character customization",
+      "zombie",
+      "vampire",
+      "alien",
+      "hell",
+      "fishing",
+      "science fiction",
+      "metroidvania",
+      "survival craft",
+      "bullet hell",
+      "slime",
+      "black comedy",
+      "co-op",
+      "corruption"
+    ],
+    "summaryPlot": "Long ago, the ancient race of Dryads went to war with the cosmic entity Cthulhu, tearing off some of his limbs before he retreated to the dark side of the Moon. Centuries later, you, the Terrarian, venture into the world to stop Cthulhu—now known as the Moon Lord—for good.",
+    "pros": [
+      "Unlike traditional sandbox routine where gamer imagination decided the content, Terraria marks clear objectives such as bosses as gates.",
+      "Melee, ranged, summoner and magic classes has insane item and customization variety.",
+      "World layering with surface, underground and hell creates sense of danger and worldbuilding.",
+      "Mid game unlocks hardmode which changes the whole structure of the worldbuilding with new challenging enemies and brand new biomes, ores and items.",
+      "Invasions, Blood Moons and Solar Eclipses breaks the game loop and tests gamer's build and base safety with challenging enemy waves.",
+      "Movement pacing is insane, from barely jumping to double jump, grappling hooks and wings system is rich and satisfying.",
+      "Unique biome mechanics such as jungle poison hazards, desert sandstorms and underworld lava force players to adapt their gear and strategies per region.",
+      "Boss fights are mostly solid, there are some fillers but the most main bosses requires strict patterns, skills and combat building variety.",
+      "Sandbox elements favors co-op engagement, designing your own competitive ball sport with your own arena and rules, dealing with complex electric mechanism and activities such as golf, tower defense minigames are fun to engage with."
+    ],
+    "cons": [
+      "Progression in game strictly requires external factors as wikis and guide. I show no tolerance on reliance to external factors.",
+      "Some crucial items has obscure RNG drop rates which makes it farming chore to gain them.",
+      "Expansion of Corruption/Crimson and Hollow is annoying, they harass your custom world and only way to stop them is buying too expensive gears, which is also a boring waste of time to use them.",
+      "NPC requirements are shallow. You put a table, chair and source of light and town-management is over. NPC happiness and trading elements are way too surface level.",
+      "Arena construction is repetitive and time wasting. Placing all of the buff items and preparing a boss arena all yourself is annoying.",
+      "Classes like summoner has awkward progression compared to more straightforward builds.",
+      "Game's core pacing is totally broken. Grinding for hours, mining and fishing for specific items, finding keys and dealing with low drop rates just to fight a boss is frustrating chore of dozens of hours."
+    ],
+    "hornetScore": 9,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Necesse",
+      "Starbound",
+      "Core Keeper",
+      "Craft The World",
+      "Dig or Die",
+      "Crea",
+      "Alchemage"
+    ],
+    "mediumInfluences": [
+      "Minecraft",
+      "Metroid",
+      "Castlevania",
+      "Super Mario Bros. X",
+      "Dwarf Fortress",
+      "The Legend of Zelda",
+      "Diablo"
+    ],
+    "consumedVersion": "Mobile",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Play Store",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.and.games505.TerrariaPaid%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dbuy%2Bterraria%26pcampaignid%3DAPPU_1_0yZvaoOGMcaE9u8PuO-mmQw&ved=2ahUKEwjDu9XR6IGWAxVGgv0HHbi3KcMQ5YQBegQITBAC&usg=AOvVaw0heXSo_2vRzX80AA5nV3O6"
+      }
+    ],
+    "createdAt": "2026-08-02T11:15:48.802Z",
+    "updatedAt": "2026-08-02T11:15:48.804Z"
+  },
+  {
     "id": "item-1785666891387",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
     "title": "Sekiro: Shadows Die Twice",
