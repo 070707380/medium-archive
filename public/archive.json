@@ -1,5 +1,87 @@
 [
   {
+    "id": "item-1785687311605",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJ0VUHSOEm48t3gN0jr_6xrGompyz8CLPLHg8EN15-Gx3mTU82Eprfcg&s=10",
+    "title": "Tenchu: Wrath of Heaven",
+    "mainCreator": "Mitsuo Kodama",
+    "otherCreators": [
+      "K2 LLC/Company"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Mitsuo Kodama",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mobygames.com/company/3663/k2-co-ltd/&ved=2ahUKEwiLu7rRp4KWAxXqSvEDHQ2oCVgQFnoECBsQAQ&usg=AOvVaw2wTWsA-ItMJOSxL9aGF3g5"
+      },
+      {
+        "name": "K2 LLC",
+        "category": "Company",
+        "wikiUrl": "https://en.wikipedia.org/wiki/K2%20LLC"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2003-03-04",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "ninja",
+      "stealth",
+      "Dark Fantasy"
+    ],
+    "philosophicalTags": [],
+    "genreStyleTags": [
+      "feudal japan",
+      "hack n slash",
+      "folkrole"
+    ],
+    "summaryPlot": "Set one year after the original Tenchu, the game follows the presumed-dead ninja Rikimaru's return, as he and his ally Ayame battle the evil sorcerer Tenrai for control of the Three Jewels (Heaven, Earth, and Virtue), which grant immense power.",
+    "pros": [
+      "Instant stealth kills is satisfying.",
+      "Grappling hook let's the gamer to use environment in stealth and action.",
+      "Contains diverse playable ninja archetypes.",
+      "Gagdets like poison rice, smoke bombs, blowdarts and spells add tactical versatility.",
+      "\"Ki\" meter displays enemy awareness and alertness with clean UI.",
+      "Feudal Japanese architecture and atmosphere is well built.",
+      "Game often rewards extra stealth gameplay satisfyingly."
+    ],
+    "cons": [
+      "Once stealth breaks down, the sword-combat mechanics feel stiff.",
+      "Fixed camera positioning gets snagged on walls.",
+      "Enemy pathfinding and AI predictably and exploitably weak which is critically crucial for stealth genre, could even be insta-kill for a product if it mainly serves stealth.",
+      "Falling into bottomless pits or water traps causes instant failure.",
+      "Generic B-movie dialogues and melodramatic voice acting ruins the shinobi tone.",
+      "Bosses forces clunky and unpolished sword duels than stealth which is the stronger element.",
+      "Enemy AI is too dumb, it cannot even see a damn corpse.",
+      "PlayStation 2 frame rate dips in chaotic weather.",
+      "Certain maps are reused or forces repetitive backtracking."
+    ],
+    "hornetScore": 3,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Shinobido: Way of the Ninja",
+      "Metal Gear Solid 2: Sons of Liberty",
+      "Splinter Cell",
+      "Hitman 2: Silent Assassin",
+      "Mark of Kri"
+    ],
+    "mediumInfluences": [
+      "Rurouni Kenshin",
+      "Way of the Samurai"
+    ],
+    "consumedVersion": "PlayStation 2",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Amazon",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Tenchu-Wrath-Heaven-Playstation-2/dp/B000088KH9&ved=2ahUKEwi3lY2zqYKWAxUfRvEDHeF5AF4QFnoECCsQAQ&usg=AOvVaw3OJibfiMF2XCI_MbzAreTn"
+      }
+    ],
+    "createdAt": "2026-08-02T16:15:11.606Z",
+    "updatedAt": "2026-08-02T16:15:11.615Z"
+  },
+  {
     "id": "item-1785679574333",
     "cover": "https://wallpaperaccess.com/full/9464755.jpg",
     "title": "Moby Dick",
@@ -692,7 +774,8 @@
       "tragedy",
       "supernatural",
       "situational comedy",
-      "epic"
+      "epic",
+      "lgbtq+"
     ],
     "summaryPlot": "Set in the post-apocalyptic Land of Ooo a thousand years after a catastrophic nuclear war known as the \"Mushroom War,\" the series follows the adventures of Finn the Human, a young heroic boy, and his best friend and adoptive brother Jake, a dog with the magical ability to change size and shape at will. Together, they explore the strange and magical world of Ooo, rescuing princesses, battling monsters, and helping the eccentric inhabitants of the land while gradually uncovering the mysteries of the past.",
     "pros": [
@@ -750,7 +833,7 @@
       }
     ],
     "createdAt": "2026-08-02T07:40:03.183Z",
-    "updatedAt": "2026-08-02T08:52:39.852Z"
+    "updatedAt": "2026-08-02T15:45:10.495Z"
   },
   {
     "id": "item-1785654966122",
