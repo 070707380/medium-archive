@@ -1,5 +1,132 @@
 [
   {
+    "id": "item-1785663669551",
+    "cover": "https://cdn2.unrealengine.com/egs-grandtheftautovicecitythedefinitiveedition-rockstargames-g1a-00-1920x1080-a93053f8548a.jpg",
+    "title": "Grand Theft Auto: Vice City",
+    "mainCreator": "Rockstar North",
+    "otherCreators": [
+      "Leslie Benzies/Producer",
+      "Dan Houser/Scriptwriter",
+      "James Worrall/Scriptwriter",
+      "Aaron Garbut/Art Director"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Rockstar North",
+        "category": "Studio / Company",
+        "nation": "United Kingdom",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rockstar_North&ved=2ahUKEwjZjJjlzoGWAxVPywIHHQ9NMQgQFnoECEAQAQ&usg=AOvVaw1P1mC8a_epMi6zpdrqTGXB"
+      },
+      {
+        "name": "Leslie Benzies",
+        "category": "Producer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leslie%20Benzies"
+      },
+      {
+        "name": "Dan Houser",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dan%20Houser"
+      },
+      {
+        "name": "James Worrall",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James%20Worrall"
+      },
+      {
+        "name": "Aaron Garbut",
+        "category": "Art Director",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aaron%20Garbut"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2026-08-02",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "Open World",
+      "Crime Action",
+      "Third Person Shooter"
+    ],
+    "philosophicalTags": [
+      "American Dream",
+      "Excess",
+      "Nihilism",
+      "Urbanism"
+    ],
+    "genreStyleTags": [
+      "satire",
+      "day night cycle",
+      "item shop",
+      "black comedy",
+      "mission based driving",
+      "driving/racing",
+      "collectibles",
+      "action adventure",
+      "sex comedy",
+      "mafia",
+      "gang wars",
+      "parody",
+      "drugs",
+      "corruption",
+      "revenge"
+    ],
+    "summaryPlot": "After being released from prison, gangster Tommy Vercetti is sent to Vice City to oversee a major drug deal, but the deal is ambushed and his employers are killed, leaving him to hunt down those responsible while building his own criminal empire from scratch. As Tommy seizes power from rival gangs and corrupt officials, he transforms from a low-level enforcer into the most powerful crime lord in Vice City.",
+    "pros": [
+      "The game's biggest positive is 80's aesthetics and atmosphere is unmatched in this product.",
+      "Radio stations with licensed 80's iconic music in it adds more to the already great aesthetics.",
+      "Vehicle variety is good, open world is colorful and vibrant.",
+      "Open world content as rampage missions, vigilante, rewarding collectibles, pizza boy, taxi and ambulance driving exist.",
+      "Moving from the Ocean Beach to the industrial docks and Starfish Island mansions serves environmental variety."
+    ],
+    "cons": [
+      "Clunky gunplay is unforgivingly primitive.",
+      "Absence of mid-mission checkpoints makes the whole game frustrating when you fail because of something sudden happens in clunky controls.",
+      "RC missions are minigame fillers in main mission-line with frustration controls.",
+      "Vehicle handling is very floaty.",
+      "Police vehicles spawn out of thin air directly in front of the player in high speeds and without paint spray or collectible cop stars, it's almost impossible to escape 3+ cop stars in traffic which turns cops just a chore.",
+      "Story requires asset purchases to unlock main story progression, this requires dealing with annoying asset missions which are just all annoying chores fillers.",
+      "The betrayals and plot twists are too undeserved. Characters becomes tight friends in a couple of conversations then game expects us to feel shock when a betrayal happens.",
+      "Open world isn't living, city NPCs are imbeciles and side quests gets repetitive quickly.",
+      "Despite Scarface route, Tommy never sees any consequences of crime life at the end."
+    ],
+    "hornetScore": 2,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Scarface: The World is Yours",
+      "The Godfather",
+      "Mafia",
+      "Saints Row",
+      "Driver: Parallel Lines"
+    ],
+    "mediumInfluences": [
+      "Scarface",
+      "Miami Vice",
+      "Carlito's Way",
+      "Less Than Zero",
+      "The Long Good Friday",
+      "To Live and Die in L.A.",
+      "Manhunter",
+      "First Blood",
+      "Road Warrior",
+      "Sudden Impact",
+      "Top Gun",
+      "Body Double",
+      "Rocky IV",
+      "Over the Top"
+    ],
+    "consumedVersion": "PC",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Steam",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/agecheck/app/12110/&ved=2ahUKEwiwi9LG0IGWAxXqB9sEHaWSEQYQFnoECCQQAQ&usg=AOvVaw1Jol-5g2fXUG6cqXn-eD3Y"
+      }
+    ],
+    "createdAt": "2026-08-02T09:41:09.553Z",
+    "updatedAt": "2026-08-02T09:41:09.559Z"
+  },
+  {
     "id": "item-1785660198276",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1jWc33L5Q64RECN-ykcw-jqItQoyxU7xol4cja8FwWO5wH-qFNg9hCzH&s=10",
     "title": "Town to City",
