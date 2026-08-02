@@ -950,63 +950,92 @@
   },
   {
     "id": "album-ost-1785683444842-16zbo",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
     "title": "Terraria: Official Soundtrack",
-    "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
-    "mediaFormat": "Music Album",
-    "mainCreator": "Re-Logic",
-    "mainCreatorCategory": "Musician / Composer",
-    "releaseDate": "2026-08-02",
-    "hornetScore": 5,
-    "hornetVerdict": "Official Original Soundtrack (OST) for Terraria.",
-    "genres": [
-      "Sandbox",
-      "High Fantasy",
-      "Boss Fight"
+    "mainCreator": "Scott Lloyd Shelly",
+    "otherCreators": [],
+    "creatorDetails": [
+      {
+        "name": "Scott Lloyd Shelly",
+        "category": "Music Artist",
+        "nation": "Australia",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rateyourmusic.com/artist/scott_lloyd_shelly&ved=2ahUKEwis9v6lnoKWAxVf_7sIHdAKE5wQFnoECD0QAQ&usg=AOvVaw20ZNoh0jE9NSgypQ3bZqXU"
+      }
     ],
-    "genreStyleTags": [
-      "day night cycle",
-      "side scroller",
-      "pixel art",
-      "base building",
-      "character customization",
-      "zombie",
-      "vampire",
-      "alien",
-      "hell",
-      "fishing",
-      "science fiction",
-      "metroidvania",
-      "survival craft",
-      "bullet hell",
-      "slime",
-      "black comedy",
-      "co-op",
-      "corruption",
-      "soundtrack",
-      "ost",
-      "film score"
+    "mediaFormat": "Music Album",
+    "releaseDate": "2011-11-01",
+    "countryOfOrigin": "Australia",
+    "originalLanguage": "English",
+    "genres": [
+      "Digital Fusion",
+      "Cinematic Classical"
     ],
     "philosophicalTags": [
-      "Cosmic Horror",
-      "Nihilistic Outlook",
-      "Man vs. Nature",
-      "Good and Evil",
-      "Balance"
+      "Tension & Release",
+      "Exploration",
+      "Modern Retro",
+      "Alienation"
     ],
-    "consumedVersion": "Mobile",
-    "summaryPlot": "Official original soundtrack composed for Terraria (Video Game).",
+    "genreStyleTags": [
+      "ambient",
+      "chiptune",
+      "orchestral",
+      "chaotic",
+      "8 bit",
+      "dubstep",
+      "downtempo",
+      "glitch hop",
+      "progressive electronic",
+      "instrumental",
+      "futuristic",
+      "video game soundtrack"
+    ],
+    "summaryPlot": "A dynamic, genre-blending instrumental soundtrack that serves as the audio identity for the 2D sandbox adventure game Terraria, shifting from serene, ambient melodies for exploration to intense, high-energy orchestral anthems for epic boss battles. The music enhances the game's core themes of discovery, danger, and triumph, creating an immersive backdrop for the player's journey through a vast, procedurally generated world.",
     "pros": [
-      "Official original soundtrack for Terraria"
+      "Soundtrack is iconic and instantly tone setting.",
+      "Unique tracks for biomes as Jungle, The Hallow, Corruption and Desert give every region atmospheric signature.",
+      "Boss tracks are chaotic and serves the same with rich synth and riff elements specifically track Plantera which is influenced by the band Pantera.",
+      "\"Underground\" and \"Underworld\" use basslines and sparse synth echoes to build isolation.",
+      "Sudden event tracks as \"Goblin Army,\" \"Pirate Invasion\" and \"Solar Eclipse\") shifts the exploration rhythm with synth pulses.",
+      "Retro-modern blending is genius, album pulls the 8 bit/16 bit soundtrack structures and reshapes it with modern elementally rich touches.",
+      "Melodies are catchy and memorable.",
+      "Tracks like \"Frost Moon\" and \"Pumpkin Moon\" adapts to the theme of the event."
     ],
-    "cons": [],
+    "cons": [
+      "If you stay in the same biome for an hour while grinding then soundtrack variety in the specific biome won't be too helpful.",
+      "WAOOOHHH WAAAAOOHHHH WAAAAOOOOHHH",
+      "Soundtrack contains many goofy elements such as high-pitched chiptunes and laser-like synth.",
+      "Early 1.0-era tracks uses dated synthesizers.",
+      "Soundtrack is master at alienating audio but sitting through it causes listening fatique because synthetic structure."
+    ],
+    "hornetScore": 6,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Undertale Soundtrack",
+      "Celeste (Original Soundtrack)",
+      "The Coffee Talk",
+      "VVVVVV (Soundtrack)"
+    ],
+    "mediumInfluences": [
+      "Minecraft Volume Alpha",
+      "Aphex Twin",
+      "Brian Eno",
+      "Kraftwerk",
+      "Pantera",
+      "Joe Hisaishi"
+    ],
+    "consumedVersion": "Digital",
     "isSoundtrack": true,
     "soundtrackForId": "item-1785669348801",
     "soundtrackForTitle": "Terraria",
-    "links": [],
-    "similarMedia": [
-      "Terraria"
+    "links": [
+      {
+        "id": "link-1785684356008",
+        "label": "Steam",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/409210/Terraria_Official_Soundtrack/&ved=2ahUKEwi9me3QoIKWAxXu8LsIHSWxALIQFnoECEcQAQ&sqi=2&usg=AOvVaw13EUOBXMj20CPKHNyqZQ4y"
+      }
     ],
     "createdAt": "2026-08-02T15:10:44.843Z",
-    "updatedAt": "2026-08-02T15:10:44.853Z"
+    "updatedAt": "2026-08-02T15:34:55.655Z"
   }
 ]
