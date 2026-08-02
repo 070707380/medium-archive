@@ -847,7 +847,7 @@
     "creatorDetails": [
       {
         "name": "Shinji Mikami",
-        "category": "Author",
+        "category": "Director",
         "nation": "Japan",
         "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shinji_Mikami&ved=2ahUKEwjy89aorYGWAxUVRPEDHZ3FI6QQFnoFCJgBEAE&usg=AOvVaw0wpMPhyATfT3qABTNGyIMU"
       },
@@ -933,7 +933,7 @@
     "isSoundtrack": false,
     "links": [],
     "createdAt": "2026-08-02T07:16:06.125Z",
-    "updatedAt": "2026-08-02T07:24:40.019Z"
+    "updatedAt": "2026-08-02T16:29:11.404Z"
   },
   {
     "id": "item-1785653046899",
