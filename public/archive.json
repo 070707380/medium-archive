@@ -1,5 +1,119 @@
 [
   {
+    "id": "item-1785705768922",
+    "cover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
+    "title": "Minecraft",
+    "mainCreator": "Mojang Studios",
+    "otherCreators": [
+      "Markus \"Notch\" Persson/Developer",
+      "Jens \"Jeb\" Bergensten/Developer"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Mojang Studios",
+        "category": "Studio / Company",
+        "nation": "Sweden",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Mojang_Studios&ved=2ahUKEwja_dGB6IKWAxX73gIHHQqJOFMQFnoECCgQAQ&usg=AOvVaw2tu9_94t4eyaE1aZR-APkx"
+      },
+      {
+        "name": "Markus \"Notch\" Persson",
+        "category": "Developer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Markus%20%22Notch%22%20Persson"
+      },
+      {
+        "name": "Jens \"Jeb\" Bergensten",
+        "category": "Developer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jens%20%22Jeb%22%20Bergensten"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2011-11-18",
+    "countryOfOrigin": "Sweden",
+    "originalLanguage": "English",
+    "genres": [
+      "Sandbox",
+      "Survival Craft"
+    ],
+    "philosophicalTags": [
+      "Heideggerian Thrownness",
+      "Sisyphean Perseverance",
+      "Camusian Absurdism",
+      "Taoist Wu Wei"
+    ],
+    "genreStyleTags": [
+      "day night cycle",
+      "high fantasy",
+      "low poly",
+      "voxel art",
+      "pixel art",
+      "Open World",
+      "fishing",
+      "hell",
+      "zombie",
+      "slime",
+      "base building",
+      "boss fight",
+      "farming",
+      "mining",
+      "3d platformer",
+      "co-op",
+      "Cozy"
+    ],
+    "summaryPlot": "There is no central narrative; the player is simply \"thrown\" into a randomly generated, infinite world and must survive by gathering resources, crafting tools, and building shelters. The ultimate goal is to travel to another dimension called the End and defeat a dragon, but the game encourages creative expression and player-defined objectives.",
+    "pros": [
+      "Redstone system is so complex that playable Doom or gen AI has been built inside the game.",
+      "Voxel blocks sandbox serves infinite freedom.",
+      "Building farms such as mob spawners, crop harvesters, iron golem traps supports creativity.",
+      "With it's ambient and atmosphere, the game feels like a cozy therapy.",
+      "Multiplayer servers offers competitive minigames variety.",
+      "Bed Wars, Egg Wars and unique multiplayer mods actually rewards positioning and block placement elements.",
+      "Warden mob actually tried a different element and rewards strategy."
+    ],
+    "cons": [
+      "Combat is way too primitive and barely offers any depth or risk management.",
+      "The world has zero threat, mobs are extremely predictable and hunger is just a filler.",
+      "Hunger mechanic is filler but also it's too useless that managing it becomes a chore, the survival genre is basically non-existing that if hunger wasn't a thing, I wouldn't even say this.",
+      "Ender Dragon fight is highly exploitable and is a very simple encounter.",
+      "After defeating the final boss, player is awarded with Elytra and a Shulker Box but there's no threat or any well design boss fight to use Elytra which literally lets you fly.",
+      "Wither is obscure to find and seeks external factors but if you do some mental gymnastics and find him through paintings and achievements then the fight itself is just a exploitable chaos that doesn't make any sense. Designing a boss encounter is crucial when it comes to exploits.",
+      "Whole game is an aimless chore because gamer meant to find what he does, that's what a sandbox is but the core gameplay is consist of repetitive mining.",
+      "Exploration feeling is dead in the game because Minecraft is too popular and every gamer knows everything about it. This isn't the flaw of the game and this is an external factor but I can't act like I can forget what I already know when playing. So, popularity external factor is directly damaging the core gameplay in this case. This case might not be valid for a new player but I can't fake that I am.",
+      "Game never hits you with waves of enemies or tower defense subgenre, everything you build is pure unnecessary cosmetics.",
+      "Competitive pure PvP in game lacks any engagement because everyone grabs the same armor, same weapons and clash in a combat system that doesn't value any skill, game lacks any class, variety or combat system.",
+      "Exploring rare generated structures (Mineshafts, Desert Temples, Ocean Monuments) often rewards generic items.",
+      "Specificity in the game is limited and the game offers infinite possibility but doesn't offer any intensity which creates infinite possibilities dilemma. The whole point of survival mode is grinding and even the grind can feel pointless.",
+      "The game's world itself is also hollow, the game's world tells the player nothing except loneliness.",
+      "If we interpret the game fully as a sandbox; For example, Creative Mode is a god mode designed as a concession to player comfort but the biggest problem with sandbox games occurs when you start feeling Kierkegaard's freedom to its core but still end up with no aim.",
+      "None of the criticism I provided can be defended by \"Minecraft meant to be simplistic and minimalistic.\" That doesn't work anymore, doesn't work since Mojang bloated the game with dozens useless fillers that the game became a bloated point. Every once a community mod feature, slowly becomes part of the game which is betrayal and dismantles the biggest defense cope of the game."
+    ],
+    "hornetScore": 3,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Lego Worlds",
+      "Starbound",
+      "Terraria",
+      "Dragon Quest Builders",
+      "Survivalist",
+      "Vintage Story",
+      "7 Days 2 Die"
+    ],
+    "mediumInfluences": [
+      "Infiniminer",
+      "Dwarf Fortress",
+      "Mother",
+      "Dungeons & Dragons",
+      "The Legend of Zelda",
+      "RollerCoaster Tycoon",
+      "Zork",
+      "Harvest Moon"
+    ],
+    "consumedVersion": "PC",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-02T21:22:48.928Z",
+    "updatedAt": "2026-08-02T21:22:51.177Z"
+  },
+  {
     "id": "item-1785702301030",
     "cover": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop",
     "title": "Berserk",
