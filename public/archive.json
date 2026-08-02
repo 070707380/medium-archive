@@ -1,5 +1,106 @@
 [
   {
+    "id": "item-1785702301030",
+    "cover": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop",
+    "title": "Berserk",
+    "mainCreator": "Kentaro Miura",
+    "otherCreators": [
+      "Kouji Mori/Director"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Kentaro Miura",
+        "category": "Author",
+        "nation": "Japan",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kentaro_Miura"
+      },
+      {
+        "name": "Kouji Mori",
+        "category": "Director",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kouji%20Mori"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2026-08-02",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "Dark Fantasy",
+      "Seinen",
+      "Psychological Drama"
+    ],
+    "philosophicalTags": [
+      "Camusian Absurdism",
+      "Nietzschean Eternal Return",
+      "Determinism vs. Free Will",
+      "Tragic Hero & Antiheroism",
+      "Resilience & Perseverance"
+    ],
+    "genreStyleTags": [
+      "gore",
+      "medieval",
+      "action adventure",
+      "war",
+      "medieval horror",
+      "tragedy",
+      "gothic",
+      "betrayal",
+      "revenge",
+      "supernatural",
+      "romantic drama",
+      "psychological horror",
+      "atmospheric horror",
+      "supernatural horror"
+    ],
+    "summaryPlot": "The story centers on Guts, a lone swordsman branded for sacrifice, who is hunted by demonic forces in a brutal, medieval-inspired world. His quest for revenge against his former friend and leader, Griffith, who betrayed their mercenary group in a horrific event known as the Eclipse, is a harrowing exploration of fate, trauma, and the will to survive.",
+    "pros": [
+      "Kentaro Miura’s artistic craftsmanship.",
+      "Guts vs. Griffith dynamic is engaging.",
+      "The Golden Age arc is a brilliant medieval military tragedy that earns every single emotional impact till eclipse.",
+      "Combat is grounded and loyal to the worldbuilding's rules.",
+      "Eclipse visuals betrayal, psychological weight and character dynamics in a peak way.",
+      "Exploration of free will vs. causality is written solid.",
+      "Transition from medieval military tactical wars to dark fantasy worldbuilding is brilliant.",
+      "Guts’ painful transition from a suicidal and revenge-obsessed Black Swordsman back into a protective guardian contains insane character development.",
+      "Every monstrous as Zodd, Wyald, Mozgus and Grunbeld are about unique human desires with disturbing presence."
+    ],
+    "cons": [
+      "After Tower of Conviction, momentum slows down into a travelogue.",
+      "Puck’s transformation into \"Chestnut Puck\" and Isidro’s slapstick comedy breaks the atmosphere.",
+      "After Kentaro Miura's passing in 2021, the original creator's vision is never successfully mimicked.",
+      "The Black Swordsman and early Lost Children arcs are based on monster of the week trope.",
+      "Early episodes had reliance on edgy shock value such as spamming of sexual violence, gore and childhood traumas, it is all earned but spammed a lot.",
+      "Sea God feels like a RPG side-quest.",
+      "Once Falconia is appeared, Griffith becomes a god and he doesn't need to be the smartest in the room to survive anymore.",
+      "Casca being in a non-responsive mental state for over 200 chapters strips one of the story's strongest active characters."
+    ],
+    "hornetScore": 6,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Claymore",
+      "Vinland Saga",
+      "Vagabond",
+      "Attack on Titan",
+      "Fire Punch",
+      "Kagurabachi",
+      "Centuria"
+    ],
+    "mediumInfluences": [
+      "Fist of the North Star",
+      "The Rose of Versailles",
+      "Hellraiser",
+      "Guin Saga",
+      "Record of Lodoss War",
+      "Dragon Quest",
+      "Excalibur"
+    ],
+    "consumedVersion": "Digital",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-02T20:25:01.033Z",
+    "updatedAt": "2026-08-02T20:25:01.047Z"
+  },
+  {
     "id": "item-1785696098365",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
     "title": "Ergo Proxy",
