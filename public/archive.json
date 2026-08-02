@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "id": "item-1785653046899",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olivertwist_front.jpg",
+    "title": "Oliver Twist",
+    "mainCreator": "Charles Dickens",
+    "otherCreators": [
+      "George Cruikshank/Illustrator"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Charles Dickens",
+        "category": "Author",
+        "nation": "United Kingdom",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Charles_Dickens&ved=2ahUKEwjb2bCUpYGWAxV4A9sEHZtNG-8QFnoECEEQAQ&sqi=2&usg=AOvVaw2k9PctKLncGzM3nHeiM6s4"
+      },
+      {
+        "name": "George Cruikshank",
+        "category": "Illustrator",
+        "wikiUrl": "https://en.wikipedia.org/wiki/George%20Cruikshank"
+      }
+    ],
+    "mediaFormat": "Book",
+    "releaseDate": "1938",
+    "countryOfOrigin": "United Kingdom",
+    "originalLanguage": "English",
+    "genres": [
+      "Novel",
+      "Social Critique",
+      "Bildungsroman"
+    ],
+    "philosophicalTags": [
+      "Innate Morality",
+      "Social Critique",
+      "Nature vs. Nurture",
+      "Christian Morality"
+    ],
+    "genreStyleTags": [
+      "victorian literature",
+      "orphan",
+      "poverty",
+      "melodrama",
+      "satire",
+      "gothic",
+      "corruption"
+    ],
+    "summaryPlot": "Oliver Twist, an orphan born in a workhouse, endures a miserable childhood of child labor before escaping to London, where he falls in with a gang of pickpockets led by the elderly criminal Fagin. After being wrongly accused of theft, Oliver is rescued by the kind Mr. Brownlow, but the gang recaptures him, leading to a series of events that ultimately reveal Oliver's true identity and secure his happy ending.",
+    "pros": [
+      "Satire execution is sharp, book clearly shows hypocrisy of Victorian Poor Law.",
+      "London's labyrinthine and claustrophobic environment is atmospheric.",
+      "Book contains many memorable figures such as Figures like Fagin, the Artful Dodger and Bill Sikes.",
+      "Chertsey burglary planning is actually serving tension and execution is tight.",
+      "Psychological depth isn't any surface level, for example Nancy’s murder captures guilt, paranoia and psychological collapse.",
+      "Book rejects Victorian romanticism by directly showing child exploitation, urban poverty and systemic corruption.",
+      "Settings dynamics as shift from claustrophobic London streets to safe countryside is effective.",
+      "Artful Dodger’s courtroom scene is damn good, provides street-smart coolness and uses quality satire elements.",
+      "Morale stakes are clear, for example reader is left with tension of \"will Twist stay still pure after all of these?\""
+    ],
+    "cons": [
+      "Oliver usually survive through pure luck, external factors and helpless innocence.",
+      "Book excuses heavy coincidences like Oliver's burglary spot is being his wealthy relatives.",
+      "Oliver is unrealistically untainted by his surroundings despite growing up in a workhouse kinda points cheap melodrama effect.",
+      "Resolution relies on lazy secret plotline.",
+      "Figures like Mr. Brownlow and Rose Maylie are unrealistically purely good despite living in a corrupted state.",
+      "Subplots are conversational fillers that slows down the book's pacing.",
+      "Dickens frequently pauses the story just to lecture the reader on Victorian morality and Christian charity like we are dumbass.",
+      "Some key figures like Monks are just cheap plot summaries.",
+      "Tonal shift is inconsistent by shifting Victorian romance and crime thriller awkwardly."
+    ],
+    "hornetScore": 4,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Les Misérables",
+      "Jane Eyre",
+      "The Secret Garden",
+      "Peter Pan",
+      "Wuthering Heights"
+    ],
+    "mediumInfluences": [
+      "The Pilgrim's Progress",
+      "A Rake's Progress",
+      "A Harlot's Progress",
+      "The Mudfog Papers",
+      "Robert Blincoe's Memoir"
+    ],
+    "consumedVersion": "Physical",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Amazon",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Oliver-Twist-Charles-Dickens/dp/1906230005&ved=2ahUKEwjDlvGTpoGWAxXYcfEDHcfGKVMQFnoECDQQAQ&usg=AOvVaw2I9peZXJLZuwmTFDPuuh_H"
+      }
+    ],
+    "createdAt": "2026-08-02T06:44:06.900Z",
+    "updatedAt": "2026-08-02T06:44:06.903Z"
+  }
+]
