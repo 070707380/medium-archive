@@ -329,7 +329,8 @@
       "slime",
       "black comedy",
       "co-op",
-      "corruption"
+      "corruption",
+      "furry"
     ],
     "summaryPlot": "Long ago, the ancient race of Dryads went to war with the cosmic entity Cthulhu, tearing off some of his limbs before he retreated to the dark side of the Moon. Centuries later, you, the Terrarian, venture into the world to stop Cthulhu—now known as the Moon Lord—for good.",
     "pros": [
@@ -374,6 +375,14 @@
     ],
     "consumedVersion": "Mobile",
     "isSoundtrack": false,
+    "soundtracks": [
+      {
+        "id": "album-ost-1785683444842-16zbo",
+        "title": "Terraria: Official Soundtrack"
+      }
+    ],
+    "soundtrackId": "album-ost-1785683444842-16zbo",
+    "soundtrackTitle": "Terraria: Official Soundtrack",
     "links": [
       {
         "id": "l1",
@@ -382,15 +391,7 @@
       }
     ],
     "createdAt": "2026-08-02T11:15:48.802Z",
-    "updatedAt": "2026-08-02T15:34:53.650Z",
-    "soundtracks": [
-      {
-        "id": "album-ost-1785683444842-16zbo",
-        "title": "Terraria: Official Soundtrack"
-      }
-    ],
-    "soundtrackId": "album-ost-1785683444842-16zbo",
-    "soundtrackTitle": "Terraria: Official Soundtrack"
+    "updatedAt": "2026-08-02T16:41:08.770Z"
   },
   {
     "id": "item-1785666891387",
