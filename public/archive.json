@@ -1,5 +1,98 @@
 [
   {
+    "id": "item-1785672953784",
+    "cover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
+    "title": "Nineteen Eighty-Four",
+    "mainCreator": "George Orwell",
+    "otherCreators": [],
+    "creatorDetails": [
+      {
+        "name": "George Orwell",
+        "category": "Author",
+        "nation": "United Kingdom",
+        "wikiUrl": "https://en.wikipedia.org/wiki/George_Orwell"
+      }
+    ],
+    "mediaFormat": "Book",
+    "releaseDate": "1949-06-08",
+    "countryOfOrigin": "United Kingdom",
+    "originalLanguage": "English",
+    "genres": [
+      "Dystopian Fiction",
+      "Science Fiction",
+      "Political Fiction"
+    ],
+    "philosophicalTags": [
+      "Linguistic Determinism",
+      "Totalitarianism",
+      "Historical Negationism",
+      "Surveillance State",
+      "Truth & Reality",
+      "Individual vs. State"
+    ],
+    "genreStyleTags": [
+      "dystopian",
+      "satire",
+      "anti utopia",
+      "cold war"
+    ],
+    "summaryPlot": "In a grim, totalitarian superstate called Oceania, where the omniscient \"Big Brother\" and the Thought Police monitor every action and thought, a disillusioned outer-party member named Winston Smith works at the Ministry of Truth rewriting historical records to match the Party's ever-changing narrative. Yearning for freedom, Winston begins a forbidden love affair with Julia and joins a secret revolutionary group called \"The Brotherhood,\" but their rebellion is doomed, leading to his capture, torture in the infamous Room 101, and eventual complete betrayal of his own mind.",
+    "pros": [
+      "Mechanics of Oceania such as Big Brother, Tele-screens, the Four Ministries really create a terrifying total-control..",
+      "Newspeak designed to limit the range of human thought by destroying vocabulary is a masterclass concept.",
+      "Psychology requiring citizens to hold two beliefs and accept both as true offers fascinating depth.",
+      "Oppressive atmosphere successfully creates claustrophobia.",
+      "O'Brien's dialogue in the Ministry of Love rejects basic villain tropes.",
+      "Junior Spies program turning children into state informants against their own parents creates domestic distrust.",
+      "Memory Hole and rewriting of historical newspaper archives creates the control feeling over truth.",
+      "Room 101 Phobia exploitation directly terrorize human loyalty and identity.",
+      "Without spoilers, conclusion is quality written, rejecting hero tropes."
+    ],
+    "cons": [
+      "Goldstein's book damages the pacing by placing manifestos in an ongoing story.",
+      "Winston Smith is a passive guy with zero strategical depth, which opens space in the conclusion results; \"what if someone else was there\". This leaves an open question rather than conclusion's shoeing systemic psychological abilities clearly.",
+      "Large portion of the book is just socio-political slop disguised as a narrative.",
+      "As you can see, majority of the pros are about critical worldbuilding rather than narration.",
+      "Proles are passive mass that never evolves beyond background.",
+      "Relationship between Winston and Julia is a rebellion against Party rules than chemistry which is lack of human element.",
+      "Wars between Oceania, Eurasia and Eastasia are ambiguous, which doesn't inform the reader slightly about political aspect of the globe.",
+      "Early chapters are about Winston's daily misery and diary writing paranoia multiple times before any plot progression.",
+      "Characters like Parsons exist just to throw out some unearned brainwashed loyalty figures which is arguably also brainwashing.",
+      "Heavy determinism limits the story engagement in the middle parts."
+    ],
+    "hornetScore": 4,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Fahrenheit 451",
+      "The Handmaid's Tale",
+      "Animal Farm",
+      "The Trial"
+    ],
+    "mediumInfluences": [
+      "We",
+      "Brave New World",
+      "Darkness at Noon",
+      "The Iron Heel",
+      "The Napoleon of Notting Hill",
+      "Citizen Kane",
+      "Fyodor Dostoevsky",
+      "Franz Kafka",
+      "H.G. Wells",
+      "Arthur Koestler"
+    ],
+    "consumedVersion": "Physical",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Amazon",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/1984-George-Orwell/dp/605727377X&ved=2ahUKEwjl88-q8oGWAxUR-AIHHb0VBxkQFnoECCMQAQ&usg=AOvVaw2F_yW65cv95WGThNx8ZO2O"
+      }
+    ],
+    "createdAt": "2026-08-02T12:15:53.788Z",
+    "updatedAt": "2026-08-02T12:15:53.797Z"
+  },
+  {
     "id": "item-1785669348801",
     "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
     "title": "Terraria",
