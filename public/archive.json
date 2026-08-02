@@ -691,7 +691,12 @@
       },
       "Kuon",
       "Otogi",
-      "Berserk",
+      {
+        "title": "Berserk",
+        "type": "media",
+        "customCover": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop",
+        "note": "Linked to Video Game (2026)"
+      },
       "Harakiri",
       "Samurai Rebellion",
       "Zatoichi"
