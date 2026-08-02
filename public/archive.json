@@ -300,7 +300,15 @@
       }
     ],
     "createdAt": "2026-08-02T11:15:48.802Z",
-    "updatedAt": "2026-08-02T11:16:21.297Z"
+    "updatedAt": "2026-08-02T14:59:38.828Z",
+    "soundtracks": [
+      {
+        "id": "item-1785682778813",
+        "title": "Terraria: Official Soundtrack"
+      }
+    ],
+    "soundtrackId": "item-1785682778813",
+    "soundtrackTitle": "Terraria: Official Soundtrack"
   },
   {
     "id": "item-1785666891387",
