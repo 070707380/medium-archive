@@ -67,7 +67,7 @@
       "Late game introduces way faster and lethal enemies which forces gamer to adapt or surrender."
     ],
     "cons": [
-      "6 to 8 is too strict even for resource management element where you get a weapon, two magazines and a story item, and now you don't have a space for a key for a crucial key. Also this issues leads to backtrackings constantly.",
+      "6 to 8 inventory grid is too strict even for resource management element where you get a weapon, two magazines and a story item, and now you don't have a space for a key for a crucial key. Also this issues leads to backtrackings constantly.",
       "Game wants you to play the game twice and only thing it serves for it is having two characters with minimal differences. The only differences between first and second gameplay is basically just some extra minor cutscenes which doesn't worth it.",
       "Voice acting in gaming wasn't a real industry back then so voice acting sucks.",
       "Requiring a limited consumable item just to save progress leads to loss of progress from unearned cheap deaths.",
@@ -97,7 +97,7 @@
     "isSoundtrack": false,
     "links": [],
     "createdAt": "2026-08-02T07:16:06.125Z",
-    "updatedAt": "2026-08-02T07:21:48.136Z"
+    "updatedAt": "2026-08-02T07:22:35.695Z"
   },
   {
     "id": "item-1785653046899",
