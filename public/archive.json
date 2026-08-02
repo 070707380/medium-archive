@@ -46,7 +46,7 @@
       "low poly",
       "voxel art",
       "pixel art",
-      "Open World",
+      "open world",
       "fishing",
       "hell",
       "zombie",
@@ -57,7 +57,7 @@
       "mining",
       "3d platformer",
       "co-op",
-      "Cozy"
+      "cozy"
     ],
     "summaryPlot": "There is no central narrative; the player is simply \"thrown\" into a randomly generated, infinite world and must survive by gathering resources, crafting tools, and building shelters. The ultimate goal is to travel to another dimension called the End and defeat a dragon, but the game encourages creative expression and player-defined objectives.",
     "pros": [
@@ -67,7 +67,8 @@
       "With it's ambient and atmosphere, the game feels like a cozy therapy.",
       "Multiplayer servers offers competitive minigames variety.",
       "Bed Wars, Egg Wars and unique multiplayer mods actually rewards positioning and block placement elements.",
-      "Warden mob actually tried a different element and rewards strategy."
+      "Warden mob actually tried a different element and rewards strategy.",
+      "Creative mode let's the gamers craft pixel art."
     ],
     "cons": [
       "Combat is way too primitive and barely offers any depth or risk management.",
@@ -75,7 +76,7 @@
       "Hunger mechanic is filler but also it's too useless that managing it becomes a chore, the survival genre is basically non-existing that if hunger wasn't a thing, I wouldn't even say this.",
       "Ender Dragon fight is highly exploitable and is a very simple encounter.",
       "After defeating the final boss, player is awarded with Elytra and a Shulker Box but there's no threat or any well design boss fight to use Elytra which literally lets you fly.",
-      "Wither is obscure to find and seeks external factors but if you do some mental gymnastics and find him through paintings and achievements then the fight itself is just a exploitable chaos that doesn't make any sense. Designing a boss encounter is crucial when it comes to exploits.",
+      "Wither is obscure to find and seeks external factors but if you do some mental gymnastics and find him through paintings and achievements then the fight itself is just a exploitable chaos that doesn't make any sense. Designing a boss encounter in sandbox games is crucial when it comes to balancing exploits.",
       "Whole game is an aimless chore because gamer meant to find what he does, that's what a sandbox is but the core gameplay is consist of repetitive mining.",
       "Exploration feeling is dead in the game because Minecraft is too popular and every gamer knows everything about it. This isn't the flaw of the game and this is an external factor but I can't act like I can forget what I already know when playing. So, popularity external factor is directly damaging the core gameplay in this case. This case might not be valid for a new player but I can't fake that I am.",
       "Game never hits you with waves of enemies or tower defense subgenre, everything you build is pure unnecessary cosmetics.",
@@ -84,7 +85,8 @@
       "Specificity in the game is limited and the game offers infinite possibility but doesn't offer any intensity which creates infinite possibilities dilemma. The whole point of survival mode is grinding and even the grind can feel pointless.",
       "The game's world itself is also hollow, the game's world tells the player nothing except loneliness.",
       "If we interpret the game fully as a sandbox; For example, Creative Mode is a god mode designed as a concession to player comfort but the biggest problem with sandbox games occurs when you start feeling Kierkegaard's freedom to its core but still end up with no aim.",
-      "None of the criticism I provided can be defended by \"Minecraft meant to be simplistic and minimalistic.\" That doesn't work anymore, doesn't work since Mojang bloated the game with dozens useless fillers that the game became a bloated point. Every once a community mod feature, slowly becomes part of the game which is betrayal and dismantles the biggest defense cope of the game."
+      "None of the criticism I provided can be defended by \"Minecraft meant to be simplistic and minimalistic.\" That doesn't work anymore, doesn't work since Mojang bloated the game with dozens of useless synthetic elements that the game became a bloated survival craft. Every, once a community mod feature, slowly becomes part of the game which is betrayal and dismantles the biggest defense cope of the game.",
+      "Poem appears after defeating Ender Dragon, while very beautiful, has nothing to do with the game. It's a game that claims to be pointless storyless sandbox game then hypocrisily adds a poem that has literally no weight in the internal game, just to add artificial emotional depth manipulation."
     ],
     "hornetScore": 3,
     "hornetVerdict": "",
@@ -93,7 +95,6 @@
       "Starbound",
       {
         "title": "Terraria",
-        "type": "media",
         "customCover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
         "note": "Linked to Video Game"
       },
@@ -116,7 +117,7 @@
     "isSoundtrack": false,
     "links": [],
     "createdAt": "2026-08-02T21:22:48.928Z",
-    "updatedAt": "2026-08-02T21:22:51.177Z"
+    "updatedAt": "2026-08-02T21:32:19.304Z"
   },
   {
     "id": "item-1785702301030",
