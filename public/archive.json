@@ -104,9 +104,15 @@
     ],
     "consumedVersion": "PlayStation 4",
     "isSoundtrack": false,
-    "links": [],
+    "links": [
+      {
+        "id": "link-1785667153233",
+        "label": "Steam",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/&ved=2ahUKEwi-jfq84IGWAxXRRPEDHQBuHjEQFnoECDgQAQ&usg=AOvVaw3NDoZfP8iyCGAAjRRpIr7t"
+      }
+    ],
     "createdAt": "2026-08-02T10:34:51.388Z",
-    "updatedAt": "2026-08-02T10:38:51.920Z"
+    "updatedAt": "2026-08-02T10:39:18.585Z"
   },
   {
     "id": "item-1785663669551",
