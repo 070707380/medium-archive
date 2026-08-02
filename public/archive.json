@@ -1,5 +1,95 @@
 [
   {
+    "id": "item-1785696098365",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
+    "title": "Ergo Proxy",
+    "mainCreator": "Shūkō Murase",
+    "otherCreators": [
+      "Dai Satō/Scriptwriter"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Shūkō Murase",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sh%C5%ABk%C5%8D_Murase"
+      },
+      {
+        "name": "Dai Satō",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dai%20Sat%C5%8D"
+      }
+    ],
+    "mediaFormat": "TV Show",
+    "releaseDate": "2006-02-25",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "Psychological Thriller",
+      "Mystery",
+      "Cyberpunk"
+    ],
+    "philosophicalTags": [
+      "Gnostic Cosmology",
+      "Cartesian Mind Body Dualism",
+      "Existentialist Self Discovery",
+      "Posthumanism",
+      "Simulacra",
+      "Thanatos Drive"
+    ],
+    "genreStyleTags": [
+      "post apocalyptic",
+      "dystopian",
+      "science fiction",
+      "Dark Fantasy",
+      "noir",
+      "artificial intelligence",
+      "action"
+    ],
+    "summaryPlot": "Set in a post-apocalyptic future within the domed utopia of Romdo, Inspector Re-L Mayer investigates a series of murders committed by AutoReiv androids infected with the \"Cogito Virus\" that grants them self-awareness. The investigation pulls her into a global conspiracy involving Vincent Law, an immigrant haunted by his past, and mysterious god-like beings called \"Proxies,\" forcing them all to confront the true nature of their existence.",
+    "pros": [
+      "Romdeau city serves rich dystopian city atmosphere and dynamics with hierarchy and propaganda.",
+      "Androids (AutoReivs) acquiring self-awareness and emotional souls via a virus is a strong concept.",
+      "Sharp usage of dark coloured shadows, rain and lighting gives early episodes a neo-noir tone.",
+      "The mystery of Proxy Project serves engaging mystery.",
+      "Pino which is a AutoReiv dressed in a rabbit suit is surprisingly a good companion.",
+      "References to Descartes, René Magritte and mythologies can be found in the worldbuilding.",
+      "Fights are grounded and realistic physically.",
+      "Psychological decay is served as a deep element across characters."
+    ],
+    "cons": [
+      "Middle act contains episodic fillers.",
+      "Mechanics such as the Pulse of the Awakening, Amrita cells, the Creators' return plan etc etc are served as complex infodumps.",
+      "Animation quality is visibly inconsistent in later acts.",
+      "Final of the show is rushed with overcrowded reveals.",
+      "Jumping from massacres to surreal comedy-quiz episodes is tonal inconsistency.",
+      "Journey across the ruined wasteland visits fails with domes that feel placeholders than real societies.",
+      "Many episodes works with hallucinatory or subconscious dreamlike visuals, it creates forced obscurity in such physical story.",
+      "Some of the bigger picture concepts such as fate of the returning true humans from orbit slowly decays, decays and gets forgotten."
+    ],
+    "hornetScore": 6,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Ghost in the Shell: Stand Alone Complex",
+      "Psycho-Pass",
+      "Wolf's Rain",
+      "Shinsekai Yori",
+      "Darker Than Black"
+    ],
+    "mediumInfluences": [
+      "Ghost in the Shell",
+      "Serial Experiments Lain",
+      "Texhnolyze",
+      "Blade Runner",
+      "Nausicaä of the Valley of the Wind"
+    ],
+    "consumedVersion": "Digital",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-02T18:41:38.368Z",
+    "updatedAt": "2026-08-02T18:41:38.381Z"
+  },
+  {
     "id": "item-1785687311605",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJ0VUHSOEm48t3gN0jr_6xrGompyz8CLPLHg8EN15-Gx3mTU82Eprfcg&s=10",
     "title": "Tenchu: Wrath of Heaven",
