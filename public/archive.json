@@ -1,5 +1,112 @@
 [
   {
+    "id": "item-1785666891387",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
+    "title": "Sekiro: Shadows Die Twice",
+    "mainCreator": "Hidetaka Miyazaki",
+    "otherCreators": [
+      "Producer/Masaru Yamamura",
+      "FromSoftware/Company"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Hidetaka Miyazaki",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hidetaka_Miyazaki"
+      },
+      {
+        "name": "Producer",
+        "category": "Masaru Yamamura",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Producer"
+      },
+      {
+        "name": "FromSoftware",
+        "category": "Company",
+        "wikiUrl": "https://en.wikipedia.org/wiki/FromSoftware"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2019-03-22",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "Action Adventure",
+      "Dark Fantasy",
+      "Soulslike",
+      "Boss Fight"
+    ],
+    "philosophicalTags": [
+      "Buddhist Impermanence",
+      "Bushido",
+      "Nietzschean Eternal Return",
+      "Karmic Consequence",
+      "Zen Buddhism"
+    ],
+    "genreStyleTags": [
+      "feudal japan",
+      "lock on",
+      "ninja",
+      "multiple endings",
+      "stealth",
+      "High Fantasy",
+      "folkrole",
+      "boss rush",
+      "skill tree",
+      "samurai",
+      "gore",
+      "tragedy",
+      "parry",
+      "shinto",
+      "rhythm"
+    ],
+    "summaryPlot": "In the late 1500s Sengoku period, a shinobi known as Wolf is defeated and left for dead while trying to rescue his young master, the Divine Heir Kuro, from the clutches of the Ashina clan's usurper, Genichiro. Revived with the power of resurrection, Wolf must navigate a war-torn land, confront mythical creatures and fallen samurai, and sever the ties of immortality to free his master and reclaim his honor.",
+    "pros": [
+      "Sekiro's posture system, tools and combat layers are genius and consistent.",
+      "Buddhist-inflected cycle of death/rebirth and link to mortality as meaning is executed effortlessly but impactful.",
+      "Guardian Ape's transition, the Divine Dragon's elegance and similar artistic choices enriches the overall theme of the product.",
+      "Pattern recognition in combat is rewarding and strict, kinda feels like a smooth rhythm game.",
+      "Lore is buried in item descriptions and passive storytelling, despite being a minimalistic and simple story, game forces active attention.",
+      "Absence of collectibles and Ubisoft alike open world interaction paradoxically enriches the organic exploration and rewarding.",
+      "Replayability comes from the challenge itself, not from any extra content or elements.",
+      "Kuro's journey, Wolf's devotion and Genichiro's nationalism is told by dialogues clues which respects the intelligence of the gamer.",
+      "Sekiro forces mastery. Gamer must adapt and learn to deflect quickly and combat system is just exceptional.",
+      "Boss squad has zero fillers, minimal gimmick encounters and each boss comes up with unique patterns and rewarding combat system.",
+      "Grappling hook and worldbuilding gives the gamer freedom to use environment to explore."
+    ],
+    "cons": [
+      "Building variety is way too limited compared to other soulslike games.",
+      "Stealth mechanics in the game are optional but also incredibly primitive and shallow. Quality stealth mechanic requires smart AI which does not exist in this game.",
+      "Game's combat is incredible but it also contains over reliance on building posture and deflect mechanics which gets repetitive after a while.",
+      "Consequences free instant resurrection devalues death.",
+      "My core problem with lore based video games is the fact that they seek external factors such as guides and wikis on understanding the story.",
+      "Dragonrot mechanic is punishing without any rewards, turns the mechanic into a chore that must be managed."
+    ],
+    "hornetScore": 7,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Ghost of Tsushima",
+      "Nioh",
+      "Wo Long: Fallen Dynasty",
+      "Stray Blade",
+      "Rise of the Ronin"
+    ],
+    "mediumInfluences": [
+      "Tenchu",
+      "Kuon",
+      "Otogi",
+      "Berserk",
+      "Harakiri",
+      "Samurai Rebellion",
+      "Zatoichi"
+    ],
+    "consumedVersion": "PlayStation 4",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-02T10:34:51.388Z",
+    "updatedAt": "2026-08-02T10:34:51.396Z"
+  },
+  {
     "id": "item-1785663669551",
     "cover": "https://cdn2.unrealengine.com/egs-grandtheftautovicecitythedefinitiveedition-rockstargames-g1a-00-1920x1080-a93053f8548a.jpg",
     "title": "Grand Theft Auto: Vice City",
