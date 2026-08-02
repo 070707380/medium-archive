@@ -303,7 +303,7 @@
     "updatedAt": "2026-08-02T14:59:38.828Z",
     "soundtracks": [
       {
-        "id": "item-1785682778813",
+        "id": "album-ost-1785683444842-16zbo",
         "title": "Terraria: Official Soundtrack"
       }
     ],
@@ -360,7 +360,7 @@
       "ninja",
       "multiple endings",
       "stealth",
-      "High Fantasy",
+      "high fantasy",
       "folkrole",
       "boss rush",
       "skill tree",
@@ -691,7 +691,7 @@
       "war",
       "tragedy",
       "supernatural",
-      "Situational Comedy",
+      "situational comedy",
       "epic"
     ],
     "summaryPlot": "Set in the post-apocalyptic Land of Ooo a thousand years after a catastrophic nuclear war known as the \"Mushroom War,\" the series follows the adventures of Finn the Human, a young heroic boy, and his best friend and adoptive brother Jake, a dog with the magical ability to change size and shape at will. Together, they explore the strange and magical world of Ooo, rescuing princesses, battling monsters, and helping the eccentric inhabitants of the land while gradually uncovering the mysteries of the past.",
@@ -947,5 +947,66 @@
     ],
     "createdAt": "2026-08-02T06:44:06.900Z",
     "updatedAt": "2026-08-02T07:26:29.419Z"
+  },
+  {
+    "id": "album-ost-1785683444842-16zbo",
+    "title": "Terraria: Official Soundtrack",
+    "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
+    "mediaFormat": "Music Album",
+    "mainCreator": "Re-Logic",
+    "mainCreatorCategory": "Musician / Composer",
+    "releaseDate": "2026-08-02",
+    "hornetScore": 5,
+    "hornetVerdict": "Official Original Soundtrack (OST) for Terraria.",
+    "genres": [
+      "Sandbox",
+      "High Fantasy",
+      "Boss Fight"
+    ],
+    "genreStyleTags": [
+      "day night cycle",
+      "side scroller",
+      "pixel art",
+      "base building",
+      "character customization",
+      "zombie",
+      "vampire",
+      "alien",
+      "hell",
+      "fishing",
+      "science fiction",
+      "metroidvania",
+      "survival craft",
+      "bullet hell",
+      "slime",
+      "black comedy",
+      "co-op",
+      "corruption",
+      "soundtrack",
+      "ost",
+      "film score"
+    ],
+    "philosophicalTags": [
+      "Cosmic Horror",
+      "Nihilistic Outlook",
+      "Man vs. Nature",
+      "Good and Evil",
+      "Balance"
+    ],
+    "consumedVersion": "Mobile",
+    "summaryPlot": "Official original soundtrack composed for Terraria (Video Game).",
+    "pros": [
+      "Official original soundtrack for Terraria"
+    ],
+    "cons": [],
+    "isSoundtrack": true,
+    "soundtrackForId": "item-1785669348801",
+    "soundtrackForTitle": "Terraria",
+    "links": [],
+    "similarMedia": [
+      "Terraria"
+    ],
+    "createdAt": "2026-08-02T15:10:44.843Z",
+    "updatedAt": "2026-08-02T15:10:44.853Z"
   }
 ]
