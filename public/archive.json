@@ -1,5 +1,101 @@
 [
   {
+    "id": "item-1785656403183",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFT2rkuEKSp1XIOuYbsxeNjEG2wBChy-HfeAmBXgssr5Z3lSnG3yn2cM&s=10",
+    "title": "Adventure Time",
+    "mainCreator": "Pendleton Ward",
+    "otherCreators": [
+      "Adam Muto/Showrunner"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Pendleton Ward",
+        "category": "Director",
+        "nation": "United States",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pendleton_Ward&ved=2ahUKEwjqwtf2tYGWAxUo8LsIHQ65L04QFnoECFYQAQ&sqi=2&usg=AOvVaw1qHjcNIomAxpOLe2K6cIRR"
+      },
+      {
+        "name": "Adam Muto",
+        "category": "Showrunner",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Adam%20Muto"
+      }
+    ],
+    "mediaFormat": "TV Show",
+    "releaseDate": "2010-05-05",
+    "countryOfOrigin": "Untied States",
+    "originalLanguage": "English",
+    "genres": [
+      "High Fantasy",
+      "Episodic Adventure",
+      "Situational Comedy"
+    ],
+    "philosophicalTags": [
+      "Existentialism",
+      "Reincarnation",
+      "Multiverse",
+      "Transhumanism",
+      "Absurdism"
+    ],
+    "genreStyleTags": [
+      "absurdist comedy",
+      "slapstick",
+      "episodic",
+      "science fiction",
+      "post apocalyptic",
+      "hell",
+      "surreal humor",
+      "coming of age",
+      "animation",
+      "hand drawn",
+      "anthropomorphic",
+      "dark humor",
+      "backstories",
+      "deep lore",
+      "vampire",
+      "buddy",
+      "superhero",
+      "war",
+      "tragedy",
+      "supernatural"
+    ],
+    "summaryPlot": "Set in the post-apocalyptic Land of Ooo a thousand years after a catastrophic nuclear war known as the \"Mushroom War,\" the series follows the adventures of Finn the Human, a young heroic boy, and his best friend and adoptive brother Jake, a dog with the magical ability to change size and shape at will. Together, they explore the strange and magical world of Ooo, rescuing princesses, battling monsters, and helping the eccentric inhabitants of the land while gradually uncovering the mysteries of the past.",
+    "pros": [],
+    "cons": [],
+    "hornetScore": 9,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Steven Universe",
+      "Gravity Falls",
+      "The Owl House",
+      "Bee and PuppyCat",
+      "Bravest Warriors",
+      "Kipo and the Age of Wonderbeasts",
+      "Rick and Morty"
+    ],
+    "mediumInfluences": [
+      "Dungeons & Dragons",
+      "The Legend of Zelda",
+      "My Neighbor Totoro",
+      "The Simpsons",
+      "Pee-wee's Playhouse",
+      "The Marvelous Misadventures of Flapjack",
+      "Felix the Cat",
+      "Meatballs",
+      "H.P. Lovecraft"
+    ],
+    "consumedVersion": "Digital",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Netflix",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/tr/title/70241425&ved=2ahUKEwj107-1uIGWAxWSZv4FHVonHzoQFnoECCQQAQ&usg=AOvVaw37f6rSDZBo7LW9RUCQePqc"
+      }
+    ],
+    "createdAt": "2026-08-02T07:40:03.183Z",
+    "updatedAt": "2026-08-02T07:40:03.184Z"
+  },
+  {
     "id": "item-1785654966122",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10",
     "title": "Resident Evil",
