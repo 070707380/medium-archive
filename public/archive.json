@@ -1,5 +1,105 @@
 [
   {
+    "id": "item-1785654966122",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10",
+    "title": "Resident Evil",
+    "mainCreator": "Shinji Mikami",
+    "otherCreators": [
+      "Tokuro Fujiwara/Producer",
+      "Capcom/Company"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Shinji Mikami",
+        "category": "Author",
+        "nation": "Japan",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shinji_Mikami&ved=2ahUKEwjy89aorYGWAxUVRPEDHZ3FI6QQFnoFCJgBEAE&usg=AOvVaw0wpMPhyATfT3qABTNGyIMU"
+      },
+      {
+        "name": "Tokuro Fujiwara",
+        "category": "Producer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tokuro%20Fujiwara"
+      },
+      {
+        "name": "Capcom",
+        "category": "Company",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Capcom"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "1996-03-22",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "English",
+    "genres": [
+      "Survival Horror",
+      "Third Person Shooter"
+    ],
+    "philosophicalTags": [
+      "Burkean Sublime",
+      "Virtual Hauntology",
+      "Mukokuseki Aesthetics",
+      "Bioethics",
+      "Corporate Conspiracy"
+    ],
+    "genreStyleTags": [
+      "fixed camera",
+      "zombie",
+      "low poly",
+      "boss fight",
+      "gore",
+      "gothic",
+      "science fiction",
+      "puzzles",
+      "resource management",
+      "tank controls",
+      "multiple endings",
+      "betrayal",
+      "dark atmosphere"
+    ],
+    "summaryPlot": "In 1998, members of the elite police task force S.T.A.R.S. are sent to investigate a series of gruesome murders in the Arklay Mountains, only to be attacked by monstrous dogs and forced to take refuge in a mysterious, zombie-infested mansion. As Chris Redfield or Jill Valentine, players must explore the mansion, solve puzzles, and uncover the nightmarish truth behind the Umbrella Corporation's secret biological experiments in order to survive and escape.",
+    "pros": [
+      "Architecture of the mansion is interconnected and atmospheric.",
+      "Limited resources management creates tension by forcing gamers to choose between fighting or strategically escaping from enemies.",
+      "Fixed camera is claustrophobic and serves to theme.",
+      "Sound design with elements such as creaking floorboards, distant door opening audio and uncanny music builds environmental pressure.",
+      "Enemy introductions such as zombies and dogs are very iconic, spooky and impactful.",
+      "Puzzles are usually environmental and actually rewarding.",
+      "Late game introduces way faster and lethal enemies which forces gamer to adapt or surrender."
+    ],
+    "cons": [
+      "6 to 8 is too strict even for resource management element where you get a weapon, two magazines and a story item, and now you don't have a space for a key for a crucial key. Also this issues leads to backtrackings constantly.",
+      "Game wants you to play the game twice and only thing it serves for it is having two characters with minimal differences. The only differences between first and second gameplay is basically just some extra minor cutscenes which doesn't worth it.",
+      "Voice acting in gaming wasn't a real industry back then so voice acting sucks.",
+      "Requiring a limited consumable item just to save progress leads to loss of progress from unearned cheap deaths.",
+      "Game has dozens of B movie elements which looks cheesy and aged awful.",
+      "Primitive tank controls are simply annoying, even aiming, which is crucial, is pain.",
+      "The most doors has a five seconds opening animations, some of these contain impactful jumpscares but interrupting the game everytime opening a door is poor designing.",
+      "Combat is stiff and basic with auto-aim and obscure skill gaps.",
+      "Chris Redfield starts with less inventory grids and no lockpick. This isn't difficulty selection, this is just artificial forceness.",
+      "Final laboratory sequences are uninspired in design compared to early gothic mansion.",
+      "Crucial puzzle items are very easy to miss without external factors such as guides and wikis, I personally show zero tolerance to reliance on external factors."
+    ],
+    "hornetScore": 4,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Silent Hill",
+      "Dino Crisis",
+      "Clock Tower 2",
+      "Parasite Eve"
+    ],
+    "mediumInfluences": [
+      "Sweet Home",
+      "Alone in the Dark",
+      "Night of the Living Dead",
+      "Zombie"
+    ],
+    "consumedVersion": "PlayStation",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-02T07:16:06.125Z",
+    "updatedAt": "2026-08-02T07:16:06.132Z"
+  },
+  {
     "id": "item-1785653046899",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olivertwist_front.jpg",
     "title": "Oliver Twist",
