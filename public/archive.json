@@ -1,5 +1,100 @@
 [
   {
+    "id": "item-1785679574333",
+    "cover": "https://wallpaperaccess.com/full/9464755.jpg",
+    "title": "Moby Dick",
+    "mainCreator": "Herman Melville",
+    "otherCreators": [],
+    "creatorDetails": [
+      {
+        "name": "Herman Melville",
+        "category": "Author",
+        "nation": "United States",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Herman_Melville&ved=2ahUKEwi7rsXWiIKWAxX5hf0HHWI-EC0QFnoFCLABEAE&usg=AOvVaw2i8nhrM0MlQQ_L3f6rfkv9"
+      }
+    ],
+    "mediaFormat": "Book",
+    "releaseDate": "1851-10-18",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "Adventure Novel",
+      "Epic"
+    ],
+    "philosophicalTags": [
+      "Microcosmic Philosophy",
+      "Nietzschean Spirit of Revenge",
+      "Self Construction",
+      "Schopenhauerian Negation of Will",
+      "Man vs. Nature",
+      "Monomania",
+      "Existentialism",
+      "Cosmic Indifference",
+      "Platonism vs. Poetic Philosophy",
+      "Knowledge as Dangerous"
+    ],
+    "genreStyleTags": [
+      "revenge",
+      "symbolism",
+      "tragedy"
+    ],
+    "summaryPlot": "The wandering sailor Ishmael signs onto the whaling ship Pequod, unaware that its captain, Ahab, is driven by a monomaniacal quest for revenge against the massive white sperm whale that bit off his leg on a previous voyage. As the Pequod sails across the world's oceans, Ahab's obsession consumes the crew and ship, leading them on a fateful chase that culminates in a catastrophic final confrontation with the whale.",
+    "pros": [
+      "Captain Ahab’s obsessive vengeance against Moby Dick is focused.",
+      "White whale is actually symbolism for fate.",
+      "Pequod’s multi-race crew is a fascinating society with class dynamics..",
+      "New Bedford and Nantucket establishing Ishmael’s worldview and bond with Queequeg is exceptional beginning.",
+      "Descriptions of lowering boats and harpooning in open waters is actually realistic and tactical.",
+      "Ahab vs. Starbuck ideological clash is written well.",
+      "Pequod’s crossing through other ships like Jeroboam, Samuel Enderby and Rachel points alternate faith.",
+      "Ahab’s internal monologues are successfully Shakespearean.",
+      "The chase of Moby Dick is a chaotic earned payoff."
+    ],
+    "cons": [
+      "Dozens of chapters are textbook essays on whale anatomy, history and classification which doesn't trust the reader slightly. Also why teach whale anatomy when it's a symbolism?",
+      "Ishmael starts as active in the story but vanishes as a character in the second half.",
+      "Switches between adventure and Shakespearean script layouts then scientific treatises is tonal betrayal and inconsistency.",
+      "Middle part stretches voyage drift by ignoring major plot progression.",
+      "Determinism often limits suspension and forces tryhardness.",
+      "Early figures like Queequeg are gone into the background once the ship sets sail.",
+      "Biblical allegory feels essayistic than organic.",
+      "Ishmael's miraculous survival in floating on Queequeg's coffin is unearned."
+    ],
+    "hornetScore": 5,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Heart of Darkness",
+      "The Sea-Wolf",
+      "Benito Cereno",
+      "Typee",
+      "Omoo",
+      "The Master and Commander",
+      "Don Quixote"
+    ],
+    "mediumInfluences": [
+      "Macbeth",
+      "Paradise Lost",
+      "The Lusiads",
+      "The Bible",
+      "Mosses from an Old Manse",
+      "The Tragedy of the Whaleship Essex",
+      "François Rabelais",
+      "Edmund Spenser",
+      "Dante Alighieri"
+    ],
+    "consumedVersion": "Physical",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Amazon",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Moby-Dick-Balina-Herman-Melville/dp/6254058057&ved=2ahUKEwj3uJ-RioKWAxXdVvEDHYcwMukQFnoECCAQAQ&usg=AOvVaw1BlaQM3LJhOBXRNu2fZxkG"
+      }
+    ],
+    "createdAt": "2026-08-02T14:06:14.336Z",
+    "updatedAt": "2026-08-02T14:06:14.349Z"
+  },
+  {
     "id": "item-1785672953784",
     "cover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
     "title": "Nineteen Eighty-Four",
