@@ -1,5 +1,87 @@
 [
   {
+    "id": "item-1785660198276",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1jWc33L5Q64RECN-ykcw-jqItQoyxU7xol4cja8FwWO5wH-qFNg9hCzH&s=10",
+    "title": "Town to City",
+    "mainCreator": "Galaxy Grove",
+    "otherCreators": [],
+    "creatorDetails": [
+      {
+        "name": "Galaxy Grove",
+        "category": "Developer",
+        "nation": "Netherlands",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.galaxy-grove.com/&ved=2ahUKEwjlrJeRwoGWAxVdBtsEHTb6LsUQFnoECCYQAQ&usg=AOvVaw1jDm7u_VsLIMLPr-e0ZRoD"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2026-05-26",
+    "countryOfOrigin": "Netherlands",
+    "originalLanguage": "English",
+    "genres": [
+      "City Building",
+      "Cozy",
+      "Sandbox"
+    ],
+    "philosophicalTags": [
+      "Slow Living",
+      "Organic Growth",
+      "Community & Belonging",
+      "Creative Autonomy"
+    ],
+    "genreStyleTags": [
+      "voxel art",
+      "mediterranean",
+      "farming"
+    ],
+    "summaryPlot": "Build an idyllic 19th-century Mediterranean town from scratch using gridless placement and help it flourish into a prosperous city. In campaign or sandbox mode, you freely place houses and amenities to attract residents, meet their needs, grow your economy, and connect multiple towns through trade and tourism.",
+    "pros": [
+      "Premise is clear, leaving chaotic city for a rural town baseline.",
+      "Easy-to-understand gathering, crafting and building cycles.",
+      "Soft color palettes, stylized low poly or voxel graphics and readable town layouts create a cozy atmosphere.",
+      "Milestones are structural such as repairing landmarks buildings for a completionist mindset.",
+      "Filling out town museum, crop and fishing are clear item cataloging elements.",
+      "Freeform placement of roads, fences and decorations allows grid sandbox organization.",
+      "Seasonal shifts changes seasonal variations.",
+      "Absence of time limits or combat threats lets players set their own pace."
+    ],
+    "cons": [
+      "Zero risk of town bankruptcy, resource collapse or physical danger. A management game cannot be under cozy genre, then it's shouldn't be a management but it clearly contains highly management elements which makes it a management game.",
+      "In game economy logic is incredibly surface level.",
+      "Story progression relies on cheap repetitive fetch quests.",
+      "Town residents feels artificial with repetitive soulless dialogues and strict daily paths.",
+      "Gating daily progress behind energy meters or real world timers artificially pads runtime without adding any depth.",
+      "Building and decorating is just simple button presses without any engineering or logistics.",
+      "Hitting rocks, chopping trees and pulling weeds in core gameplay is just a chore grind.",
+      "Farming, decorating and fishing are completely isolated and none of the systems in the game are interconnected.",
+      "Once the town buildings are restored, gameplay becomes aimless cosmetic filler."
+    ],
+    "hornetScore": 2,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Stardew Valley",
+      "Unpacking",
+      "Tiny Glade",
+      "Defromantik",
+      "A Little to the Left",
+      "Mini Metro"
+    ],
+    "mediumInfluences": [
+      "Townscaper",
+      "Islanders"
+    ],
+    "consumedVersion": "PC",
+    "isSoundtrack": false,
+    "links": [
+      {
+        "id": "l1",
+        "label": "Steam",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/3115220/Town_to_City/&ved=2ahUKEwiUgrvQw4GWAxXZQvEDHcPcCHcQFnoECCMQAQ&usg=AOvVaw2jxbOzFUFYtEannba77lJk"
+      }
+    ],
+    "createdAt": "2026-08-02T08:43:18.283Z",
+    "updatedAt": "2026-08-02T08:43:18.290Z"
+  },
+  {
     "id": "item-1785656403183",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFT2rkuEKSp1XIOuYbsxeNjEG2wBChy-HfeAmBXgssr5Z3lSnG3yn2cM&s=10",
     "title": "Adventure Time",
