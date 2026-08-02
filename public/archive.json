@@ -300,14 +300,14 @@
       }
     ],
     "createdAt": "2026-08-02T11:15:48.802Z",
-    "updatedAt": "2026-08-02T14:59:38.828Z",
+    "updatedAt": "2026-08-02T15:34:53.650Z",
     "soundtracks": [
       {
         "id": "album-ost-1785683444842-16zbo",
         "title": "Terraria: Official Soundtrack"
       }
     ],
-    "soundtrackId": "item-1785682778813",
+    "soundtrackId": "album-ost-1785683444842-16zbo",
     "soundtrackTitle": "Terraria: Official Soundtrack"
   },
   {
