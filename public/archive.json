@@ -250,7 +250,7 @@
     "creatorDetails": [
       {
         "name": "Galaxy Grove",
-        "category": "Developer",
+        "category": "Studio / Company",
         "nation": "Netherlands",
         "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.galaxy-grove.com/&ved=2ahUKEwjlrJeRwoGWAxVdBtsEHTb6LsUQFnoECCYQAQ&usg=AOvVaw1jDm7u_VsLIMLPr-e0ZRoD"
       }
@@ -321,7 +321,7 @@
       }
     ],
     "createdAt": "2026-08-02T08:43:18.283Z",
-    "updatedAt": "2026-08-02T08:49:03.635Z"
+    "updatedAt": "2026-08-02T10:49:03.205Z"
   },
   {
     "id": "item-1785656403183",
