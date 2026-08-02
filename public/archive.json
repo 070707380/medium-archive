@@ -27,7 +27,7 @@
     "genres": [
       "High Fantasy",
       "Episodic Adventure",
-      "Situational Comedy"
+      "Surrealistic Humor"
     ],
     "philosophicalTags": [
       "Existentialism",
@@ -43,7 +43,6 @@
       "science fiction",
       "post apocalyptic",
       "hell",
-      "surreal humor",
       "coming of age",
       "animation",
       "hand drawn",
@@ -56,7 +55,8 @@
       "superhero",
       "war",
       "tragedy",
-      "supernatural"
+      "supernatural",
+      "Situational Comedy"
     ],
     "summaryPlot": "Set in the post-apocalyptic Land of Ooo a thousand years after a catastrophic nuclear war known as the \"Mushroom War,\" the series follows the adventures of Finn the Human, a young heroic boy, and his best friend and adoptive brother Jake, a dog with the magical ability to change size and shape at will. Together, they explore the strange and magical world of Ooo, rescuing princesses, battling monsters, and helping the eccentric inhabitants of the land while gradually uncovering the mysteries of the past.",
     "pros": [
@@ -114,7 +114,7 @@
       }
     ],
     "createdAt": "2026-08-02T07:40:03.183Z",
-    "updatedAt": "2026-08-02T08:16:32.716Z"
+    "updatedAt": "2026-08-02T08:18:55.378Z"
   },
   {
     "id": "item-1785654966122",
