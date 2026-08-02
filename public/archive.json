@@ -488,7 +488,12 @@
       "Rise of the Ronin"
     ],
     "mediumInfluences": [
-      "Tenchu: Wrath of Heaven",
+      {
+        "title": "Tenchu: Wrath of Heaven",
+        "type": "media",
+        "customCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJ0VUHSOEm48t3gN0jr_6xrGompyz8CLPLHg8EN15-Gx3mTU82Eprfcg&s=10",
+        "note": "Linked to Video Game (2003)"
+      },
       "Kuon",
       "Otogi",
       "Berserk",
