@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774228458-0-eobd",
+      "title": "2001: A Space Odyssey",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:23:48.458Z",
+      "updatedAt": "2026-08-03T16:23:48.458Z"
+    },
+    {
       "id": "bingo-1785774156979-1-stbc",
       "title": "The Witcher 3: Wild Hunt",
       "mediaFormat": "Video Game",
