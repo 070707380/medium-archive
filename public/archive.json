@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790119049-0-ck6l",
+      "title": "The Simpsons",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:48:39.049Z",
+      "updatedAt": "2026-08-03T20:48:39.049Z"
+    },
+    {
       "id": "bingo-1785790107380-1-lpru",
       "title": "Zume Deluxe",
       "mediaFormat": "Video Game",
