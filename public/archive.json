@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772131972-0-v22j",
+      "title": "To Kill a Mockingbird",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:48:51.972Z",
+      "updatedAt": "2026-08-03T15:48:51.972Z"
+    },
+    {
+      "id": "bingo-1785772073674-3-dvm6",
+      "title": "My Neighbor Totoro",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:47:53.674Z",
+      "updatedAt": "2026-08-03T15:47:53.674Z"
+    },
+    {
+      "id": "bingo-1785772073674-2-rwe2",
+      "title": "Porco Rosso",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:47:53.674Z",
+      "updatedAt": "2026-08-03T15:47:53.674Z"
+    },
+    {
+      "id": "bingo-1785772073674-1-3mnb",
+      "title": "Kiki's Delivery Service",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:47:53.674Z",
+      "updatedAt": "2026-08-03T15:47:53.674Z"
+    },
+    {
       "id": "bingo-1785772073674-0-9dub",
       "title": "Spirited Away",
       "mediaFormat": "Film",
