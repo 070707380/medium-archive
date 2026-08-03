@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771439382-0-baqo",
+      "title": "Dark Souls",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:37:19.382Z",
+      "updatedAt": "2026-08-03T15:37:19.382Z"
+    },
+    {
+      "id": "bingo-1785771419601-2-idvd",
+      "title": "Hollow Knight",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:36:59.601Z",
+      "updatedAt": "2026-08-03T15:36:59.601Z"
+    },
+    {
+      "id": "bingo-1785771419601-1-kvkh",
+      "title": "Celeste",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:36:59.601Z",
+      "updatedAt": "2026-08-03T15:36:59.601Z"
+    },
+    {
       "id": "bingo-1785771419601-0-s6rn",
       "title": "Zula",
       "mediaFormat": "Video Game",
