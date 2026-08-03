@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785776216551-1-eycx",
+      "title": "Chrono Trigger",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:56:56.551Z",
+      "updatedAt": "2026-08-03T16:56:56.551Z"
+    },
+    {
+      "id": "bingo-1785776216551-0-zt4f",
+      "title": "Okami",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:56:56.551Z",
+      "updatedAt": "2026-08-03T16:56:56.551Z"
+    },
+    {
+      "id": "bingo-1785776158750-1-mztc",
+      "title": "Unikitty",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T16:55:58.750Z",
+      "updatedAt": "2026-08-03T16:55:58.750Z"
+    },
+    {
       "id": "bingo-1785776158750-0-9csi",
       "title": "My Little Pony: Friendship is Magic",
       "mediaFormat": "TV Show",
