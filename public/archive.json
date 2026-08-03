@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774596424-1-i3xr",
+      "title": "Halo: Combat Evolved",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:29:56.424Z",
+      "updatedAt": "2026-08-03T16:29:56.424Z"
+    },
+    {
+      "id": "bingo-1785774596424-0-dats",
+      "title": "Metroid Prime",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:29:56.424Z",
+      "updatedAt": "2026-08-03T16:29:56.424Z"
+    },
+    {
+      "id": "bingo-1785774583435-2-oadb",
+      "title": "The Last of Us Part 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:29:43.435Z",
+      "updatedAt": "2026-08-03T16:29:43.435Z"
+    },
+    {
       "id": "bingo-1785774583435-1-289d",
       "title": "The Last of Us",
       "mediaFormat": "Video Game",
