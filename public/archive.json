@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772937825-0-v47u",
+      "title": "Avatar",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:02:17.825Z",
+      "updatedAt": "2026-08-03T16:02:17.825Z"
+    },
+    {
+      "id": "bingo-1785772917032-1-yeyr",
+      "title": "F.E.A.R.",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:01:57.032Z",
+      "updatedAt": "2026-08-03T16:01:57.032Z"
+    },
+    {
       "id": "bingo-1785772917032-0-c4r4",
       "title": "Cry of Fear",
       "mediaFormat": "Video Game",
