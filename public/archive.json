@@ -1,5 +1,118 @@
 [
   {
+    "id": "item-1785762906387",
+    "cover": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/02/Omori-Game-Wiki-Mari-Picnic-Blanket.jpg?q=50&fit=crop&w=825&dpr=1.5",
+    "title": "Omori",
+    "mainCreator": "Omocat",
+    "otherCreators": [
+      "Charlene Lu/Designer",
+      "Emily Shaw/Designer",
+      "Andrew Batino/Scriptwriter"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Omocat",
+        "category": "Director",
+        "nation": "United States",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/author/show/7264135.OMOCAT&ved=2ahUKEwjvy-37v4SWAxUdSvEDHXjaLIgQFnoECF0QAQ&usg=AOvVaw0cXOfv9O8hveVVmx5y26Uu"
+      },
+      {
+        "name": "Charlene Lu",
+        "category": "Designer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlene%20Lu"
+      },
+      {
+        "name": "Emily Shaw",
+        "category": "Designer",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emily%20Shaw"
+      },
+      {
+        "name": "Andrew Batino",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew%20Batino"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2020-12-25",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "Turned Based Combat",
+      "JRPG",
+      "Psychological Horror"
+    ],
+    "philosophicalTags": [
+      "Freudian Repression",
+      "Trauma & Grief",
+      "Existentialist Self Discovery",
+      "Escapism vs. Confrontation"
+    ],
+    "genreStyleTags": [
+      "trauma",
+      "tragedy",
+      "party based",
+      "multiple endings",
+      "boss fight",
+      "hand drawn",
+      "pixel art",
+      "item shop",
+      "surrealism",
+      "absurdist comedy",
+      "slice of life",
+      "mystery",
+      "Low Fantasy",
+      "denpa",
+      "utsuge",
+      "boss rush",
+      "liminal space",
+      "suicidal",
+      "rpg maker"
+    ],
+    "summaryPlot": "The player controls Sunny, a mute hikikomori teenage boy, and his dream world alter-ego Omori. While Omori explores the vibrant yet surreal dream world of Headspace with his friends, Sunny navigates the real world of Faraway Town, and the player's choices determine whether Sunny confronts or continues to suppress the traumatic truth behind his sister Mari's death.",
+    "pros": [
+      "Tying emotional states (Happy > Angry > Sad > Happy) serves a clever tactical layer to turn-based battles.",
+      "Tonal dynamic of pastel Headspace dream world and the claustrophobic real world Faraway Town builds strong psychological anchor.",
+      "Plot is haunting, dealing with repression, memory suppression and the psychological weight of a secret delivers gravity.",
+      "Black space horror sequences has exceptional horror atmosphere and environmental storytelling.",
+      "Party members accumulating Energy to perform followed attacks is great at team positioning and combos.",
+      "Decisions unlocks different content and ending.",
+      "Hand drawn art is memorable and unique.",
+      "Side quests consist of odd jobs around Faraway Town such as delivering pizzas, raking leaves, helping neighbors, this is surprisingly grounded and actually serves to theme when narrative needs that contrast to soften the heaviness of dream dungeons, they feel human.",
+      "Sunny's phobias such as heights, water and spiders actually blended cleverly to the gameplay, which makes psychological weight earned. This is shocking to me, games probably leaves it as context or organic excuse to the technological limitations."
+    ],
+    "cons": [
+      "Sweetheart's Castle or the Humphrey whale contains a lot of cheap fetch quests.",
+      "Outside of major boss fights, turn-based enemy encounters is mindless button-mashing routines which lacks any depth or engagement.",
+      "Silly cartoon antics in Headspace interrupt darkness and psychological tension built in real world.",
+      "Searching for hidden computer keys is artificial completionist chore.",
+      "Real-world encounters are about basic attack and item commands.",
+      "SPOILER/ For psychological thriller readers as me, the twist on Mari's death contains many predictable cliché psychological tropes.",
+      "Late-game bosses force tedious grinding in Headspace to boost HP and Juice pools which is chore and repetitive grind which I hate.",
+      "Heavy backtracking and navigation in bigass areas like the Junkyard or Deep Well is just walking repetitively in empty vastness.",
+      "Dream-world companions are generic and repetitive \"friendship power-of-love\" trope which is I guess crucial in standard JRPGs.",
+      "Ending is rushed and game leaves the gamer with many questions, fast executions and lazy shortcuts."
+    ],
+    "hornetScore": 5,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Mother 3",
+      "Lisa: The Painful",
+      "OneShot",
+      "Hello Charlotte"
+    ],
+    "mediumInfluences": [
+      "Earthbound",
+      "Yume Nikki",
+      "Undertale",
+      "Omoriboy"
+    ],
+    "consumedVersion": "PC",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-03T13:15:06.394Z",
+    "updatedAt": "2026-08-03T13:15:06.413Z"
+  },
+  {
     "id": "item-1785756873467",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhutP4Dlp8XlMssvi2gGazD1lkbqKSbUWFLEAe-5Fkg&s=10",
     "title": "Naruto",
