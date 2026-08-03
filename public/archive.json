@@ -1886,6 +1886,22 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771075660-0-tf9w",
+      "title": "Adventure Time",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:31:15.660Z",
+      "updatedAt": "2026-08-03T15:31:15.660Z",
+      "linkedArchiveId": "item-1785656403183",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFT2rkuEKSp1XIOuYbsxeNjEG2wBChy-HfeAmBXgssr5Z3lSnG3yn2cM&s=10"
+    },
+    {
+      "id": "bingo-1785771055947-1-4ivu",
+      "title": "Naked Lunch",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:30:55.947Z",
+      "updatedAt": "2026-08-03T15:30:55.947Z"
+    },
+    {
       "id": "bingo-1785771055947-0-f1iw",
       "title": "The Inferno",
       "mediaFormat": "Book",
