@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770047975-1-dg4c",
+      "title": "The Long Dark",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:14:07.975Z",
+      "updatedAt": "2026-08-03T15:14:07.975Z"
+    },
+    {
+      "id": "bingo-1785770047975-0-w69q",
+      "title": "Outer Wilds",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:14:07.975Z",
+      "updatedAt": "2026-08-03T15:14:07.975Z"
+    },
+    {
+      "id": "bingo-1785770026668-7-c77d",
+      "title": "Metro 2033",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
       "id": "bingo-1785770026668-6-bh31",
       "title": "Ultimate Custom Night",
       "mediaFormat": "Video Game",
