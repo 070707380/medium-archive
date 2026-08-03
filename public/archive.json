@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770065742-0-kqg4",
+      "title": "Fight Club",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:14:25.743Z",
+      "updatedAt": "2026-08-03T15:14:25.743Z"
+    },
+    {
+      "id": "bingo-1785770047975-2-73w8",
+      "title": "Erzurum",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:14:07.975Z",
+      "updatedAt": "2026-08-03T15:14:07.975Z"
+    },
+    {
       "id": "bingo-1785770047975-1-dg4c",
       "title": "The Long Dark",
       "mediaFormat": "Video Game",
