@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785786230129-2-hi5l",
+      "title": "The Witcher",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T19:43:50.129Z",
+      "updatedAt": "2026-08-03T19:43:50.129Z"
+    },
+    {
+      "id": "bingo-1785786230129-1-qgks",
+      "title": "The Last of Us",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T19:43:50.129Z",
+      "updatedAt": "2026-08-03T19:43:50.129Z"
+    },
+    {
       "id": "bingo-1785786230129-0-f8ex",
       "title": "Squid Game",
       "mediaFormat": "TV Show",
