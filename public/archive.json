@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785779957240-1-60nb",
+      "title": "Avowed",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:59:17.240Z",
+      "updatedAt": "2026-08-03T17:59:17.240Z"
+    },
+    {
+      "id": "bingo-1785779957240-0-9tgt",
+      "title": "The Ultimate League",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:59:17.240Z",
+      "updatedAt": "2026-08-03T17:59:17.240Z"
+    },
+    {
+      "id": "bingo-1785779936146-1-fcuu",
+      "title": "Witchfire",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:58:56.146Z",
+      "updatedAt": "2026-08-03T17:58:56.146Z"
+    },
+    {
       "id": "bingo-1785779936146-0-vgn9",
       "title": "Valheim",
       "mediaFormat": "Video Game",
