@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785779833141-1-yzu6",
+      "title": "Sonic the Hedgehog 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:57:13.141Z",
+      "updatedAt": "2026-08-03T17:57:13.141Z"
+    },
+    {
+      "id": "bingo-1785779833141-0-56n4",
+      "title": "Sonic the Hedgehog",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:57:13.141Z",
+      "updatedAt": "2026-08-03T17:57:13.141Z"
+    },
+    {
+      "id": "bingo-1785779812897-1-ee12",
+      "title": "Drag Me to Hell",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:56:52.897Z",
+      "updatedAt": "2026-08-03T17:56:52.897Z"
+    },
+    {
       "id": "bingo-1785779812897-0-tf79",
       "title": "The Exorcist",
       "mediaFormat": "Film",
