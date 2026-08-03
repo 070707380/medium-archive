@@ -1886,6 +1886,71 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770026668-6-bh31",
+      "title": "Ultimate Custom Night",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785770026668-5-tq9y",
+      "title": "Five Nights at Freddy's: Sister Location",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785770026668-4-puho",
+      "title": "Five Nights at Freddy's 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785770026668-3-a02f",
+      "title": "Five Nights at Freddy's 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785770026668-2-iavn",
+      "title": "Five Nights at Freddy's 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785770026668-1-9ij7",
+      "title": "Five Nights at Freddy's",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785770026668-0-ql3h",
+      "title": "Doki Doki Literature Club!",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:13:46.668Z",
+      "updatedAt": "2026-08-03T15:13:46.668Z"
+    },
+    {
+      "id": "bingo-1785769960391-5-mz27",
+      "title": "City to Town",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:40.391Z",
+      "updatedAt": "2026-08-03T15:12:40.391Z"
+    },
+    {
+      "id": "bingo-1785769960391-4-oh2a",
+      "title": "Stardew Valley",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:40.391Z",
+      "updatedAt": "2026-08-03T15:12:40.391Z",
+      "linkedArchiveId": "item-1785739670489",
+      "coverUrl": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png"
+    },
+    {
       "id": "bingo-1785769960391-3-4y8s",
       "title": "Terraria",
       "mediaFormat": "Video Game",
