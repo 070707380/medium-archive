@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785786130018-0-sgms",
+      "title": "Live a Live",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T19:42:10.018Z",
+      "updatedAt": "2026-08-03T19:42:10.018Z"
+    },
+    {
+      "id": "bingo-1785786123368-3-lwek",
+      "title": "Suikoden 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T19:42:03.368Z",
+      "updatedAt": "2026-08-03T19:42:03.368Z"
+    },
+    {
       "id": "bingo-1785786123368-2-oyf8",
       "title": "Suikoden 3",
       "mediaFormat": "Video Game",
