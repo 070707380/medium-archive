@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772685176-1-0jac",
+      "title": "Captain Tsubasa",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:58:05.176Z",
+      "updatedAt": "2026-08-03T15:58:05.176Z"
+    },
+    {
+      "id": "bingo-1785772685176-0-9zjm",
+      "title": "Haikyuu!",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:58:05.176Z",
+      "updatedAt": "2026-08-03T15:58:05.176Z"
+    },
+    {
+      "id": "bingo-1785772639404-3-ag3f",
+      "title": "Saints Row 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:57:19.404Z",
+      "updatedAt": "2026-08-03T15:57:19.404Z"
+    },
+    {
+      "id": "bingo-1785772639404-2-sqit",
+      "title": "Saints Row: The Third",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:57:19.404Z",
+      "updatedAt": "2026-08-03T15:57:19.404Z"
+    },
+    {
       "id": "bingo-1785772639404-1-1ffw",
       "title": "Saints Row 2",
       "mediaFormat": "Video Game",
