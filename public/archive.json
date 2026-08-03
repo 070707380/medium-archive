@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771805579-1-4evl",
+      "title": "Uncle Grandpa",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:43:25.579Z",
+      "updatedAt": "2026-08-03T15:43:25.579Z"
+    },
+    {
+      "id": "bingo-1785771805579-0-e8n7",
+      "title": "K-On!",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:43:25.579Z",
+      "updatedAt": "2026-08-03T15:43:25.579Z"
+    },
+    {
       "id": "bingo-1785771768663-2-05dn",
       "title": "Super Mario Bros. 3",
       "mediaFormat": "Video Game",
