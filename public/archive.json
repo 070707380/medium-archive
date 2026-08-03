@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772498455-4-fiz2",
+      "title": "Goodfellas",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:54:58.455Z",
+      "updatedAt": "2026-08-03T15:54:58.455Z"
+    },
+    {
+      "id": "bingo-1785772498455-3-btna",
+      "title": "The Godfather",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:54:58.455Z",
+      "updatedAt": "2026-08-03T15:54:58.455Z"
+    },
+    {
       "id": "bingo-1785772498455-1-hzd1",
       "title": "The Matrix",
       "mediaFormat": "Film",
