@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785769855157-0-qd3q",
+      "title": "Starfield",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:10:55.157Z",
+      "updatedAt": "2026-08-03T15:10:55.157Z"
+    },
+    {
+      "id": "bingo-1785769825478-1-6c60",
+      "title": "Oscar's Oasis",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:10:25.478Z",
+      "updatedAt": "2026-08-03T15:10:25.478Z"
+    },
+    {
       "id": "bingo-1785769825478-0-xgbc",
       "title": "Gazoon",
       "mediaFormat": "TV Show",
