@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770415490-0-i6ii",
+      "title": "Knight Rider",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:20:15.490Z",
+      "updatedAt": "2026-08-03T15:20:15.490Z"
+    },
+    {
+      "id": "bingo-1785770404068-2-z7d4",
+      "title": "Back to the Future 3",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:20:04.068Z",
+      "updatedAt": "2026-08-03T15:20:04.068Z"
+    },
+    {
+      "id": "bingo-1785770404068-1-lk7i",
+      "title": "Back to the Future 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:20:04.068Z",
+      "updatedAt": "2026-08-03T15:20:04.068Z"
+    },
+    {
       "id": "bingo-1785770404068-0-pupc",
       "title": "Back to the Future",
       "mediaFormat": "Film",
