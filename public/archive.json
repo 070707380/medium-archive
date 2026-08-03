@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785778224030-1-a4p1",
+      "title": "Igor",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:30:24.030Z",
+      "updatedAt": "2026-08-03T17:30:24.030Z"
+    },
+    {
+      "id": "bingo-1785778224030-0-s18s",
+      "title": "Atrocity Exhibition",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:30:24.030Z",
+      "updatedAt": "2026-08-03T17:30:24.030Z"
+    },
+    {
       "id": "bingo-1785778154850-0-k8x9",
       "title": "Hiding Places",
       "mediaFormat": "Music Album",
