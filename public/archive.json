@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791723285-0-ttbf",
+      "title": "Pulp Fiction",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:15:23.285Z",
+      "updatedAt": "2026-08-03T21:15:23.285Z"
+    },
+    {
       "id": "bingo-1785791700051-0-644y",
       "title": "Pro Evolution Soccer 2008",
       "mediaFormat": "Video Game",
