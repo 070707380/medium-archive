@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774634791-0-eziv",
+      "title": "Jaws",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:30:34.792Z",
+      "updatedAt": "2026-08-03T16:30:34.792Z"
+    },
+    {
+      "id": "bingo-1785774625195-1-vp6w",
+      "title": "Vacancy",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:30:25.195Z",
+      "updatedAt": "2026-08-03T16:30:25.195Z"
+    },
+    {
       "id": "bingo-1785774625195-0-fygb",
       "title": "Eden Lake",
       "mediaFormat": "Film",
