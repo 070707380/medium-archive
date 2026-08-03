@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785773822667-1-hj7y",
+      "title": "Akira",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:17:02.667Z",
+      "updatedAt": "2026-08-03T16:17:02.667Z"
+    },
+    {
+      "id": "bingo-1785773822664-0-ephm",
+      "title": "The Girl Who Leapt Through Time",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:17:02.666Z",
+      "updatedAt": "2026-08-03T16:17:02.667Z"
+    },
+    {
       "id": "bingo-1785773763412-0-2luu",
       "title": "The Wonderfully Weird World of Gumball",
       "mediaFormat": "TV Show",
