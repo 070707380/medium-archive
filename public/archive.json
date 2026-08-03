@@ -1886,6 +1886,41 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785778841789-1-jay6",
+      "title": "Jurassic World",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:40:41.789Z",
+      "updatedAt": "2026-08-03T17:40:41.789Z"
+    },
+    {
+      "id": "bingo-1785778841789-0-l0a9",
+      "title": "Jurassic Park",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:40:41.789Z",
+      "updatedAt": "2026-08-03T17:40:41.789Z"
+    },
+    {
+      "id": "bingo-1785778787338-3-d1z6",
+      "title": "Maleficent: Mistress of Evil",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:39:47.338Z",
+      "updatedAt": "2026-08-03T17:39:47.338Z"
+    },
+    {
+      "id": "bingo-1785778787338-2-q9lm",
+      "title": "Maleficent",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:39:47.338Z",
+      "updatedAt": "2026-08-03T17:39:47.338Z"
+    },
+    {
+      "id": "bingo-1785778787338-1-j0qc",
+      "title": "Brave",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:39:47.338Z",
+      "updatedAt": "2026-08-03T17:39:47.338Z"
+    },
+    {
       "id": "bingo-1785778787338-0-64ab",
       "title": "A Bug's Life",
       "mediaFormat": "Film",
