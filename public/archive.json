@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785794824006-1-et01",
+      "title": "Morning Star",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T22:07:04.006Z",
+      "updatedAt": "2026-08-03T22:07:04.006Z"
+    },
+    {
+      "id": "bingo-1785794824006-0-oufl",
+      "title": "In the Lives of Puppets",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T22:07:04.006Z",
+      "updatedAt": "2026-08-03T22:07:04.006Z"
+    },
+    {
       "id": "bingo-1785794788021-0-yknk",
       "title": "Bath",
       "mediaFormat": "Music Album",
