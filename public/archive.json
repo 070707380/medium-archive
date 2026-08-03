@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793517995-0-igq3",
+      "title": "Twin Peaks",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:45:17.995Z",
+      "updatedAt": "2026-08-03T21:45:17.995Z"
+    },
+    {
       "id": "bingo-1785793410505-0-win4",
       "title": "The Battle of Polytopia",
       "mediaFormat": "Video Game",
