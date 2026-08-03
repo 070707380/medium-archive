@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785792290096-0-ituk",
+      "title": "MediEvil",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:24:50.096Z",
+      "updatedAt": "2026-08-03T21:24:50.096Z"
+    },
+    {
+      "id": "bingo-1785792250033-4-i3r3",
+      "title": "Five Nights at Freddy's 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:24:10.033Z",
+      "updatedAt": "2026-08-03T21:24:10.033Z"
+    },
+    {
       "id": "bingo-1785792250033-3-5iix",
       "title": "Five Nights at Freddy's",
       "mediaFormat": "Film",
