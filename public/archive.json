@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785792049114-2-5g7w",
+      "title": "The Witch's House",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:20:49.114Z",
+      "updatedAt": "2026-08-03T21:20:49.114Z"
+    },
+    {
+      "id": "bingo-1785792049114-1-ogif",
+      "title": "OneShot",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:20:49.114Z",
+      "updatedAt": "2026-08-03T21:20:49.114Z"
+    },
+    {
+      "id": "bingo-1785792049114-0-asz9",
+      "title": "Your Turn to Die",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:20:49.114Z",
+      "updatedAt": "2026-08-03T21:20:49.114Z"
+    },
+    {
       "id": "bingo-1785791991869-1-i8ff",
       "title": "Daydream Nation",
       "mediaFormat": "Music Album",
