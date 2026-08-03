@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772169036-0-tyg0",
+      "title": "The Quarry",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:49:29.037Z",
+      "updatedAt": "2026-08-03T15:49:29.037Z"
+    },
+    {
+      "id": "bingo-1785772131972-1-71os",
+      "title": "Cat's Cradle",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:48:51.972Z",
+      "updatedAt": "2026-08-03T15:48:51.972Z"
+    },
+    {
       "id": "bingo-1785772131972-0-v22j",
       "title": "To Kill a Mockingbird",
       "mediaFormat": "Book",
