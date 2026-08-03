@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791090700-0-4fl3",
+      "title": "Gotham Knights",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:04:50.700Z",
+      "updatedAt": "2026-08-03T21:04:50.700Z"
+    },
+    {
+      "id": "bingo-1785791063962-2-mwy9",
+      "title": "Manhunt 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:04:23.962Z",
+      "updatedAt": "2026-08-03T21:04:23.962Z"
+    },
+    {
+      "id": "bingo-1785791063962-1-z8g8",
+      "title": "Manhunt",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:04:23.962Z",
+      "updatedAt": "2026-08-03T21:04:23.962Z"
+    },
+    {
       "id": "bingo-1785791063962-0-2qnr",
       "title": "Firewatch",
       "mediaFormat": "Video Game",
