@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771150382-0-8d6r",
+      "title": "Dragon Ball Z",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:32:30.382Z",
+      "updatedAt": "2026-08-03T15:32:30.382Z"
+    },
+    {
+      "id": "bingo-1785771124012-2-8kny",
+      "title": "Lego Marvel Super Heroes 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:32:04.012Z",
+      "updatedAt": "2026-08-03T15:32:04.012Z"
+    },
+    {
       "id": "bingo-1785771124012-1-c7jr",
       "title": "Lego Marvel Super Heroes",
       "mediaFormat": "Video Game",
