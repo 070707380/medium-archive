@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793173955-0-vp5l",
+      "title": "Back 2 Life",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:39:33.955Z",
+      "updatedAt": "2026-08-03T21:39:33.955Z"
+    },
+    {
+      "id": "bingo-1785793169029-2-trz8",
+      "title": "Tiger",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:39:29.029Z",
+      "updatedAt": "2026-08-03T21:39:29.029Z"
+    },
+    {
+      "id": "bingo-1785793169029-1-xj0b",
+      "title": "PXE",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:39:29.029Z",
+      "updatedAt": "2026-08-03T21:39:29.029Z"
+    },
+    {
       "id": "bingo-1785793169029-0-exhb",
       "title": "E",
       "mediaFormat": "Music Album",
