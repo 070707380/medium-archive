@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777127717-0-lcyv",
+      "title": "Final Fantasy",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:12:07.717Z",
+      "updatedAt": "2026-08-03T17:12:07.717Z"
+    },
+    {
+      "id": "bingo-1785777106524-2-29jq",
+      "title": "Batman Begins",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:46.524Z",
+      "updatedAt": "2026-08-03T17:11:46.524Z"
+    },
+    {
+      "id": "bingo-1785777106524-1-7zq4",
+      "title": "The Dark Knight Returns",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:46.524Z",
+      "updatedAt": "2026-08-03T17:11:46.524Z"
+    },
+    {
       "id": "bingo-1785777106524-0-j7y6",
       "title": "The Dark Knight",
       "mediaFormat": "Film",
