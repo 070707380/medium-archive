@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777203150-1-bcoo",
+      "title": "Hellsing",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T17:13:23.150Z",
+      "updatedAt": "2026-08-03T17:13:23.150Z"
+    },
+    {
+      "id": "bingo-1785777203150-0-77ns",
+      "title": "Baccano!",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T17:13:23.150Z",
+      "updatedAt": "2026-08-03T17:13:23.150Z"
+    },
+    {
       "id": "bingo-1785777151218-3-5myq",
       "title": "Gradius 3",
       "mediaFormat": "Video Game",
