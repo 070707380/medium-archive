@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790694849-1-yipb",
+      "title": "WandaVision",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:58:14.849Z",
+      "updatedAt": "2026-08-03T20:58:14.849Z"
+    },
+    {
+      "id": "bingo-1785790694849-0-rnbq",
+      "title": "Loki",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:58:14.849Z",
+      "updatedAt": "2026-08-03T20:58:14.849Z"
+    },
+    {
+      "id": "bingo-1785790664562-2-p36e",
+      "title": "Batman vs. Robin",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:57:44.562Z",
+      "updatedAt": "2026-08-03T20:57:44.562Z"
+    },
+    {
+      "id": "bingo-1785790664562-1-wikx",
+      "title": "Batman: Under the Red Hood",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:57:44.562Z",
+      "updatedAt": "2026-08-03T20:57:44.562Z"
+    },
+    {
       "id": "bingo-1785790664562-0-gbt8",
       "title": "Batman: The Killing Joke",
       "mediaFormat": "Film",
