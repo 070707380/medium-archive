@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772228330-3-pos6",
+      "title": "Game of Thrones",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:50:28.330Z",
+      "updatedAt": "2026-08-03T15:50:28.330Z"
+    },
+    {
+      "id": "bingo-1785772228330-2-75vm",
+      "title": "Stranger Things",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:50:28.330Z",
+      "updatedAt": "2026-08-03T15:50:28.330Z"
+    },
+    {
       "id": "bingo-1785772228330-1-o4ns",
       "title": "Wednesday",
       "mediaFormat": "TV Show",
