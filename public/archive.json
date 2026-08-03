@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790551057-0-0akv",
+      "title": "Mr. Robot",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:55:51.057Z",
+      "updatedAt": "2026-08-03T20:55:51.057Z"
+    },
+    {
+      "id": "bingo-1785790533729-4-yqil",
+      "title": "Adventure Time: Distant Lands",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:55:33.729Z",
+      "updatedAt": "2026-08-03T20:55:33.729Z"
+    },
+    {
       "id": "bingo-1785790533729-3-heqr",
       "title": "Adventure Time: Fiona & Cake",
       "mediaFormat": "TV Show",
