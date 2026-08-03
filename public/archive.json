@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774444232-0-odst",
+      "title": "Wolf Children",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:27:24.232Z",
+      "updatedAt": "2026-08-03T16:27:24.232Z"
+    },
+    {
+      "id": "bingo-1785774429650-1-fnmv",
+      "title": "Weathering with You",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:27:09.650Z",
+      "updatedAt": "2026-08-03T16:27:09.650Z"
+    },
+    {
       "id": "bingo-1785774429650-0-h4py",
       "title": "Blue Giant",
       "mediaFormat": "Film",
