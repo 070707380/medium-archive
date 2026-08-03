@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777091691-0-sred",
+      "title": "The Batman",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
       "id": "bingo-1785777040957-0-h2ay",
       "title": "Neon Genesis Evangelion",
       "mediaFormat": "TV Show",
