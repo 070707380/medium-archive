@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770105706-0-nsv1",
+      "title": "The Jacket",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:15:05.706Z",
+      "updatedAt": "2026-08-03T15:15:05.706Z"
+    },
+    {
+      "id": "bingo-1785770065743-1-b4n5",
+      "title": "Shutter Island",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:14:25.743Z",
+      "updatedAt": "2026-08-03T15:14:25.743Z"
+    },
+    {
       "id": "bingo-1785770065742-0-kqg4",
       "title": "Fight Club",
       "mediaFormat": "Film",
