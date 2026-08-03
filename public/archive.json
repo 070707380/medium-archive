@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791159638-0-aajt",
+      "title": "Breaking Bad",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:05:59.638Z",
+      "updatedAt": "2026-08-03T21:05:59.638Z"
+    },
+    {
+      "id": "bingo-1785791132634-1-xlcs",
+      "title": "Peaky Blinders",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:05:32.634Z",
+      "updatedAt": "2026-08-03T21:05:32.634Z"
+    },
+    {
       "id": "bingo-1785791132634-0-eh4p",
       "title": "The Boondocks",
       "mediaFormat": "TV Show",
