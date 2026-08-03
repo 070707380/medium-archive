@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785792602270-0-3ip1",
+      "title": "Untitled Unmastered.",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:30:02.270Z",
+      "updatedAt": "2026-08-03T21:30:02.270Z"
+    },
+    {
+      "id": "bingo-1785792541454-2-adgg",
+      "title": "Spotlight",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:29:01.454Z",
+      "updatedAt": "2026-08-03T21:29:01.454Z"
+    },
+    {
       "id": "bingo-1785792541454-1-pvya",
       "title": "Ted",
       "mediaFormat": "Film",
