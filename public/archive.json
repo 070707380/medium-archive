@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791097163-0-g4ma",
+      "title": "Guardian of the Galaxy Vol 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:04:57.163Z",
+      "updatedAt": "2026-08-03T21:04:57.163Z"
+    },
+    {
+      "id": "bingo-1785791090700-2-4dxj",
+      "title": "Marvel's Guardian of the Galaxy",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:04:50.700Z",
+      "updatedAt": "2026-08-03T21:04:50.700Z"
+    },
+    {
+      "id": "bingo-1785791090700-1-j4tx",
+      "title": "Marvel's Avengers",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:04:50.700Z",
+      "updatedAt": "2026-08-03T21:04:50.700Z"
+    },
+    {
       "id": "bingo-1785791090700-0-4fl3",
       "title": "Gotham Knights",
       "mediaFormat": "Video Game",
