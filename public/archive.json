@@ -1886,6 +1886,22 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774790588-0-rzld",
+      "title": "Ergo Proxy",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T16:33:10.588Z",
+      "updatedAt": "2026-08-03T16:33:10.588Z",
+      "linkedArchiveId": "item-1785696098365",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10"
+    },
+    {
+      "id": "bingo-1785774665950-1-lcd0",
+      "title": "Hostel",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:31:05.950Z",
+      "updatedAt": "2026-08-03T16:31:05.950Z"
+    },
+    {
       "id": "bingo-1785774665950-0-mp1i",
       "title": "1408",
       "mediaFormat": "Film",
