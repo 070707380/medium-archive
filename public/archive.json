@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785779812897-0-tf79",
+      "title": "The Exorcist",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:56:52.897Z",
+      "updatedAt": "2026-08-03T17:56:52.897Z"
+    },
+    {
+      "id": "bingo-1785779796115-1-z78p",
+      "title": "Here Comes Everybody",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:56:36.115Z",
+      "updatedAt": "2026-08-03T17:56:36.115Z"
+    },
+    {
       "id": "bingo-1785779796115-0-6sr5",
       "title": "Love is Hell",
       "mediaFormat": "Music Album",
