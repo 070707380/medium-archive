@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772194945-1-27pm",
+      "title": "Your Name.",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:49:54.945Z",
+      "updatedAt": "2026-08-03T15:49:54.945Z"
+    },
+    {
+      "id": "bingo-1785772194945-0-8brr",
+      "title": "Princess Mononoke",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:49:54.945Z",
+      "updatedAt": "2026-08-03T15:49:54.945Z"
+    },
+    {
+      "id": "bingo-1785772169037-1-niyo",
+      "title": "Until Dawn",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:49:29.037Z",
+      "updatedAt": "2026-08-03T15:49:29.037Z"
+    },
+    {
       "id": "bingo-1785772169036-0-tyg0",
       "title": "The Quarry",
       "mediaFormat": "Video Game",
