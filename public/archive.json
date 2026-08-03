@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772432053-1-nt76",
+      "title": "Kaiba",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:53:52.053Z",
+      "updatedAt": "2026-08-03T15:53:52.053Z"
+    },
+    {
+      "id": "bingo-1785772432051-0-bner",
+      "title": "Pluto",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:53:52.053Z",
+      "updatedAt": "2026-08-03T15:53:52.053Z"
+    },
+    {
+      "id": "bingo-1785772385998-3-20oz",
+      "title": "SimCity: BuildIt",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:53:05.998Z",
+      "updatedAt": "2026-08-03T15:53:05.998Z"
+    },
+    {
       "id": "bingo-1785772385996-2-s67o",
       "title": "SimCity 3000",
       "mediaFormat": "Video Game",
