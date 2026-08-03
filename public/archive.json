@@ -1886,6 +1886,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770185472-2-96vm",
+      "title": "Moby Dick",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:16:25.472Z",
+      "updatedAt": "2026-08-03T15:16:25.472Z",
+      "linkedArchiveId": "item-1785679574333",
+      "coverUrl": "https://wallpaperaccess.com/full/9464755.jpg"
+    },
+    {
       "id": "bingo-1785770185472-1-mblp",
       "title": "Pandora's Star",
       "mediaFormat": "Book",
