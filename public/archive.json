@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777422455-1-rcfr",
+      "title": "The Thing",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:17:02.455Z",
+      "updatedAt": "2026-08-03T17:17:02.455Z"
+    },
+    {
+      "id": "bingo-1785777422454-0-b638",
+      "title": "Airplane",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:17:02.454Z",
+      "updatedAt": "2026-08-03T17:17:02.455Z"
+    },
+    {
       "id": "bingo-1785777380320-0-pxw9",
       "title": "League of Legends",
       "mediaFormat": "Video Game",
