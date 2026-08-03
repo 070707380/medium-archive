@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793137836-1-gkwx",
+      "title": "Charli",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:38:57.836Z",
+      "updatedAt": "2026-08-03T21:38:57.836Z"
+    },
+    {
+      "id": "bingo-1785793137835-0-85f5",
+      "title": "Brat",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:38:57.835Z",
+      "updatedAt": "2026-08-03T21:38:57.836Z"
+    },
+    {
       "id": "bingo-1785793096057-0-ricj",
       "title": "Doraemon",
       "mediaFormat": "TV Show",
