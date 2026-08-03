@@ -88,8 +88,18 @@
       "Harvest Moon",
       "Animal Crossing",
       "Rune Factory",
-      "Minecraft",
-      "Terraria",
+      {
+        "title": "Minecraft",
+        "type": "media",
+        "customCover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
+        "note": "Linked to Video Game (2011)"
+      },
+      {
+        "title": "Terraria",
+        "type": "media",
+        "customCover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
+        "note": "Linked to Video Game (2026)"
+      },
       "The Legend of Zelda"
     ],
     "consumedVersion": "PC",
@@ -1125,7 +1135,12 @@
     "hornetScore": 2,
     "hornetVerdict": "",
     "similarMedia": [
-      "Stardew Valley",
+      {
+        "title": "Stardew Valley",
+        "type": "media",
+        "customCover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+        "note": "Linked to Video Game"
+      },
       "Unpacking",
       "Tiny Glade",
       "Defromantik",
