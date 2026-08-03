@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777832913-0-ycs6",
+      "title": "Salem's Lot",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:23:52.916Z",
+      "updatedAt": "2026-08-03T17:23:52.916Z"
+    },
+    {
+      "id": "bingo-1785777783299-4-81nh",
+      "title": "Ben 10 Reboot",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T17:23:03.299Z",
+      "updatedAt": "2026-08-03T17:23:03.299Z"
+    },
+    {
       "id": "bingo-1785777783299-3-7niw",
       "title": "Ben 10: Omniverse",
       "mediaFormat": "TV Show",
