@@ -1886,6 +1886,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770476439-1-1fy4",
+      "title": "Grand Theft Auto: Vice City",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:21:16.439Z",
+      "updatedAt": "2026-08-03T15:21:16.439Z",
+      "linkedArchiveId": "item-1785663669551",
+      "coverUrl": "https://cdn2.unrealengine.com/egs-grandtheftautovicecitythedefinitiveedition-rockstargames-g1a-00-1920x1080-a93053f8548a.jpg"
+    },
+    {
       "id": "bingo-1785770476439-0-mi9x",
       "title": "Grand Theft Auto 3",
       "mediaFormat": "Video Game",
