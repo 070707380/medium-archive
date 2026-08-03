@@ -1,5 +1,101 @@
 [
   {
+    "id": "item-1785756873467",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhutP4Dlp8XlMssvi2gGazD1lkbqKSbUWFLEAe-5Fkg&s=10",
+    "title": "Naruto",
+    "mainCreator": "Hayato Date",
+    "otherCreators": [],
+    "creatorDetails": [
+      {
+        "name": "Hayato Date",
+        "category": "Director",
+        "nation": "Japan",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Hayato_Date&ved=2ahUKEwjY-MSfp4SWAxV4h_0HHXQXMbUQFnoECEEQAQ&sqi=2&usg=AOvVaw0KfmGR66obVc2BE0_y_-Vx"
+      }
+    ],
+    "mediaFormat": "TV Show",
+    "releaseDate": "2002-10-03",
+    "countryOfOrigin": "Japan",
+    "originalLanguage": "Japanese",
+    "genres": [
+      "Seinen",
+      "Action Adventure",
+      "ninja"
+    ],
+    "philosophicalTags": [
+      "Shintoism",
+      "Taoism",
+      "Buddhism",
+      "Quest for Redemption",
+      "Harmony & Free Will",
+      "Confucian Values"
+    ],
+    "genreStyleTags": [
+      "high fantasy",
+      "manga adaptation",
+      "martial arts",
+      "supernatural",
+      "orphan",
+      "coming of age",
+      "chakra",
+      "backstories",
+      "betrayal",
+      "revenge",
+      "trauma"
+    ],
+    "summaryPlot": "Naruto Uzumaki, a loud, mischievous orphan despised by his village for the nine-tailed demon fox sealed within him, dreams of one day becoming the Hokage, the village's most respected leader. To achieve his goal, he must navigate fierce rivalries, grueling ninja exams, and deadly enemies, all while fighting to earn the recognition and bonds he desperately craves.",
+    "pros": [
+      "Chunin Exam duel contains physical weight, weighted speed and clear tactical structure.",
+      "Early rules of Chakra such as Ninjutsu, Genjutsu Taijutsu and hand seal requirements displayed understandable tactical baseline before power scale exploded.",
+      "Land of Waves arc served grounded shinobi world where mercenaries are treated as disposables.",
+      "Shikamaru's Shadow Possession Jutsu rewards positioning and tactical brilliance.",
+      "Villages such as Leaf, Sand and Mist has strong visual and cultural architecture varieties.",
+      "Structuring the arc as series 1 on 1 duels gave secondary characters clear goals."
+    ],
+    "cons": [
+      "Original anime concludes over 80 b2b episodes of aimless, non-canon filler missions that freezes all of the progression.",
+      "Show is hypocritical philosophically; highlights \"hard work overcomes natural talent\" (Naruto & Lee), only to reveal Naruto is a royal bloodline jinchuriki who uses brute-force demon chakra.",
+      "Combat encounters are cut for multi-episodes flashbacks and frequently re-showing Naruto sitting alone on the swing for the hundredth time.",
+      "Female leads lacks combat agency and are just crybaby spectators whose purpose is obsessing over Sasuke.",
+      "DATTEBAYO DATTABAYOO",
+      "Characters stand frozen on trees talking to themselves or over-explaining basic jutsu mechanics for 15 minutes per episode is total disrespect to the audience's time and intelligence.",
+      "Villains like Neji or Gaara abandon years of trauma and ideological convictions after a 5-minute lecture from a 12-year-old.",
+      "More hypocrisy; after hyping Taijutsu hard work, Rock Lee is proving that magical bloodlines and demon fox hacks are all that actually matter.",
+      "Naruto’s tactics spams throwing hundreds of clones at a problem until one lands a punch and this is too repetitive.",
+      "Fights slowly devolve into two characters running in a straight line at each other with glowing hands.",
+      "Same \"shingg\" metal clash and generic explosion audios are reused in every single fight.",
+      "Ninjas which should've depend on Shinobi stealth art ditch stealth, disguise and assassination just for bullshit as glowing giant summons and childish loud screaming attacks.",
+      "Over half of the Leaf Village Konoha 11 rookies are just ignored or given single off-screen fights before being relegated to background.",
+      "Sasuke's edgy emo approach feels annoying and repetitive, making Naruto's obsession with retrieving him feel unearned and desperate.",
+      "Interrupting serious ninja missions with nosebleed gags, sweatdrops and exaggerated childish Chibi screaming ruins any tension if even existed at all.",
+      "Characters take lethal and direct organ-crushing damage like Choji's red pill or Neji's chest hole only to be magically fully healed in a hospital by the next arc, completely ruins any weight and consequences of the fight scenes.",
+      "Orochimaru’s minor henchmen feature generic, tired demon-form designs and flat personalities.",
+      "Hokage vs. Orochimaru features Third Hokage holding onto Orochimaru's soul for around 10 full episodes while nothing else happens.",
+      "Early system where complex jutsu required hand-seal sequences is abandoned then characters became nukes by screaming loudly.",
+      "Tactical momentum is destroyed by characters pausing mid swing to yap a 10-minute monologue explaining their exact strategy out loud to the enemy.",
+      "Anime thinks giving sociopathic killers like Gaara, Zabuza and Orochimaru's henchmen some tragic 3-minute childhood flashback will make their past and actions any weighted.",
+      "Instead of rewarding Sasuke's strategic training or Sharingan, his power spikes thanks to a gimmicky, tattoo-based demon transformation that is just as cheap shortcut."
+    ],
+    "hornetScore": 1,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Bleach",
+      "Hunter x Hunter",
+      "My Hero Academia",
+      "Black Clover"
+    ],
+    "mediumInfluences": [
+      "Dragon Ball",
+      "Ninku",
+      "Yu Yu Hakusho"
+    ],
+    "consumedVersion": "Digital",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-03T11:34:33.469Z",
+    "updatedAt": "2026-08-03T11:34:33.481Z"
+  },
+  {
     "id": "item-1785750423268",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1W1u1qMHLfEO5HpJYm4jy3FF114TjHztgF6-rnujzA&s=10",
     "title": "Half Life 2",
