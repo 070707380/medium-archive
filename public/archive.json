@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791960247-1-k11d",
+      "title": "OK Computer",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:19:20.247Z",
+      "updatedAt": "2026-08-03T21:19:20.247Z"
+    },
+    {
+      "id": "bingo-1785791960247-0-1n47",
+      "title": "In Rainbows",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:19:20.247Z",
+      "updatedAt": "2026-08-03T21:19:20.247Z"
+    },
+    {
       "id": "bingo-1785791934386-1-huyw",
       "title": "Dredd",
       "mediaFormat": "Film",
