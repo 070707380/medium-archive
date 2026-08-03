@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785778562763-0-gquw",
+      "title": "The Sixth Sense",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:36:02.763Z",
+      "updatedAt": "2026-08-03T17:36:02.763Z"
+    },
+    {
+      "id": "bingo-1785778516404-2-ucey",
+      "title": "Tokyo Revengers",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T17:35:16.404Z",
+      "updatedAt": "2026-08-03T17:35:16.404Z"
+    },
+    {
       "id": "bingo-1785778516404-1-0922",
       "title": "Tokyo Ghoul",
       "mediaFormat": "TV Show",
