@@ -1886,6 +1886,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785769960391-3-4y8s",
+      "title": "Terraria",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:40.391Z",
+      "updatedAt": "2026-08-03T15:12:40.391Z",
+      "linkedArchiveId": "item-1785669348801",
+      "coverUrl": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg"
+    },
+    {
       "id": "bingo-1785769960391-2-d1ss",
       "title": "Minecraft",
       "mediaFormat": "Video Game",
