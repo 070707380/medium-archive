@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771858605-0-wa8q",
+      "title": "Baba is You",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:44:18.605Z",
+      "updatedAt": "2026-08-03T15:44:18.605Z"
+    },
+    {
+      "id": "bingo-1785771819955-1-czmt",
+      "title": "Corpse Bride",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:43:39.955Z",
+      "updatedAt": "2026-08-03T15:43:39.955Z"
+    },
+    {
       "id": "bingo-1785771819954-0-fw01",
       "title": "Coraline",
       "mediaFormat": "Film",
