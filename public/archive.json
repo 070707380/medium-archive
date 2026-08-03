@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793292846-0-8ps6",
+      "title": "X-Men",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:41:32.846Z",
+      "updatedAt": "2026-08-03T21:41:32.846Z"
+    },
+    {
+      "id": "bingo-1785793275981-2-fgsx",
+      "title": "2001",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:41:15.981Z",
+      "updatedAt": "2026-08-03T21:41:15.981Z"
+    },
+    {
       "id": "bingo-1785793275981-1-unta",
       "title": "Compton",
       "mediaFormat": "Music Album",
