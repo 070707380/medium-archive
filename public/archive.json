@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791627368-2-xy2p",
+      "title": "Super Fly",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:13:47.368Z",
+      "updatedAt": "2026-08-03T21:13:47.368Z"
+    },
+    {
+      "id": "bingo-1785791627367-1-5xf3",
+      "title": "Transformer",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:13:47.367Z",
+      "updatedAt": "2026-08-03T21:13:47.367Z"
+    },
+    {
+      "id": "bingo-1785791627361-0-3gd8",
+      "title": "Who's Next",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:13:47.364Z",
+      "updatedAt": "2026-08-03T21:13:47.367Z"
+    },
+    {
       "id": "bingo-1785791411824-0-4ntq",
       "title": "Berserk",
       "mediaFormat": "TV Show",
