@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770185472-1-mblp",
+      "title": "Pandora's Star",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:16:25.472Z",
+      "updatedAt": "2026-08-03T15:16:25.472Z"
+    },
+    {
+      "id": "bingo-1785770185472-0-tof4",
+      "title": "Gone With the Wind",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:16:25.472Z",
+      "updatedAt": "2026-08-03T15:16:25.472Z"
+    },
+    {
       "id": "bingo-1785770125758-1-ps8g",
       "title": "One Piece",
       "mediaFormat": "Comic/Manga Series",
