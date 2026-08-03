@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771095871-1-4wex",
+      "title": "Johnny Bravo",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:31:35.871Z",
+      "updatedAt": "2026-08-03T15:31:35.871Z"
+    },
+    {
+      "id": "bingo-1785771095870-0-jiwx",
+      "title": "Steven Universe",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:31:35.871Z",
+      "updatedAt": "2026-08-03T15:31:35.871Z"
+    },
+    {
+      "id": "bingo-1785771075660-2-rq6d",
+      "title": "The Amazing World of Gumball",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:31:15.660Z",
+      "updatedAt": "2026-08-03T15:31:15.660Z"
+    },
+    {
+      "id": "bingo-1785771075660-1-06ee",
+      "title": "Regular Show",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:31:15.660Z",
+      "updatedAt": "2026-08-03T15:31:15.660Z"
+    },
+    {
       "id": "bingo-1785771075660-0-tf9w",
       "title": "Adventure Time",
       "mediaFormat": "TV Show",
