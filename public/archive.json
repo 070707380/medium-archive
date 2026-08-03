@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785778099836-0-3upz",
+      "title": "Ye",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:28:19.836Z",
+      "updatedAt": "2026-08-03T17:28:19.836Z"
+    },
+    {
+      "id": "bingo-1785777976804-2-gt4t",
+      "title": "Balatro",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:26:16.804Z",
+      "updatedAt": "2026-08-03T17:26:16.804Z"
+    },
+    {
+      "id": "bingo-1785777976804-1-8a5w",
+      "title": "Unturned",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:26:16.804Z",
+      "updatedAt": "2026-08-03T17:26:16.804Z"
+    },
+    {
       "id": "bingo-1785777976804-0-38f3",
       "title": "Dead Island",
       "mediaFormat": "Video Game",
