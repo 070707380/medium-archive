@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790610746-1-idyx",
+      "title": "Supergirl",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:56:50.746Z",
+      "updatedAt": "2026-08-03T20:56:50.746Z"
+    },
+    {
+      "id": "bingo-1785790610746-0-xkgk",
+      "title": "The Flash",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T20:56:50.746Z",
+      "updatedAt": "2026-08-03T20:56:50.746Z"
+    },
+    {
       "id": "bingo-1785790605053-3-s5n2",
       "title": "The Flash",
       "mediaFormat": "Film",
