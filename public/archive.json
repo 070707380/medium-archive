@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774583435-1-289d",
+      "title": "The Last of Us",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:29:43.435Z",
+      "updatedAt": "2026-08-03T16:29:43.435Z"
+    },
+    {
+      "id": "bingo-1785774583435-0-j6gi",
+      "title": "Heavy Rain",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:29:43.435Z",
+      "updatedAt": "2026-08-03T16:29:43.435Z"
+    },
+    {
+      "id": "bingo-1785774545320-1-y7ry",
+      "title": "Factorio",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:29:05.320Z",
+      "updatedAt": "2026-08-03T16:29:05.320Z"
+    },
+    {
       "id": "bingo-1785774545320-0-x0ab",
       "title": "Shinehill",
       "mediaFormat": "Video Game",
