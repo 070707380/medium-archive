@@ -1,5 +1,104 @@
 [
   {
+    "id": "item-1785750423268",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1W1u1qMHLfEO5HpJYm4jy3FF114TjHztgF6-rnujzA&s=10",
+    "title": "Half Life 2",
+    "mainCreator": "Valve Corporation",
+    "otherCreators": [
+      "Gabe Newell/President",
+      "Viktor Antonov/Art Director",
+      "Marc Laidlaw/Scriptwriter"
+    ],
+    "creatorDetails": [
+      {
+        "name": "Valve Corporation",
+        "category": "Studio / Company",
+        "nation": "United States",
+        "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Valve&ved=2ahUKEwjki8aikISWAxXuA9sEHYeUFNoQFnoECEkQAQ&usg=AOvVaw1xyHSsEjFcmIoDzOFf_auK"
+      },
+      {
+        "name": "Gabe Newell",
+        "category": "President",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gabe%20Newell"
+      },
+      {
+        "name": "Viktor Antonov",
+        "category": "Art Director",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Viktor%20Antonov"
+      },
+      {
+        "name": "Marc Laidlaw",
+        "category": "Scriptwriter",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marc%20Laidlaw"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2004-11-16",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "First Person Shooter",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "philosophicalTags": [
+      "Posthumanism",
+      "Dystopian Paranoia"
+    ],
+    "genreStyleTags": [
+      "action horror",
+      "atmospheric horror",
+      "zombie",
+      "brutalism",
+      "boss fight",
+      "puzzle",
+      "war",
+      "deep lore",
+      "mission based driving"
+    ],
+    "summaryPlot": "Gordon Freeman awakens from stasis decades after the Black Mesa Incident, finding Earth conquered by the alien Combine Empire. Now in the dystopian City 17, he joins a human resistance movement to fight back against the oppressive regime and its human administrator.",
+    "pros": [
+      "Physic engine is integration in combat successfully that makes the environmental combat engaging.",
+      "Puzzles are solid, using the physic engine.",
+      "Ravenholm chapter contains flawless action horror sequence where resource management, atmospheric horror elements and environmental combat with gravity gun is used.",
+      "Oppression and world's ideology is shown through environmental storytelling and architecture.",
+      "Level designs and pacing are so balanced and consistent that it overshadows most of the negatives by serving overall satisfying experience.",
+      "Enemy and weapon variety are lacking and either shooting or puzzles aren't the peak in this game but it cannot be mattered when each chapter and level design serves unique content such as action horror, corridor shooting, physic puzzles, bugbait combat, overcharged gravity gun sequence, science fiction sequences, platformer beach sequence, narrow apartments, giant robots fights, cinematic sequences then street level sequences, WWII style beach warfare, vehicle driving sequences and mini open worlds with puzzles in it, this is insane amount of content paced balanced without artificially extended gameplay time.",
+      "Tactical AI is actually solid, enemies constantly switch positions, track your positioning and throws grenades on covers.",
+      "Character interactions and dialogues are designed organic and solid.",
+      "Science fiction elements are fresh."
+    ],
+    "cons": [
+      "Route Kanal and Highway 17 damages runtime with floaty vehicle physics and repetitive open the gate interruptions.",
+      "Gordon Freeman’s silence doesn't add anything to game at all but looks awkward in emotional and action-packed dialogues.",
+      "Guns such as SMG are inconsistent, makes the enemies sandbag and isn't satisfying.",
+      "Managing companion AI is annoying.",
+      "Puzzles lacks quantity despite being quality, Valve has made a whole brand with puzzles in it but that's external so it's a con in this game.",
+      "Boss-fights consist of launching rockets randomly to the air so tracker can hit the helicopter which isn't near engaging, same for giant robots and probably any sequences that contains rocket launchers.",
+      "Health, ammo and energy are given in bulks regularly in specific stations which kinda ruins the resource management element."
+    ],
+    "hornetScore": 7,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "BioShock",
+      "Dishonored",
+      "Crysis 2",
+      "Wolfenstein: The New Order",
+      "Metro 2033",
+      "F.E.A.R.",
+      "Black Mesa"
+    ],
+    "mediumInfluences": [
+      "Nineteen Eighty-Four",
+      "The War of the Worlds"
+    ],
+    "consumedVersion": "PC",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-03T09:47:03.273Z",
+    "updatedAt": "2026-08-03T09:47:07.490Z"
+  },
+  {
     "id": "item-1785739670489",
     "cover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
     "title": "Stardew Valley",
