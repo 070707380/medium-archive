@@ -1886,6 +1886,62 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785792250033-1-3tst",
+      "title": "Natural Born Killers",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:24:10.033Z",
+      "updatedAt": "2026-08-03T21:24:10.033Z"
+    },
+    {
+      "id": "bingo-1785792250033-0-lktk",
+      "title": "Eraserhead",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:24:10.033Z",
+      "updatedAt": "2026-08-03T21:24:10.033Z"
+    },
+    {
+      "id": "bingo-1785792209732-7-v7q3",
+      "title": "Yakuza 6",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:23:29.732Z",
+      "updatedAt": "2026-08-03T21:23:29.732Z"
+    },
+    {
+      "id": "bingo-1785792209732-6-plcq",
+      "title": "Yakuza 0",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:23:29.732Z",
+      "updatedAt": "2026-08-03T21:23:29.732Z"
+    },
+    {
+      "id": "bingo-1785792209732-5-g9qb",
+      "title": "Yakuza 5",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:23:29.732Z",
+      "updatedAt": "2026-08-03T21:23:29.732Z"
+    },
+    {
+      "id": "bingo-1785792209732-4-wlfr",
+      "title": "Yakuza 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:23:29.732Z",
+      "updatedAt": "2026-08-03T21:23:29.732Z"
+    },
+    {
+      "id": "bingo-1785792209732-3-69du",
+      "title": "Yakuza 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:23:29.732Z",
+      "updatedAt": "2026-08-03T21:23:29.732Z"
+    },
+    {
+      "id": "bingo-1785792209732-2-bpa9",
+      "title": "Yakuza 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:23:29.732Z",
+      "updatedAt": "2026-08-03T21:23:29.732Z"
+    },
+    {
       "id": "bingo-1785792209732-1-9fqb",
       "title": "Yakuza",
       "mediaFormat": "Video Game",
