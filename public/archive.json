@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785779558969-0-5z4q",
+      "title": "Les Miserables",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T17:52:38.969Z",
+      "updatedAt": "2026-08-03T17:52:38.969Z"
+    },
+    {
+      "id": "bingo-1785779479708-2-2pxr",
+      "title": "Ghost Story",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T17:51:19.708Z",
+      "updatedAt": "2026-08-03T17:51:19.708Z"
+    },
+    {
       "id": "bingo-1785779479708-1-m5qm",
       "title": "Dracula",
       "mediaFormat": "Book",
