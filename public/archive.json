@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785769960391-1-2cf6",
+      "title": "Stray",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:40.391Z",
+      "updatedAt": "2026-08-03T15:12:40.391Z"
+    },
+    {
+      "id": "bingo-1785769960391-0-hphe",
+      "title": "Hades",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:40.391Z",
+      "updatedAt": "2026-08-03T15:12:40.391Z"
+    },
+    {
+      "id": "bingo-1785769931200-2-t321",
+      "title": "Resident Evil 7: Biohazard",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:11.200Z",
+      "updatedAt": "2026-08-03T15:12:11.200Z"
+    },
+    {
       "id": "bingo-1785769931200-1-m84a",
       "title": "Resident Evil 4",
       "mediaFormat": "Video Game",
