@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791868332-0-c8el",
+      "title": "Microsoft Minesweeper",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:17:48.332Z",
+      "updatedAt": "2026-08-03T21:17:48.332Z"
+    },
+    {
+      "id": "bingo-1785791848084-2-8q8e",
+      "title": "Bakugan: Battle Brawlers",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:17:28.084Z",
+      "updatedAt": "2026-08-03T21:17:28.084Z"
+    },
+    {
+      "id": "bingo-1785791848084-1-cwji",
+      "title": "Beyblade: Metal Fusion",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:17:28.084Z",
+      "updatedAt": "2026-08-03T21:17:28.084Z"
+    },
+    {
       "id": "bingo-1785791848084-0-4m34",
       "title": "Beyblade",
       "mediaFormat": "TV Show",
