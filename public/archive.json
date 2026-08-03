@@ -1,5 +1,104 @@
 [
   {
+    "id": "item-1785739670489",
+    "cover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+    "title": "Stardew Valley",
+    "mainCreator": "Eric Barone",
+    "otherCreators": [],
+    "creatorDetails": [
+      {
+        "name": "Eric Barone",
+        "category": "Developer",
+        "nation": "United States",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eric_Barone"
+      }
+    ],
+    "mediaFormat": "Video Game",
+    "releaseDate": "2016-02-26",
+    "countryOfOrigin": "United States",
+    "originalLanguage": "English",
+    "genres": [
+      "Low Fantasy",
+      "Farming",
+      "RPG"
+    ],
+    "philosophicalTags": [
+      "Pastoral Romanticism",
+      "Commons",
+      "Critique of Neoliberalism",
+      "Self Improvement",
+      "Escape from Modernity"
+    ],
+    "genreStyleTags": [
+      "day night cycle",
+      "fishing",
+      "cozy",
+      "Mystery",
+      "character customization",
+      "co-op",
+      "item shop",
+      "lgbtq+",
+      "mining",
+      "open world",
+      "pixel art",
+      "puzzles",
+      "romance",
+      "slime",
+      "dungeon crawler",
+      "dating sim",
+      "life sim",
+      "formualic",
+      "seasonal cycle"
+    ],
+    "summaryPlot": "After inheriting your deceased grandfather's dilapidated farm in the rural town of Stardew Valley, you leave the soulless corporate grind behind to start a new life. You must restore the farm to its former glory, build relationships with the townspeople, and choose whether to revitalize the town's crumbling community center or side with the soulless Joja Corporation, all while uncovering the secrets of the valley.",
+    "pros": [
+      "Whole game is a clear checklist simulator.",
+      "Ticking clock and stamina bar force daily planning, route planning and task prioritization.",
+      "Unlocking sprinklers, auto-feeders and junimo huts systematically removes manual labor and rewards planning.",
+      "Fishing minigame requires timing and reaction skill rather than passive button-mashing.",
+      "Seasons and weather comes up with unique events and festivals.",
+      "Variety is insane, content is still ongoing after 100+ hours of gameplay.",
+      "NPCs has light but effective backstories, town contains gossip lore and mystery, solving the mysteries and worldbuilding by playing is rewarding.",
+      "Game requires zero wiki or guide, some aspects are harsh to find but game rewards patience and attention over wiki.",
+      "Most systems are interconnected unlike most life and farming RPGs.",
+      "Town and interior customization is solid.",
+      "Game has dozens of micro management elements which mimicks the urgency of real life, this is a positive as a life sim."
+    ],
+    "cons": [
+      "You can never go bankrupt or lose your farm; even passing out simply results in a minor energy or fee penalty, game is way too cozy despite having deep content. I'm not blaming coziness, I blame the game design by picking the route when had potential.",
+      "Dungeon crawler combat is primitive. Low weapon variety, zero strategy and positioning but just button-smashing. Considering the total time you'd spend in mines, enemies becomes chore than threat.",
+      "Before all of the automation systems that requires hours of manual work to achieve, gameplay is about doing dozens of activities and farm chores every 14 minutes. This is a crucial con that turns the game into a repetitive daily tasks loop.",
+      "Most daily repetitive chores doesn't even reward or punish. If you won't feed your animals, log your kegs, kiss your partner, take care of your greenhouse, pet your cat, you won't be punished sligthly, which makes the gamer question why'd they even bother?",
+      "NPC friendship is about formulaic spam of gifting them their fav things twice a week, which ignores any human relationship, psychological depth and logical RPG depth.",
+      "Crop and artisan prices are fixed, economy never shapeshifts or market's global needs never changed, which doesn't stop a gamer from doing the same chore to become millionaire, so if you switch chores then that's just decisive.",
+      "Single daytime is extremely short and daily routines drains the majority of the day which leaves no space to explore, grind or socialize.",
+      "RPG part of the game is shallow, when a dialogue appears, there is an obvious answer and a ragebait. Also interaction with NPCs is very limited.",
+      "Certain Community Center bundles and museum donations rely on RNG drops which is not related to skill or strategy."
+    ],
+    "hornetScore": 4,
+    "hornetVerdict": "",
+    "similarMedia": [
+      "Story of Seasons: Friends of Mineral Town",
+      "Coral Island",
+      "Fields of Mistria",
+      "Graveyard Keeper",
+      "My Time at Portia"
+    ],
+    "mediumInfluences": [
+      "Harvest Moon",
+      "Animal Crossing",
+      "Rune Factory",
+      "Minecraft",
+      "Terraria",
+      "The Legend of Zelda"
+    ],
+    "consumedVersion": "PC",
+    "isSoundtrack": false,
+    "links": [],
+    "createdAt": "2026-08-03T06:47:50.490Z",
+    "updatedAt": "2026-08-03T06:47:52.228Z"
+  },
+  {
     "id": "item-1785705768922",
     "cover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
     "title": "Minecraft",
