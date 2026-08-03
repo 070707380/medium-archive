@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777534327-0-wa49",
+      "title": "Aquemini",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:18:54.327Z",
+      "updatedAt": "2026-08-03T17:18:54.327Z"
+    },
+    {
+      "id": "bingo-1785777527103-2-9uwo",
+      "title": "I am...",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:18:47.103Z",
+      "updatedAt": "2026-08-03T17:18:47.103Z"
+    },
+    {
+      "id": "bingo-1785777527103-1-gima",
+      "title": "The Low End Theory",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:18:47.103Z",
+      "updatedAt": "2026-08-03T17:18:47.103Z"
+    },
+    {
       "id": "bingo-1785777527103-0-q2dh",
       "title": "Illmatic",
       "mediaFormat": "Music Album",
