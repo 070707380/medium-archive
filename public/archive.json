@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785778737775-1-v03t",
+      "title": "The Slim Shady LP",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:38:57.775Z",
+      "updatedAt": "2026-08-03T17:38:57.775Z"
+    },
+    {
+      "id": "bingo-1785778737775-0-o8ei",
+      "title": "The Massacre",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:38:57.775Z",
+      "updatedAt": "2026-08-03T17:38:57.775Z"
+    },
+    {
       "id": "bingo-1785778658413-1-dypz",
       "title": "Lollipop Chainsaw",
       "mediaFormat": "Video Game",
