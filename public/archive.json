@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772073674-0-9dub",
+      "title": "Spirited Away",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:47:53.674Z",
+      "updatedAt": "2026-08-03T15:47:53.674Z"
+    },
+    {
+      "id": "bingo-1785772027123-2-jtqa",
+      "title": "Infiniminer",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:47:07.123Z",
+      "updatedAt": "2026-08-03T15:47:07.123Z"
+    },
+    {
+      "id": "bingo-1785772027123-1-c6tu",
+      "title": "Forager",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:47:07.123Z",
+      "updatedAt": "2026-08-03T15:47:07.123Z"
+    },
+    {
       "id": "bingo-1785772027123-0-4rtr",
       "title": "Fall Guys",
       "mediaFormat": "Video Game",
