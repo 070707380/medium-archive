@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785776746756-0-7rwq",
+      "title": "Deltarune",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:05:46.756Z",
+      "updatedAt": "2026-08-03T17:05:46.756Z"
+    },
+    {
+      "id": "bingo-1785776691119-2-yj6b",
+      "title": "The Clockwork Orange",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:04:51.119Z",
+      "updatedAt": "2026-08-03T17:04:51.119Z"
+    },
+    {
       "id": "bingo-1785776691119-1-gtem",
       "title": "Terrifier",
       "mediaFormat": "Film",
