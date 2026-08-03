@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785776158750-0-9csi",
+      "title": "My Little Pony: Friendship is Magic",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T16:55:58.750Z",
+      "updatedAt": "2026-08-03T16:55:58.750Z"
+    },
+    {
+      "id": "bingo-1785776127786-2-782r",
+      "title": "Dirt Rally",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:55:27.786Z",
+      "updatedAt": "2026-08-03T16:55:27.786Z"
+    },
+    {
       "id": "bingo-1785776127786-1-d74u",
       "title": "Dirty Rally 2.0",
       "mediaFormat": "Video Game",
