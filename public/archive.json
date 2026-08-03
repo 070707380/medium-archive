@@ -1886,6 +1886,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785769960391-2-d1ss",
+      "title": "Minecraft",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:40.391Z",
+      "updatedAt": "2026-08-03T15:12:40.391Z",
+      "linkedArchiveId": "item-1785705768922",
+      "coverUrl": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw"
+    },
+    {
       "id": "bingo-1785769960391-1-2cf6",
       "title": "Stray",
       "mediaFormat": "Video Game",
