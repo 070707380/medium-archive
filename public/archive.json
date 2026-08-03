@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785792695933-1-44lj",
+      "title": "Speak No Evil",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:31:35.933Z",
+      "updatedAt": "2026-08-03T21:31:35.933Z"
+    },
+    {
+      "id": "bingo-1785792695933-0-ox6x",
+      "title": "The Rental",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:31:35.933Z",
+      "updatedAt": "2026-08-03T21:31:35.933Z"
+    },
+    {
+      "id": "bingo-1785792627427-3-64sr",
+      "title": "The Life of Pablo",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:30:27.427Z",
+      "updatedAt": "2026-08-03T21:30:27.427Z"
+    },
+    {
+      "id": "bingo-1785792627427-2-vcba",
+      "title": "Playboi Carti",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:30:27.427Z",
+      "updatedAt": "2026-08-03T21:30:27.427Z"
+    },
+    {
       "id": "bingo-1785792627427-1-26dk",
       "title": "Die Lit",
       "mediaFormat": "Music Album",
