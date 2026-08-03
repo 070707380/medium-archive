@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785773558178-0-kmqp",
+      "title": "mbv",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T16:12:38.178Z",
+      "updatedAt": "2026-08-03T16:12:38.178Z"
+    },
+    {
+      "id": "bingo-1785773539127-2-7x1b",
+      "title": "In the Aeroplane Over the Sea",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T16:12:19.127Z",
+      "updatedAt": "2026-08-03T16:12:19.127Z"
+    },
+    {
+      "id": "bingo-1785773539127-1-4cgp",
+      "title": "Pornography",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T16:12:19.127Z",
+      "updatedAt": "2026-08-03T16:12:19.127Z"
+    },
+    {
       "id": "bingo-1785773539125-0-c79k",
       "title": "AM",
       "mediaFormat": "Music Album",
