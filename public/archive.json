@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770828256-0-te7e",
+      "title": "Hocus Pocus",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:27:08.256Z",
+      "updatedAt": "2026-08-03T15:27:08.256Z"
+    },
+    {
+      "id": "bingo-1785770763364-1-kh6v",
+      "title": "Wild Kratts",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:26:03.364Z",
+      "updatedAt": "2026-08-03T15:26:03.364Z"
+    },
+    {
       "id": "bingo-1785770763364-0-xaib",
       "title": "Zoboomafoo",
       "mediaFormat": "TV Show",
