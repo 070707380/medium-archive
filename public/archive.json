@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790664562-0-gbt8",
+      "title": "Batman: The Killing Joke",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:57:44.562Z",
+      "updatedAt": "2026-08-03T20:57:44.562Z"
+    },
+    {
+      "id": "bingo-1785790627643-4-ead1",
+      "title": "Superman 4",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:57:07.643Z",
+      "updatedAt": "2026-08-03T20:57:07.643Z"
+    },
+    {
+      "id": "bingo-1785790627643-3-8xim",
+      "title": "Superman 3",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:57:07.643Z",
+      "updatedAt": "2026-08-03T20:57:07.643Z"
+    },
+    {
       "id": "bingo-1785790627643-2-vxem",
       "title": "Superman 2",
       "mediaFormat": "Film",
