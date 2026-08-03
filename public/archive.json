@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785771361628-1-zxy6",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:36:01.628Z",
+      "updatedAt": "2026-08-03T15:36:01.628Z"
+    },
+    {
+      "id": "bingo-1785771361628-0-0l6s",
+      "title": "Vinland Saga",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:36:01.628Z",
+      "updatedAt": "2026-08-03T15:36:01.628Z"
+    },
+    {
+      "id": "bingo-1785771341621-1-0ao0",
+      "title": "Monopoly",
+      "mediaFormat": "Board Game",
+      "createdAt": "2026-08-03T15:35:41.621Z",
+      "updatedAt": "2026-08-03T15:35:41.621Z"
+    },
+    {
       "id": "bingo-1785771341621-0-sqac",
       "title": "Chess",
       "mediaFormat": "Board Game",
