@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790107380-1-lpru",
+      "title": "Zume Deluxe",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T20:48:27.380Z",
+      "updatedAt": "2026-08-03T20:48:27.380Z"
+    },
+    {
+      "id": "bingo-1785790107380-0-zeoh",
+      "title": "Zuma",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T20:48:27.380Z",
+      "updatedAt": "2026-08-03T20:48:27.380Z"
+    },
+    {
+      "id": "bingo-1785790082739-2-ditv",
+      "title": "Fatal Frame 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T20:48:02.739Z",
+      "updatedAt": "2026-08-03T20:48:02.739Z"
+    },
+    {
       "id": "bingo-1785790082739-1-uxrm",
       "title": "Fatal Frame",
       "mediaFormat": "Video Game",
