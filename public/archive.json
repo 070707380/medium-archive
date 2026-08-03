@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791934386-1-huyw",
+      "title": "Dredd",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:18:54.386Z",
+      "updatedAt": "2026-08-03T21:18:54.386Z"
+    },
+    {
+      "id": "bingo-1785791934386-0-73fz",
+      "title": "Pacific Rim",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T21:18:54.386Z",
+      "updatedAt": "2026-08-03T21:18:54.386Z"
+    },
+    {
+      "id": "bingo-1785791914529-2-oamk",
+      "title": "Journey",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:18:34.529Z",
+      "updatedAt": "2026-08-03T21:18:34.529Z"
+    },
+    {
       "id": "bingo-1785791914529-1-ekj9",
       "title": "Monument",
       "mediaFormat": "Video Game",
