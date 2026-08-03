@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785779438363-0-5bcg",
+      "title": "Dispatch",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:50:38.363Z",
+      "updatedAt": "2026-08-03T17:50:38.363Z"
+    },
+    {
+      "id": "bingo-1785779408689-1-jz44",
+      "title": "Operation: Doomsday",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:50:08.689Z",
+      "updatedAt": "2026-08-03T17:50:08.689Z"
+    },
+    {
       "id": "bingo-1785779408689-0-oav8",
       "title": "Midnight Marauders",
       "mediaFormat": "Music Album",
