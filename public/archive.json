@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793579750-1-fkwu",
+      "title": "Head Over Heels",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:46:19.750Z",
+      "updatedAt": "2026-08-03T21:46:19.750Z"
+    },
+    {
+      "id": "bingo-1785793579750-0-b6nr",
+      "title": "Treasure",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:46:19.750Z",
+      "updatedAt": "2026-08-03T21:46:19.750Z"
+    },
+    {
+      "id": "bingo-1785793558474-4-038l",
+      "title": "Slowdive",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:45:58.474Z",
+      "updatedAt": "2026-08-03T21:45:58.474Z"
+    },
+    {
+      "id": "bingo-1785793558474-3-4duh",
+      "title": "Souvlaki",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:45:58.474Z",
+      "updatedAt": "2026-08-03T21:45:58.474Z"
+    },
+    {
       "id": "bingo-1785793558474-2-21dr",
       "title": "Depression Cherry",
       "mediaFormat": "Music Album",
