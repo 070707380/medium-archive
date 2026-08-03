@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793275981-1-unta",
+      "title": "Compton",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:41:15.981Z",
+      "updatedAt": "2026-08-03T21:41:15.981Z"
+    },
+    {
+      "id": "bingo-1785793275981-0-x8ab",
+      "title": "The Chronic",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:41:15.981Z",
+      "updatedAt": "2026-08-03T21:41:15.981Z"
+    },
+    {
+      "id": "bingo-1785793248324-2-bm7k",
+      "title": "All Systems Red",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T21:40:48.324Z",
+      "updatedAt": "2026-08-03T21:40:48.324Z"
+    },
+    {
       "id": "bingo-1785793248324-1-9nmh",
       "title": "Animal Farm",
       "mediaFormat": "Book",
