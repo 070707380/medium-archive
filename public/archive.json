@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785791790600-2-qcfp",
+      "title": "Gravity Falls",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:16:30.600Z",
+      "updatedAt": "2026-08-03T21:16:30.600Z"
+    },
+    {
+      "id": "bingo-1785791790600-1-82mq",
+      "title": "Camp Lazlo",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:16:30.600Z",
+      "updatedAt": "2026-08-03T21:16:30.600Z"
+    },
+    {
+      "id": "bingo-1785791790600-0-hkes",
+      "title": "Dexter's Laboratory",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T21:16:30.600Z",
+      "updatedAt": "2026-08-03T21:16:30.600Z"
+    },
+    {
       "id": "bingo-1785791757532-1-vkxu",
       "title": "The World Without Us",
       "mediaFormat": "Book",
