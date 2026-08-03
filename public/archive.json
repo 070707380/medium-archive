@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785778461559-2-22mx",
+      "title": "Random Access Memories",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:34:21.559Z",
+      "updatedAt": "2026-08-03T17:34:21.559Z"
+    },
+    {
+      "id": "bingo-1785778461559-1-4uve",
+      "title": "Bad Girls",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:34:21.559Z",
+      "updatedAt": "2026-08-03T17:34:21.559Z"
+    },
+    {
+      "id": "bingo-1785778461559-0-tpjn",
+      "title": "Fever",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:34:21.559Z",
+      "updatedAt": "2026-08-03T17:34:21.559Z"
+    },
+    {
+      "id": "bingo-1785778425233-1-0rb9",
+      "title": "Pepsiman",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:33:45.233Z",
+      "updatedAt": "2026-08-03T17:33:45.233Z"
+    },
+    {
       "id": "bingo-1785778425233-0-oend",
       "title": "Shank",
       "mediaFormat": "Video Game",
