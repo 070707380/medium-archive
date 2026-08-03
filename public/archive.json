@@ -1886,6 +1886,22 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770524100-3-elxh",
+      "title": "Half Life 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:22:04.100Z",
+      "updatedAt": "2026-08-03T15:22:04.100Z",
+      "linkedArchiveId": "item-1785750423268",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1W1u1qMHLfEO5HpJYm4jy3FF114TjHztgF6-rnujzA&s=10"
+    },
+    {
+      "id": "bingo-1785770524100-2-4sef",
+      "title": "Half Life",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:22:04.100Z",
+      "updatedAt": "2026-08-03T15:22:04.100Z"
+    },
+    {
       "id": "bingo-1785770524100-1-53g4",
       "title": "Portal 2",
       "mediaFormat": "Video Game",
