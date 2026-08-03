@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793248324-1-9nmh",
+      "title": "Animal Farm",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T21:40:48.324Z",
+      "updatedAt": "2026-08-03T21:40:48.324Z"
+    },
+    {
+      "id": "bingo-1785793248324-0-dp9u",
+      "title": "Dark Matter",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T21:40:48.324Z",
+      "updatedAt": "2026-08-03T21:40:48.324Z"
+    },
+    {
+      "id": "bingo-1785793218515-3-dfxy",
+      "title": "Quake 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:40:18.515Z",
+      "updatedAt": "2026-08-03T21:40:18.515Z"
+    },
+    {
+      "id": "bingo-1785793218515-2-sd53",
+      "title": "Quake",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T21:40:18.515Z",
+      "updatedAt": "2026-08-03T21:40:18.515Z"
+    },
+    {
       "id": "bingo-1785793218515-1-bx4j",
       "title": "Wolfenstein 3D",
       "mediaFormat": "Video Game",
