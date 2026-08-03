@@ -1886,6 +1886,29 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785769676977-3-hsas",
+      "title": "Bleach",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:07:56.977Z",
+      "updatedAt": "2026-08-03T15:07:56.977Z"
+    },
+    {
+      "id": "bingo-1785769676977-2-ryk6",
+      "title": "Naruto",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:07:56.977Z",
+      "updatedAt": "2026-08-03T15:07:56.977Z",
+      "linkedArchiveId": "item-1785756873467",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhutP4Dlp8XlMssvi2gGazD1lkbqKSbUWFLEAe-5Fkg&s=10"
+    },
+    {
+      "id": "bingo-1785769676977-1-0n3e",
+      "title": "Log Horizon",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:07:56.977Z",
+      "updatedAt": "2026-08-03T15:07:56.977Z"
+    },
+    {
       "id": "bingo-1785769676977-0-ui46",
       "title": "Sword Art Online",
       "mediaFormat": "TV Show",
