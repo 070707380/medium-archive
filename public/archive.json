@@ -1886,6 +1886,62 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777106524-0-j7y6",
+      "title": "The Dark Knight",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:46.524Z",
+      "updatedAt": "2026-08-03T17:11:46.524Z"
+    },
+    {
+      "id": "bingo-1785777091691-7-zvql",
+      "title": "Spider-Man: Far From Home",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
+      "id": "bingo-1785777091691-6-rfki",
+      "title": "Spider-Man: No Way Home",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
+      "id": "bingo-1785777091691-5-2ihb",
+      "title": "The Amazing Spider-Man 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
+      "id": "bingo-1785777091691-4-ioda",
+      "title": "The Amazing Spider-Man",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
+      "id": "bingo-1785777091691-3-5mkg",
+      "title": "Spider-Man 3",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
+      "id": "bingo-1785777091691-2-3s8o",
+      "title": "Spider-Man 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
+      "id": "bingo-1785777091691-1-gbyd",
+      "title": "Spider-Man",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:11:31.691Z",
+      "updatedAt": "2026-08-03T17:11:31.691Z"
+    },
+    {
       "id": "bingo-1785777091691-0-sred",
       "title": "The Batman",
       "mediaFormat": "Film",
