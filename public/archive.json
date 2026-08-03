@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785789133736-2-20s0",
+      "title": "Vol. 4",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T20:32:13.736Z",
+      "updatedAt": "2026-08-03T20:32:13.736Z"
+    },
+    {
+      "id": "bingo-1785789133736-1-5pko",
+      "title": "Black Sabbath",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T20:32:13.736Z",
+      "updatedAt": "2026-08-03T20:32:13.736Z"
+    },
+    {
+      "id": "bingo-1785789133736-0-3b10",
+      "title": "Paranoid",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T20:32:13.736Z",
+      "updatedAt": "2026-08-03T20:32:13.736Z"
+    },
+    {
       "id": "bingo-1785789057445-1-tilb",
       "title": "Stellaris",
       "mediaFormat": "Video Game",
