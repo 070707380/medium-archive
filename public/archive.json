@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785790737665-2-w3c9",
+      "title": "Orphan",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:58:57.665Z",
+      "updatedAt": "2026-08-03T20:58:57.665Z"
+    },
+    {
+      "id": "bingo-1785790737665-1-y1fu",
+      "title": "Child's Play 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:58:57.665Z",
+      "updatedAt": "2026-08-03T20:58:57.665Z"
+    },
+    {
+      "id": "bingo-1785790737665-0-iy6z",
+      "title": "Child's Play",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T20:58:57.665Z",
+      "updatedAt": "2026-08-03T20:58:57.665Z"
+    },
+    {
       "id": "bingo-1785790719401-1-g1oy",
       "title": "17 Again",
       "mediaFormat": "Film",
