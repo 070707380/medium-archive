@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785776453976-0-xeg1",
+      "title": "Astral Ascent",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T17:00:53.976Z",
+      "updatedAt": "2026-08-03T17:00:53.976Z"
+    },
+    {
+      "id": "bingo-1785776342768-3-fn9u",
+      "title": "7 Days 2 Die",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:59:02.768Z",
+      "updatedAt": "2026-08-03T16:59:02.768Z"
+    },
+    {
+      "id": "bingo-1785776342768-2-49at",
+      "title": "Alien: Isolation",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T16:59:02.768Z",
+      "updatedAt": "2026-08-03T16:59:02.768Z"
+    },
+    {
       "id": "bingo-1785776342768-1-c4ce",
       "title": "BioShock: Infinite",
       "mediaFormat": "Film",
