@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785793067461-2-g1in",
+      "title": "Ace of Spades",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:37:47.461Z",
+      "updatedAt": "2026-08-03T21:37:47.461Z"
+    },
+    {
+      "id": "bingo-1785793067461-1-7c8b",
+      "title": "Ride the Lightning",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:37:47.461Z",
+      "updatedAt": "2026-08-03T21:37:47.461Z"
+    },
+    {
+      "id": "bingo-1785793067461-0-0bog",
+      "title": "Back in Black",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T21:37:47.461Z",
+      "updatedAt": "2026-08-03T21:37:47.461Z"
+    },
+    {
       "id": "bingo-1785793035163-0-999x",
       "title": "Serial Experiments Lain",
       "mediaFormat": "TV Show",
