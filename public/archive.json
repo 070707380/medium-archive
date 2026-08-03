@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785772212731-1-5sn9",
+      "title": "The Sopranos",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:50:12.731Z",
+      "updatedAt": "2026-08-03T15:50:12.731Z"
+    },
+    {
+      "id": "bingo-1785772212731-0-qe3q",
+      "title": "Cowboy Bebop",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-03T15:50:12.731Z",
+      "updatedAt": "2026-08-03T15:50:12.731Z"
+    },
+    {
       "id": "bingo-1785772194945-1-27pm",
       "title": "Your Name.",
       "mediaFormat": "Film",
