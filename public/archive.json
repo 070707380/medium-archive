@@ -1886,6 +1886,22 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785769931200-1-m84a",
+      "title": "Resident Evil 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:11.200Z",
+      "updatedAt": "2026-08-03T15:12:11.200Z"
+    },
+    {
+      "id": "bingo-1785769931200-0-tmj1",
+      "title": "Resident Evil",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T15:12:11.200Z",
+      "updatedAt": "2026-08-03T15:12:11.200Z",
+      "linkedArchiveId": "item-1785654966122",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10"
+    },
+    {
       "id": "bingo-1785769909744-0-ojer",
       "title": "Elden Ring",
       "mediaFormat": "Video Game",
