@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785777444971-0-6ztc",
+      "title": "Die Hard",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:17:24.971Z",
+      "updatedAt": "2026-08-03T17:17:24.971Z"
+    },
+    {
+      "id": "bingo-1785777422455-2-0fun",
+      "title": "The Karate Kid",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T17:17:02.455Z",
+      "updatedAt": "2026-08-03T17:17:02.455Z"
+    },
+    {
       "id": "bingo-1785777422455-1-rcfr",
       "title": "The Thing",
       "mediaFormat": "Film",
