@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785779479708-1-m5qm",
+      "title": "Dracula",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T17:51:19.708Z",
+      "updatedAt": "2026-08-03T17:51:19.708Z"
+    },
+    {
+      "id": "bingo-1785779479708-0-d40y",
+      "title": "Monkey's Paw",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T17:51:19.708Z",
+      "updatedAt": "2026-08-03T17:51:19.708Z"
+    },
+    {
       "id": "bingo-1785779438363-0-5bcg",
       "title": "Dispatch",
       "mediaFormat": "Video Game",
