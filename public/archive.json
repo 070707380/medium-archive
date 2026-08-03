@@ -1886,6 +1886,29 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785774009783-2-z7yv",
+      "title": "Cities Skylines 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:20:09.783Z",
+      "updatedAt": "2026-08-03T16:20:09.783Z"
+    },
+    {
+      "id": "bingo-1785774009783-1-u8sd",
+      "title": "Cities Skylines",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:20:09.783Z",
+      "updatedAt": "2026-08-03T16:20:09.783Z"
+    },
+    {
+      "id": "bingo-1785774009783-0-mbcw",
+      "title": "Sekiro: Shadows Die Twice",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:20:09.783Z",
+      "updatedAt": "2026-08-03T16:20:09.783Z",
+      "linkedArchiveId": "item-1785666891387",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10"
+    },
+    {
       "id": "bingo-1785773942608-4-uipa",
       "title": "Stranded 2",
       "mediaFormat": "Video Game",
