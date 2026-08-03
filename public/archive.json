@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785775241511-1-msmq",
+      "title": "YouTubers Life",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:40:41.511Z",
+      "updatedAt": "2026-08-03T16:40:41.511Z"
+    },
+    {
+      "id": "bingo-1785775241511-0-i7xg",
+      "title": "Worldbox",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:40:41.511Z",
+      "updatedAt": "2026-08-03T16:40:41.511Z"
+    },
+    {
+      "id": "bingo-1785775203503-2-u8ho",
+      "title": "Internet Cafe Simulator",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-03T16:40:03.503Z",
+      "updatedAt": "2026-08-03T16:40:03.503Z"
+    },
+    {
       "id": "bingo-1785775203503-1-kaob",
       "title": "Dealer's Life 2",
       "mediaFormat": "Video Game",
