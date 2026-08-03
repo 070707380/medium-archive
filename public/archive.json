@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785776599335-1-nxyb",
+      "title": "AtLienz",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:03:19.335Z",
+      "updatedAt": "2026-08-03T17:03:19.335Z"
+    },
+    {
+      "id": "bingo-1785776599335-0-37lx",
+      "title": "The Eminem Show",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:03:19.335Z",
+      "updatedAt": "2026-08-03T17:03:19.335Z"
+    },
+    {
+      "id": "bingo-1785776590572-2-rimf",
+      "title": "Freddie",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:03:10.572Z",
+      "updatedAt": "2026-08-03T17:03:10.572Z"
+    },
+    {
+      "id": "bingo-1785776590572-1-psts",
+      "title": "Bandana",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T17:03:10.572Z",
+      "updatedAt": "2026-08-03T17:03:10.572Z"
+    },
+    {
       "id": "bingo-1785776590572-0-y0el",
       "title": "Piñata",
       "mediaFormat": "Music Album",
