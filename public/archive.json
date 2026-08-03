@@ -1886,6 +1886,22 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770125758-0-vf5q",
+      "title": "Berserk",
+      "mediaFormat": "Comic/Manga Series",
+      "createdAt": "2026-08-03T15:15:25.758Z",
+      "updatedAt": "2026-08-03T15:15:25.758Z",
+      "linkedArchiveId": "item-1785702301030",
+      "coverUrl": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop"
+    },
+    {
+      "id": "bingo-1785770105706-1-k3cc",
+      "title": "Mr. Nobody",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-03T15:15:05.706Z",
+      "updatedAt": "2026-08-03T15:15:05.706Z"
+    },
+    {
       "id": "bingo-1785770105706-0-nsv1",
       "title": "The Jacket",
       "mediaFormat": "Film",
