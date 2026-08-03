@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785770264070-2-130t",
+      "title": "A Tab in the Ocean",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T15:17:44.070Z",
+      "updatedAt": "2026-08-03T15:17:44.070Z"
+    },
+    {
+      "id": "bingo-1785770264070-1-y5oa",
+      "title": "Heaven's End",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T15:17:44.070Z",
+      "updatedAt": "2026-08-03T15:17:44.070Z"
+    },
+    {
+      "id": "bingo-1785770264070-0-66w8",
+      "title": "Space Ritual",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-03T15:17:44.070Z",
+      "updatedAt": "2026-08-03T15:17:44.070Z"
+    },
+    {
+      "id": "bingo-1785770224706-1-dfsn",
+      "title": "Ulysses",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-03T15:17:04.706Z",
+      "updatedAt": "2026-08-03T15:17:04.706Z"
+    },
+    {
       "id": "bingo-1785770224706-0-dawo",
       "title": "Game of Thrones",
       "mediaFormat": "Book",
