@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785830975412-2-6z0j",
+      "title": "Prototype 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T08:09:35.412Z",
+      "updatedAt": "2026-08-04T08:09:35.412Z"
+    },
+    {
+      "id": "bingo-1785830975412-1-5gq9",
+      "title": "Prototype",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T08:09:35.412Z",
+      "updatedAt": "2026-08-04T08:09:35.412Z"
+    },
+    {
+      "id": "bingo-1785830975412-0-seuy",
+      "title": "Level Devil",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T08:09:35.412Z",
+      "updatedAt": "2026-08-04T08:09:35.412Z"
+    },
+    {
       "id": "bingo-1785830915169-0-77yj",
       "title": "Islanders: New Shores",
       "mediaFormat": "Video Game",
