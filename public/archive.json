@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785828273420-0-cgnq",
+      "title": "Ed Edd & Eddy",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T07:24:33.420Z",
+      "updatedAt": "2026-08-04T07:24:33.420Z"
+    },
+    {
+      "id": "bingo-1785828256900-2-qi3i",
+      "title": "Teen Titans",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T07:24:16.900Z",
+      "updatedAt": "2026-08-04T07:24:16.900Z"
+    },
+    {
       "id": "bingo-1785828256900-1-6nd2",
       "title": "Titans",
       "mediaFormat": "TV Show",
