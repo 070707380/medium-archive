@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785834133173-2-txpd",
+      "title": "Still Life 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T09:02:13.173Z",
+      "updatedAt": "2026-08-04T09:02:13.173Z"
+    },
+    {
+      "id": "bingo-1785834133173-1-2cve",
+      "title": "Still Life",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T09:02:13.173Z",
+      "updatedAt": "2026-08-04T09:02:13.173Z"
+    },
+    {
+      "id": "bingo-1785834133173-0-4ixk",
+      "title": "Gohome",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T09:02:13.173Z",
+      "updatedAt": "2026-08-04T09:02:13.173Z"
+    },
+    {
       "id": "bingo-1785834081805-0-n6fy",
       "title": "SCP: Breakout",
       "mediaFormat": "Video Game",
