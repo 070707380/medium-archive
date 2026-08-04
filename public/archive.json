@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785875475295-0-wk5y",
+      "title": "Myst",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T20:31:15.295Z",
+      "updatedAt": "2026-08-04T20:31:15.295Z"
+    },
+    {
+      "id": "bingo-1785875457998-1-vj7e",
+      "title": "Scorn",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T20:30:57.998Z",
+      "updatedAt": "2026-08-04T20:30:57.998Z"
+    },
+    {
       "id": "bingo-1785875457998-0-fec8",
       "title": "Skull and Bones",
       "mediaFormat": "Video Game",
