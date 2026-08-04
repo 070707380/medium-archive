@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785882188195-0-hexa",
+      "title": "Usagi Ushima",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T22:23:08.195Z",
+      "updatedAt": "2026-08-04T22:23:08.195Z"
+    },
+    {
+      "id": "bingo-1785882174883-2-0b80",
+      "title": "Six Guns",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T22:22:54.883Z",
+      "updatedAt": "2026-08-04T22:22:54.883Z"
+    },
+    {
+      "id": "bingo-1785882174883-1-xp20",
+      "title": "Undawn",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T22:22:54.883Z",
+      "updatedAt": "2026-08-04T22:22:54.883Z"
+    },
+    {
       "id": "bingo-1785882174883-0-fvfi",
       "title": "Song of Bloom",
       "mediaFormat": "Video Game",
