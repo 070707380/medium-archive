@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785876624455-1-42s5",
+      "title": "Toy Story",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T20:50:24.455Z",
+      "updatedAt": "2026-08-04T20:50:24.455Z"
+    },
+    {
+      "id": "bingo-1785876624455-0-7s63",
+      "title": "Toy Story 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T20:50:24.455Z",
+      "updatedAt": "2026-08-04T20:50:24.455Z"
+    },
+    {
+      "id": "bingo-1785876615409-1-aca5",
+      "title": "Robots",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T20:50:15.409Z",
+      "updatedAt": "2026-08-04T20:50:15.409Z"
+    },
+    {
       "id": "bingo-1785876615409-0-9t1g",
       "title": "Constantine",
       "mediaFormat": "Video Game",
