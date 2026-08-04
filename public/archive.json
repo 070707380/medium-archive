@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785829079530-1-qks8",
+      "title": "Witchspire",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T07:37:59.530Z",
+      "updatedAt": "2026-08-04T07:37:59.530Z"
+    },
+    {
+      "id": "bingo-1785829079530-0-53mo",
+      "title": "Tales of Seikyu",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T07:37:59.530Z",
+      "updatedAt": "2026-08-04T07:37:59.530Z"
+    },
+    {
+      "id": "bingo-1785829040171-1-m2s2",
+      "title": "Uno!",
+      "mediaFormat": "Board Game",
+      "createdAt": "2026-08-04T07:37:20.171Z",
+      "updatedAt": "2026-08-04T07:37:20.171Z"
+    },
+    {
       "id": "bingo-1785829040171-0-wnap",
       "title": "Jenga",
       "mediaFormat": "Board Game",
