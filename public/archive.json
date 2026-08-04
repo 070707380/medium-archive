@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785849822796-2-un6p",
+      "title": "Lucius 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T13:23:42.796Z",
+      "updatedAt": "2026-08-04T13:23:42.796Z"
+    },
+    {
+      "id": "bingo-1785849822796-1-9olg",
+      "title": "Lucius",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T13:23:42.796Z",
+      "updatedAt": "2026-08-04T13:23:42.796Z"
+    },
+    {
+      "id": "bingo-1785849822796-0-u8m3",
+      "title": "Devour",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T13:23:42.796Z",
+      "updatedAt": "2026-08-04T13:23:42.796Z"
+    },
+    {
       "id": "bingo-1785849759281-0-73o4",
       "title": "NBA 2k10",
       "mediaFormat": "Video Game",
