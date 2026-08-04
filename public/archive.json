@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785824935657-0-thev",
+      "title": "The Garfield Show",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T06:28:55.657Z",
+      "updatedAt": "2026-08-04T06:28:55.657Z"
+    },
+    {
+      "id": "bingo-1785824919982-2-uzjl",
+      "title": "Nurture",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-04T06:28:39.982Z",
+      "updatedAt": "2026-08-04T06:28:39.982Z"
+    },
+    {
+      "id": "bingo-1785824919982-1-gvaw",
+      "title": "Smile! :D",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-04T06:28:39.982Z",
+      "updatedAt": "2026-08-04T06:28:39.982Z"
+    },
+    {
       "id": "bingo-1785824919982-0-b19o",
       "title": "Filth",
       "mediaFormat": "Music Album",
