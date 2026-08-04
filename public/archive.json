@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785825083989-0-tzlq",
+      "title": "Soul",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-04T06:31:23.989Z",
+      "updatedAt": "2026-08-04T06:31:23.989Z"
+    },
+    {
+      "id": "bingo-1785825074646-1-pn91",
+      "title": "Monsters University",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-04T06:31:14.646Z",
+      "updatedAt": "2026-08-04T06:31:14.646Z"
+    },
+    {
       "id": "bingo-1785825074646-0-dt59",
       "title": "Monsters Inc.",
       "mediaFormat": "Film",
