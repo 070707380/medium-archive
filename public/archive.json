@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785828333420-2-i5wb",
+      "title": "Marvel's Jessica Jones",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T07:25:33.420Z",
+      "updatedAt": "2026-08-04T07:25:33.420Z"
+    },
+    {
+      "id": "bingo-1785828333420-1-vjrf",
+      "title": "Marvel's Iron Fist",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T07:25:33.420Z",
+      "updatedAt": "2026-08-04T07:25:33.420Z"
+    },
+    {
+      "id": "bingo-1785828333420-0-hes9",
+      "title": "Marvel's Daredevil",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T07:25:33.420Z",
+      "updatedAt": "2026-08-04T07:25:33.420Z"
+    },
+    {
       "id": "bingo-1785828290164-0-58mc",
       "title": "Arrow",
       "mediaFormat": "TV Show",
