@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785828679414-1-i3u3",
+      "title": "Halloween 3",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-04T07:31:19.414Z",
+      "updatedAt": "2026-08-04T07:31:19.414Z"
+    },
+    {
       "id": "bingo-1785828679414-0-oizr",
       "title": "Halloween 2",
       "mediaFormat": "Film",
@@ -2483,9 +2490,9 @@
     {
       "id": "bingo-1785825151265-0-fpyz",
       "title": "I am Music",
-      "mediaFormat": "Film",
+      "mediaFormat": "Music Album",
       "createdAt": "2026-08-04T06:32:31.265Z",
-      "updatedAt": "2026-08-04T06:32:31.265Z"
+      "updatedAt": "2026-08-04T07:31:56.215Z"
     },
     {
       "id": "bingo-1785825083989-1-pmyc",
