@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785863102717-2-e11q",
+      "title": "Blood Bowl 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T17:05:02.717Z",
+      "updatedAt": "2026-08-04T17:05:02.717Z"
+    },
+    {
+      "id": "bingo-1785863102717-1-70ul",
+      "title": "Blood Bowl 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T17:05:02.717Z",
+      "updatedAt": "2026-08-04T17:05:02.717Z"
+    },
+    {
+      "id": "bingo-1785863102717-0-yo4p",
+      "title": "Blood Bowl",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T17:05:02.717Z",
+      "updatedAt": "2026-08-04T17:05:02.717Z"
+    },
+    {
       "id": "bingo-1785863084025-0-o4uu",
       "title": "q.u.q",
       "mediaFormat": "Video Game",
