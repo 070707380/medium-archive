@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785828333420-3-sxvv",
+      "title": "Marvel's Luke Cage",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-04T07:25:33.420Z",
+      "updatedAt": "2026-08-04T07:25:33.420Z"
+    },
+    {
       "id": "bingo-1785828333420-2-i5wb",
       "title": "Marvel's Jessica Jones",
       "mediaFormat": "TV Show",
@@ -6949,9 +6956,9 @@
     {
       "id": "bingo-1785776342768-3-fn9u",
       "title": "7 Days 2 Die",
-      "mediaFormat": "Film",
+      "mediaFormat": "Video Game",
       "createdAt": "2026-08-03T16:59:02.768Z",
-      "updatedAt": "2026-08-03T16:59:02.768Z"
+      "updatedAt": "2026-08-04T07:25:56.232Z"
     },
     {
       "id": "bingo-1785776342768-2-49at",
