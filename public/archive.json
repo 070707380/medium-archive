@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785882449540-0-bji0",
+      "title": "Pong",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-04T22:27:29.540Z",
+      "updatedAt": "2026-08-04T22:27:29.540Z"
+    },
+    {
       "id": "bingo-1785882441574-0-rhsq",
       "title": "Tetris",
       "mediaFormat": "Video Game",
