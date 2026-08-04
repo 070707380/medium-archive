@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785829040171-0-wnap",
+      "title": "Jenga",
+      "mediaFormat": "Board Game",
+      "createdAt": "2026-08-04T07:37:20.171Z",
+      "updatedAt": "2026-08-04T07:37:20.171Z"
+    },
+    {
       "id": "bingo-1785829024196-0-fcy7",
       "title": "Checkers",
       "mediaFormat": "Board Game",
