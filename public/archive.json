@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785959150296-1-dlxy",
+      "title": "Braveheart",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T19:45:50.296Z",
+      "updatedAt": "2026-08-05T19:45:50.296Z"
+    },
+    {
+      "id": "bingo-1785959107002-1-n2mj",
+      "title": "Troy",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T19:45:07.002Z",
+      "updatedAt": "2026-08-05T19:45:07.002Z"
+    },
+    {
       "id": "bingo-1785959107002-0-m8gf",
       "title": "Pompeii in 3D",
       "mediaFormat": "Film",
