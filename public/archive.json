@@ -1886,6 +1886,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785912047095-0-mbbr",
+      "title": "Ridge Racer",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T06:40:47.095Z",
+      "updatedAt": "2026-08-05T06:40:47.095Z"
+    },
+    {
+      "id": "bingo-1785911993240-4-g6jh",
+      "title": "Crash Bandicoot: Warped",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T06:39:53.240Z",
+      "updatedAt": "2026-08-05T06:39:53.240Z"
+    },
+    {
+      "id": "bingo-1785911993240-3-ao8q",
+      "title": "Super Mario World 2: Yoshi's Island",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T06:39:53.240Z",
+      "updatedAt": "2026-08-05T06:39:53.240Z"
+    },
+    {
+      "id": "bingo-1785911993240-2-yfxk",
+      "title": "Pikmin 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T06:39:53.240Z",
+      "updatedAt": "2026-08-05T06:39:53.240Z"
+    },
+    {
       "id": "bingo-1785911993240-1-vx0g",
       "title": "Mario & Luigi: Bowser's Inside Story",
       "mediaFormat": "Video Game",
