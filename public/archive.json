@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785944460508-0-v5yw",
+      "title": "Power Rangers",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:41:00.508Z",
+      "updatedAt": "2026-08-05T15:41:00.508Z"
+    },
+    {
+      "id": "bingo-1785944450751-1-d84v",
+      "title": "The Smurfs 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:40:50.751Z",
+      "updatedAt": "2026-08-05T15:40:50.751Z"
+    },
+    {
       "id": "bingo-1785944450751-0-nsw6",
       "title": "The Smurfs",
       "mediaFormat": "Film",
