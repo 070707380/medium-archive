@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785947416529-1-cg6q",
+      "title": "Bejeweled",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T16:30:16.529Z",
+      "updatedAt": "2026-08-05T16:30:16.529Z"
+    },
+    {
       "id": "bingo-1785947416529-0-dtjl",
       "title": "Bejeweled 2",
       "mediaFormat": "Video Game",
@@ -11500,10 +11507,10 @@
     },
     {
       "id": "bingo-1785887791142-0-ug65",
-      "title": "Bejewed 3",
+      "title": "Bejeweled 3",
       "mediaFormat": "Video Game",
       "createdAt": "2026-08-04T23:56:31.142Z",
-      "updatedAt": "2026-08-04T23:56:31.142Z"
+      "updatedAt": "2026-08-05T16:30:24.412Z"
     },
     {
       "id": "bingo-1785887762628-0-63w3",
