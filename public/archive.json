@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785959719778-1-npeq",
+      "title": "The Abyss",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T19:55:19.778Z",
+      "updatedAt": "2026-08-05T19:55:19.778Z"
+    },
+    {
+      "id": "bingo-1785959719768-0-d3zb",
+      "title": "The Black Hole",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T19:55:19.775Z",
+      "updatedAt": "2026-08-05T19:55:19.778Z"
+    },
+    {
+      "id": "bingo-1785959581620-1-ealc",
+      "title": "Stargate",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T19:53:01.620Z",
+      "updatedAt": "2026-08-05T19:53:01.620Z"
+    },
+    {
       "id": "bingo-1785959581620-0-eips",
       "title": "Dune",
       "mediaFormat": "Film",
