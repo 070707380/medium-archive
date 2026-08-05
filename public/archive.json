@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943773353-0-oqvn",
+      "title": "Hotel Transylvania",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:29:33.353Z",
+      "updatedAt": "2026-08-05T15:29:33.353Z"
+    },
+    {
+      "id": "bingo-1785943757049-2-l06e",
+      "title": "Birds of Prey",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:29:17.049Z",
+      "updatedAt": "2026-08-05T15:29:17.049Z"
+    },
+    {
       "id": "bingo-1785943757049-1-ed9y",
       "title": "The Suicide Squad",
       "mediaFormat": "Film",
