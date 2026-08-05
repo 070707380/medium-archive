@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785949524021-1-rafs",
+      "title": "Silent Hunter 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T17:05:24.021Z",
+      "updatedAt": "2026-08-05T17:05:24.021Z"
+    },
+    {
+      "id": "bingo-1785949524021-0-gdpt",
+      "title": "Silent Hunter 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T17:05:24.021Z",
+      "updatedAt": "2026-08-05T17:05:24.021Z"
+    },
+    {
+      "id": "bingo-1785949467570-1-b39i",
+      "title": "Railroad Tycoon 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T17:04:27.570Z",
+      "updatedAt": "2026-08-05T17:04:27.570Z"
+    },
+    {
       "id": "bingo-1785949467565-0-des7",
       "title": "Railroad Tycoon",
       "mediaFormat": "Video Game",
