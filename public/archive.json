@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943903442-1-5m35",
+      "title": "Men in Black 2",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:31:43.442Z",
+      "updatedAt": "2026-08-05T15:31:43.442Z"
+    },
+    {
+      "id": "bingo-1785943903442-0-aet5",
+      "title": "Men in Black",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:31:43.442Z",
+      "updatedAt": "2026-08-05T15:31:43.442Z"
+    },
+    {
+      "id": "bingo-1785943888870-1-5u3s",
+      "title": "Rush Hour 3",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:31:28.870Z",
+      "updatedAt": "2026-08-05T15:31:28.870Z"
+    },
+    {
       "id": "bingo-1785943888870-0-sfl6",
       "title": "Rush Hour 2",
       "mediaFormat": "Film",
