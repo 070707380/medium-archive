@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785908105348-0-pg01",
+      "title": "Metal Gear",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T05:35:05.348Z",
+      "updatedAt": "2026-08-05T05:35:05.348Z"
+    },
+    {
       "id": "bingo-1785908092269-0-12xc",
       "title": "Wildlife Park 3",
       "mediaFormat": "Video Game",
