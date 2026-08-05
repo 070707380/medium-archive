@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785944089351-0-d8yt",
+      "title": "Super 8",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:34:49.351Z",
+      "updatedAt": "2026-08-05T15:34:49.351Z"
+    },
+    {
+      "id": "bingo-1785944071492-1-cyag",
+      "title": "I Tonya",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:34:31.492Z",
+      "updatedAt": "2026-08-05T15:34:31.492Z"
+    },
+    {
       "id": "bingo-1785944071492-0-cnkn",
       "title": "I Robot",
       "mediaFormat": "Film",
