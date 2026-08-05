@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785964745243-2-7u4d",
+      "title": "Roshomon",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T21:19:05.243Z",
+      "updatedAt": "2026-08-05T21:19:05.243Z"
+    },
+    {
       "id": "bingo-1785964745243-1-x22a",
       "title": "Seven Samurai",
       "mediaFormat": "Video Game",
@@ -1895,9 +1902,9 @@
     {
       "id": "bingo-1785964745243-0-j0pg",
       "title": "Citizen Kane",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "Film",
       "createdAt": "2026-08-05T21:19:05.243Z",
-      "updatedAt": "2026-08-05T21:19:05.243Z"
+      "updatedAt": "2026-08-05T21:19:24.656Z"
     },
     {
       "id": "bingo-1785964695706-0-mhff",
