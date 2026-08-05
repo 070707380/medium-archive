@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961599369-0-yl84",
+      "title": "Artzooka!",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-05T20:26:39.369Z",
+      "updatedAt": "2026-08-05T20:26:39.369Z"
+    },
+    {
+      "id": "bingo-1785961559076-3-pp4g",
+      "title": "Top Gun: Maverick",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:25:59.076Z",
+      "updatedAt": "2026-08-05T20:25:59.076Z"
+    },
+    {
+      "id": "bingo-1785961559076-2-rxo7",
+      "title": "RoboCop",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:25:59.076Z",
+      "updatedAt": "2026-08-05T20:25:59.076Z"
+    },
+    {
       "id": "bingo-1785961559076-1-qtwk",
       "title": "Platoon",
       "mediaFormat": "Film",
