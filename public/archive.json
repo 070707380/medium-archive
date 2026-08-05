@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785944165931-0-eypi",
+      "title": "Scary Movie",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:36:05.931Z",
+      "updatedAt": "2026-08-05T15:36:05.931Z"
+    },
+    {
       "id": "bingo-1785944154931-0-zgnp",
       "title": "Blade Trinity",
       "mediaFormat": "Film",
