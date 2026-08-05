@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961559076-1-qtwk",
+      "title": "Platoon",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:25:59.076Z",
+      "updatedAt": "2026-08-05T20:25:59.076Z"
+    },
+    {
+      "id": "bingo-1785961559064-0-b9ib",
+      "title": "Rain Man",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:25:59.071Z",
+      "updatedAt": "2026-08-05T20:25:59.076Z"
+    },
+    {
       "id": "bingo-1785961492122-0-356x",
       "title": "Rambo",
       "mediaFormat": "Film",
