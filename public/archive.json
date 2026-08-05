@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943731038-1-1wzd",
+      "title": "Venom",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:28:51.038Z",
+      "updatedAt": "2026-08-05T15:28:51.038Z"
+    },
+    {
+      "id": "bingo-1785943731038-0-ur2w",
+      "title": "Godzilla",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:28:51.038Z",
+      "updatedAt": "2026-08-05T15:28:51.038Z"
+    },
+    {
       "id": "bingo-1785943707802-0-ds71",
       "title": "King Kong",
       "mediaFormat": "Film",
