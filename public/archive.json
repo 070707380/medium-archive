@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961387935-1-rjni",
+      "title": "Fortress",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:23:07.935Z",
+      "updatedAt": "2026-08-05T20:23:07.935Z"
+    },
+    {
+      "id": "bingo-1785961387935-0-9005",
+      "title": "The Last Unicorn",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:23:07.935Z",
+      "updatedAt": "2026-08-05T20:23:07.935Z"
+    },
+    {
       "id": "bingo-1785961376871-0-bd3p",
       "title": "The Terminator",
       "mediaFormat": "Film",
