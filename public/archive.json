@@ -212,7 +212,7 @@
     {
       "id": "item-1785750423268",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1W1u1qMHLfEO5HpJYm4jy3FF114TjHztgF6-rnujzA&s=10",
-      "title": "Half Life 2",
+      "title": "Half-Life 2",
       "mainCreator": "Valve Corporation",
       "otherCreators": [
         "Gabe Newell/President",
@@ -301,7 +301,6 @@
       "mediumInfluences": [
         {
           "title": "Nineteen Eighty-Four",
-          "type": "media",
           "customCover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
           "note": "Linked to Book (1949)"
         },
@@ -311,7 +310,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-03T09:47:03.273Z",
-      "updatedAt": "2026-08-03T09:47:07.490Z"
+      "updatedAt": "2026-08-05T05:39:13.570Z"
     },
     {
       "id": "item-1785739670489",
