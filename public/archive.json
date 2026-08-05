@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961349302-0-1l5d",
+      "title": "Galaxy Quest",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:22:29.305Z",
+      "updatedAt": "2026-08-05T20:22:29.305Z"
+    },
+    {
+      "id": "bingo-1785959762417-1-n72r",
+      "title": "Willow",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T19:56:02.417Z",
+      "updatedAt": "2026-08-05T19:56:02.417Z"
+    },
+    {
       "id": "bingo-1785959762417-0-0vu4",
       "title": "Stardust",
       "mediaFormat": "Film",
