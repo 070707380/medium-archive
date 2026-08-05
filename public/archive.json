@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943256203-0-jlu7",
+      "title": "MegaMan X7",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T15:20:56.203Z",
+      "updatedAt": "2026-08-05T15:20:56.203Z"
+    },
+    {
+      "id": "bingo-1785943242569-1-g7uv",
+      "title": "MegaMan Zero 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T15:20:42.569Z",
+      "updatedAt": "2026-08-05T15:20:42.569Z"
+    },
+    {
       "id": "bingo-1785943242569-0-sg3v",
       "title": "MegaMan Zero 3",
       "mediaFormat": "Video Game",
