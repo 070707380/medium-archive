@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943968426-0-m1w0",
+      "title": "The Cable Guy",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:48.426Z",
+      "updatedAt": "2026-08-05T15:32:48.426Z"
+    },
+    {
+      "id": "bingo-1785943951999-3-y97p",
+      "title": "Me Myself & Irene",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:31.999Z",
+      "updatedAt": "2026-08-05T15:32:31.999Z"
+    },
+    {
+      "id": "bingo-1785943951999-2-z48d",
+      "title": "Yes Man",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:31.999Z",
+      "updatedAt": "2026-08-05T15:32:31.999Z"
+    },
+    {
       "id": "bingo-1785943951999-1-bl58",
       "title": "Evan Almighty",
       "mediaFormat": "Film",
