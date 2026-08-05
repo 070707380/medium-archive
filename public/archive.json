@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785911244432-1-kmrq",
+      "title": "LittleBigPlanet",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T06:27:24.432Z",
+      "updatedAt": "2026-08-05T06:27:24.432Z"
+    },
+    {
+      "id": "bingo-1785911224018-1-ze9d",
+      "title": "Gears of War 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T06:27:04.018Z",
+      "updatedAt": "2026-08-05T06:27:04.018Z"
+    },
+    {
       "id": "bingo-1785911224018-0-jdtp",
       "title": "Rayman Legends",
       "mediaFormat": "Video Game",
