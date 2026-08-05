@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785962897478-0-ae0r",
+      "title": "Gurren Lagann",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-05T20:48:17.478Z",
+      "updatedAt": "2026-08-05T20:48:17.478Z"
+    },
+    {
+      "id": "bingo-1785962842702-2-floy",
+      "title": "Gravity",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:47:22.702Z",
+      "updatedAt": "2026-08-05T20:47:22.702Z"
+    },
+    {
       "id": "bingo-1785962842702-1-k652",
       "title": "The Martian",
       "mediaFormat": "Film",
