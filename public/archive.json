@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943951999-1-bl58",
+      "title": "Evan Almighty",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:31.999Z",
+      "updatedAt": "2026-08-05T15:32:31.999Z"
+    },
+    {
+      "id": "bingo-1785943951999-0-s6dk",
+      "title": "Bruce Almighty",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:31.999Z",
+      "updatedAt": "2026-08-05T15:32:31.999Z"
+    },
+    {
       "id": "bingo-1785943930779-0-lj3i",
       "title": "Liar Liar",
       "mediaFormat": "Film",
