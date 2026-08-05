@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943285641-0-k7qc",
+      "title": "Vexx",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T15:21:25.641Z",
+      "updatedAt": "2026-08-05T15:21:25.641Z"
+    },
+    {
+      "id": "bingo-1785943270988-1-k996",
+      "title": "Viewtiful Joe 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T15:21:10.988Z",
+      "updatedAt": "2026-08-05T15:21:10.988Z"
+    },
+    {
       "id": "bingo-1785943270988-0-vmht",
       "title": "Viewtiful Joe",
       "mediaFormat": "Video Game",
