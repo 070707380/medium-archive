@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785921528880-0-epel",
+      "title": "Guilty Gear XX",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T09:18:48.880Z",
+      "updatedAt": "2026-08-05T09:18:48.880Z"
+    },
+    {
       "id": "bingo-1785921516204-0-mii8",
       "title": "Homura",
       "mediaFormat": "Video Game",
