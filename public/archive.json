@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785944441922-1-tkmw",
+      "title": "The Lego Movie",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:40:41.922Z",
+      "updatedAt": "2026-08-05T15:40:41.922Z"
+    },
+    {
+      "id": "bingo-1785944441922-0-t0mh",
+      "title": "Bumblebee",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:40:41.922Z",
+      "updatedAt": "2026-08-05T15:40:41.922Z"
+    },
+    {
       "id": "bingo-1785944421488-1-regp",
       "title": "Pixels",
       "mediaFormat": "Film",
