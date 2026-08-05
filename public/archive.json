@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785913236878-0-qqam",
+      "title": "Poco",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T07:00:36.878Z",
+      "updatedAt": "2026-08-05T07:00:36.878Z"
+    },
+    {
+      "id": "bingo-1785913217843-1-eaih",
+      "title": "Cut the Rope 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T07:00:17.843Z",
+      "updatedAt": "2026-08-05T07:00:17.843Z"
+    },
+    {
       "id": "bingo-1785913217843-0-nqp5",
       "title": "Cut the Rope",
       "mediaFormat": "Video Game",
