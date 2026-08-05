@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785957954355-0-72hn",
+      "title": "Turrican 3: Payment Day",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T19:25:54.355Z",
+      "updatedAt": "2026-08-05T19:25:54.355Z"
+    },
+    {
       "id": "bingo-1785949723843-0-en6t",
       "title": "Victoria",
       "mediaFormat": "Video Game",
@@ -27788,5 +27795,6 @@
       "updatedAt": "2026-08-03T15:07:56.977Z"
     }
   ],
-  "bingoRequests": []
+  "bingoRequests": [],
+  "characters": []
 }
