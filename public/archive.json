@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961863527-1-dwqi",
+      "title": "Blade Runner",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:31:03.527Z",
+      "updatedAt": "2026-08-05T20:31:03.527Z"
+    },
+    {
+      "id": "bingo-1785961863526-0-arf7",
+      "title": "Beetlejuice",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:31:03.526Z",
+      "updatedAt": "2026-08-05T20:31:03.527Z"
+    },
+    {
       "id": "bingo-1785961854773-0-6zi5",
       "title": "A Nightmare on Elm Street",
       "mediaFormat": "Film",
