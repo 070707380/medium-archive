@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785944584376-0-5us1",
+      "title": "Jungle Cruise",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:43:04.376Z",
+      "updatedAt": "2026-08-05T15:43:04.376Z"
+    },
+    {
+      "id": "bingo-1785944572970-1-pf35",
+      "title": "Star Wars: A Rogue One",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:42:52.970Z",
+      "updatedAt": "2026-08-05T15:42:52.970Z"
+    },
+    {
       "id": "bingo-1785944572970-0-pqc3",
       "title": "Warcraft",
       "mediaFormat": "Film",
