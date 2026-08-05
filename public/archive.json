@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785962920129-0-rjc1",
+      "title": "The Fate of the Furious",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:48:40.129Z",
+      "updatedAt": "2026-08-05T20:48:40.129Z"
+    },
+    {
+      "id": "bingo-1785962897478-1-7d3c",
+      "title": "Space Brothers",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-05T20:48:17.478Z",
+      "updatedAt": "2026-08-05T20:48:17.478Z"
+    },
+    {
       "id": "bingo-1785962897478-0-ae0r",
       "title": "Gurren Lagann",
       "mediaFormat": "TV Show",
