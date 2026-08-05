@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961492122-0-356x",
+      "title": "Rambo",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:24:52.122Z",
+      "updatedAt": "2026-08-05T20:24:52.122Z"
+    },
+    {
+      "id": "bingo-1785961473968-1-q4xi",
+      "title": "Cocoon",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:24:33.968Z",
+      "updatedAt": "2026-08-05T20:24:33.968Z"
+    },
+    {
       "id": "bingo-1785961473968-0-dp5e",
       "title": "Fright Night",
       "mediaFormat": "Film",
