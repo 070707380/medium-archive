@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785943978747-0-zwyg",
+      "title": "The Three Stooges",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:58.747Z",
+      "updatedAt": "2026-08-05T15:32:58.747Z"
+    },
+    {
+      "id": "bingo-1785943968426-1-d2zk",
+      "title": "The Nutty Professor",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:32:48.426Z",
+      "updatedAt": "2026-08-05T15:32:48.426Z"
+    },
+    {
       "id": "bingo-1785943968426-0-m1w0",
       "title": "The Cable Guy",
       "mediaFormat": "Film",
