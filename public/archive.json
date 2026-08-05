@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785961967572-0-sjqo",
+      "title": "Risky Business",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:32:47.572Z",
+      "updatedAt": "2026-08-05T20:32:47.572Z"
+    },
+    {
+      "id": "bingo-1785961950536-1-oj0v",
+      "title": "The Princess Bride",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T20:32:30.536Z",
+      "updatedAt": "2026-08-05T20:32:30.536Z"
+    },
+    {
       "id": "bingo-1785961950536-0-olrr",
       "title": "Pretty in Pink",
       "mediaFormat": "Film",
