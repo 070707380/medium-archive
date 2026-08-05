@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785964872981-0-qey9",
+      "title": "La La Land",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T21:21:12.981Z",
+      "updatedAt": "2026-08-05T21:21:12.981Z"
+    },
+    {
+      "id": "bingo-1785964848399-1-7xk9",
+      "title": "Mysterious Skin",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T21:20:48.399Z",
+      "updatedAt": "2026-08-05T21:20:48.399Z"
+    },
+    {
       "id": "bingo-1785964848399-0-8h40",
       "title": "Beautiful Boy",
       "mediaFormat": "Film",
