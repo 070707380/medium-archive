@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785945026259-0-d93p",
+      "title": "The Garden of Woods",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:50:26.259Z",
+      "updatedAt": "2026-08-05T15:50:26.259Z"
+    },
+    {
+      "id": "bingo-1785944992626-1-i424",
+      "title": "Naruto: Shippuden",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-05T15:49:52.626Z",
+      "updatedAt": "2026-08-05T15:49:52.626Z"
+    },
+    {
       "id": "bingo-1785944992626-0-kgil",
       "title": "Alice in Borderland",
       "mediaFormat": "TV Show",
