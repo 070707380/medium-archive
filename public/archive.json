@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785945040394-0-o1q0",
+      "title": "Another",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-05T15:50:40.394Z",
+      "updatedAt": "2026-08-05T15:50:40.394Z"
+    },
+    {
+      "id": "bingo-1785945026259-1-xpd8",
+      "title": "5 Centimeters per Second",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:50:26.259Z",
+      "updatedAt": "2026-08-05T15:50:26.259Z"
+    },
+    {
       "id": "bingo-1785945026259-0-d93p",
       "title": "The Garden of Woods",
       "mediaFormat": "Film",
