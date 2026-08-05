@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785944759024-2-g3ck",
+      "title": "It",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:45:59.024Z",
+      "updatedAt": "2026-08-05T15:45:59.024Z"
+    },
+    {
+      "id": "bingo-1785944759024-1-5a1d",
+      "title": "Ghostbusters",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:45:59.024Z",
+      "updatedAt": "2026-08-05T15:45:59.024Z"
+    },
+    {
+      "id": "bingo-1785944759024-0-x03u",
+      "title": "Ponyo",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-05T15:45:59.024Z",
+      "updatedAt": "2026-08-05T15:45:59.024Z"
+    },
+    {
       "id": "bingo-1785944729808-0-lo3h",
       "title": "Nausicaä of the Valley of the Wind",
       "mediaFormat": "Film",
