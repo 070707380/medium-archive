@@ -1886,6 +1886,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785929081165-0-x1py",
+      "title": "The Medium",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-05T11:24:41.165Z",
+      "updatedAt": "2026-08-05T11:24:41.165Z"
+    },
+    {
       "id": "bingo-1785929047648-0-728e",
       "title": "Rustler",
       "mediaFormat": "Video Game",
