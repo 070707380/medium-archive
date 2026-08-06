@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007399682-0-nz9r",
+      "title": "inside out",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:09:59.682z",
+      "updatedAt": "2026-08-06t09:09:59.682z"
+    },
+    {
+      "id": "bingo-1786007375825-2-u5gk",
+      "title": "brave",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:09:35.825z",
+      "updatedAt": "2026-08-06t09:09:35.825z"
+    },
+    {
+      "id": "bingo-1786007375825-1-h1ur",
+      "title": "bolt",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:09:35.825z",
+      "updatedAt": "2026-08-06t09:09:35.825z"
+    },
+    {
       "id": "bingo-1786007375825-0-6hp6",
       "title": "coco",
       "mediaFormat": "film",
