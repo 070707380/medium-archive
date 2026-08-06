@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785997383699-0-b5mw",
+      "title": "Fallout",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:23:03.699Z",
+      "updatedAt": "2026-08-06T06:23:03.699Z"
+    },
+    {
+      "id": "bingo-1785997306910-100-gp4w",
+      "title": "Bungo Stray Dogs",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:21:46.910Z",
+      "updatedAt": "2026-08-06T06:21:46.910Z"
+    },
+    {
       "id": "bingo-1785997306910-99-upla",
       "title": "Golden Kamuy",
       "mediaFormat": "TV Show",
