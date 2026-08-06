@@ -1268,7 +1268,7 @@
     {
       "id": "item-1785663669551",
       "cover": "https://cdn2.unrealengine.com/egs-grandtheftautovicecitythedefinitiveedition-rockstargames-g1a-00-1920x1080-a93053f8548a.jpg",
-      "title": "grand theft auto: vice city",
+      "title": "grand theft auto vice city",
       "mainCreator": "rockstar north",
       "otherCreators": [
         "leslie benzies/producer",
@@ -1286,22 +1286,22 @@
         {
           "name": "leslie benzies",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Leslie%20Benzies"
+          "wikiUrl": "https://en.wikipedia.org/wiki/leslie%20benzies"
         },
         {
           "name": "dan houser",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dan%20Houser"
+          "wikiUrl": "https://en.wikipedia.org/wiki/dan%20houser"
         },
         {
           "name": "james worrall",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/James%20Worrall"
+          "wikiUrl": "https://en.wikipedia.org/wiki/james%20worrall"
         },
         {
           "name": "aaron garbut",
           "category": "art director",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Aaron%20Garbut"
+          "wikiUrl": "https://en.wikipedia.org/wiki/aaron%20garbut"
         }
       ],
       "mediaFormat": "video game",
@@ -1358,11 +1358,11 @@
       "hornetScore": 2,
       "hornetVerdict": "",
       "similarMedia": [
-        "scarface: the world is yours",
+        "scarface the world is yours",
         "the godfather",
         "mafia",
         "saints row",
-        "driver: parallel lines"
+        "driver parallel lines"
       ],
       "mediumInfluences": [
         "scarface",
@@ -1390,7 +1390,7 @@
         }
       ],
       "createdAt": "2026-08-02t09:41:09.553z",
-      "updatedAt": "2026-08-02t09:41:09.559z"
+      "updatedAt": "2026-08-06t07:36:50.134z"
     },
     {
       "id": "item-1785660198276",
