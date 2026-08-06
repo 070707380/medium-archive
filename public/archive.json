@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786009685232-2-49a3",
+      "title": "e.t. extraterrestrial",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:48:05.232z",
+      "updatedAt": "2026-08-06t09:48:05.232z"
+    },
+    {
+      "id": "bingo-1786009685232-1-4hp6",
+      "title": "a.i. artificial intelligence",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:48:05.232z",
+      "updatedAt": "2026-08-06t09:48:05.232z"
+    },
+    {
+      "id": "bingo-1786009685232-0-g864",
+      "title": "jaws",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:48:05.232z",
+      "updatedAt": "2026-08-06t09:48:05.232z"
+    },
+    {
       "id": "bingo-1786009643966-0-y2v0",
       "title": "doom",
       "mediaFormat": "video game",
