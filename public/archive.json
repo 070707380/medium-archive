@@ -393,35 +393,35 @@
       "hornetScore": 4,
       "hornetVerdict": "",
       "similarMedia": [
-        "Story of Seasons: Friends of Mineral Town",
-        "Coral Island",
-        "Fields of Mistria",
-        "Graveyard Keeper",
-        "My Time at Portia"
+        "story of seasons friends of mineral town",
+        "coral island",
+        "fields of mistria",
+        "graveyard keeper",
+        "my Time at portia"
       ],
       "mediumInfluences": [
-        "Harvest Moon",
-        "Animal Crossing",
-        "Rune Factory",
+        "harvest moon",
+        "animal crossing",
+        "rune factory",
         {
-          "title": "Minecraft",
+          "title": "minecraft",
           "type": "media",
           "customCover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
           "note": "Linked to Video Game (2011)"
         },
         {
-          "title": "Terraria",
+          "title": "terraria",
           "type": "media",
           "customCover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
           "note": "Linked to Video Game (2026)"
         },
-        "The Legend of Zelda"
+        "the legend of zelda"
       ],
       "consumedVersion": "PC",
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-03T06:47:50.490Z",
-      "updatedAt": "2026-08-06T06:46:56.046Z"
+      "updatedAt": "2026-08-06T06:50:18.180Z"
     },
     {
       "id": "item-1785705768922",
