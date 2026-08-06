@@ -1887,6 +1887,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786002459767-2-9xze",
+      "title": "alien 3",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t07:47:39.767z",
+      "updatedAt": "2026-08-06t07:47:39.767z"
+    },
+    {
+      "id": "bingo-1786002459767-1-omum",
+      "title": "aliens",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t07:47:39.767z",
+      "updatedAt": "2026-08-06t07:47:39.767z"
+    },
+    {
+      "id": "bingo-1786002459766-0-92ew",
+      "title": "alien",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t07:47:39.766z",
+      "updatedAt": "2026-08-06t07:47:39.767z"
+    },
+    {
+      "id": "bingo-1786002401931-12-w54p",
+      "title": "silent hill townfall",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t07:46:41.931z",
+      "updatedAt": "2026-08-06t07:46:41.931z"
+    },
+    {
       "id": "bingo-1786002401931-11-p3ci",
       "title": "silent hill f",
       "mediaFormat": "video game",
