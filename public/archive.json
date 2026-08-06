@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004638741-1-6dhj",
+      "title": "in rainbows",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:23:58.741z",
+      "updatedAt": "2026-08-06t08:23:58.741z"
+    },
+    {
+      "id": "bingo-1786004638741-0-7nj6",
+      "title": "dark side of the moon",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:23:58.741z",
+      "updatedAt": "2026-08-06t08:23:58.741z"
+    },
+    {
+      "id": "bingo-1786004597073-1-d5ad",
+      "title": "master of puppets",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:23:17.073z",
+      "updatedAt": "2026-08-06t08:23:17.073z"
+    },
+    {
       "id": "bingo-1786004597073-0-uknm",
       "title": "ride the lightning",
       "mediaFormat": "music album",
