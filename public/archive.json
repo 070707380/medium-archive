@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "id": "item-1786039768934",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfhDgYwN___t83w98gGVwPKuAPVKV1noqQIrzVzfkLw&s=10",
+      "title": "debut",
+      "mainCreator": "björk",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "björk",
+          "category": "music artist",
+          "nation": "iceland",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Bj%25C3%25B6rk&ved=2ahUKEwj4x9GTxoyWAxWBSvEDHRbxNF4QFnoECBEQAQ&usg=AOvVaw0xUoVlFd3hGwEdh-xOswuw"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "1993-08-06",
+      "countryOfOrigin": "iceland",
+      "originalLanguage": "english",
+      "genres": [
+        "art pop",
+        "electronic pop",
+        "house",
+        "trip hop"
+      ],
+      "philosophicalTags": [
+        "alienation / otherness",
+        "ecstatic individualism",
+        "nature vs. civilization"
+      ],
+      "genreStyleTags": [
+        "romance",
+        "orchestral",
+        "falsetto vocals",
+        "experimental",
+        "acid jazz",
+        "electronica",
+        "ambient pop",
+        "alternative pop",
+        "worldbeat",
+        "singer songwriter"
+      ],
+      "summaryPlot": "debut is a collection of diary-like fragments chronicling björk's arrival in london and her immersion in the early '90s club scene. the album serves as a sonic travelogue, exploring themes of alienation from an outsider's perspective with the wide-eyed wonder of an alien observing humanity. it navigates the chaotic joys of rave culture, the ecstasy of new love, and the search for identity after leaving behind the familiar sounds of her past.",
+      "pros": [
+        "björk’s vocal performance effortless from intimate whispers to growls, consists sonic personality.",
+        "lush integration of bollywood-inspired string arrangements recorded in mumbai on trip-hop groove is exotic.",
+        "successfully led the gap between underground alternative sensibilities and early-90s uk club/house music.",
+        "the track human behavior built around a looped sample of antônio carlos jobim’s \"gaucho\", it's just an swingy swingy rhythm section.",
+        "dropping electronic beats in to achive dissonant brass creates an organic atmospheric energy.",
+        "production collaboration joins the room with 90s dance-floor energy with punching the face basslines and synth layers.",
+        "tracks like \"big time sensuality\" and \"crying\" feature accessible vocal melodies with high replay value.",
+        "lyrics mimics childlike curiosity about human psychology and nature without forced stuff."
+      ],
+      "cons": [
+        "production choices on tracks like \"crying\" and \"violently happy\" contain generic 4-on-the-floor house rhythms that have aged poorly.",
+        "compared to her lrhythm arrangements here are fairly basic and repetitive.",
+        "shift from explosive club tracks to sparse jazz feels disjointed.",
+        "underdeveloped avant-garde fits into standard pop verse-chorus formats.",
+        "repetitive vocal loops on \"violently happy\" goes with vocal stutters and repeated phrases in whole 5 minutes.",
+        "album feels like a collection of distinct pop experiments rather than a conceptual album experience.",
+        "complex woodwind/brass arrangements clash slightly with the swing elements."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "maxinquaye",
+        "dummy",
+        "blue lines",
+        "when the pawn..."
+      ],
+      "mediumInfluences": [
+        "the sugarcubes",
+        "808 state",
+        "soul ii soul",
+        "massive attack",
+        "sinead o'connor",
+        "art ensemble of chicago",
+        "antônio carlos jobim",
+        "chat baker",
+        "david bowie"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-06t18:09:28.939z",
+      "updatedAt": "2026-08-06t18:09:28.968z"
+    },
+    {
       "id": "item-1786032256227",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvAqNu3T7JjLF9YKABAHaMKW9pvk5ZJJOUwq0l_imVZRtNyz_KKhtBMk&s=10",
       "title": "the secret of kells",
