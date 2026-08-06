@@ -1887,6 +1887,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004332898-0-hmjb",
+      "title": "terraria",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:18:52.898z",
+      "updatedAt": "2026-08-06t08:18:52.898z",
+      "linkedArchiveId": "item-1785669348801",
+      "coverUrl": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg"
+    },
+    {
       "id": "bingo-1786004311013-0-7lni",
       "title": "tron legacy soundtrack",
       "mediaFormat": "music album",
