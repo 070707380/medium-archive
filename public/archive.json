@@ -1887,6 +1887,414 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786001417105-112-1oub",
+      "title": "pokemon",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-111-vdpj",
+      "title": "one piece",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-110-16qk",
+      "title": "bleach",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-109-zcg4",
+      "title": "naruto",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z",
+      "linkedArchiveId": "item-1785756873467",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhutP4Dlp8XlMssvi2gGazD1lkbqKSbUWFLEAe-5Fkg&s=10"
+    },
+    {
+      "id": "bingo-1786001417105-108-pebq",
+      "title": "eureka seven",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-107-gzvq",
+      "title": "blood plus",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-106-2rbx",
+      "title": "ghost in the shell stand alone complex",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-105-zjdn",
+      "title": "fullmetal alchemist",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-104-w8c1",
+      "title": "samurai champloo",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-103-9qqj",
+      "title": "cowboy bebop",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417105-102-xhal",
+      "title": "trigun",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.105z",
+      "updatedAt": "2026-08-06t07:30:17.105z"
+    },
+    {
+      "id": "bingo-1786001417103-101-krrb",
+      "title": "rurouni kenshin",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-100-2mph",
+      "title": "yu yu hakusho",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-99-c9ti",
+      "title": "sailormoon",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-98-cuer",
+      "title": "dragon ball z",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-97-bqcw",
+      "title": "gundam wing",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-96-ruz3",
+      "title": "zoids",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-95-d621",
+      "title": "medabots",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-94-ol1t",
+      "title": "monster rancher",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-93-3on5",
+      "title": "jumanji the series",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-92-09sd",
+      "title": "godzilla the series",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-91-cu4m",
+      "title": "men in black the series",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-90-pm6z",
+      "title": "extreme ghostbusters",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-89-1ei9",
+      "title": "the ghostbusters",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-88-xz6s",
+      "title": "road rovers",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-86-99qo",
+      "title": "tiger sharks",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-85-twqz",
+      "title": "silverhawks",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-84-rw7c",
+      "title": "bravestarr",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-83-uude",
+      "title": "she ra princess of power",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-82-xeze",
+      "title": "he man and the masters of the universe",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-81-7dfg",
+      "title": "spider man the new animated series",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-80-0vo7",
+      "title": "tron uprising",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-79-mm3s",
+      "title": "motorcity",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-78-mlg1",
+      "title": "randy cunningham 9th grade ninja",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-77-1393",
+      "title": "buzz lightyear of star command",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-76-rlz7",
+      "title": "star trek animated",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-75-sq5a",
+      "title": "spaceship sark",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-74-qvqq",
+      "title": "terrahawks",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-73-uzui",
+      "title": "stingray",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-72-oe2f",
+      "title": "captain scarlet",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-71-4z9d",
+      "title": "joe 90",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-70-und9",
+      "title": "thunderbirds",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-69-9p0c",
+      "title": "flash gordon",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-68-f6it",
+      "title": "the phantom",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-67-yosc",
+      "title": "the shadow",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-66-6vbl",
+      "title": "the mask",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-65-rw7q",
+      "title": "the tick",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-64-6bg0",
+      "title": "the cape",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-63-udh8",
+      "title": "his dark materials",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-62-ll3z",
+      "title": "black panther",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-61-11w2",
+      "title": "super hero squad show",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-60-lbjh",
+      "title": "avengers earths mightiest heroes",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-58-4m52",
+      "title": "iron man armored adventures",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-57-mp7j",
+      "title": "wolverine and the x men",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-56-idad",
+      "title": "spectacuar spider man",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-55-41ar",
+      "title": "the batman",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-54-aup2",
+      "title": "legion of super heroes",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
+      "id": "bingo-1786001417103-53-eqb2",
+      "title": "krypto the superdog",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:30:17.103z",
+      "updatedAt": "2026-08-06t07:30:17.103z"
+    },
+    {
       "id": "bingo-1786001417103-51-13os",
       "title": "justice league unlimited",
       "mediaFormat": "tv show",
