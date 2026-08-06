@@ -1885,7 +1885,57 @@
       "updatedAt": "2026-08-06t06:55:35.885z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786002333232-6-143o",
+      "title": "red",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.232z",
+      "updatedAt": "2026-08-06t07:45:33.232z"
+    },
+    {
+      "id": "bingo-1786002333232-5-g8f0",
+      "title": "starless and bible black",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.232z",
+      "updatedAt": "2026-08-06t07:45:33.232z"
+    },
+    {
+      "id": "bingo-1786002333231-4-7oli",
+      "title": "larks tongues in aspic",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.232z",
+      "updatedAt": "2026-08-06t07:45:33.232z"
+    },
+    {
+      "id": "bingo-1786002333231-3-pszg",
+      "title": "islands",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.231z",
+      "updatedAt": "2026-08-06t07:45:33.231z"
+    },
+    {
+      "id": "bingo-1786002333231-2-114q",
+      "title": "lizard",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.231z",
+      "updatedAt": "2026-08-06t07:45:33.231z"
+    },
+    {
+      "id": "bingo-1786002333231-1-3mmh",
+      "title": "in the wake of poseidon",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.231z",
+      "updatedAt": "2026-08-06t07:45:33.231z"
+    },
+    {
+      "id": "bingo-1786002333231-0-ukpq",
+      "title": "in the court of the crimson king",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t07:45:33.231z",
+      "updatedAt": "2026-08-06t07:45:33.231z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
