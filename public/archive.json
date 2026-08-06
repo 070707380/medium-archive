@@ -212,7 +212,7 @@
     {
       "id": "item-1785750423268",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1W1u1qMHLfEO5HpJYm4jy3FF114TjHztgF6-rnujzA&s=10",
-      "title": "half-life 2",
+      "title": "half life 2",
       "mainCreator": "valve corporation",
       "otherCreators": [
         "gabe newell/president",
@@ -229,17 +229,17 @@
         {
           "name": "gabe newell",
           "category": "president",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Gabe%20Newell"
+          "wikiUrl": "https://en.wikipedia.org/wiki/gabe%20newell"
         },
         {
           "name": "viktor antonov",
           "category": "art director",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Viktor%20Antonov"
+          "wikiUrl": "https://en.wikipedia.org/wiki/viktor%20antonov"
         },
         {
           "name": "marc laidlaw",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Marc%20Laidlaw"
+          "wikiUrl": "https://en.wikipedia.org/wiki/marc%20laidlaw"
         }
       ],
       "mediaFormat": "video game",
@@ -299,19 +299,14 @@
         "black mesa"
       ],
       "mediumInfluences": [
-        {
-          "title": "nineteen eighty-four",
-          "type": "media",
-          "customCover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
-          "note": "linked to book (1949)"
-        },
+        "nineteen eighty four",
         "the war of the worlds"
       ],
       "consumedVersion": "pc",
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-03t09:47:03.273z",
-      "updatedAt": "2026-08-05t05:39:13.570z"
+      "updatedAt": "2026-08-06t07:35:40.300z"
     },
     {
       "id": "item-1785739670489",
