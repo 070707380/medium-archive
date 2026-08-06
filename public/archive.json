@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786008932234-1-bhct",
+      "title": "the luminous dead",
+      "mediaFormat": "book",
+      "createdAt": "2026-08-06t09:35:32.234z",
+      "updatedAt": "2026-08-06t09:35:32.234z"
+    },
+    {
+      "id": "bingo-1786008932234-0-l7k6",
+      "title": "the haunting of hill house",
+      "mediaFormat": "book",
+      "createdAt": "2026-08-06t09:35:32.234z",
+      "updatedAt": "2026-08-06t09:35:32.234z"
+    },
+    {
       "id": "bingo-1786008911334-0-bqb9",
       "title": "the alexandria quartet",
       "mediaFormat": "book",
