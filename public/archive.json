@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786005058080-0-nnlg",
+      "title": "monster",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:30:58.080z",
+      "updatedAt": "2026-08-06t08:30:58.080z"
+    },
+    {
+      "id": "bingo-1786005019932-1-qywe",
+      "title": "ghost of tsushima",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:30:19.932z",
+      "updatedAt": "2026-08-06t08:30:19.932z"
+    },
+    {
       "id": "bingo-1786005019932-0-h5ny",
       "title": "ghost of yotei",
       "mediaFormat": "video game",
