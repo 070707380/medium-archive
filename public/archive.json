@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007299750-1-xlpx",
+      "title": "monsters inc.",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:08:19.750z",
+      "updatedAt": "2026-08-06t09:08:19.750z"
+    },
+    {
+      "id": "bingo-1786007299750-0-k0op",
+      "title": "despicable me 3",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:08:19.750z",
+      "updatedAt": "2026-08-06t09:08:19.750z"
+    },
+    {
+      "id": "bingo-1786007282654-1-0um4",
+      "title": "wreck it ralph",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:08:02.654z",
+      "updatedAt": "2026-08-06t09:08:02.654z"
+    },
+    {
       "id": "bingo-1786007282654-0-p86x",
       "title": "the garfield movie",
       "mediaFormat": "film",
