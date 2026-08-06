@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786009701497-1-hmxu",
+      "title": "jurassic park",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:48:21.497z",
+      "updatedAt": "2026-08-06t09:48:21.497z"
+    },
+    {
+      "id": "bingo-1786009701497-0-a1yi",
+      "title": "close encounters of the third king",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:48:21.497z",
+      "updatedAt": "2026-08-06t09:48:21.497z"
+    },
+    {
       "id": "bingo-1786009685232-2-49a3",
       "title": "e.t. extraterrestrial",
       "mediaFormat": "film",
