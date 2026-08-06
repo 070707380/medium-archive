@@ -1887,6 +1887,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786003425005-1-j0rp",
+      "title": "willow",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:03:45.005z",
+      "updatedAt": "2026-08-06t08:03:45.006z"
+    },
+    {
+      "id": "bingo-1786003425005-0-nms3",
+      "title": "jungle cruise",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:03:45.005z",
+      "updatedAt": "2026-08-06t08:03:45.005z"
+    },
+    {
+      "id": "bingo-1786003409654-2-vylw",
+      "title": "uncharted",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:03:29.654z",
+      "updatedAt": "2026-08-06t08:03:29.654z"
+    },
+    {
+      "id": "bingo-1786003409654-1-rgu5",
+      "title": "city of ember",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:03:29.654z",
+      "updatedAt": "2026-08-06t08:03:29.654z"
+    },
+    {
       "id": "bingo-1786003409654-0-na27",
       "title": "megan",
       "mediaFormat": "film",
