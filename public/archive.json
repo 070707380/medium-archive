@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786003502612-0-ld4a",
+      "title": "mr. magorium's wonder emporium",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:05:02.612z",
+      "updatedAt": "2026-08-06t08:05:02.612z"
+    },
+    {
+      "id": "bingo-1786003479926-1-z3m6",
+      "title": "wavelength",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:04:39.926z",
+      "updatedAt": "2026-08-06t08:04:39.926z"
+    },
+    {
       "id": "bingo-1786003479926-0-92xr",
       "title": "the legend of tarzan",
       "mediaFormat": "film",
