@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786003753328-1-oj2d",
+      "title": "the northman",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:09:13.328z",
+      "updatedAt": "2026-08-06t08:09:13.328z"
+    },
+    {
+      "id": "bingo-1786003743988-2-sou8",
+      "title": "the medallion",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:09:03.988z",
+      "updatedAt": "2026-08-06t08:09:03.988z"
+    },
+    {
+      "id": "bingo-1786003743988-1-hcb8",
+      "title": "hook",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:09:03.988z",
+      "updatedAt": "2026-08-06t08:09:03.988z"
+    },
+    {
       "id": "bingo-1786003743988-0-b8fc",
       "title": "planet 51",
       "mediaFormat": "film",
