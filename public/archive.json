@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007911048-0-bo9p",
+      "title": "león",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t09:18:31.048z",
+      "updatedAt": "2026-08-06t09:18:31.048z"
+    },
+    {
+      "id": "bingo-1786007820955-1-8cgu",
+      "title": "the secret life of pets",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:17:00.955z",
+      "updatedAt": "2026-08-06t09:17:00.955z"
+    },
+    {
       "id": "bingo-1786007820955-0-q73v",
       "title": "up",
       "mediaFormat": "film",
