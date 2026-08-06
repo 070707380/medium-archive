@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786008988381-0-62s8",
+      "title": "the wizard of speed and time",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:36:28.381z",
+      "updatedAt": "2026-08-06t09:36:28.381z"
+    },
+    {
+      "id": "bingo-1786008969754-1-ef43",
+      "title": "the ordinary",
+      "mediaFormat": "book",
+      "createdAt": "2026-08-06t09:36:09.754z",
+      "updatedAt": "2026-08-06t09:36:09.754z"
+    },
+    {
       "id": "bingo-1786008969754-0-dei2",
       "title": "house of leaves",
       "mediaFormat": "book",
