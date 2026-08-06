@@ -800,15 +800,15 @@
       "hornetScore": 2,
       "hornetVerdict": "",
       "similarMedia": [
-        "Shinobido: Way of the Ninja",
-        "Metal Gear Solid 2: Sons of Liberty",
-        "Splinter Cell",
-        "Hitman 2: Silent Assassin",
-        "Mark of Kri"
+        "shinobido way of the ninja",
+        "metal gear solid 2 sons of liberty",
+        "splinter cell",
+        "hitman 2 silent assassin",
+        "mark of kri"
       ],
       "mediumInfluences": [
-        "Rurouni Kenshin",
-        "Way of the Samurai"
+        "rurouni kenshin",
+        "way of the samurai"
       ],
       "consumedVersion": "PlayStation 2",
       "isSoundtrack": false,
@@ -820,7 +820,7 @@
         }
       ],
       "createdAt": "2026-08-02T16:15:11.606Z",
-      "updatedAt": "2026-08-06T06:46:42.822Z"
+      "updatedAt": "2026-08-06T06:54:14.777Z"
     },
     {
       "id": "item-1785679574333",
