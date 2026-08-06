@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786008246501-0-kf1k",
+      "title": "the saragossa manuscript",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:24:06.501z",
+      "updatedAt": "2026-08-06t09:24:06.501z"
+    },
+    {
+      "id": "bingo-1786008232354-2-quef",
+      "title": "the quiet family",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:23:52.354z",
+      "updatedAt": "2026-08-06t09:23:52.354z"
+    },
+    {
+      "id": "bingo-1786008232354-1-b9zr",
+      "title": "clean shaven",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:23:52.354z",
+      "updatedAt": "2026-08-06t09:23:52.354z"
+    },
+    {
       "id": "bingo-1786008232354-0-inev",
       "title": "the fall",
       "mediaFormat": "film",
