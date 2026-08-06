@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007644288-0-k2xs",
+      "title": "bambi",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:14:04.288z",
+      "updatedAt": "2026-08-06t09:14:04.289z"
+    },
+    {
+      "id": "bingo-1786007623936-1-3sxa",
+      "title": "monsters university",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:13:43.936z",
+      "updatedAt": "2026-08-06t09:13:43.936z"
+    },
+    {
       "id": "bingo-1786007623936-0-m5je",
       "title": "despicable me 2",
       "mediaFormat": "film",
