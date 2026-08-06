@@ -1011,7 +1011,7 @@
     {
       "id": "item-1785669348801",
       "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
-      "title": "Terraria",
+      "title": "terraria",
       "mainCreator": "Re-Logic",
       "otherCreators": [
         "Andrew \"Redigit\" Spinks/Lead Developer",
@@ -1124,11 +1124,11 @@
       "soundtracks": [
         {
           "id": "album-ost-1785683444842-16zbo",
-          "title": "terraria official soundtrack"
+          "title": "Terraria: Official Soundtrack"
         }
       ],
       "soundtrackId": "album-ost-1785683444842-16zbo",
-      "soundtrackTitle": "terraria official soundtrack",
+      "soundtrackTitle": "Terraria: Official Soundtrack",
       "links": [
         {
           "id": "l1",
@@ -1137,7 +1137,7 @@
         }
       ],
       "createdAt": "2026-08-02T11:15:48.802Z",
-      "updatedAt": "2026-08-06T06:47:10.304Z"
+      "updatedAt": "2026-08-06T06:47:30.811Z"
     },
     {
       "id": "item-1785666891387",
