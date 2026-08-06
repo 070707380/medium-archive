@@ -648,7 +648,7 @@
     {
       "id": "item-1785696098365",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
-      "title": "Ergo Proxy",
+      "title": "ergo proxy",
       "mainCreator": "Shūkō Murase",
       "otherCreators": [
         "Dai Satō/Scriptwriter"
@@ -717,24 +717,24 @@
       "hornetScore": 5,
       "hornetVerdict": "",
       "similarMedia": [
-        "Ghost in the Shell: Stand Alone Complex",
-        "Psycho-Pass",
-        "Wolf's Rain",
-        "Shinsekai Yori",
-        "Darker Than Black"
+        "ghost in the shell stand alone complex",
+        "psycho-pass",
+        "wolf's rain",
+        "shinsekai yori",
+        "darker than black"
       ],
       "mediumInfluences": [
-        "Ghost in the Shell",
-        "Serial Experiments Lain",
-        "Texhnolyze",
-        "Blade Runner",
-        "Nausicaä of the Valley of the Wind"
+        "ghost in the shell",
+        "serial experiments lain",
+        "texhnolyze",
+        "blade runner",
+        "nausicaä of the valley of the wind"
       ],
       "consumedVersion": "Digital",
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02T18:41:38.368Z",
-      "updatedAt": "2026-08-02T23:35:16.099Z"
+      "updatedAt": "2026-08-06T06:53:19.907Z"
     },
     {
       "id": "item-1785687311605",
