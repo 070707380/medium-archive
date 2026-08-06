@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785995465296-0-gwqc",
+      "title": "Moon Knight",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T05:51:05.296Z",
+      "updatedAt": "2026-08-06T05:51:05.296Z"
+    },
+    {
+      "id": "bingo-1785995451695-2-azdo",
+      "title": "Captain America: Civil War",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:50:51.695Z",
+      "updatedAt": "2026-08-06T05:50:51.695Z"
+    },
+    {
+      "id": "bingo-1785995451695-1-xqsv",
+      "title": "Captain America: Winter Soldier",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:50:51.695Z",
+      "updatedAt": "2026-08-06T05:50:51.695Z"
+    },
+    {
       "id": "bingo-1785995451694-0-cbfm",
       "title": "Captain America: Brave New World",
       "mediaFormat": "Film",
