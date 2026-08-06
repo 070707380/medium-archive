@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786006395359-1-cbvd",
+      "title": "baccano!",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:53:15.359z",
+      "updatedAt": "2026-08-06t08:53:15.359z"
+    },
+    {
+      "id": "bingo-1786006395359-0-oa36",
+      "title": "another",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:53:15.359z",
+      "updatedAt": "2026-08-06t08:53:15.359z"
+    },
+    {
       "id": "bingo-1786006374164-0-7nkg",
       "title": "bounce tales",
       "mediaFormat": "video game",
