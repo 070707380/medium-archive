@@ -859,7 +859,7 @@
         {
           "name": "dai satō",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dai%20Sat%C5%8D"
+          "wikiUrl": "https://en.wikipedia.org/wiki/dai%20sat%C5%8D"
         }
       ],
       "mediaFormat": "tv show",
@@ -887,7 +887,8 @@
         "noir",
         "artificial intelligence",
         "action",
-        "animation"
+        "animation",
+        "anime"
       ],
       "summaryPlot": "set in a post-apocalyptic future within the domed utopia of romdo, inspector re-l mayer investigates a series of murders committed by autoreiv androids infected with the \"cogito virus\" that grants them self-awareness. the investigation pulls her into a global conspiracy involving vincent law, an immigrant haunted by his past, and mysterious god-like beings called \"proxies,\" forcing them all to confront the true nature of their existence.",
       "pros": [
@@ -930,7 +931,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02t18:41:38.368z",
-      "updatedAt": "2026-08-06t06:53:19.907z"
+      "updatedAt": "2026-08-06t11:18:03.631z"
     },
     {
       "id": "item-1785687311605",
