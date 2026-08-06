@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786006309554-2-97cq",
+      "title": "monopoly",
+      "mediaFormat": "board game",
+      "createdAt": "2026-08-06t08:51:49.554z",
+      "updatedAt": "2026-08-06t08:51:49.554z"
+    },
+    {
+      "id": "bingo-1786006309554-1-c2mk",
+      "title": "checkers",
+      "mediaFormat": "board game",
+      "createdAt": "2026-08-06t08:51:49.554z",
+      "updatedAt": "2026-08-06t08:51:49.554z"
+    },
+    {
+      "id": "bingo-1786006309554-0-d59f",
+      "title": "chess",
+      "mediaFormat": "board game",
+      "createdAt": "2026-08-06t08:51:49.554z",
+      "updatedAt": "2026-08-06t08:51:49.554z"
+    },
+    {
       "id": "bingo-1786006239474-1-1brp",
       "title": "town to city",
       "mediaFormat": "video game",
