@@ -106,21 +106,21 @@
         {
           "name": "rafał jaki",
           "category": "creator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Rafa%C5%82%20Jaki"
+          "wikiUrl": "https://en.wikipedia.org/wiki/rafa%C5%82%20jaki"
         },
         {
           "name": "studio trigger",
           "category": "studio",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Studio%20Trigger"
+          "wikiUrl": "https://en.wikipedia.org/wiki/studio%20trigger"
         },
         {
           "name": "cd projekt red",
           "category": "supervisor",
-          "wikiUrl": "https://en.wikipedia.org/wiki/CD%20Projekt%20Red"
+          "wikiUrl": "https://en.wikipedia.org/wiki/cd%20projekt%20red"
         }
       ],
       "mediaFormat": "tv show",
-      "releaseDate": "2026-08-06",
+      "releaseDate": "2022-09-13",
       "countryOfOrigin": "japan",
       "originalLanguage": "japanese",
       "genres": [
@@ -187,100 +187,8 @@
       "consumedVersion": "digital",
       "isSoundtrack": false,
       "links": [],
-      "characters": [
-        {
-          "id": "char-1786013359377-xzwr",
-          "name": "david martinez",
-          "personalityTags": [
-            "orphan",
-            "reckless",
-            "impulsive",
-            "determined",
-            "loyal",
-            "protective",
-            "self-destructive",
-            "insecure",
-            "desperate-for-validation",
-            "kind-hearted",
-            "emotional"
-          ],
-          "mediaAppearances": [
-            {
-              "mediaTitle": "cyberpunk edgerunners",
-              "role": "protagonist",
-              "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg"
-            }
-          ],
-          "createdAt": "2026-08-06t10:49:19.377z",
-          "updatedAt": "2026-08-06t10:49:19.379z"
-        },
-        {
-          "id": "char-1786013450235-dkjj",
-          "name": "lucyna \"lucy\" kushinada",
-          "personalityTags": [
-            "deuteragonist",
-            "netrunner",
-            "mysterious",
-            "cool-headed",
-            "cynical",
-            "dreamer",
-            "independent",
-            "protective",
-            "traumatized",
-            "solitary",
-            "romantic",
-            "secretive",
-            "tactical",
-            "guarded",
-            "passionate",
-            "hyper-vigilant",
-            "burdened-by-past"
-          ],
-          "mediaAppearances": [
-            {
-              "mediaTitle": "cyberpunk edgerunners",
-              "role": "character",
-              "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg"
-            }
-          ],
-          "createdAt": "2026-08-06t10:50:50.235z",
-          "updatedAt": "2026-08-06t10:50:50.235z"
-        },
-        {
-          "id": "char-1786013529472-pwi2",
-          "name": "maine",
-          "personalityTags": [
-            "mentor-figure",
-            "team-leader",
-            "cyberpsycho",
-            "burdened",
-            "selfless",
-            "father-figure",
-            "tragic",
-            "dependable",
-            "powerful",
-            "unstable",
-            "sacrificial",
-            "military-experience",
-            "grizzled",
-            "emotional",
-            "protective",
-            "loyal",
-            "self-destructive"
-          ],
-          "mediaAppearances": [
-            {
-              "mediaTitle": "cyberpunk edgerunners",
-              "role": "protagonist",
-              "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg"
-            }
-          ],
-          "createdAt": "2026-08-06t10:52:09.472z",
-          "updatedAt": "2026-08-06t10:52:09.472z"
-        }
-      ],
       "createdAt": "2026-08-06t11:06:33.733z",
-      "updatedAt": "2026-08-06t11:06:33.745z"
+      "updatedAt": "2026-08-06t15:03:03.568z"
     },
     {
       "id": "item-1785762906387",
