@@ -1887,6 +1887,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007156890-1-vk3c",
+      "title": "a bugs life",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:05:56.890z",
+      "updatedAt": "2026-08-06t09:05:56.890z"
+    },
+    {
+      "id": "bingo-1786007156890-0-mecl",
+      "title": "mulan",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:05:56.890z",
+      "updatedAt": "2026-08-06t09:05:56.890z"
+    },
+    {
+      "id": "bingo-1786007148995-2-9618",
+      "title": "the smurfs 2",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:05:48.995z",
+      "updatedAt": "2026-08-06t09:05:48.995z"
+    },
+    {
+      "id": "bingo-1786007148995-1-tp58",
+      "title": "moana",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:05:48.995z",
+      "updatedAt": "2026-08-06t09:05:48.995z"
+    },
+    {
       "id": "bingo-1786007148995-0-x3c3",
       "title": "shrek 2",
       "mediaFormat": "film",
