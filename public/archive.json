@@ -1482,22 +1482,22 @@
     {
       "id": "item-1785656403183",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFT2rkuEKSp1XIOuYbsxeNjEG2wBChy-HfeAmBXgssr5Z3lSnG3yn2cM&s=10",
-      "title": "Adventure Time",
-      "mainCreator": "Pendleton Ward",
+      "title": "adventure time",
+      "mainCreator": "pendleton ward",
       "otherCreators": [
-        "Adam Muto/Showrunner"
+        "adam muto/showrunner"
       ],
       "creatorDetails": [
         {
-          "name": "Pendleton Ward",
+          "name": "pendleton ward",
           "category": "Director",
           "nation": "United States",
           "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pendleton_Ward&ved=2ahUKEwjqwtf2tYGWAxUo8LsIHQ65L04QFnoECFYQAQ&sqi=2&usg=AOvVaw1qHjcNIomAxpOLe2K6cIRR"
         },
         {
-          "name": "Adam Muto",
-          "category": "Showrunner",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Adam%20Muto"
+          "name": "adam muto",
+          "category": "showrunner",
+          "wikiUrl": "https://en.wikipedia.org/wiki/adam%20muto"
         }
       ],
       "mediaFormat": "TV Show",
@@ -1567,24 +1567,24 @@
       "hornetScore": 4,
       "hornetVerdict": "",
       "similarMedia": [
-        "Steven Universe",
-        "Gravity Falls",
-        "The Owl House",
-        "Bee and PuppyCat",
-        "Bravest Warriors",
-        "Kipo and the Age of Wonderbeasts",
-        "Rick and Morty"
+        "steven universe",
+        "gravity falls",
+        "the owl house",
+        "bee and puppycat",
+        "bravest warriors",
+        "kipo and the age of wonderbeasts",
+        "rick and morty"
       ],
       "mediumInfluences": [
-        "Dungeons & Dragons",
-        "The Legend of Zelda",
-        "My Neighbor Totoro",
-        "The Simpsons",
-        "Pee-wee's Playhouse",
-        "The Marvelous Misadventures of Flapjack",
-        "Felix the Cat",
-        "Meatballs",
-        "H.P. Lovecraft"
+        "dungeons & dragons",
+        "the legend of zelda",
+        "my neighbor totoro",
+        "the simpsons",
+        "pee-wee's playhouse",
+        "the marvelous misadventures of flapjack",
+        "felix the cat",
+        "meatballs",
+        "h.p. lovecraft"
       ],
       "consumedVersion": "Digital",
       "isSoundtrack": false,
@@ -1596,7 +1596,7 @@
         }
       ],
       "createdAt": "2026-08-02T07:40:03.183Z",
-      "updatedAt": "2026-08-02T16:34:39.409Z"
+      "updatedAt": "2026-08-06T06:59:48.761Z"
     },
     {
       "id": "item-1785654966122",
@@ -1886,6 +1886,265 @@
     }
   ],
   "bingo": [
+    {
+      "id": "bingo-1785999455308-64-8of8",
+      "title": "lamput",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-63-rma3",
+      "title": "ivandoe",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-62-5wt6",
+      "title": "elliott from earth",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-61-i3px",
+      "title": "apple and onion",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-60-zl6b",
+      "title": "unikitty",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-59-erge",
+      "title": "total dramarama",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-58-zyos",
+      "title": "total drama presents the ridonculous race",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-57-6az6",
+      "title": "total drama all stars",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-56-10bp",
+      "title": "total drama revenge of the island",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-55-zbhd",
+      "title": "total drama world tour",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-54-1tts",
+      "title": "total drama action",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-53-pbiq",
+      "title": "total drama island",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-52-5e4b",
+      "title": "thundercats roar",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-51-cetu",
+      "title": "we baby bears",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-50-05lx",
+      "title": "ok ko lets be heroes",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-49-tj6r",
+      "title": "the marvelous misadventures of flapjack",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-48-oh3z",
+      "title": "secret saturdays",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-47-7ciu",
+      "title": "generator rex",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-46-7i46",
+      "title": "sym-bionic titan",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-45-bjbl",
+      "title": "megas xlr",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-44-apmw",
+      "title": "hi hi puffy ami yumi",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-43-5tcs",
+      "title": "fosters home for imaginary friends",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-42-rry2",
+      "title": "my gym partner is a monkey",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-41-isof",
+      "title": "the life and times of juniper lee",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-40-w6nq",
+      "title": "ben 10 omniverse",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-39-98qw",
+      "title": "ben 10 ultimate alien",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-38-upwo",
+      "title": "ben 10 alien force",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-37-psjb",
+      "title": "ben 10",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-36-bqwj",
+      "title": "camp lazlo",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-35-pain",
+      "title": "chowder",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-34-z3p8",
+      "title": "summer camp island",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-33-xfaz",
+      "title": "infinity train",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-32-ohoc",
+      "title": "mao mao heroes of pure heart",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-31-yrhb",
+      "title": "victor and valentino",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-30-xb35",
+      "title": "craig of the creek",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-29-ifbk",
+      "title": "we bare bears",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-28-v0md",
+      "title": "clarence",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
     {
       "id": "bingo-1785999455308-27-e2vz",
       "title": "steven universe",
