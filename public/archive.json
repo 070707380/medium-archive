@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786003538357-0-q5q2",
+      "title": "proximity",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:05:38.357z",
+      "updatedAt": "2026-08-06t08:05:38.357z"
+    },
+    {
+      "id": "bingo-1786003532917-1-6kf9",
+      "title": "the last airbender",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:05:32.917z",
+      "updatedAt": "2026-08-06t08:05:32.917z"
+    },
+    {
       "id": "bingo-1786003532917-0-5p19",
       "title": "the hole",
       "mediaFormat": "film",
