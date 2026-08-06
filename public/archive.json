@@ -1887,6 +1887,50 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786005077272-2-3q1c",
+      "title": "death note",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:31:17.272z",
+      "updatedAt": "2026-08-06t08:31:17.272z"
+    },
+    {
+      "id": "bingo-1786005077272-1-jry6",
+      "title": "chainsaw man",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:31:17.272z",
+      "updatedAt": "2026-08-06t08:31:17.272z"
+    },
+    {
+      "id": "bingo-1786005077271-0-xt8e",
+      "title": "serial experiments lain",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:31:17.272z",
+      "updatedAt": "2026-08-06t08:31:17.272z"
+    },
+    {
+      "id": "bingo-1786005058080-3-trzy",
+      "title": "ergo proxy",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:30:58.080z",
+      "updatedAt": "2026-08-06t08:30:58.080z",
+      "linkedArchiveId": "item-1785696098365",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10"
+    },
+    {
+      "id": "bingo-1786005058080-2-6e7q",
+      "title": "berserk",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:30:58.080z",
+      "updatedAt": "2026-08-06t08:30:58.080z"
+    },
+    {
+      "id": "bingo-1786005058080-1-goz5",
+      "title": "nana",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:30:58.080z",
+      "updatedAt": "2026-08-06t08:30:58.080z"
+    },
+    {
       "id": "bingo-1786005058080-0-nnlg",
       "title": "monster",
       "mediaFormat": "tv show",
