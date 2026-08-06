@@ -1143,7 +1143,7 @@
     {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
-      "title": "sekiro: shadows die twice",
+      "title": "sekiro shadows die twice",
       "mainCreator": "hidetaka miyazaki",
       "otherCreators": [
         "producer/masaru yamamura",
@@ -1159,12 +1159,12 @@
         {
           "name": "producer",
           "category": "masaru yamamura",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Producer"
+          "wikiUrl": "https://en.wikipedia.org/wiki/producer"
         },
         {
           "name": "fromsoftware",
           "category": "company",
-          "wikiUrl": "https://en.wikipedia.org/wiki/FromSoftware"
+          "wikiUrl": "https://en.wikipedia.org/wiki/fromsoftware"
         }
       ],
       "mediaFormat": "video game",
@@ -1236,7 +1236,7 @@
       ],
       "mediumInfluences": [
         {
-          "title": "tenchu: wrath of heaven",
+          "title": "tenchu wrath of heaven",
           "type": "media",
           "customCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJ0VUHSOEm48t3gN0jr_6xrGompyz8CLPLHg8EN15-Gx3mTU82Eprfcg&s=10",
           "note": "linked to video game (2003)"
@@ -1247,7 +1247,7 @@
           "title": "berserk",
           "type": "media",
           "customCover": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop",
-          "note": "linked to video game (2026)"
+          "note": "linked to comic/manga series (2026)"
         },
         "harakiri",
         "samurai rebellion",
@@ -1263,7 +1263,7 @@
         }
       ],
       "createdAt": "2026-08-02t10:34:51.388z",
-      "updatedAt": "2026-08-02t17:12:51.634z"
+      "updatedAt": "2026-08-06t07:36:28.740z"
     },
     {
       "id": "item-1785663669551",
