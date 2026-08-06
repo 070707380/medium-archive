@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007603136-0-4k27",
+      "title": "lilo & stitch",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:13:23.136z",
+      "updatedAt": "2026-08-06t09:13:23.136z"
+    },
+    {
+      "id": "bingo-1786007570343-1-yf5q",
+      "title": "the addams family",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:12:50.343z",
+      "updatedAt": "2026-08-06t09:12:50.343z"
+    },
+    {
       "id": "bingo-1786007570343-0-ftf1",
       "title": "snow white and the seven dwarfs",
       "mediaFormat": "film",
