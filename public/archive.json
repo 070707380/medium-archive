@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786006226515-0-b27r",
+      "title": "cyberpunk 2077",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:50:26.515z",
+      "updatedAt": "2026-08-06t08:50:26.515z"
+    },
+    {
+      "id": "bingo-1786006195755-2-sutc",
+      "title": "hitman 3",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:49:55.755z",
+      "updatedAt": "2026-08-06t08:49:55.755z"
+    },
+    {
+      "id": "bingo-1786006195755-1-eqfc",
+      "title": "hitman 2",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:49:55.755z",
+      "updatedAt": "2026-08-06t08:49:55.755z"
+    },
+    {
       "id": "bingo-1786006195755-0-55g5",
       "title": "hitman",
       "mediaFormat": "video game",
