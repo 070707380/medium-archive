@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "id": "item-1786032256227",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvAqNu3T7JjLF9YKABAHaMKW9pvk5ZJJOUwq0l_imVZRtNyz_KKhtBMk&s=10",
+      "title": "the secret of kells",
+      "mainCreator": "tomm moore",
+      "otherCreators": [
+        "nora twomey/director",
+        "fabrice ziolkowski/screenplay",
+        "paul young/producer",
+        "didier brunner/producer",
+        "viviane vanfleteren/producer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "tomm moore",
+          "category": "director",
+          "nation": "ireland",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Tomm_Moore%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwjE4ZrlqoyWAxXm8LsIHd4yNnwQFnoFCIoBEAE&sqi=2&usg=AOvVaw070i337hYi-e0lLYs1s0OL"
+        },
+        {
+          "name": "nora twomey",
+          "category": "director",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nora%20Twomey"
+        },
+        {
+          "name": "fabrice ziolkowski",
+          "category": "screenplay",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fabrice%20Ziolkowski"
+        },
+        {
+          "name": "paul young",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paul%20Young"
+        },
+        {
+          "name": "didier brunner",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Didier%20Brunner"
+        },
+        {
+          "name": "viviane vanfleteren",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viviane%20Vanfleteren"
+        }
+      ],
+      "mediaFormat": "film",
+      "releaseDate": "2009-02-11",
+      "countryOfOrigin": "ireland",
+      "originalLanguage": "english",
+      "genres": [
+        "coming of age",
+        "family drama",
+        "folklore"
+      ],
+      "philosophicalTags": [
+        "rite of passage",
+        "paganism vs. christianity",
+        "art vs. barbarism",
+        "light vs. darkness",
+        "knowledge as resistance"
+      ],
+      "genreStyleTags": [
+        "hand drawn",
+        "medieval",
+        "celtic mythology",
+        "monastery",
+        "high fantasy",
+        "pegan",
+        "supernatural",
+        "fairy tale",
+        "nature",
+        "orphan",
+        "viking"
+      ],
+      "summaryPlot": "in 9th-century ireland, young orphan brendan lives within the walled monastery of kells under the strict guardianship of his uncle, abbot cellach, who is obsessed with building walls to protect against viking raids. when the legendary illuminator brother aidan arrives with an unfinished manuscript, brendan defies his uncle to venture into the enchanted forest, where he meets the fairy aisling and confronts the serpent god crom cruach, all to complete the legendary book of kells.",
+      "pros": [
+        "visual design mimics illuminated celtic manuscripts, strict symmetry and triptych framing, great for my perfectionist eyes.",
+        "debate between abbot cellach building a wall for survival and brother aidan crafting a book for cultural endurance serves grounded dilemma.",
+        "raider vikings are designed as monolithic figures which functioning as an force of nature if it makes sense.",
+        "brendan's descent into the pagan deity's cave shifts the animation into an abstract puzzle-fight that relies on geometry and survival.",
+        "film shows magic of art by showing the physical processes of medieval craftsmanship for example grinding gallnuts for ink, rendering emeralds and preparing parchment.",
+        "spoiler/ when the vikings finally come up, the film does not pull its punches, delivering a brutal massacre that breaks the reality of the threat.",
+        "separation between the oppressive linework of the abbot's tower and the organic linework of the forest builds has personality and identity.",
+        "background monks from italy, africa, etc. establish the abbey as an working knowledge without relying on lazy dumps."
+      ],
+      "cons": [
+        "aisling’s fairy powers and the woodland magic is on unexplained logic which is soft magic that i dislike.",
+        "power of the book of kells is simply bringing hope to the people but lacking a structural solution to the actual physical viking threat, i get the appeal but i'm a structure maniac.",
+        "brendan’s early interactions with aisling is about of forest exploration that stalls the narrative, pacing issue.",
+        "vikings possess zero tactical depth, dialogue or complex motives, they aren't even binary wave of destruction, yeah i still expect wrong things from the movie yeah yeah.",
+        "cellach's obsession with the wall becomes repetitive, acting as an plot roadblock.",
+        "brendan functions as a vessel for the plot.",
+        "chosen one tropes highly exists in looking through the eye of collumcille etc.",
+        "spoiler/ aisling’s final sacrifice or disappearance against the wolves happens abruptly.",
+        "until the wolf pack arrives, the forest is told as lighthearted that undermines the abbot's isolationist warnings, tonal disconnection here.",
+        "brendan and aidan’s escape from the viking massacre is about convenient timing and dense smoke which is not earned."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "song of the sea",
+        "wolfwalkers",
+        "kirikou and the sorceress",
+        "princess mononoke",
+        "the princess and the goblin",
+        "tales from earthsea"
+      ],
+      "mediumInfluences": [
+        "the book of kells",
+        "the thief and the cobbler",
+        "samurai jack",
+        "bill watterson",
+        "mulan"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-06t16:04:16.231z",
+      "updatedAt": "2026-08-06t16:04:16.252z"
+    },
+    {
       "id": "item-1786028209273",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8PbkHlZ4dvajyxZl-5pG5zPQMYrWhhUwyQJcxWEkLw0FIdWg1uc4pCY&s=10",
       "title": "bionicle heroes",
