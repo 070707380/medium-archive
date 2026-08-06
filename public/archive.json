@@ -1872,7 +1872,7 @@
       "consumedVersion": "Digital",
       "isSoundtrack": true,
       "soundtrackForId": "item-1785669348801",
-      "soundtrackForTitle": "Terraria",
+      "soundtrackForTitle": "terraria",
       "links": [
         {
           "id": "link-1785684356008",
@@ -1881,7 +1881,7 @@
         }
       ],
       "createdAt": "2026-08-02T15:10:44.843Z",
-      "updatedAt": "2026-08-02T21:55:06.228Z"
+      "updatedAt": "2026-08-06T06:47:29.333Z"
     }
   ],
   "bingo": [],
