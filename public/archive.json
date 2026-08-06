@@ -1,6 +1,202 @@
 {
   "items": [
     {
+      "id": "item-1786014393730",
+      "cover": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg",
+      "title": "cyberpunk edgerunners",
+      "mainCreator": "hiroyuki imaishi",
+      "otherCreators": [
+        "rafał jaki/creator",
+        "studio trigger/studio",
+        "cd projekt red/supervisor"
+      ],
+      "creatorDetails": [
+        {
+          "name": "hiroyuki imaishi",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Hiroyuki_Imaishi%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwiHlt3e6IuWAxXh57sIHY_dEDMQFnoECGoQAQ&usg=AOvVaw1s2wUhpOWaGvZ9Mvcc-xAi"
+        },
+        {
+          "name": "rafał jaki",
+          "category": "creator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rafa%C5%82%20Jaki"
+        },
+        {
+          "name": "studio trigger",
+          "category": "studio",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Studio%20Trigger"
+        },
+        {
+          "name": "cd projekt red",
+          "category": "supervisor",
+          "wikiUrl": "https://en.wikipedia.org/wiki/CD%20Projekt%20Red"
+        }
+      ],
+      "mediaFormat": "tv show",
+      "releaseDate": "2026-08-06",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "science fiction",
+        "cyberpunk",
+        "psychological thriller",
+        "action thriller"
+      ],
+      "philosophicalTags": [
+        "critique of hyperconsumerism",
+        "posthumanism",
+        "transhumanist ideals",
+        "capitalist dystopia",
+        "the fragility of humanity"
+      ],
+      "genreStyleTags": [
+        "dystopian",
+        "tragedy",
+        "crime",
+        "gore",
+        "anime",
+        "animation"
+      ],
+      "summaryPlot": "in the dystopian night city, a street kid named david martinez loses his mother in a gang-related accident and, in his grief, installs a high-end military cybernetic implant to get revenge. he then becomes entangled in the dangerous world of edgerunners—cybernetically enhanced mercenary outlaws—where he must navigate the criminal underworld and the relentless exploitation of a hyper-capitalist system.",
+      "pros": [
+        "action frames are fluid and kinetic.",
+        "anime successfully recreates cyberpunk 2077's game environment visually beautiful under cyberpunk architecture.",
+        "depicting the psychological and physical breakdown caused by chrome installation is a dynamic trade to power gain.",
+        "visuals effects has weight.",
+        "violance is not held, dystopian night city is served as absolute shitty place as it is, it feels unsafe successfully.",
+        "opening episode clearly shows socioeconomic state of the city to criticize capitalism."
+      ],
+      "cons": [
+        "david's journey from a broke student to crew leader is narrated in 10 episodes without breathing spaces.",
+        "mid-season time-skip over david’s growth and accumulation is forcing the audience to accept his new status through some montage.",
+        "david's stubborn refusal to stop augmenting despite watching maine collapse from the exact same shit makes his downfall feel predictable and inevitable.",
+        "spoiler/ crew members like pillow, dorio and kiwi are given minimal backstories and personality before being killed off, making their deaths carry way less death.",
+        "david constantly repeating that he is special or built different is flat element to justify his chrome overuse.",
+        "spoiler/ final heist is apredictable cyberpunk betrayal without introducing anything unpredictable.",
+        "cyberskeleton suit looks bulky and cartoonish compared anything else that is grounded in the show.",
+        "david and lucy's relationship is about romantic montages (the moon vr sequence etc) rather than any deep and grounded building.",
+        "multiple character deaths comes with zero fallout or grieving time, it aimed to show the brutality of the city but damaged the pacing and emotional impact seriously.",
+        "unresolved arasaka/militech conspiracy behind the cyberskeleton is a cheap background excuse to push david into the final fight."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "cyberpunk 2077",
+        "akudame drive",
+        "tengen toppa gurren lagann",
+        "devilman crybaby",
+        "texhnolyze",
+        "akame ga kill!",
+        "ghost in the shell stand alone complex",
+        "vivy fluorite eye's song"
+      ],
+      "mediumInfluences": [
+        "akira",
+        "cowboy bebop",
+        "cyberpunk 2020",
+        "neuromancer",
+        "battle angel alita"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "characters": [
+        {
+          "id": "char-1786013359377-xzwr",
+          "name": "david martinez",
+          "personalityTags": [
+            "orphan",
+            "reckless",
+            "impulsive",
+            "determined",
+            "loyal",
+            "protective",
+            "self-destructive",
+            "insecure",
+            "desperate-for-validation",
+            "kind-hearted",
+            "emotional"
+          ],
+          "mediaAppearances": [
+            {
+              "mediaTitle": "cyberpunk edgerunners",
+              "role": "protagonist",
+              "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg"
+            }
+          ],
+          "createdAt": "2026-08-06t10:49:19.377z",
+          "updatedAt": "2026-08-06t10:49:19.379z"
+        },
+        {
+          "id": "char-1786013450235-dkjj",
+          "name": "lucyna \"lucy\" kushinada",
+          "personalityTags": [
+            "deuteragonist",
+            "netrunner",
+            "mysterious",
+            "cool-headed",
+            "cynical",
+            "dreamer",
+            "independent",
+            "protective",
+            "traumatized",
+            "solitary",
+            "romantic",
+            "secretive",
+            "tactical",
+            "guarded",
+            "passionate",
+            "hyper-vigilant",
+            "burdened-by-past"
+          ],
+          "mediaAppearances": [
+            {
+              "mediaTitle": "cyberpunk edgerunners",
+              "role": "character",
+              "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg"
+            }
+          ],
+          "createdAt": "2026-08-06t10:50:50.235z",
+          "updatedAt": "2026-08-06t10:50:50.235z"
+        },
+        {
+          "id": "char-1786013529472-pwi2",
+          "name": "maine",
+          "personalityTags": [
+            "mentor-figure",
+            "team-leader",
+            "cyberpsycho",
+            "burdened",
+            "selfless",
+            "father-figure",
+            "tragic",
+            "dependable",
+            "powerful",
+            "unstable",
+            "sacrificial",
+            "military-experience",
+            "grizzled",
+            "emotional",
+            "protective",
+            "loyal",
+            "self-destructive"
+          ],
+          "mediaAppearances": [
+            {
+              "mediaTitle": "cyberpunk edgerunners",
+              "role": "protagonist",
+              "coverUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg"
+            }
+          ],
+          "createdAt": "2026-08-06t10:52:09.472z",
+          "updatedAt": "2026-08-06t10:52:09.472z"
+        }
+      ],
+      "createdAt": "2026-08-06t11:06:33.733z",
+      "updatedAt": "2026-08-06t11:06:33.745z"
+    },
+    {
       "id": "item-1785762906387",
       "cover": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/02/Omori-Game-Wiki-Mari-Picnic-Blanket.jpg?q=50&fit=crop&w=825&dpr=1.5",
       "title": "omori",
