@@ -1887,6 +1887,22 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004947925-2-ohgb",
+      "title": "stardew valley",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:29:07.925z",
+      "updatedAt": "2026-08-06t08:29:07.925z",
+      "linkedArchiveId": "item-1785739670489",
+      "coverUrl": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png"
+    },
+    {
+      "id": "bingo-1786004947925-1-4jln",
+      "title": "sons of the forest",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:29:07.925z",
+      "updatedAt": "2026-08-06t08:29:07.925z"
+    },
+    {
       "id": "bingo-1786004947925-0-mtna",
       "title": "the forest",
       "mediaFormat": "video game",
