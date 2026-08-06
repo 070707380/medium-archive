@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004348451-0-ssj2",
+      "title": "krull",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:19:08.451z",
+      "updatedAt": "2026-08-06t08:19:08.451z"
+    },
+    {
+      "id": "bingo-1786004332898-2-mvrh",
+      "title": "neighbors from hell 2",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:18:52.898z",
+      "updatedAt": "2026-08-06t08:18:52.898z"
+    },
+    {
+      "id": "bingo-1786004332898-1-4vn0",
+      "title": "neighbors from hell",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:18:52.898z",
+      "updatedAt": "2026-08-06t08:18:52.898z"
+    },
+    {
       "id": "bingo-1786004332898-0-hmjb",
       "title": "terraria",
       "mediaFormat": "video game",
