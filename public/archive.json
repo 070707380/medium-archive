@@ -1797,7 +1797,7 @@
     {
       "id": "album-ost-1785683444842-16zbo",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
-      "title": "Terraria: Official Soundtrack",
+      "title": "terraria official soundtrack",
       "mainCreator": "Scott Lloyd Shelly",
       "otherCreators": [],
       "creatorDetails": [
@@ -1857,18 +1857,18 @@
       "hornetScore": 6,
       "hornetVerdict": "",
       "similarMedia": [
-        "Undertale Soundtrack",
-        "Celeste (Original Soundtrack)",
-        "The Coffee Talk",
-        "VVVVVV (Soundtrack)"
+        "undertale soundtrack",
+        "celeste original soundtrack",
+        "the coffee talk",
+        "vvvvv soundtrack"
       ],
       "mediumInfluences": [
-        "Minecraft Volume Alpha",
-        "Aphex Twin",
-        "Brian Eno",
-        "Kraftwerk",
-        "Pantera",
-        "Joe Hisaishi"
+        "minecraft volume alpha",
+        "aphex twin",
+        "brian eno",
+        "kraftwerk",
+        "pantera",
+        "joe hisaishi"
       ],
       "consumedVersion": "Digital",
       "isSoundtrack": true,
@@ -1882,7 +1882,7 @@
         }
       ],
       "createdAt": "2026-08-02T15:10:44.843Z",
-      "updatedAt": "2026-08-06T06:47:29.333Z"
+      "updatedAt": "2026-08-06T06:55:35.885Z"
     }
   ],
   "bingo": [],
