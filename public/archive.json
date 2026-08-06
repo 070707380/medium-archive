@@ -515,34 +515,34 @@
       "hornetScore": 3,
       "hornetVerdict": "",
       "similarMedia": [
-        "Lego Worlds",
-        "Starbound",
+        "lego worlds",
+        "starbound",
         {
           "title": "terraria",
           "type": "media",
           "customCover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
           "note": "Linked to Video Game"
         },
-        "Dragon Quest Builders",
-        "Survivalist",
-        "Vintage Story",
-        "7 Days 2 Die"
+        "dragon quest builders",
+        "survivalist",
+        "vintage story",
+        "7 days 2 die"
       ],
       "mediumInfluences": [
-        "Infiniminer",
-        "Dwarf Fortress",
-        "Mother",
-        "Dungeons & Dragons",
-        "The Legend of Zelda",
-        "RollerCoaster Tycoon",
-        "Zork",
-        "Harvest Moon"
+        "infiniminer",
+        "dwarf fortress",
+        "mother",
+        "dungeons & dragons",
+        "the legend of zelda",
+        "rollercoaster tycoon",
+        "zork",
+        "harvest moon"
       ],
       "consumedVersion": "PC",
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02T21:22:48.928Z",
-      "updatedAt": "2026-08-06T06:47:48.921Z"
+      "updatedAt": "2026-08-06T06:51:17.443Z"
     },
     {
       "id": "item-1785702301030",
