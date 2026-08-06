@@ -1887,6 +1887,78 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785999455308-27-e2vz",
+      "title": "steven universe",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-26-yf89",
+      "title": "regular show",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-25-biqy",
+      "title": "adventure time",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z",
+      "linkedArchiveId": "item-1785656403183",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFT2rkuEKSp1XIOuYbsxeNjEG2wBChy-HfeAmBXgssr5Z3lSnG3yn2cM&s=10"
+    },
+    {
+      "id": "bingo-1785999455308-24-z5zy",
+      "title": "the amazing world of gumball",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-23-fdns",
+      "title": "teen titans go",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-22-clpd",
+      "title": "teen titans",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-21-25sv",
+      "title": "star wars clone wars",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-20-gvxa",
+      "title": "samurai jack",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-19-xpqy",
+      "title": "codename kids next door",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
+      "id": "bingo-1785999455308-18-4v20",
+      "title": "whatever happened to robot jones",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    },
+    {
       "id": "bingo-1785999455308-17-3otx",
       "title": "evil con carne",
       "mediaFormat": "TV Show",
