@@ -1886,6 +1886,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785995246419-0-ny40",
+      "title": "Big Hero 6",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:47:26.419Z",
+      "updatedAt": "2026-08-06T05:47:26.419Z"
+    },
+    {
+      "id": "bingo-1785995235473-2-s6zf",
+      "title": "Jurassic World: Rebirth",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:47:15.473Z",
+      "updatedAt": "2026-08-06T05:47:15.473Z"
+    },
+    {
+      "id": "bingo-1785995235473-1-mtaj",
+      "title": "Jurassic World: Dominion",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:47:15.473Z",
+      "updatedAt": "2026-08-06T05:47:15.473Z"
+    },
+    {
       "id": "bingo-1785995235473-0-gzz1",
       "title": "The Wild Robot",
       "mediaFormat": "Film",
