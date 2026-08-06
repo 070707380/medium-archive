@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786009568370-0-2pd8",
+      "title": "earthsiege",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t09:46:08.370z",
+      "updatedAt": "2026-08-06t09:46:08.370z"
+    },
+    {
+      "id": "bingo-1786009556765-2-lptb",
+      "title": "microsoft flight simulator",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t09:45:56.765z",
+      "updatedAt": "2026-08-06t09:45:56.765z"
+    },
+    {
       "id": "bingo-1786009556765-1-lm1x",
       "title": "the sims",
       "mediaFormat": "video game",
