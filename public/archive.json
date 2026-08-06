@@ -1887,6 +1887,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786001608152-1-w3xg",
+      "title": "keloglan",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:33:28.152z",
+      "updatedAt": "2026-08-06t07:33:28.152z"
+    },
+    {
       "id": "bingo-1786001608152-0-r5s3",
       "title": "cille",
       "mediaFormat": "tv show",
@@ -3074,13 +3081,6 @@
     {
       "id": "bingo-1786000691738-65-sp6k",
       "title": "the real adventures of jonny quest",
-      "mediaFormat": "tv show",
-      "createdAt": "2026-08-06t07:18:11.738z",
-      "updatedAt": "2026-08-06t07:18:11.738z"
-    },
-    {
-      "id": "bingo-1786000691738-64-1rqp",
-      "title": "the flintstone comedy show",
       "mediaFormat": "tv show",
       "createdAt": "2026-08-06t07:18:11.738z",
       "updatedAt": "2026-08-06t07:18:11.738z"
