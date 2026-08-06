@@ -1885,7 +1885,15 @@
       "updatedAt": "2026-08-06t06:55:35.885z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786006778596-0-yhp6",
+      "title": "backyard science",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t08:59:38.596z",
+      "updatedAt": "2026-08-06t08:59:38.596z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
