@@ -1887,6 +1887,34 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004573454-1-tq8c",
+      "title": "bleach",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:22:53.454z",
+      "updatedAt": "2026-08-06t08:22:53.454z"
+    },
+    {
+      "id": "bingo-1786004573454-0-qtf7",
+      "title": "nirvana",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:22:53.454z",
+      "updatedAt": "2026-08-06t08:22:53.454z"
+    },
+    {
+      "id": "bingo-1786004555249-2-cdpt",
+      "title": "clock tower",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:22:35.249z",
+      "updatedAt": "2026-08-06t08:22:35.249z"
+    },
+    {
+      "id": "bingo-1786004555249-1-8kho",
+      "title": "rule of rose",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:22:35.249z",
+      "updatedAt": "2026-08-06t08:22:35.249z"
+    },
+    {
       "id": "bingo-1786004555249-0-iptg",
       "title": "haunting ground",
       "mediaFormat": "video game",
