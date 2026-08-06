@@ -1885,7 +1885,15 @@
       "updatedAt": "2026-08-06T06:55:35.885Z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1785999455308-0-j43v",
+      "title": "the flintstones",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-06T06:57:35.308Z",
+      "updatedAt": "2026-08-06T06:57:35.308Z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
