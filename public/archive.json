@@ -1887,6 +1887,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004795442-0-9cxy",
+      "title": "berserk",
+      "mediaFormat": "comic/manga series",
+      "createdAt": "2026-08-06t08:26:35.442z",
+      "updatedAt": "2026-08-06t08:26:35.442z",
+      "linkedArchiveId": "item-1785702301030",
+      "coverUrl": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop"
+    },
+    {
       "id": "bingo-1786004774827-0-4lhc",
       "title": "final fantasy",
       "mediaFormat": "video game",
