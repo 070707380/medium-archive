@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786006920098-2-roo6",
+      "title": "food camp",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t09:02:00.098z",
+      "updatedAt": "2026-08-06t09:02:00.098z"
+    },
+    {
+      "id": "bingo-1786006920098-1-yf23",
+      "title": "arthur",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t09:02:00.098z",
+      "updatedAt": "2026-08-06t09:02:00.098z"
+    },
+    {
+      "id": "bingo-1786006920098-0-c5lx",
+      "title": "nasreddin hoca",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t09:02:00.098z",
+      "updatedAt": "2026-08-06t09:02:00.098z"
+    },
+    {
       "id": "bingo-1786006903608-0-l1af",
       "title": "oscar's oasis",
       "mediaFormat": "tv show",
