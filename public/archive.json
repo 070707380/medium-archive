@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786009306310-0-gs4y",
+      "title": "the boy and the heron",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:41:46.310z",
+      "updatedAt": "2026-08-06t09:41:46.310z"
+    },
+    {
+      "id": "bingo-1786009283038-2-vy0n",
+      "title": "princess mononoke",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:41:23.038z",
+      "updatedAt": "2026-08-06t09:41:23.038z"
+    },
+    {
+      "id": "bingo-1786009283038-1-1g7w",
+      "title": "ponyo",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:41:23.038z",
+      "updatedAt": "2026-08-06t09:41:23.038z"
+    },
+    {
       "id": "bingo-1786009283038-0-4j89",
       "title": "spirited away",
       "mediaFormat": "film",
