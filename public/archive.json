@@ -299,7 +299,12 @@
         "black mesa"
       ],
       "mediumInfluences": [
-        "nineteen eighty four",
+        {
+          "title": "nineteen eighty four",
+          "type": "media",
+          "customCover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
+          "note": "linked to book (1949)"
+        },
         "the war of the worlds"
       ],
       "consumedVersion": "pc",
