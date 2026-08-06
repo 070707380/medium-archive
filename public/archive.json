@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004274275-1-9dql",
+      "title": "homework",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:17:54.275z",
+      "updatedAt": "2026-08-06t08:17:54.275z"
+    },
+    {
+      "id": "bingo-1786004274275-0-f498",
+      "title": "discovery",
+      "mediaFormat": "music album",
+      "createdAt": "2026-08-06t08:17:54.275z",
+      "updatedAt": "2026-08-06t08:17:54.275z"
+    },
+    {
       "id": "bingo-1786004258530-0-0sdj",
       "title": "blowout",
       "mediaFormat": "video game",
