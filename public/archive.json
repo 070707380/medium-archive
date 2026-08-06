@@ -1887,6 +1887,13 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007570343-0-ftf1",
+      "title": "snow white and the seven dwarfs",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:12:50.343z",
+      "updatedAt": "2026-08-06t09:12:50.343z"
+    },
+    {
       "id": "bingo-1786007548769-0-a50y",
       "title": "ratatouille",
       "mediaFormat": "film",
