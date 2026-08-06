@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785996336893-0-bzl3",
+      "title": "Superman Returns",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T06:05:36.894Z",
+      "updatedAt": "2026-08-06T06:05:36.894Z"
+    },
+    {
+      "id": "bingo-1785996303382-1-gac9",
+      "title": "Logan",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T06:05:03.382Z",
+      "updatedAt": "2026-08-06T06:05:03.382Z"
+    },
+    {
       "id": "bingo-1785996303382-0-efdw",
       "title": "The Transformers",
       "mediaFormat": "Film",
