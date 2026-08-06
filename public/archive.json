@@ -116,7 +116,7 @@
     {
       "id": "item-1785756873467",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhutP4Dlp8XlMssvi2gGazD1lkbqKSbUWFLEAe-5Fkg&s=10",
-      "title": "Naruto",
+      "title": "naruto",
       "mainCreator": "Hayato Date",
       "otherCreators": [],
       "creatorDetails": [
@@ -193,21 +193,21 @@
       "hornetScore": 1,
       "hornetVerdict": "",
       "similarMedia": [
-        "Bleach",
-        "Hunter x Hunter",
-        "My Hero Academia",
-        "Black Clover"
+        "bleach",
+        "hunter x hunter",
+        "my hero academia",
+        "black clover"
       ],
       "mediumInfluences": [
-        "Dragon Ball",
-        "Ninku",
-        "Yu Yu Hakusho"
+        "dragon ball",
+        "ninku",
+        "yu yu hakusho"
       ],
       "consumedVersion": "Digital",
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-03T11:34:33.469Z",
-      "updatedAt": "2026-08-03T11:51:29.350Z"
+      "updatedAt": "2026-08-06T06:49:23.324Z"
     },
     {
       "id": "item-1785750423268",
