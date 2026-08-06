@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785996485651-0-5pyw",
+      "title": "Star Wars Episode 5: The Empire Strikes Back",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T06:08:05.651Z",
+      "updatedAt": "2026-08-06T06:08:05.651Z"
+    },
+    {
+      "id": "bingo-1785996468038-1-ui2l",
+      "title": "Star Wars: The Force Awakens",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T06:07:48.038Z",
+      "updatedAt": "2026-08-06T06:07:48.038Z"
+    },
+    {
       "id": "bingo-1785996468038-0-nagh",
       "title": "Star Wars: The Last Jedi",
       "mediaFormat": "Film",
