@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786007509694-0-dsxk",
+      "title": "the lego movie",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:11:49.694z",
+      "updatedAt": "2026-08-06t09:11:49.694z"
+    },
+    {
+      "id": "bingo-1786007490317-3-zbp5",
+      "title": "toy story 5",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t09:11:30.317z",
+      "updatedAt": "2026-08-06t09:11:30.317z"
+    },
+    {
       "id": "bingo-1786007490317-2-f3h0",
       "title": "madagascar",
       "mediaFormat": "film",
