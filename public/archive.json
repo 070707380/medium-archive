@@ -1886,6 +1886,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785995622995-0-2px6",
+      "title": "Doctor Strange",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:53:42.995Z",
+      "updatedAt": "2026-08-06T05:53:42.995Z"
+    },
+    {
+      "id": "bingo-1785995609789-1-rjwn",
+      "title": "Ant-Man and the Wasp",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T05:53:29.789Z",
+      "updatedAt": "2026-08-06T05:53:29.789Z"
+    },
+    {
       "id": "bingo-1785995609789-0-a097",
       "title": "Ant-Man",
       "mediaFormat": "Film",
