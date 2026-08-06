@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "id": "item-1786028209273",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8PbkHlZ4dvajyxZl-5pG5zPQMYrWhhUwyQJcxWEkLw0FIdWg1uc4pCY&s=10",
+      "title": "bionicle heroes",
+      "mainCreator": "traveller's tales",
+      "otherCreators": [
+        "amaze entertainment/developer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "traveller's tales",
+          "category": "studio / company",
+          "nation": "united kingdom",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Traveller%2527s_Tales&ved=2ahUKEwibxNbhnIyWAxUt7wIHHTNyCUkQFnoECBAQAQ&sqi=2&usg=AOvVaw0auqG5dg_DmjR6QA8rzZYj"
+        },
+        {
+          "name": "amaze entertainment",
+          "category": "developer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Amaze%20Entertainment"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2006-09-14",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "third person shooter",
+        "action adventure"
+      ],
+      "philosophicalTags": [
+        "heroic myth",
+        "polynesian lore",
+        "collectivism"
+      ],
+      "genreStyleTags": [
+        "over the shoulder",
+        "hub world",
+        "science fiction",
+        "lego",
+        "puzzles"
+      ],
+      "summaryPlot": "the villainous piraka have invaded the island of voya nui and stolen the legendary mask of life. as the hero—a toa inika warrior—you must traverse the island's jungles, volcanoes, and deserts, collecting masks and lego pieces to unlock powerful abilities and defeat the piraka, ultimately liberating the island and its inhabitants. the story is not canon to the official bionicle lore.",
+      "pros": [
+        "switching between 6 toa inika masks to use (fire, ice, earth, water, stone, air) is a basic but effective tactical loop.",
+        "using toa powers to build lego bridges or freeze water adds simple but effective puzzle-solving.",
+        "good redesign for iconic 2006 voya nui sets, might sound like external but design is always internal.",
+        "each of 6 piraka (håkann, reidak, thok, avak, vezok, zaktan) at the end of their zones has unique boss arenas.",
+        "active lego collectibles is satisfying and then you buy basic upgrades."
+      ],
+      "cons": [
+        "lock-in is too aggressively accurate that removes anything related to human skill from the game, which kinda ruins the combat completely.",
+        "weapons has infinite ammunition with zero reload or overheat so combat becomes button-holding.",
+        "enemies as visorak, vahki, rahkshi has braindead ai where they follow a very simple linear pattern.",
+        "zero penalty for player death.",
+        "repetitive, formulaic level layouts.",
+        "monotonous lego construction gimmick.",
+        "increasing difficulty just increases hp and ap than ai.",
+        "it's about \"save the island\" trope, no bionicle lore.",
+        "environment requires zero jumping, navigation or engagement.",
+        "(sorry the game is too boring and flaws are too obvious that i reject to explain in detailed way so i just put some basic sentences.)"
+      ],
+      "hornetScore": 1,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "lego star wars the complete saga",
+        "lego indiana jones the original adventures",
+        "lego batman the videogame",
+        "turok evolution",
+        "star wars republic commando",
+        "ratchet & clank"
+      ],
+      "mediumInfluences": [
+        "lego star wars the video game",
+        "resident evil 4",
+        "super mario 64",
+        "banjo kazooie",
+        "metroid prime",
+        "unreal tournament",
+        "halo combat evolved"
+      ],
+      "consumedVersion": "xbox 360",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-06t14:56:49.277z",
+      "updatedAt": "2026-08-06t14:56:49.289z"
+    },
+    {
       "id": "item-1786014393730",
       "cover": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/08/cyberpunk-edgerunners.jpg",
       "title": "cyberpunk edgerunners",
