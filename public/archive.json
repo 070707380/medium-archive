@@ -1887,6 +1887,57 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004411488-7-nwlf",
+      "title": "bloodborne",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z"
+    },
+    {
+      "id": "bingo-1786004411488-6-8npq",
+      "title": "sekiro shadows die twice",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z",
+      "linkedArchiveId": "item-1785666891387",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10"
+    },
+    {
+      "id": "bingo-1786004411488-5-wecu",
+      "title": "elden ring",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z"
+    },
+    {
+      "id": "bingo-1786004411488-4-ni8v",
+      "title": "dark souls 3",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z"
+    },
+    {
+      "id": "bingo-1786004411488-3-e1go",
+      "title": "dark souls 2",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z"
+    },
+    {
+      "id": "bingo-1786004411488-2-lp8f",
+      "title": "dark souls",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z"
+    },
+    {
+      "id": "bingo-1786004411488-1-rlyf",
+      "title": "demon's souls remake",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:11.488z",
+      "updatedAt": "2026-08-06t08:20:11.488z"
+    },
+    {
       "id": "bingo-1786004411488-0-lxom",
       "title": "demon's souls",
       "mediaFormat": "video game",
