@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786005428409-1-iboz",
+      "title": "the lost world jurassic park",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:37:08.409z",
+      "updatedAt": "2026-08-06t08:37:08.409z"
+    },
+    {
+      "id": "bingo-1786005428409-0-j0cs",
+      "title": "jurassic park",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:37:08.409z",
+      "updatedAt": "2026-08-06t08:37:08.409z"
+    },
+    {
+      "id": "bingo-1786005396027-1-ac6i",
+      "title": "pirates of the caribbean on stranger tides",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:36:36.027z",
+      "updatedAt": "2026-08-06t08:36:36.027z"
+    },
+    {
       "id": "bingo-1786005396023-0-qtqe",
       "title": "the mummy",
       "mediaFormat": "film",
