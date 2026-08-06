@@ -1885,7 +1885,29 @@
       "updatedAt": "2026-08-06t06:55:35.885z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786004132837-2-7cjm",
+      "title": "jaws 3",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:15:32.837z",
+      "updatedAt": "2026-08-06t08:15:32.837z"
+    },
+    {
+      "id": "bingo-1786004132837-1-diun",
+      "title": "jaws 2",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:15:32.837z",
+      "updatedAt": "2026-08-06t08:15:32.837z"
+    },
+    {
+      "id": "bingo-1786004132837-0-lzra",
+      "title": "jaws",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:15:32.837z",
+      "updatedAt": "2026-08-06t08:15:32.837z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
