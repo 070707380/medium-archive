@@ -1887,6 +1887,20 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786002770429-1-pfzg",
+      "title": "king kong",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t07:52:50.429z",
+      "updatedAt": "2026-08-06t07:52:50.429z"
+    },
+    {
+      "id": "bingo-1786002770429-0-p4x0",
+      "title": "the meg",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t07:52:50.429z",
+      "updatedAt": "2026-08-06t07:52:50.429z"
+    },
+    {
       "id": "bingo-1786002763119-0-gfgi",
       "title": "the sorcerer's apprentice",
       "mediaFormat": "film",
