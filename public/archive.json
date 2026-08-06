@@ -1886,6 +1886,104 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1785997042077-2-at1a",
+      "title": "Night at the Museum: Secret of the Tomb",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T06:17:22.077Z",
+      "updatedAt": "2026-08-06T06:17:22.077Z"
+    },
+    {
+      "id": "bingo-1785997042077-1-7uiu",
+      "title": "Night at the Museum: Battle of the Smithsonian",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-06T06:17:22.077Z",
+      "updatedAt": "2026-08-06T06:17:22.077Z"
+    },
+    {
+      "id": "bingo-1785996972864-65-djy6",
+      "title": "Worms of the Earth",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-64-rsqy",
+      "title": "The Vampire Chronicles",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-63-3lsx",
+      "title": "Two Twisted Crowns",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-62-bk42",
+      "title": "Token of Darkness",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-61-11nw",
+      "title": "The Traitor Baru Cormorant",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-60-oyky",
+      "title": "The Swarm",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-59-jhye",
+      "title": "Stormbringer",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-58-ko9z",
+      "title": "The Shadow of What Was Lost",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-57-cjor",
+      "title": "The Shadow of the Torturer",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-56-6hmw",
+      "title": "Shattered Mirror",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-55-q2nx",
+      "title": "Sand Sharks",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
+      "id": "bingo-1785996972864-54-ykaj",
+      "title": "The Relic",
+      "mediaFormat": "Book",
+      "createdAt": "2026-08-06T06:16:12.864Z",
+      "updatedAt": "2026-08-06T06:16:12.864Z"
+    },
+    {
       "id": "bingo-1785996972864-53-9g96",
       "title": "Red Sister",
       "mediaFormat": "Book",
