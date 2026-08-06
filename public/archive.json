@@ -1887,6 +1887,27 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786003235336-1-0lm6",
+      "title": "clash of the titans",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:00:35.336z",
+      "updatedAt": "2026-08-06t08:00:35.336z"
+    },
+    {
+      "id": "bingo-1786003235336-0-w34h",
+      "title": "scary movie",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:00:35.336z",
+      "updatedAt": "2026-08-06t08:00:35.336z"
+    },
+    {
+      "id": "bingo-1786003223600-1-2qh1",
+      "title": "the day after tomorrow",
+      "mediaFormat": "film",
+      "createdAt": "2026-08-06t08:00:23.600z",
+      "updatedAt": "2026-08-06t08:00:23.600z"
+    },
+    {
       "id": "bingo-1786003223600-0-c3gg",
       "title": "serenity",
       "mediaFormat": "film",
