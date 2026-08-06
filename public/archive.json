@@ -351,7 +351,9 @@
         "backstories",
         "betrayal",
         "revenge",
-        "trauma"
+        "trauma",
+        "anime",
+        "animation"
       ],
       "summaryPlot": "naruto uzumaki, a loud, mischievous orphan despised by his village for the nine-tailed demon fox sealed within him, dreams of one day becoming the hokage, the village's most respected leader. to achieve his goal, he must navigate fierce rivalries, grueling ninja exams, and deadly enemies, all while fighting to earn the recognition and bonds he desperately craves.",
       "pros": [
@@ -403,7 +405,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-03t11:34:33.469z",
-      "updatedAt": "2026-08-06t06:49:23.324z"
+      "updatedAt": "2026-08-06t11:18:17.264z"
     },
     {
       "id": "item-1785750423268",
