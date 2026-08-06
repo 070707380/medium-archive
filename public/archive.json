@@ -1887,6 +1887,43 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786004523217-1-pgcs",
+      "title": "resident evil 2",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:22:03.217z",
+      "updatedAt": "2026-08-06t08:22:03.217z"
+    },
+    {
+      "id": "bingo-1786004523217-0-r16l",
+      "title": "resident evil",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:22:03.217z",
+      "updatedAt": "2026-08-06t08:22:03.217z",
+      "linkedArchiveId": "item-1785654966122",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10"
+    },
+    {
+      "id": "bingo-1786004450700-7-1jfj",
+      "title": "silent hill f",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:50.700z",
+      "updatedAt": "2026-08-06t08:20:50.700z"
+    },
+    {
+      "id": "bingo-1786004450700-6-9qtn",
+      "title": "p.t.",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:50.700z",
+      "updatedAt": "2026-08-06t08:20:50.700z"
+    },
+    {
+      "id": "bingo-1786004450700-5-1gbu",
+      "title": "silent hill 4 the room",
+      "mediaFormat": "video game",
+      "createdAt": "2026-08-06t08:20:50.700z",
+      "updatedAt": "2026-08-06t08:20:50.700z"
+    },
+    {
       "id": "bingo-1786004450700-4-bwoy",
       "title": "silent hill shattered memories",
       "mediaFormat": "video game",
