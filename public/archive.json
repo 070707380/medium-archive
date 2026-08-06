@@ -1885,7 +1885,78 @@
       "updatedAt": "2026-08-06t06:55:35.885z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786000668527-9-hqum",
+      "title": "the powerpuff girls",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-8-771b",
+      "title": "i am weasel",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-7-zps5",
+      "title": "cow and chicken",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-6-zi1r",
+      "title": "johnny bravo",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-5-5fce",
+      "title": "dexter's laboratory",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-4-8377",
+      "title": "a pup named scooby-doo",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-3-0ez1",
+      "title": "the scooby-doo show",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-2-4k6p",
+      "title": "scooby-doo where are you",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-1-8l6i",
+      "title": "the jetsons",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    },
+    {
+      "id": "bingo-1786000668527-0-hpj8",
+      "title": "the flintstones",
+      "mediaFormat": "tv show",
+      "createdAt": "2026-08-06t07:17:48.527z",
+      "updatedAt": "2026-08-06t07:17:48.527z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
