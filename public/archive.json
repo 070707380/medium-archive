@@ -19,12 +19,12 @@
         {
           "name": "dan houser",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dan%20Houser"
+          "wikiUrl": "https://en.wikipedia.org/wiki/dan%20houser"
         },
         {
           "name": "jacob krarup",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jacob%20Krarup"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jacob%20krarup"
         }
       ],
       "mediaFormat": "video game",
@@ -92,7 +92,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-07t07:01:38.633z",
-      "updatedAt": "2026-08-07t07:01:38.656z"
+      "updatedAt": "2026-08-07t07:12:30.303z"
     },
     {
       "id": "item-1786039768934",
