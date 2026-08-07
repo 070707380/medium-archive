@@ -1137,11 +1137,11 @@
         {
           "name": "kouji mori",
           "category": "director",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Kouji%20Mori"
+          "wikiUrl": "https://en.wikipedia.org/wiki/kouji%20mori"
         }
       ],
       "mediaFormat": "comic/manga series",
-      "releaseDate": "2026-08-02",
+      "releaseDate": "1989-10",
       "countryOfOrigin": "japan",
       "originalLanguage": "japanese",
       "genres": [
@@ -1218,7 +1218,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02t20:25:01.033z",
-      "updatedAt": "2026-08-06t06:52:10.052z"
+      "updatedAt": "2026-08-07t08:33:14.184z"
     },
     {
       "id": "item-1785696098365",
