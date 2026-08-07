@@ -1,6 +1,91 @@
 {
   "items": [
     {
+      "id": "item-1786090720264",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaW6T0ydhXCXbc3ysjaOrlzuNZqxSsg2H6Y1MsE2QnM5KtcMhgJqH3stp&s=10",
+      "title": "hounds of love",
+      "mainCreator": "kate bush",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "kate bush",
+          "category": "music artist",
+          "nation": "united kingdom",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kate_Bush",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kate_Bush_Hounds_of_Love_%281985_EMI_publicity_photo%29_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "1985-90-16",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "art pop",
+        "progressive pop",
+        "synthpop"
+      ],
+      "philosophicalTags": [
+        "intimacy and its limits",
+        "fear and vulnerability",
+        "light and dark",
+        "survival and resilience",
+        "self love"
+      ],
+      "genreStyleTags": [
+        "ethereal wave",
+        "romance",
+        "atmospheric",
+        "haunting",
+        "mystery",
+        "poetic",
+        "maximalist",
+        "winter"
+      ],
+      "summaryPlot": "hounds of love is structured as two distinct halves. the first side explores the ambiguities, fears, and vulnerabilities of romantic love. the second side, the ninth wave, is a seven-song conceptual suite following a woman drifting alone in the sea at night, tracing her journey through crisis, survival, and rebirth.",
+      "pros": [
+        "running up that hill is built around an iconic linndrum rhythm and lush fairlight cmi synth textures.",
+        "kate bush just mastered cmi synthesizer which causes unique textures.",
+        "7-track b-side is high-concept about a person drifting at sea, struggling against drowning and sleep.",
+        "orchestral strings and military snares rides the momentum dynamically.",
+        "minimalist synth-stabs and claustrophobic vocal layering awakens paranoa and isolation.",
+        "irish instruments as fiddles, uilleann pipes and bodhrán joins with unexpected but fresh texture.",
+        "spoken-word samples, distorted vocal shifts and church-bell textures, that's rich catalog of elements used well in experimental scene.",
+        "bush' vocal control and range is unmatched.",
+        "album is divided into an accessible commercial a-side and experimental b-side.",
+        "storytelling is lyrically cinematic."
+      ],
+      "cons": [
+        "reverb snare hits and early digital synths are dated and linked to commercial production tropes.",
+        "album sometimes is too theatrically melodramatic, it feels forced.",
+        "\"the big sky\" is monotonous wall-of-sound that doesn't evolve into something.",
+        "commercial studio polishing ruins the dreamy experimental approach.",
+        "some spoken word samples feels gimmicky.",
+        "commercial side of the album is about generic structure of repetitive and predictable verse-chorus boredom.",
+        "beat crafting and synth-loop repetitions lack glitch details and kinda falls as simple. well it was generational in it's time, i guess?"
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "post",
+        "little earthquakes",
+        "when the pawn...",
+        "dog man star",
+        "is this desire?"
+      ],
+      "mediumInfluences": [
+        "david bowie",
+        "pink floyd",
+        "peter gabriel",
+        "night of the demon",
+        "alfred lord tennyson"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-07t08:18:40.267z",
+      "updatedAt": "2026-08-07t08:18:40.271z"
+    },
+    {
       "id": "item-1786086098629",
       "cover": "https://cdn.mos.cms.futurecdn.net/5nkKWG73WQxddVchHrSu4k.jpg",
       "title": "bully",
