@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "item-1786086098629",
+      "cover": "https://cdn.mos.cms.futurecdn.net/5nkKWG73WQxddVchHrSu4k.jpg",
+      "title": "bully",
+      "mainCreator": "rockstar vancouver",
+      "otherCreators": [
+        "dan houser/scriptwriter",
+        "jacob krarup/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "rockstar vancouver",
+          "category": "studio / company",
+          "nation": "canada",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rockstar_Vancouver&ved=2ahUKEwj9q7_F9I2WAxWjWkEAHVnfKB4QFnoECBsQAQ&sqi=2&usg=AOvVaw0YGynDTxavTivFGp29W-oi"
+        },
+        {
+          "name": "dan houser",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dan%20Houser"
+        },
+        {
+          "name": "jacob krarup",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jacob%20Krarup"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2006-10-17",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "open world",
+        "black comedy",
+        "action adventure"
+      ],
+      "philosophicalTags": [
+        "rebellion against bureaucracy",
+        "postmodernist ethic",
+        "identity & social hierarchy",
+        "questioning adult institutions"
+      ],
+      "genreStyleTags": [
+        "slapstick",
+        "item shop",
+        "driving/racing",
+        "character customization",
+        "crime",
+        "school",
+        "satire",
+        "life sim",
+        "beat em up",
+        "skateboarding",
+        "romance",
+        "lgbt"
+      ],
+      "summaryPlot": "the single-player story follows 15-year-old juvenile delinquent james \"jimmy\" hopkins, who is involuntarily enrolled at bullworth academy boarding school for a year after being expelled from seven previous schools. jimmy must navigate the school's treacherous social hierarchy by rising through the ranks of its cliques—bullies, nerds, preppies, greasers, and jocks—in order to unite them and put a stop to the bullying that plagues the school, all while uncovering a conspiracy orchestrated by his manipulative nemesis, gary smith.",
+      "pros": [
+        "shifting open-world from standard crime cities to bullworth academy contain unique atmosphere.",
+        "daily schedule such as classes, lunch, curfew creates a time-management loop.",
+        "replacing lethal firearmslingshots, stink bombs, marbles, spud guns gives combat a unique visual identity cuz it feels like cencored grand theft auto.",
+        "social cliques (preppies, greasers, nerds, jocks, townies) has clear visual styles, territories and fighting traits.",
+        "using skateboards, bikes and go-karts is lightweight and fun.",
+        "jimmy isn't a passive character like how cj and niko are being normal people in an absurd world for parody effect, jimmy is indeed fucked up as the environment which supports the bully fantasy feeling."
+      ],
+      "cons": [
+        "fighting is about basic button combinations and simple grapples that lacks any skill, with all of that enemy waves it feels like a lego game.",
+        "missions rely on generic fetch-quests, escorting nerds or gimmicks.",
+        "classes quickly devolve into repetitive button smashing or qte puzzles that feel like chore.",
+        "escaping teachers is easy, simply hiding in a trash can or locker do the job then they forget.",
+        "respect meters based on linear main-story rather than any player-driven choices.",
+        "maxing out relationships with students ia about giving chocolates/flowers to trigger a generic kiss health-buff animation.",
+        "earning money through paper routes or carnival races breaks the economy, leaving nothing to purchase beyond cosmetics."
+      ],
+      "hornetScore": 2,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "saints row",
+        "agefield high rock the school",
+        "yakuza",
+        "shenmue"
+      ],
+      "mediumInfluences": [
+        "grand theft auto",
+        "the warriors",
+        "tom brown's schooldays",
+        "the catcher in the rye"
+      ],
+      "consumedVersion": "playstation 2",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-07t07:01:38.633z",
+      "updatedAt": "2026-08-07t07:01:38.656z"
+    },
+    {
       "id": "item-1786039768934",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfhDgYwN___t83w98gGVwPKuAPVKV1noqQIrzVzfkLw&s=10",
       "title": "debut",
