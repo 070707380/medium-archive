@@ -1,6 +1,99 @@
 {
   "items": [
     {
+      "id": "item-1786181648058",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFEtTgoEFCy2KLnwWQS0RLQn8kPoSqyQ0wC5cpJi887M45xZMyZiKI_mS&s=10",
+      "title": "stalker",
+      "mainCreator": "andrei tarkovsky",
+      "otherCreators": [
+        "arkady strugatsky/co-writer",
+        "aleksandr knyazhinsky/cinematographer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "andrei tarkovsky",
+          "category": "director",
+          "nation": "soviet russia",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Andrey_Tarkovski&ved=2ahUKEwj5oeX91pCWAxVpcfEDHWwKIB4QFnoECEcQAQ&usg=AOvVaw07PBOBmt3oBXnkP9rWRpjW"
+        },
+        {
+          "name": "arkady strugatsky",
+          "category": "co-writer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Arkady%20Strugatsky"
+        },
+        {
+          "name": "aleksandr knyazhinsky",
+          "category": "cinematographer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aleksandr%20Knyazhinsky"
+        }
+      ],
+      "mediaFormat": "film",
+      "releaseDate": "1979-05-25",
+      "countryOfOrigin": "soviet russia",
+      "originalLanguage": "russian",
+      "genres": [
+        "psychological drama",
+        "science fiction",
+        "existialist thriller"
+      ],
+      "philosophicalTags": [
+        "heideggerian being toward death",
+        "dostoevskian holy fool",
+        "kierkegaardian leap of faith",
+        "theodicy & divine silence",
+        "jungian shadow integration",
+        "soteriological salvation",
+        "soviet existential despair"
+      ],
+      "genreStyleTags": [
+        "existialist",
+        "slow burn",
+        "dystopian",
+        "meditative",
+        "isolating",
+        "nature",
+        "post apocalyptic",
+        "metaphysical",
+        "mystery"
+      ],
+      "summaryPlot": "in an unspecified soviet-era wasteland, a guide known as the stalker leads a writer and a professor through a forbidden, surreal area called the zone, where a mysterious room is said to grant a visitor's innermost desires. the journey becomes an existential pilgrimage, forcing each man to confront the nature of his own faith, cynicism, and deepest hidden self.",
+      "pros": [
+        "switching from piss filter to vibrant colours in the industrial town has great visual function and symbolization.",
+        "decaying and abandoned industrial ruins of the zone creates atmosphere of post-apocalyptic decay.",
+        "a place that grants a person's subconscious desire than a grant wish is a brilliant psychological element..",
+        "using nut-throwing to detect unseen gravitational anomalies is great invisible danger.",
+        "tragicomic possibility of \"what if zone doesn't even working, is the zone even real?\" questions actually create a great what-if irony.",
+        "spoiler/ realization that the men are terrified to enter the room because they fear their own subconscious is powerful philosophy and the final bomb twist is well-made.",
+        "cinematography & camera movement supports the dreamy like atmosphere.",
+        "spoiler/ they don't enter the room at the end!"
+      ],
+      "cons": [
+        "physical nature of the zone's traps is abstract, i know it meant to be abstract but the whole movie feels like actionless indiana jones movie with all that reaching a macguffin (the room) after passing through traps and claustrophobic sequences in who-knows-what-it-is place. mystery can be explained in a way that it wouldn't feel shallow. this way, everything is an excuse.",
+        "worldbuilding, magical zone and room structure, human factors and characters itself, even plot are just excuse to throw three different guys on forced philosophical dialogues without organic structure throughout the movie than showing the philosophy.",
+        "because no traps are visually shown triggering on screen, the danger claimed by the stalker character feel artificial. it could be seen as some mental gymnastics defense as \"but traps are internal and it reflects something something about stalker.\" yeah i could defend literally anything with that attitude by manipulating philosophy and logic.",
+        "movie is too abstract that if you start talking about what you philosophically see in the movie straightforwardly then you'll inevitably sound forced and delusional and that's the movie on the blame. sometimes movie feels like \"winnie the pooh is peak fiction because all characters reflect different psychological issues.\" like shut the fuck up. non-clarity is being spectrum, being spectrum is playing safe, playing safe is hollow."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the turin horse",
+        "eraserhead",
+        "the cabinet of dr. caligari"
+      ],
+      "mediumInfluences": [
+        "roadside picnic",
+        "the idiot",
+        "the trial",
+        "the seventh seal",
+        "2001 a space odyssey"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t09:34:08.064z",
+      "updatedAt": "2026-08-08t09:34:08.084z"
+    },
+    {
       "id": "item-1786178048567",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
       "title": "paranoid",
