@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "id": "item-1786211199487",
-      "cover": "https://www.afka.net/images/Books/00s/2003%20apostrophe%20-%20FZ%20cover.jpg",
-      "title": "apostrophe",
-      "mainCreator": "frank zappa",
-      "otherCreators": [
-        "jack bruce/bass",
-        "jim gordon/drummer",
-        "george duke/keyboard",
-        "jean-luc ponty/violin",
-        "tina turner/backvocals"
-      ],
-      "creatorDetails": [
-        {
-          "name": "frank zappa",
-          "category": "music artist",
-          "nation": "united states",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Zappa",
-          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zappa_16011977_01_300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-        },
-        {
-          "name": "jack bruce",
-          "category": "bass",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jack%20Bruce"
-        },
-        {
-          "name": "jim gordon",
-          "category": "drummer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jim%20Gordon"
-        },
-        {
-          "name": "george duke",
-          "category": "keyboard",
-          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Duke"
-        },
-        {
-          "name": "jean-luc ponty",
-          "category": "violin",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Luc%20Ponty"
-        },
-        {
-          "name": "tina turner",
-          "category": "backvocals",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Tina%20Turner"
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "2026-08-08",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "jazz rock",
-        "progressive rock",
-        "art rock"
-      ],
-      "philosophicalTags": [
-        "satirical nihilism",
-        "anti-authoritarianism",
-        "racial disharmony critique",
-        "consumerism parody",
-        "counterculture skepticism",
-        "outsider identity"
-      ],
-      "genreStyleTags": [
-        "avant garde",
-        "comedy rock",
-        "satire",
-        "psychedelic rock",
-        "blues rock",
-        "winter",
-        "jazz fusion",
-        "surreal humor",
-        "social commentary",
-        "orchestral",
-        "experimental",
-        "funk",
-        "surreal"
-      ],
-      "summaryPlot": "the first side of apostrophe (') loosely follows a surreal, dreamlike narrative. it begins with the singer dreaming he is an eskimo named nanook, who gets into a confrontation about yellow snow, before transitioning to the bizarre \"st. alfonzo's pancake breakfast\". the rest of the album shifts to standalone tracks, including the mystical \"cosmik debris,\" the socially conscious \"uncle remus\" on racism, and the humorous \"stink-foot\". the title track is a fusion instrumental featuring jack bruce on bass.",
-      "pros": [
-        "features elite instrumental performances from george duke (keyboards), jean-luc ponty (violin), jack bruce (bass) and aynsley dunbar (drums).",
-        "apostrophe title track is heavy funk-rock instrumental duel between frank zappa's lead guitar and cream’s jack bruce on bass that ride the momentum.",
-        "album links four distinct movements such as \"yellow snow\", \"nanook\", \"st. alfonzo\", \"father o'blivion\" using intricate 5/4 and 7/8 time signature changes.",
-        "built around a filthy blues-guitar riff paired wit satire mocking fake spiritual gurus and mysticism.",
-        "recorded with hi-fi clarity, is crisp stereo separation, punching your face bass response and dynamic audio space.",
-        "classical-fusion runs that elevate \"uncle remus\" and the title track above standard rock elements.",
-        "uncle ramus track is co-written with george duke that serve social critique on civil rights dynamics over lush piano chords.",
-        "ruth underwood’s marimba and vibraphone add that distinct complexity to tight rhythm sections.",
-        "zappa’s guitar solos are raw and rejects generic blues cliches.",
-        "album's silly structure doesn't take itself serious and forces art music tropes while being art album."
-      ],
-      "cons": [
-        "several impressive instrumental jams like the title track and \"stink-foot\" are fade-outs rather than definitive piece.",
-        "zappa's spoken word is usually too theatrical.",
-        "b side cannot keep the consistency in favor to lean more into comedic values.",
-        "gimmicky sound effects usage age worse than intrumental elements.",
-        "closing track is simple, plodding 4/4 funk beat over 6 minutes, trust a lot to vical gags.",
-        "album is a bit commercialized than what is a jazz fusion is.",
-        "excentrifugal forz feels unfinished."
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "unorthodox behaviour",
-        "octopus",
-        "danger money",
-        "we're only in it for the money"
-      ],
-      "mediumInfluences": [
-        "cream",
-        "gentle giant",
-        "miles davis",
-        "king crimson"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t17:46:39.492z",
-      "updatedAt": "2026-08-08t17:46:39.511z"
-    },
-    {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
       "title": "sekiro shadows die twice",
@@ -350,6 +230,419 @@
       "updatedAt": "2026-08-06t07:35:40.300z"
     },
     {
+      "id": "album-ost-1785683444842-16zbo",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
+      "title": "terraria official soundtrack",
+      "mainCreator": "scott lloyd shelly",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "scott lloyd shelly",
+          "category": "music artist",
+          "nation": "australia",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rateyourmusic.com/artist/scott_lloyd_shelly&ved=2ahUKEwis9v6lnoKWAxVf_7sIHdAKE5wQFnoECD0QAQ&usg=AOvVaw20ZNoh0jE9NSgypQ3bZqXU"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "2011-11-01",
+      "countryOfOrigin": "australia",
+      "originalLanguage": "english",
+      "genres": [
+        "digital fusion",
+        "cinematic classical"
+      ],
+      "philosophicalTags": [
+        "tension & release",
+        "exploration",
+        "modern retro",
+        "alienation"
+      ],
+      "genreStyleTags": [
+        "ambient",
+        "chiptune",
+        "orchestral",
+        "chaotic",
+        "8 bit",
+        "dubstep",
+        "downtempo",
+        "glitch hop",
+        "progressive electronic",
+        "instrumental",
+        "futuristic",
+        "video game soundtrack"
+      ],
+      "summaryPlot": "a dynamic, genre-blending instrumental soundtrack that serves as the audio identity for the 2d sandbox adventure game terraria, shifting from serene, ambient melodies for exploration to intense, high-energy orchestral anthems for epic boss battles. the music enhances the game's core themes of discovery, danger, and triumph, creating an immersive backdrop for the player's journey through a vast, procedurally generated world.",
+      "pros": [
+        "soundtrack is iconic and instantly tone setting.",
+        "unique tracks for biomes as jungle, the hallow, corruption and desert give every region atmospheric signature.",
+        "boss tracks are chaotic and serves the same with rich synth and riff elements specifically track plantera which is influenced by the band pantera.",
+        "\"underground\" and \"underworld\" use basslines and sparse synth echoes to build isolation.",
+        "sudden event tracks as \"goblin army,\" \"pirate invasion\" and \"solar eclipse\") shifts the exploration rhythm with synth pulses.",
+        "retro-modern blending is genius, album pulls the 8 bit/16 bit soundtrack structures and reshapes it with modern elementally rich touches.",
+        "melodies are catchy and memorable.",
+        "tracks like \"frost moon\" and \"pumpkin moon\" adapts to the theme of the event."
+      ],
+      "cons": [
+        "if you stay in the same biome for an hour while grinding then soundtrack variety in the specific biome won't be too helpful.",
+        "waooohhh waaaaoohhhh waaaaoooohhh",
+        "soundtrack contains many goofy elements such as high-pitched chiptunes and laser-like synth.",
+        "early 1.0-era tracks uses dated synthesizers.",
+        "soundtrack is master at alienating audio but sitting through it causes listening fatique because synthetic structure."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "undertale soundtrack",
+        "celeste original soundtrack",
+        "the coffee talk",
+        "vvvvv soundtrack"
+      ],
+      "mediumInfluences": [
+        "minecraft volume alpha",
+        "aphex twin",
+        "brian eno",
+        "kraftwerk",
+        "pantera",
+        "joe hisaishi"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": true,
+      "soundtrackForId": "item-1785669348801",
+      "soundtrackForTitle": "terraria",
+      "links": [
+        {
+          "id": "link-1785684356008",
+          "label": "steam",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/409210/Terraria_Official_Soundtrack/&ved=2ahUKEwi9me3QoIKWAxXu8LsIHSWxALIQFnoECEcQAQ&sqi=2&usg=AOvVaw13EUOBXMj20CPKHNyqZQ4y"
+        }
+      ],
+      "createdAt": "2026-08-02t15:10:44.843z",
+      "updatedAt": "2026-08-07t08:33:44.688z"
+    },
+    {
+      "id": "item-1786178048567",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
+      "title": "paranoid",
+      "mainCreator": "black sabbath",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "black sabbath",
+          "category": "band",
+          "nation": "united kingdom",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Black_Sabbath&ved=2ahUKEwia7bXVyZCWAxX2QfEDHYUyHgMQFnoECF4QAQ&usg=AOvVaw2obFTMRXme9VmqKWDuPKJH",
+          "bandMembers": [
+            {
+              "name": "ozzy osbourne",
+              "bandRole": "vocalist",
+              "participatedInProduct": true,
+              "productRole": "vocal, harmonica"
+            },
+            {
+              "name": "tony iommi",
+              "bandRole": "guitarist",
+              "participatedInProduct": true,
+              "productRole": "guitar, flute"
+            },
+            {
+              "name": "geezer butler",
+              "bandRole": "bass guitarist",
+              "participatedInProduct": true,
+              "productRole": "bass, lyric"
+            },
+            {
+              "name": "bill ward",
+              "bandRole": "drummer",
+              "participatedInProduct": true,
+              "productRole": "drum"
+            },
+            {
+              "name": "rodger bain",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "produce"
+            }
+          ]
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "1970-09-18",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "heavy metal",
+        "hard rock",
+        "doom metal"
+      ],
+      "philosophicalTags": [
+        "anti-war",
+        "mental health & paranoia",
+        "drug addiction",
+        "nuclear apocalypse",
+        "working-class strife"
+      ],
+      "genreStyleTags": [
+        "blues rock",
+        "heavy psych",
+        "occult rock",
+        "riff heavy",
+        "groove metal",
+        "proto metal",
+        "depression",
+        "paranoia",
+        "drugs",
+        "political",
+        "war",
+        "pessimistic",
+        "psychedelic"
+      ],
+      "summaryPlot": "thematic exploration of the dark underbelly of the human experience and the anxieties of its era. it serves as a sonic journey through the societal ills of 1970, tackling the horrors of war (\"war pigs\"), mental health struggles (\"paranoid\"), drug addiction (\"hand of doom\"), and apocalyptic dread (\"electric funeral\"), while also showcasing the band's surprising versatility with a haunting, psychedelic interlude on \"planet caravan.\"",
+      "pros": [
+        "tony iommi’s tritone and pentatonic riffs in war pigs, iron man and electric funeral is fresh",
+        "war pig is very dynamic with heavy epicness with tempo shifts, guitar fills and a heavy climax.",
+        "bass lines leads melody and fills the awkward spaces successfully.",
+        "ward’s drumming is unpredictable, fills the melody and uses jazz dynamics that contain heavy riffs above simple 4/4 pounding.",
+        "lyrical themes deal with cold-war military, corruption, psychological decay, nuclear destruction and drug addiction using simple but impactful lyrics.",
+        "heavy riffs perfectly shades the mechanical plot of a time-traveling man turned to steel seeking vengeance.",
+        "psychedelic detour featuring flanged vocals, congas and jazz-guitar arpeggios with brilliant textures.",
+        "ozzy osbourne’s unpolished delivery screws through down tuned instrumentation with clean clarity.",
+        "rat salad solo is fun."
+      ],
+      "cons": [
+        "title track was written as a quick 2-minute studio filler, relying on basic 3-chord punk/rock structures without any complexity.",
+        "rodger bain’s production lacks the raw bass wallop and crushing down-tuned heaviness.",
+        "multiple tracks rely on classic 100% studio fade-outs than musical resolutions.",
+        "early stereo mixing choices place the guitar hard-left and rhythm hard-right on certain sections which is distracting and aged poorly.",
+        "sonic and mechanical clarity is clearly not mastered due to release date.",
+        "planet caravan is a massive 4 minute pacing breaker between two accessible high melody tracks. it's not a bad track but could work as a intro. clearly off-genre and way too long for a bridge between two bangers."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "led zeppelin 4",
+        "deep purple in rock",
+        "machine head",
+        "who's next"
+      ],
+      "mediumInfluences": [
+        "the beatles",
+        "bob dylan",
+        "superunknown",
+        "far beyond driven",
+        "leviathan"
+      ],
+      "consumedVersion": "cd",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t08:34:08.570z",
+      "updatedAt": "2026-08-08t08:45:19.595z"
+    },
+    {
+      "id": "item-1786211199487",
+      "cover": "https://www.afka.net/images/Books/00s/2003%20apostrophe%20-%20FZ%20cover.jpg",
+      "title": "apostrophe",
+      "mainCreator": "frank zappa",
+      "otherCreators": [
+        "jack bruce/bass",
+        "jim gordon/drummer",
+        "george duke/keyboard",
+        "jean-luc ponty/violin",
+        "tina turner/backvocals"
+      ],
+      "creatorDetails": [
+        {
+          "name": "frank zappa",
+          "category": "music artist",
+          "nation": "united states",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Zappa",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zappa_16011977_01_300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+        },
+        {
+          "name": "jack bruce",
+          "category": "bass",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jack%20Bruce"
+        },
+        {
+          "name": "jim gordon",
+          "category": "drummer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jim%20Gordon"
+        },
+        {
+          "name": "george duke",
+          "category": "keyboard",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Duke"
+        },
+        {
+          "name": "jean-luc ponty",
+          "category": "violin",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Luc%20Ponty"
+        },
+        {
+          "name": "tina turner",
+          "category": "backvocals",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tina%20Turner"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "2026-08-08",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "jazz rock",
+        "progressive rock",
+        "art rock"
+      ],
+      "philosophicalTags": [
+        "satirical nihilism",
+        "anti-authoritarianism",
+        "racial disharmony critique",
+        "consumerism parody",
+        "counterculture skepticism",
+        "outsider identity"
+      ],
+      "genreStyleTags": [
+        "avant garde",
+        "comedy rock",
+        "satire",
+        "psychedelic rock",
+        "blues rock",
+        "winter",
+        "jazz fusion",
+        "surreal humor",
+        "social commentary",
+        "orchestral",
+        "experimental",
+        "funk",
+        "surreal"
+      ],
+      "summaryPlot": "the first side of apostrophe (') loosely follows a surreal, dreamlike narrative. it begins with the singer dreaming he is an eskimo named nanook, who gets into a confrontation about yellow snow, before transitioning to the bizarre \"st. alfonzo's pancake breakfast\". the rest of the album shifts to standalone tracks, including the mystical \"cosmik debris,\" the socially conscious \"uncle remus\" on racism, and the humorous \"stink-foot\". the title track is a fusion instrumental featuring jack bruce on bass.",
+      "pros": [
+        "features elite instrumental performances from george duke (keyboards), jean-luc ponty (violin), jack bruce (bass) and aynsley dunbar (drums).",
+        "apostrophe title track is heavy funk-rock instrumental duel between frank zappa's lead guitar and cream’s jack bruce on bass that ride the momentum.",
+        "album links four distinct movements such as \"yellow snow\", \"nanook\", \"st. alfonzo\", \"father o'blivion\" using intricate 5/4 and 7/8 time signature changes.",
+        "built around a filthy blues-guitar riff paired wit satire mocking fake spiritual gurus and mysticism.",
+        "recorded with hi-fi clarity, is crisp stereo separation, punching your face bass response and dynamic audio space.",
+        "classical-fusion runs that elevate \"uncle remus\" and the title track above standard rock elements.",
+        "uncle ramus track is co-written with george duke that serve social critique on civil rights dynamics over lush piano chords.",
+        "ruth underwood’s marimba and vibraphone add that distinct complexity to tight rhythm sections.",
+        "zappa’s guitar solos are raw and rejects generic blues cliches.",
+        "album's silly structure doesn't take itself serious and forces art music tropes while being art album."
+      ],
+      "cons": [
+        "several impressive instrumental jams like the title track and \"stink-foot\" are fade-outs rather than definitive piece.",
+        "zappa's spoken word is usually too theatrical.",
+        "b side cannot keep the consistency in favor to lean more into comedic values.",
+        "gimmicky sound effects usage age worse than intrumental elements.",
+        "closing track is simple, plodding 4/4 funk beat over 6 minutes, trust a lot to vical gags.",
+        "album is a bit commercialized than what is a jazz fusion is.",
+        "excentrifugal forz feels unfinished."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "unorthodox behaviour",
+        "octopus",
+        "danger money",
+        "we're only in it for the money"
+      ],
+      "mediumInfluences": [
+        "cream",
+        "gentle giant",
+        "miles davis",
+        "king crimson"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t17:46:39.492z",
+      "updatedAt": "2026-08-08t17:46:39.511z"
+    },
+    {
+      "id": "item-1786090720264",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaW6T0ydhXCXbc3ysjaOrlzuNZqxSsg2H6Y1MsE2QnM5KtcMhgJqH3stp&s=10",
+      "title": "hounds of love",
+      "mainCreator": "kate bush",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "kate bush",
+          "category": "music artist",
+          "nation": "united kingdom",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kate_Bush",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kate_Bush_Hounds_of_Love_%281985_EMI_publicity_photo%29_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "1985-90-16",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "art pop",
+        "progressive pop",
+        "synthpop"
+      ],
+      "philosophicalTags": [
+        "intimacy and its limits",
+        "fear and vulnerability",
+        "light and dark",
+        "survival and resilience",
+        "self love"
+      ],
+      "genreStyleTags": [
+        "ethereal wave",
+        "romance",
+        "atmospheric",
+        "haunting",
+        "mystery",
+        "poetic",
+        "maximalist",
+        "winter"
+      ],
+      "summaryPlot": "hounds of love is structured as two distinct halves. the first side explores the ambiguities, fears, and vulnerabilities of romantic love. the second side, the ninth wave, is a seven-song conceptual suite following a woman drifting alone in the sea at night, tracing her journey through crisis, survival, and rebirth.",
+      "pros": [
+        "running up that hill is built around an iconic linndrum rhythm and lush fairlight cmi synth textures.",
+        "kate bush just mastered cmi synthesizer which causes unique textures.",
+        "7-track b-side is high-concept about a person drifting at sea, struggling against drowning and sleep.",
+        "orchestral strings and military snares rides the momentum dynamically.",
+        "minimalist synth-stabs and claustrophobic vocal layering awakens paranoa and isolation.",
+        "irish instruments as fiddles, uilleann pipes and bodhrán joins with unexpected but fresh texture.",
+        "spoken-word samples, distorted vocal shifts and church-bell textures, that's rich catalog of elements used well in experimental scene.",
+        "bush' vocal control and range is unmatched.",
+        "album is divided into an accessible commercial a-side and experimental b-side.",
+        "storytelling is lyrically cinematic."
+      ],
+      "cons": [
+        "reverb snare hits and early digital synths are dated and linked to commercial production tropes.",
+        "album sometimes is too theatrically melodramatic, it feels forced.",
+        "\"the big sky\" is monotonous wall-of-sound that doesn't evolve into something.",
+        "commercial studio polishing ruins the dreamy experimental approach.",
+        "some spoken word samples feels gimmicky.",
+        "commercial side of the album is about generic structure of repetitive and predictable verse-chorus boredom.",
+        "beat crafting and synth-loop repetitions lack glitch details and kinda falls as simple. well it was generational in it's time, i guess?"
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "post",
+        "little earthquakes",
+        "when the pawn...",
+        "dog man star",
+        "is this desire?"
+      ],
+      "mediumInfluences": [
+        "david bowie",
+        "pink floyd",
+        "peter gabriel",
+        "night of the demon",
+        "alfred lord tennyson"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-07t08:18:40.267z",
+      "updatedAt": "2026-08-07t08:18:40.271z"
+    },
+    {
       "id": "item-1785702301030",
       "cover": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2021/08/Berserk-Chapter-364-To-Release-in-September.jpg?w=1200&h=675&fit=crop",
       "title": "berserk",
@@ -567,613 +860,6 @@
       "links": [],
       "createdAt": "2026-08-06t16:04:16.231z",
       "updatedAt": "2026-08-06t23:20:33.807z"
-    },
-    {
-      "id": "item-1786090720264",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaW6T0ydhXCXbc3ysjaOrlzuNZqxSsg2H6Y1MsE2QnM5KtcMhgJqH3stp&s=10",
-      "title": "hounds of love",
-      "mainCreator": "kate bush",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "kate bush",
-          "category": "music artist",
-          "nation": "united kingdom",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Kate_Bush",
-          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kate_Bush_Hounds_of_Love_%281985_EMI_publicity_photo%29_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "1985-90-16",
-      "countryOfOrigin": "united kingdom",
-      "originalLanguage": "english",
-      "genres": [
-        "art pop",
-        "progressive pop",
-        "synthpop"
-      ],
-      "philosophicalTags": [
-        "intimacy and its limits",
-        "fear and vulnerability",
-        "light and dark",
-        "survival and resilience",
-        "self love"
-      ],
-      "genreStyleTags": [
-        "ethereal wave",
-        "romance",
-        "atmospheric",
-        "haunting",
-        "mystery",
-        "poetic",
-        "maximalist",
-        "winter"
-      ],
-      "summaryPlot": "hounds of love is structured as two distinct halves. the first side explores the ambiguities, fears, and vulnerabilities of romantic love. the second side, the ninth wave, is a seven-song conceptual suite following a woman drifting alone in the sea at night, tracing her journey through crisis, survival, and rebirth.",
-      "pros": [
-        "running up that hill is built around an iconic linndrum rhythm and lush fairlight cmi synth textures.",
-        "kate bush just mastered cmi synthesizer which causes unique textures.",
-        "7-track b-side is high-concept about a person drifting at sea, struggling against drowning and sleep.",
-        "orchestral strings and military snares rides the momentum dynamically.",
-        "minimalist synth-stabs and claustrophobic vocal layering awakens paranoa and isolation.",
-        "irish instruments as fiddles, uilleann pipes and bodhrán joins with unexpected but fresh texture.",
-        "spoken-word samples, distorted vocal shifts and church-bell textures, that's rich catalog of elements used well in experimental scene.",
-        "bush' vocal control and range is unmatched.",
-        "album is divided into an accessible commercial a-side and experimental b-side.",
-        "storytelling is lyrically cinematic."
-      ],
-      "cons": [
-        "reverb snare hits and early digital synths are dated and linked to commercial production tropes.",
-        "album sometimes is too theatrically melodramatic, it feels forced.",
-        "\"the big sky\" is monotonous wall-of-sound that doesn't evolve into something.",
-        "commercial studio polishing ruins the dreamy experimental approach.",
-        "some spoken word samples feels gimmicky.",
-        "commercial side of the album is about generic structure of repetitive and predictable verse-chorus boredom.",
-        "beat crafting and synth-loop repetitions lack glitch details and kinda falls as simple. well it was generational in it's time, i guess?"
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "post",
-        "little earthquakes",
-        "when the pawn...",
-        "dog man star",
-        "is this desire?"
-      ],
-      "mediumInfluences": [
-        "david bowie",
-        "pink floyd",
-        "peter gabriel",
-        "night of the demon",
-        "alfred lord tennyson"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-07t08:18:40.267z",
-      "updatedAt": "2026-08-07t08:18:40.271z"
-    },
-    {
-      "id": "item-1786178048567",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
-      "title": "paranoid",
-      "mainCreator": "black sabbath",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "black sabbath",
-          "category": "band",
-          "nation": "united kingdom",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Black_Sabbath&ved=2ahUKEwia7bXVyZCWAxX2QfEDHYUyHgMQFnoECF4QAQ&usg=AOvVaw2obFTMRXme9VmqKWDuPKJH",
-          "bandMembers": [
-            {
-              "name": "ozzy osbourne",
-              "bandRole": "vocalist",
-              "participatedInProduct": true,
-              "productRole": "vocal, harmonica"
-            },
-            {
-              "name": "tony iommi",
-              "bandRole": "guitarist",
-              "participatedInProduct": true,
-              "productRole": "guitar, flute"
-            },
-            {
-              "name": "geezer butler",
-              "bandRole": "bass guitarist",
-              "participatedInProduct": true,
-              "productRole": "bass, lyric"
-            },
-            {
-              "name": "bill ward",
-              "bandRole": "drummer",
-              "participatedInProduct": true,
-              "productRole": "drum"
-            },
-            {
-              "name": "rodger bain",
-              "bandRole": "producer",
-              "participatedInProduct": true,
-              "productRole": "produce"
-            }
-          ]
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "1970-09-18",
-      "countryOfOrigin": "united kingdom",
-      "originalLanguage": "english",
-      "genres": [
-        "heavy metal",
-        "hard rock",
-        "doom metal"
-      ],
-      "philosophicalTags": [
-        "anti-war",
-        "mental health & paranoia",
-        "drug addiction",
-        "nuclear apocalypse",
-        "working-class strife"
-      ],
-      "genreStyleTags": [
-        "blues rock",
-        "heavy psych",
-        "occult rock",
-        "riff heavy",
-        "groove metal",
-        "proto metal",
-        "depression",
-        "paranoia",
-        "drugs",
-        "political",
-        "war",
-        "pessimistic",
-        "psychedelic"
-      ],
-      "summaryPlot": "thematic exploration of the dark underbelly of the human experience and the anxieties of its era. it serves as a sonic journey through the societal ills of 1970, tackling the horrors of war (\"war pigs\"), mental health struggles (\"paranoid\"), drug addiction (\"hand of doom\"), and apocalyptic dread (\"electric funeral\"), while also showcasing the band's surprising versatility with a haunting, psychedelic interlude on \"planet caravan.\"",
-      "pros": [
-        "tony iommi’s tritone and pentatonic riffs in war pigs, iron man and electric funeral is fresh",
-        "war pig is very dynamic with heavy epicness with tempo shifts, guitar fills and a heavy climax.",
-        "bass lines leads melody and fills the awkward spaces successfully.",
-        "ward’s drumming is unpredictable, fills the melody and uses jazz dynamics that contain heavy riffs above simple 4/4 pounding.",
-        "lyrical themes deal with cold-war military, corruption, psychological decay, nuclear destruction and drug addiction using simple but impactful lyrics.",
-        "heavy riffs perfectly shades the mechanical plot of a time-traveling man turned to steel seeking vengeance.",
-        "psychedelic detour featuring flanged vocals, congas and jazz-guitar arpeggios with brilliant textures.",
-        "ozzy osbourne’s unpolished delivery screws through down tuned instrumentation with clean clarity.",
-        "rat salad solo is fun."
-      ],
-      "cons": [
-        "title track was written as a quick 2-minute studio filler, relying on basic 3-chord punk/rock structures without any complexity.",
-        "rodger bain’s production lacks the raw bass wallop and crushing down-tuned heaviness.",
-        "multiple tracks rely on classic 100% studio fade-outs than musical resolutions.",
-        "early stereo mixing choices place the guitar hard-left and rhythm hard-right on certain sections which is distracting and aged poorly.",
-        "sonic and mechanical clarity is clearly not mastered due to release date.",
-        "planet caravan is a massive 4 minute pacing breaker between two accessible high melody tracks. it's not a bad track but could work as a intro. clearly off-genre and way too long for a bridge between two bangers."
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "led zeppelin 4",
-        "deep purple in rock",
-        "machine head",
-        "who's next"
-      ],
-      "mediumInfluences": [
-        "the beatles",
-        "bob dylan",
-        "superunknown",
-        "far beyond driven",
-        "leviathan"
-      ],
-      "consumedVersion": "cd",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t08:34:08.570z",
-      "updatedAt": "2026-08-08t08:45:19.595z"
-    },
-    {
-      "id": "album-ost-1785683444842-16zbo",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
-      "title": "terraria official soundtrack",
-      "mainCreator": "scott lloyd shelly",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "scott lloyd shelly",
-          "category": "music artist",
-          "nation": "australia",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rateyourmusic.com/artist/scott_lloyd_shelly&ved=2ahUKEwis9v6lnoKWAxVf_7sIHdAKE5wQFnoECD0QAQ&usg=AOvVaw20ZNoh0jE9NSgypQ3bZqXU"
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "2011-11-01",
-      "countryOfOrigin": "australia",
-      "originalLanguage": "english",
-      "genres": [
-        "digital fusion",
-        "cinematic classical"
-      ],
-      "philosophicalTags": [
-        "tension & release",
-        "exploration",
-        "modern retro",
-        "alienation"
-      ],
-      "genreStyleTags": [
-        "ambient",
-        "chiptune",
-        "orchestral",
-        "chaotic",
-        "8 bit",
-        "dubstep",
-        "downtempo",
-        "glitch hop",
-        "progressive electronic",
-        "instrumental",
-        "futuristic",
-        "video game soundtrack"
-      ],
-      "summaryPlot": "a dynamic, genre-blending instrumental soundtrack that serves as the audio identity for the 2d sandbox adventure game terraria, shifting from serene, ambient melodies for exploration to intense, high-energy orchestral anthems for epic boss battles. the music enhances the game's core themes of discovery, danger, and triumph, creating an immersive backdrop for the player's journey through a vast, procedurally generated world.",
-      "pros": [
-        "soundtrack is iconic and instantly tone setting.",
-        "unique tracks for biomes as jungle, the hallow, corruption and desert give every region atmospheric signature.",
-        "boss tracks are chaotic and serves the same with rich synth and riff elements specifically track plantera which is influenced by the band pantera.",
-        "\"underground\" and \"underworld\" use basslines and sparse synth echoes to build isolation.",
-        "sudden event tracks as \"goblin army,\" \"pirate invasion\" and \"solar eclipse\") shifts the exploration rhythm with synth pulses.",
-        "retro-modern blending is genius, album pulls the 8 bit/16 bit soundtrack structures and reshapes it with modern elementally rich touches.",
-        "melodies are catchy and memorable.",
-        "tracks like \"frost moon\" and \"pumpkin moon\" adapts to the theme of the event."
-      ],
-      "cons": [
-        "if you stay in the same biome for an hour while grinding then soundtrack variety in the specific biome won't be too helpful.",
-        "waooohhh waaaaoohhhh waaaaoooohhh",
-        "soundtrack contains many goofy elements such as high-pitched chiptunes and laser-like synth.",
-        "early 1.0-era tracks uses dated synthesizers.",
-        "soundtrack is master at alienating audio but sitting through it causes listening fatique because synthetic structure."
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "undertale soundtrack",
-        "celeste original soundtrack",
-        "the coffee talk",
-        "vvvvv soundtrack"
-      ],
-      "mediumInfluences": [
-        "minecraft volume alpha",
-        "aphex twin",
-        "brian eno",
-        "kraftwerk",
-        "pantera",
-        "joe hisaishi"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": true,
-      "soundtrackForId": "item-1785669348801",
-      "soundtrackForTitle": "terraria",
-      "links": [
-        {
-          "id": "link-1785684356008",
-          "label": "steam",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/409210/Terraria_Official_Soundtrack/&ved=2ahUKEwi9me3QoIKWAxXu8LsIHSWxALIQFnoECEcQAQ&sqi=2&usg=AOvVaw13EUOBXMj20CPKHNyqZQ4y"
-        }
-      ],
-      "createdAt": "2026-08-02t15:10:44.843z",
-      "updatedAt": "2026-08-07t08:33:44.688z"
-    },
-    {
-      "id": "item-1786191875948",
-      "cover": "https://lets-play.by/media/screen-shots/cryostasis-sleep-of-reason/cryostasis-sleep-of-reason-screenshot-%20(4).jpg",
-      "title": "cryostasis sleep of reason",
-      "mainCreator": "action forms",
-      "otherCreators": [
-        "alexander tugaenko/designer",
-        "dmitry nechay/designer",
-        "stanislav dmitriev/programmer"
-      ],
-      "creatorDetails": [
-        {
-          "name": "action forms",
-          "category": "developer",
-          "nation": "ukraine",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Action_Forms&ved=2ahUKEwjXtbmP_ZCWAxX5HRAIHTW9KGEQFnoECBAQAQ&sqi=2&usg=AOvVaw0-27t9ySI3tQjgfxpMKgZl"
-        },
-        {
-          "name": "alexander tugaenko",
-          "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander%20Tugaenko"
-        },
-        {
-          "name": "dmitry nechay",
-          "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dmitry%20Nechay"
-        },
-        {
-          "name": "stanislav dmitriev",
-          "category": "programmer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Stanislav%20Dmitriev"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2008-12-05",
-      "countryOfOrigin": "ukraine",
-      "originalLanguage": "english",
-      "genres": [
-        "psychological horror",
-        "survival horror",
-        "first person shooter"
-      ],
-      "philosophicalTags": [
-        "existentialist self determination",
-        "nietzschean will to power",
-        "hessean spiritual awakening",
-        "fatalism vs. free will",
-        "time paradox & causal loops",
-        "purgatorial afterlife",
-        "symbolic allegory"
-      ],
-      "genreStyleTags": [
-        "atmospheric horror",
-        "science fiction",
-        "time travel",
-        "mystery",
-        "metaphysical horror",
-        "slow burn",
-        "claustrophobic"
-      ],
-      "summaryPlot": "in 1981, russian meteorologist alexander nesterov is sent to investigate the nuclear icebreaker north wind, which has been trapped in arctic ice since 1968. upon arrival, he discovers the crew has been mutated into bizarre creatures, and he must use his unique ability, the \"mental echo\"—which allows him to enter the memories of the dead and change their past actions—to uncover the ship's tragic mystery. as he navigates the frozen vessel, he finds fragments of maxim gorky's fairy tale that parallel the ship's fate, forcing him to confront the nature of tragedy and whether the past can ever truly be rewritten.",
-      "pros": [
-        "possessing the memories of dead crewmen to alter their past actions (closing a pressure valve, throwing a switch) to fix environmental elements in the present is a top-tier puzzle mechanic.",
-        "body-heat managing system replaces traditional health with body temperature.",
-        "frost accumulate on your weapon and vision in real time when entering unheated zones.",
-        "serves a claustrophobic and isolated survival horror setting.",
-        "melee combat (water pipes, axes) and primitive soviet firearms (mosin-nagant, ppsh-41) has heavy momentum and swing animations.",
-        "gorky’s fairy tale of danko's burning heart is a commentary on leadership, sacrifice and the captain's decisions.",
-        "enemies are mutated crewmen bound to their cold-weather gear and industrial tools (welders, chain-men, projectionists), they're very spooky and atmospheric.",
-        "dynamic melting physics in real-time is satisfying.",
-        "zero hud system and heat bar adds up to atmosphere visually."
-      ],
-      "cons": [
-        "atmosfear engine damaged by frame drops, memory leaks and performance hitches, even on high-end modern hardware.",
-        "level layouts are repetitive corridors which gets boring quickly.",
-        "protagonist moves at an slow walking pace, making backtracking or dodging enemy attacks feel like torture..",
-        "certain flashback sequences ask for untelegraphed steps that result in instant failure if not executed perfectly so be ready for absolute ragebait.",
-        "enemy ai is inconsistent and glitchy. enemies constantly stuck on doors and walls or they act dumb.",
-        "late game enemies are ammo-sponge. game wants you to use a shot and step back strategy which is dull, lazy and tired.",
-        "final boss fight inconsistencies in the final confrontation, from the established fps survival gameplay, mechanics-wise feeling out of place.",
-        "despite the giant ship, levels are linear with minimal room for walking around or exploratory sequences are dull..",
-        "key triggers like tiny light switches or hidden ladder rungs are poorly displayed in dark rooms, causes aimless moments."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "amnesia the dark descent",
-        "condemned criminal origins",
-        "call of cthulhu dark corners of the earth",
-        "narcosis",
-        "metro 2033",
-        "penumbra: overture"
-      ],
-      "mediumInfluences": [
-        "bioshock",
-        "francisco goya",
-        "the flaming heart of danko",
-        "maxim gorky",
-        "david cronenberg",
-        "john carpenter",
-        "hermann hesse",
-        "braid"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t12:24:35.953z",
-      "updatedAt": "2026-08-08t12:24:35.971z"
-    },
-    {
-      "id": "item-1785762906387",
-      "cover": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/02/Omori-Game-Wiki-Mari-Picnic-Blanket.jpg?q=50&fit=crop&w=825&dpr=1.5",
-      "title": "omori",
-      "mainCreator": "omocat",
-      "otherCreators": [
-        "charlene lu/designer",
-        "emily shaw/designer",
-        "andrew batino/scriptwriter"
-      ],
-      "creatorDetails": [
-        {
-          "name": "omocat",
-          "category": "director",
-          "nation": "united states",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Omocat"
-        },
-        {
-          "name": "charlene lu",
-          "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Charlene%20Lu"
-        },
-        {
-          "name": "emily shaw",
-          "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Emily%20Shaw"
-        },
-        {
-          "name": "andrew batino",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew%20Batino"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2020-12-25",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "turned based combat",
-        "jrpg",
-        "psychological horror"
-      ],
-      "philosophicalTags": [
-        "freudian repression",
-        "trauma & grief",
-        "existentialist self discovery",
-        "escapism vs. confrontation"
-      ],
-      "genreStyleTags": [
-        "trauma",
-        "tragedy",
-        "party based",
-        "multiple endings",
-        "boss fight",
-        "hand drawn",
-        "pixel art",
-        "item shop",
-        "surrealism",
-        "absurdist comedy",
-        "slice of life",
-        "mystery",
-        "low fantasy",
-        "denpa",
-        "utsuge",
-        "boss rush",
-        "liminal space",
-        "suicidal",
-        "rpg maker"
-      ],
-      "summaryPlot": "the player controls sunny, a mute hikikomori teenage boy, and his dream world alter-ego omori. while omori explores the vibrant yet surreal dream world of headspace with his friends, sunny navigates the real world of faraway town, and the player's choices determine whether sunny confronts or continues to suppress the traumatic truth behind his sister mari's death.",
-      "pros": [
-        "tying emotional states (happy > angry > sad > happy) serves a clever tactical layer to turn-based battles.",
-        "tonal dynamic of pastel headspace dream world and the claustrophobic real world faraway town builds strong psychological anchor.",
-        "plot is haunting, dealing with repression, memory suppression and the psychological weight of a secret delivers gravity.",
-        "black space horror sequences has exceptional horror atmosphere and environmental storytelling.",
-        "party members accumulating energy to perform followed attacks is great at team positioning and combos.",
-        "decisions unlocks different content and ending.",
-        "hand drawn art is memorable and unique.",
-        "side quests consist of odd jobs around faraway town such as delivering pizzas, raking leaves, helping neighbors, this is surprisingly grounded and actually serves to theme when narrative needs that contrast to soften the heaviness of dream dungeons, they feel human.",
-        "sunny's phobias such as heights, water and spiders actually blended cleverly to the gameplay, which makes psychological weight earned. this is shocking to me, games probably leaves it as context or organic excuse to the technological limitations."
-      ],
-      "cons": [
-        "sweetheart's castle or the humphrey whale contains a lot of cheap fetch quests.",
-        "outside of major boss fights, turn-based enemy encounters is mindless button-mashing routines which lacks any depth or engagement.",
-        "silly cartoon antics in headspace interrupt darkness and psychological tension built in real world. it could be seen as escapism cope but doesn't change the fact that it damages the tonal consistency and could've done better. audience doesn't need obvious tropes to see coping idea which is obvious, that's disrespectful.",
-        "searching for hidden computer keys is artificial completionist chore.",
-        "real-world encounters are about basic attack and item commands.",
-        "spoiler/ for psychological thriller readers as me, the twist on mari's death contains many predictable cliché psychological tropes.",
-        "late-game bosses force tedious grinding in headspace to boost hp and juice pools which is chore and repetitive grind which i hate.",
-        "heavy backtracking and navigation in bigass areas like the junkyard or deep well is just walking repetitively in empty vastness.",
-        "dream-world companions are generic and repetitive \"friendship power-of-love\" trope which is i guess crucial in standard jrpgs.",
-        "ending is rushed and game leaves the gamer with many questions, fast executions and lazy shortcuts."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "mother 3",
-        "lisa the painful",
-        "oneshot",
-        "hello charlotte"
-      ],
-      "mediumInfluences": [
-        "earthbound",
-        "yume nikki",
-        "undertale",
-        "omoriboy"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-03t13:15:06.394z",
-      "updatedAt": "2026-08-06t06:48:38.193z"
-    },
-    {
-      "id": "item-1785696098365",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
-      "title": "ergo proxy",
-      "mainCreator": "shūkō murase",
-      "otherCreators": [
-        "dai satō/scriptwriter"
-      ],
-      "creatorDetails": [
-        {
-          "name": "shūkō murase",
-          "category": "director",
-          "nation": "japan",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Sh%C5%ABk%C5%8D_Murase"
-        },
-        {
-          "name": "dai satō",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/dai%20sat%C5%8D"
-        }
-      ],
-      "mediaFormat": "tv show",
-      "releaseDate": "2006-02-25",
-      "countryOfOrigin": "japan",
-      "originalLanguage": "japanese",
-      "genres": [
-        "psychological thriller",
-        "mystery",
-        "cyberpunk"
-      ],
-      "philosophicalTags": [
-        "gnostic cosmology",
-        "cartesian mind body dualism",
-        "existentialist self discovery",
-        "posthumanism",
-        "simulacra",
-        "thanatos drive"
-      ],
-      "genreStyleTags": [
-        "post apocalyptic",
-        "dystopian",
-        "science fiction",
-        "dark fantasy",
-        "noir",
-        "artificial intelligence",
-        "action",
-        "animation",
-        "anime"
-      ],
-      "summaryPlot": "set in a post-apocalyptic future within the domed utopia of romdo, inspector re-l mayer investigates a series of murders committed by autoreiv androids infected with the \"cogito virus\" that grants them self-awareness. the investigation pulls her into a global conspiracy involving vincent law, an immigrant haunted by his past, and mysterious god-like beings called \"proxies,\" forcing them all to confront the true nature of their existence.",
-      "pros": [
-        "romdeau city serves rich dystopian city atmosphere and dynamics with hierarchy and propaganda.",
-        "androids (autoreivs) acquiring self-awareness and emotional souls via a virus is a strong concept.",
-        "sharp usage of dark coloured shadows, rain and lighting gives early episodes a neo-noir tone.",
-        "the mystery of proxy project serves engaging mystery.",
-        "pino which is a autoreiv dressed in a rabbit suit is surprisingly a good companion.",
-        "references to descartes, rené magritte and mythologies can be found in the worldbuilding.",
-        "fights are grounded and realistic physically.",
-        "psychological decay is served as a deep element across characters."
-      ],
-      "cons": [
-        "middle act contains episodic fillers.",
-        "mechanics such as the pulse of the awakening, amrita cells, the creators' return plan etc etc are served as complex infodumps.",
-        "animation quality is visibly inconsistent in later acts.",
-        "final of the show is rushed with overcrowded reveals.",
-        "jumping from massacres to surreal comedy-quiz episodes is tonal inconsistency.",
-        "journey across the ruined wasteland visits fails with domes that feel placeholders than real societies.",
-        "many episodes works with hallucinatory or subconscious dreamlike visuals, it creates forced obscurity in such physical story.",
-        "some of the bigger picture concepts such as fate of the returning true humans from orbit slowly decays, decays and gets forgotten."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "ghost in the shell stand alone complex",
-        "psycho-pass",
-        "wolf's rain",
-        "shinsekai yori",
-        "darker than black"
-      ],
-      "mediumInfluences": [
-        "ghost in the shell",
-        "serial experiments lain",
-        "texhnolyze",
-        "blade runner",
-        "nausicaä of the valley of the wind"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-02t18:41:38.368z",
-      "updatedAt": "2026-08-06t11:18:03.631z"
     },
     {
       "id": "item-1786039768934",
@@ -1488,6 +1174,320 @@
       "updatedAt": "2026-08-07t08:33:46.214z"
     },
     {
+      "id": "item-1786191875948",
+      "cover": "https://lets-play.by/media/screen-shots/cryostasis-sleep-of-reason/cryostasis-sleep-of-reason-screenshot-%20(4).jpg",
+      "title": "cryostasis sleep of reason",
+      "mainCreator": "action forms",
+      "otherCreators": [
+        "alexander tugaenko/designer",
+        "dmitry nechay/designer",
+        "stanislav dmitriev/programmer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "action forms",
+          "category": "developer",
+          "nation": "ukraine",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Action_Forms&ved=2ahUKEwjXtbmP_ZCWAxX5HRAIHTW9KGEQFnoECBAQAQ&sqi=2&usg=AOvVaw0-27t9ySI3tQjgfxpMKgZl"
+        },
+        {
+          "name": "alexander tugaenko",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander%20Tugaenko"
+        },
+        {
+          "name": "dmitry nechay",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dmitry%20Nechay"
+        },
+        {
+          "name": "stanislav dmitriev",
+          "category": "programmer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stanislav%20Dmitriev"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2008-12-05",
+      "countryOfOrigin": "ukraine",
+      "originalLanguage": "english",
+      "genres": [
+        "psychological horror",
+        "survival horror",
+        "first person shooter"
+      ],
+      "philosophicalTags": [
+        "existentialist self determination",
+        "nietzschean will to power",
+        "hessean spiritual awakening",
+        "fatalism vs. free will",
+        "time paradox & causal loops",
+        "purgatorial afterlife",
+        "symbolic allegory"
+      ],
+      "genreStyleTags": [
+        "atmospheric horror",
+        "science fiction",
+        "time travel",
+        "mystery",
+        "metaphysical horror",
+        "slow burn",
+        "claustrophobic"
+      ],
+      "summaryPlot": "in 1981, russian meteorologist alexander nesterov is sent to investigate the nuclear icebreaker north wind, which has been trapped in arctic ice since 1968. upon arrival, he discovers the crew has been mutated into bizarre creatures, and he must use his unique ability, the \"mental echo\"—which allows him to enter the memories of the dead and change their past actions—to uncover the ship's tragic mystery. as he navigates the frozen vessel, he finds fragments of maxim gorky's fairy tale that parallel the ship's fate, forcing him to confront the nature of tragedy and whether the past can ever truly be rewritten.",
+      "pros": [
+        "possessing the memories of dead crewmen to alter their past actions (closing a pressure valve, throwing a switch) to fix environmental elements in the present is a top-tier puzzle mechanic.",
+        "body-heat managing system replaces traditional health with body temperature.",
+        "frost accumulate on your weapon and vision in real time when entering unheated zones.",
+        "serves a claustrophobic and isolated survival horror setting.",
+        "melee combat (water pipes, axes) and primitive soviet firearms (mosin-nagant, ppsh-41) has heavy momentum and swing animations.",
+        "gorky’s fairy tale of danko's burning heart is a commentary on leadership, sacrifice and the captain's decisions.",
+        "enemies are mutated crewmen bound to their cold-weather gear and industrial tools (welders, chain-men, projectionists), they're very spooky and atmospheric.",
+        "dynamic melting physics in real-time is satisfying.",
+        "zero hud system and heat bar adds up to atmosphere visually."
+      ],
+      "cons": [
+        "atmosfear engine damaged by frame drops, memory leaks and performance hitches, even on high-end modern hardware.",
+        "level layouts are repetitive corridors which gets boring quickly.",
+        "protagonist moves at an slow walking pace, making backtracking or dodging enemy attacks feel like torture..",
+        "certain flashback sequences ask for untelegraphed steps that result in instant failure if not executed perfectly so be ready for absolute ragebait.",
+        "enemy ai is inconsistent and glitchy. enemies constantly stuck on doors and walls or they act dumb.",
+        "late game enemies are ammo-sponge. game wants you to use a shot and step back strategy which is dull, lazy and tired.",
+        "final boss fight inconsistencies in the final confrontation, from the established fps survival gameplay, mechanics-wise feeling out of place.",
+        "despite the giant ship, levels are linear with minimal room for walking around or exploratory sequences are dull..",
+        "key triggers like tiny light switches or hidden ladder rungs are poorly displayed in dark rooms, causes aimless moments."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "amnesia the dark descent",
+        "condemned criminal origins",
+        "call of cthulhu dark corners of the earth",
+        "narcosis",
+        "metro 2033",
+        "penumbra: overture"
+      ],
+      "mediumInfluences": [
+        "bioshock",
+        "francisco goya",
+        "the flaming heart of danko",
+        "maxim gorky",
+        "david cronenberg",
+        "john carpenter",
+        "hermann hesse",
+        "braid"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t12:24:35.953z",
+      "updatedAt": "2026-08-08t12:24:35.971z"
+    },
+    {
+      "id": "item-1785696098365",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
+      "title": "ergo proxy",
+      "mainCreator": "shūkō murase",
+      "otherCreators": [
+        "dai satō/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "shūkō murase",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sh%C5%ABk%C5%8D_Murase"
+        },
+        {
+          "name": "dai satō",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/dai%20sat%C5%8D"
+        }
+      ],
+      "mediaFormat": "tv show",
+      "releaseDate": "2006-02-25",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "psychological thriller",
+        "mystery",
+        "cyberpunk"
+      ],
+      "philosophicalTags": [
+        "gnostic cosmology",
+        "cartesian mind body dualism",
+        "existentialist self discovery",
+        "posthumanism",
+        "simulacra",
+        "thanatos drive"
+      ],
+      "genreStyleTags": [
+        "post apocalyptic",
+        "dystopian",
+        "science fiction",
+        "dark fantasy",
+        "noir",
+        "artificial intelligence",
+        "action",
+        "animation",
+        "anime"
+      ],
+      "summaryPlot": "set in a post-apocalyptic future within the domed utopia of romdo, inspector re-l mayer investigates a series of murders committed by autoreiv androids infected with the \"cogito virus\" that grants them self-awareness. the investigation pulls her into a global conspiracy involving vincent law, an immigrant haunted by his past, and mysterious god-like beings called \"proxies,\" forcing them all to confront the true nature of their existence.",
+      "pros": [
+        "romdeau city serves rich dystopian city atmosphere and dynamics with hierarchy and propaganda.",
+        "androids (autoreivs) acquiring self-awareness and emotional souls via a virus is a strong concept.",
+        "sharp usage of dark coloured shadows, rain and lighting gives early episodes a neo-noir tone.",
+        "the mystery of proxy project serves engaging mystery.",
+        "pino which is a autoreiv dressed in a rabbit suit is surprisingly a good companion.",
+        "references to descartes, rené magritte and mythologies can be found in the worldbuilding.",
+        "fights are grounded and realistic physically.",
+        "psychological decay is served as a deep element across characters."
+      ],
+      "cons": [
+        "middle act contains episodic fillers.",
+        "mechanics such as the pulse of the awakening, amrita cells, the creators' return plan etc etc are served as complex infodumps.",
+        "animation quality is visibly inconsistent in later acts.",
+        "final of the show is rushed with overcrowded reveals.",
+        "jumping from massacres to surreal comedy-quiz episodes is tonal inconsistency.",
+        "journey across the ruined wasteland visits fails with domes that feel placeholders than real societies.",
+        "many episodes works with hallucinatory or subconscious dreamlike visuals, it creates forced obscurity in such physical story.",
+        "some of the bigger picture concepts such as fate of the returning true humans from orbit slowly decays, decays and gets forgotten."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "ghost in the shell stand alone complex",
+        "psycho-pass",
+        "wolf's rain",
+        "shinsekai yori",
+        "darker than black"
+      ],
+      "mediumInfluences": [
+        "ghost in the shell",
+        "serial experiments lain",
+        "texhnolyze",
+        "blade runner",
+        "nausicaä of the valley of the wind"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-02t18:41:38.368z",
+      "updatedAt": "2026-08-06t11:18:03.631z"
+    },
+    {
+      "id": "item-1785762906387",
+      "cover": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/02/Omori-Game-Wiki-Mari-Picnic-Blanket.jpg?q=50&fit=crop&w=825&dpr=1.5",
+      "title": "omori",
+      "mainCreator": "omocat",
+      "otherCreators": [
+        "charlene lu/designer",
+        "emily shaw/designer",
+        "andrew batino/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "omocat",
+          "category": "director",
+          "nation": "united states",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Omocat"
+        },
+        {
+          "name": "charlene lu",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charlene%20Lu"
+        },
+        {
+          "name": "emily shaw",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Emily%20Shaw"
+        },
+        {
+          "name": "andrew batino",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew%20Batino"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2020-12-25",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "turned based combat",
+        "jrpg",
+        "psychological horror"
+      ],
+      "philosophicalTags": [
+        "freudian repression",
+        "trauma & grief",
+        "existentialist self discovery",
+        "escapism vs. confrontation"
+      ],
+      "genreStyleTags": [
+        "trauma",
+        "tragedy",
+        "party based",
+        "multiple endings",
+        "boss fight",
+        "hand drawn",
+        "pixel art",
+        "item shop",
+        "surrealism",
+        "absurdist comedy",
+        "slice of life",
+        "mystery",
+        "low fantasy",
+        "denpa",
+        "utsuge",
+        "boss rush",
+        "liminal space",
+        "suicidal",
+        "rpg maker"
+      ],
+      "summaryPlot": "the player controls sunny, a mute hikikomori teenage boy, and his dream world alter-ego omori. while omori explores the vibrant yet surreal dream world of headspace with his friends, sunny navigates the real world of faraway town, and the player's choices determine whether sunny confronts or continues to suppress the traumatic truth behind his sister mari's death.",
+      "pros": [
+        "tying emotional states (happy > angry > sad > happy) serves a clever tactical layer to turn-based battles.",
+        "tonal dynamic of pastel headspace dream world and the claustrophobic real world faraway town builds strong psychological anchor.",
+        "plot is haunting, dealing with repression, memory suppression and the psychological weight of a secret delivers gravity.",
+        "black space horror sequences has exceptional horror atmosphere and environmental storytelling.",
+        "party members accumulating energy to perform followed attacks is great at team positioning and combos.",
+        "decisions unlocks different content and ending.",
+        "hand drawn art is memorable and unique.",
+        "side quests consist of odd jobs around faraway town such as delivering pizzas, raking leaves, helping neighbors, this is surprisingly grounded and actually serves to theme when narrative needs that contrast to soften the heaviness of dream dungeons, they feel human.",
+        "sunny's phobias such as heights, water and spiders actually blended cleverly to the gameplay, which makes psychological weight earned. this is shocking to me, games probably leaves it as context or organic excuse to the technological limitations."
+      ],
+      "cons": [
+        "sweetheart's castle or the humphrey whale contains a lot of cheap fetch quests.",
+        "outside of major boss fights, turn-based enemy encounters is mindless button-mashing routines which lacks any depth or engagement.",
+        "silly cartoon antics in headspace interrupt darkness and psychological tension built in real world. it could be seen as escapism cope but doesn't change the fact that it damages the tonal consistency and could've done better. audience doesn't need obvious tropes to see coping idea which is obvious, that's disrespectful.",
+        "searching for hidden computer keys is artificial completionist chore.",
+        "real-world encounters are about basic attack and item commands.",
+        "spoiler/ for psychological thriller readers as me, the twist on mari's death contains many predictable cliché psychological tropes.",
+        "late-game bosses force tedious grinding in headspace to boost hp and juice pools which is chore and repetitive grind which i hate.",
+        "heavy backtracking and navigation in bigass areas like the junkyard or deep well is just walking repetitively in empty vastness.",
+        "dream-world companions are generic and repetitive \"friendship power-of-love\" trope which is i guess crucial in standard jrpgs.",
+        "ending is rushed and game leaves the gamer with many questions, fast executions and lazy shortcuts."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "mother 3",
+        "lisa the painful",
+        "oneshot",
+        "hello charlotte"
+      ],
+      "mediumInfluences": [
+        "earthbound",
+        "yume nikki",
+        "undertale",
+        "omoriboy"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-03t13:15:06.394z",
+      "updatedAt": "2026-08-06t06:48:38.193z"
+    },
+    {
       "id": "item-1786181648058",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFEtTgoEFCy2KLnwWQS0RLQn8kPoSqyQ0wC5cpJi887M45xZMyZiKI_mS&s=10",
       "title": "stalker",
@@ -1579,312 +1579,6 @@
       "links": [],
       "createdAt": "2026-08-08t09:34:08.064z",
       "updatedAt": "2026-08-08t10:39:26.579z"
-    },
-    {
-      "id": "item-1785654966122",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10",
-      "title": "resident evil",
-      "mainCreator": "shinji mikami",
-      "otherCreators": [
-        "tokuro fujiwara/producer",
-        "capcom/company"
-      ],
-      "creatorDetails": [
-        {
-          "name": "shinji mikami",
-          "category": "director",
-          "nation": "japan",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shinji_Mikami&ved=2ahUKEwjy89aorYGWAxUVRPEDHZ3FI6QQFnoFCJgBEAE&usg=AOvVaw0wpMPhyATfT3qABTNGyIMU"
-        },
-        {
-          "name": "tokuro fujiwara",
-          "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Tokuro%20Fujiwara"
-        },
-        {
-          "name": "capcom",
-          "category": "company",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Capcom"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "1996-03-22",
-      "countryOfOrigin": "japan",
-      "originalLanguage": "english",
-      "genres": [
-        "survival horror",
-        "third person shooter"
-      ],
-      "philosophicalTags": [
-        "burkean sublime",
-        "virtual hauntology",
-        "mukokuseki aesthetics",
-        "bioethics",
-        "corporate conspiracy"
-      ],
-      "genreStyleTags": [
-        "fixed camera",
-        "zombie",
-        "low poly",
-        "boss fight",
-        "gore",
-        "gothic",
-        "science fiction",
-        "puzzles",
-        "resource management",
-        "tank controls",
-        "multiple endings",
-        "betrayal",
-        "dark atmosphere"
-      ],
-      "summaryPlot": "in 1998, members of the elite police task force s.t.a.r.s. are sent to investigate a series of gruesome murders in the arklay mountains, only to be attacked by monstrous dogs and forced to take refuge in a mysterious, zombie-infested mansion. as chris redfield or jill valentine, players must explore the mansion, solve puzzles, and uncover the nightmarish truth behind the umbrella corporation's secret biological experiments in order to survive and escape.",
-      "pros": [
-        "architecture of the mansion is interconnected and atmospheric.",
-        "limited resources management creates tension by forcing gamers to choose between fighting or strategically escaping from enemies.",
-        "fixed camera is claustrophobic and serves to theme.",
-        "sound design with elements such as creaking floorboards, door opening audio and uncanny music builds environmental pressure.",
-        "enemy introductions such as zombies and dogs are very iconic, spooky and impactful.",
-        "puzzles are usually environmental and actually rewarding.",
-        "late game introduces way faster and lethal enemies which forces gamer to adapt or surrender."
-      ],
-      "cons": [
-        "6 to 8 inventory grid is too strict even for resource management element where you get a weapon, two magazines and a story item, and now you don't have a space for a key for a crucial door. also this issues leads to backtrackings constantly.",
-        "game wants you to play the game twice and only thing it serves for it is having two characters with minimal differences. the only differences between first and second gameplay is basically just some extra minor cutscenes which doesn't worth it.",
-        "voice acting in gaming wasn't a real industry back then so voice acting sucks.",
-        "requiring a limited consumable item just to save progress leads to loss of progress from unearned cheap deaths.",
-        "game has dozens of b movie elements which looks cheesy and aged awful.",
-        "primitive tank controls are simply annoying, even aiming, which is crucial, is pain.",
-        "the most doors has a five seconds opening animations, some of these contain impactful jumpscares but interrupting the game everytime opening a door is poor designing.",
-        "combat is stiff and basic with auto-aim and obscure skill gaps.",
-        "chris redfield starts with less inventory grids and no lockpick, this is just artificial difficulty.",
-        "final laboratory sequences are uninspired in design compared to early gothic mansion.",
-        "crucial puzzle items are very easy to miss without external factors such as guides and wikis, i personally show zero tolerance to reliance on external factors."
-      ],
-      "hornetScore": 4,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "silent hill",
-        "dino crisis",
-        "clock tower 2",
-        "parasite eve"
-      ],
-      "mediumInfluences": [
-        "sweet home",
-        "alone in the dark",
-        "night of the living dead",
-        "zombie"
-      ],
-      "consumedVersion": "playstation",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-02t07:16:06.125z",
-      "updatedAt": "2026-08-02t16:29:11.404z"
-    },
-    {
-      "id": "item-1785653046899",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olivertwist_front.jpg",
-      "title": "oliver twist",
-      "mainCreator": "charles dickens",
-      "otherCreators": [
-        "george cruikshank/illustrator"
-      ],
-      "creatorDetails": [
-        {
-          "name": "charles dickens",
-          "category": "author",
-          "nation": "united kingdom",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Charles_Dickens&ved=2ahUKEwjb2bCUpYGWAxV4A9sEHZtNG-8QFnoECEEQAQ&sqi=2&usg=AOvVaw2k9PctKLncGzM3nHeiM6s4"
-        },
-        {
-          "name": "george cruikshank",
-          "category": "illustrator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Cruikshank"
-        }
-      ],
-      "mediaFormat": "book",
-      "releaseDate": "1938",
-      "countryOfOrigin": "united kingdom",
-      "originalLanguage": "english",
-      "genres": [
-        "novel",
-        "social critique",
-        "bildungsroman"
-      ],
-      "philosophicalTags": [
-        "innate morality",
-        "social critique",
-        "nature vs. nurture",
-        "christian morality"
-      ],
-      "genreStyleTags": [
-        "victorian literature",
-        "orphan",
-        "poverty",
-        "melodrama",
-        "satire",
-        "gothic",
-        "corruption"
-      ],
-      "summaryPlot": "oliver twist, an orphan born in a workhouse, endures a miserable childhood of child labor before escaping to london, where he falls in with a gang of pickpockets led by the elderly criminal fagin. after being wrongly accused of theft, oliver is rescued by the kind mr. brownlow, but the gang recaptures him, leading to a series of events that ultimately reveal oliver's true identity and secure his happy ending.",
-      "pros": [
-        "satire execution is sharp, book clearly shows hypocrisy of victorian poor law.",
-        "london's labyrinthine and claustrophobic environment is atmospheric.",
-        "book contains many memorable figures such as fagin, the artful dodger and bill sikes.",
-        "chertsey burglary planning is actually serving tension and execution is tight.",
-        "psychological depth isn't any surface level, for example nancy’s murder captures guilt, paranoia and psychological collapse.",
-        "book rejects victorian romanticism by directly showing child exploitation, urban poverty and systemic corruption.",
-        "settings dynamics as shift from claustrophobic london streets to safe countryside is effective.",
-        "artful dodger’s courtroom scene is damn good, provides street-smart coolness and uses quality satire elements.",
-        "morale stakes are clear, for example reader is left with tension of \"will twist stay still pure after all of these?\""
-      ],
-      "cons": [
-        "oliver usually survive through pure luck, external factors and helpless innocence.",
-        "book excuses heavy coincidences like oliver's burglary spot is being his wealthy relatives.",
-        "oliver is unrealistically untainted by his surroundings despite growing up in a workhouse, kinda points cheap melodrama effect.",
-        "resolution relies on lazy secret plotline.",
-        "figures like mr. brownlow and rose maylie are unrealistically purely good despite living in a corrupted state.",
-        "subplots are conversational fillers that slows down the book's pacing.",
-        "dickens frequently pauses the story just to lecture the reader on victorian morality and christian charity like we are dumbass.",
-        "some key figures like monks are just cheap plot summaries.",
-        "tonal shift is inconsistent by shifting victorian romance and crime thriller awkwardly."
-      ],
-      "hornetScore": 4,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "les misérables",
-        "jane eyre",
-        "the secret garden",
-        "peter pan",
-        "wuthering heights"
-      ],
-      "mediumInfluences": [
-        "the pilgrim's progress",
-        "a rake's progress",
-        "a harlot's progress",
-        "the mudfog papers",
-        "robert blincoe's memoir"
-      ],
-      "consumedVersion": "physical",
-      "isSoundtrack": false,
-      "links": [
-        {
-          "id": "l1",
-          "label": "amazon",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Oliver-Twist-Charles-Dickens/dp/1906230005&ved=2ahUKEwjDlvGTpoGWAxXYcfEDHcfGKVMQFnoECDQQAQ&usg=AOvVaw2I9peZXJLZuwmTFDPuuh_H"
-        }
-      ],
-      "createdAt": "2026-08-02t06:44:06.900z",
-      "updatedAt": "2026-08-02t07:26:29.419z"
-    },
-    {
-      "id": "item-1785739670489",
-      "cover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
-      "title": "stardew valley",
-      "mainCreator": "eric barone",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "eric barone",
-          "category": "developer",
-          "nation": "united states",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Eric_Barone"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2016-02-26",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "low fantasy",
-        "farming",
-        "rpg"
-      ],
-      "philosophicalTags": [
-        "pastoral romanticism",
-        "commons",
-        "critique of neoliberalism",
-        "self improvement",
-        "escape from modernity"
-      ],
-      "genreStyleTags": [
-        "day night cycle",
-        "fishing",
-        "cozy",
-        "mystery",
-        "character customization",
-        "co-op",
-        "item shop",
-        "lgbtq+",
-        "mining",
-        "open world",
-        "pixel art",
-        "puzzles",
-        "romance",
-        "slime",
-        "dungeon crawler",
-        "dating sim",
-        "life sim",
-        "formualic",
-        "seasonal cycle"
-      ],
-      "summaryPlot": "after inheriting your deceased grandfather's dilapidated farm in the rural town of stardew valley, you leave the soulless corporate grind behind to start a new life. you must restore the farm to its former glory, build relationships with the townspeople, and choose whether to revitalize the town's crumbling community center or side with the soulless joja corporation, all while uncovering the secrets of the valley.",
-      "pros": [
-        "whole game is a clear checklist simulator.",
-        "ticking clock and stamina bar force daily planning, route planning and task prioritization.",
-        "unlocking sprinklers, auto-feeders and junimo huts systematically removes manual labor and rewards planning.",
-        "fishing minigame requires timing and reaction skill rather than passive button-mashing.",
-        "seasons and weather comes up with unique events and festivals.",
-        "variety is insane, content is still ongoing after 100+ hours of gameplay.",
-        "npcs has light but effective backstories, town contains gossip lore and mystery, solving the mysteries and worldbuilding by playing is rewarding.",
-        "game requires zero wiki or guide, some aspects are harsh to find but game rewards patience and attention over wiki.",
-        "most systems are interconnected unlike most life and farming rpgs.",
-        "town and interior customization is solid.",
-        "game has dozens of micro management elements which mimicks the urgency of real life, this is a positive as a life sim."
-      ],
-      "cons": [
-        "you can never go bankrupt or lose your farm; even passing out simply results in a minor energy or fee penalty, game is way too cozy despite having deep content. i'm not blaming coziness, i blame the game design by picking the route when had potential. so again \"game is cozy\" could be used to counter any criticism against the game so i don't accept it.",
-        "dungeon crawler combat is primitive. low weapon variety, zero strategy and positioning but just button-smashing. considering the total time you'd spend in mines, enemies becomes chore than threat.",
-        "before all of the automation systems that requires hours of manual work to achieve, gameplay is about doing dozens of activities and farm chores every 14 minutes. this is a crucial con that turns the game into a repetitive daily tasks loop.",
-        "most daily repetitive chores doesn't even reward or punish. if you won't feed your animals, log your kegs, kiss your partner, take care of your greenhouse, pet your cat, you won't be punished sligthly, which makes the gamer question why'd they even bother?",
-        "npc friendship is about formulaic spam of gifting them their fav things twice a week, which ignores any human relationship, psychological depth and logical rpg depth.",
-        "crop and artisan prices are fixed, economy never shapeshifts or market's global needs never changed, which doesn't stop a gamer from doing the same chore to become millionaire, so if you switch chores then that's just decisive.",
-        "single daytime is extremely short and daily routines drains the majority of the day which leaves no space to explore, grind or socialize.",
-        "rpg part of the game is shallow, when a dialogue appears, there is an obvious answer and a ragebait. also interaction with npcs is very limited.",
-        "certain community center bundles and museum donations rely on rng drops which is not related to skill or strategy.",
-        "absence of any risk management makes all of the micro calculations and prioritization meaningless. gamers think of \"if i miss this, i'll have to wait another year\" than \"if i miss this, i'll face the consequences.\""
-      ],
-      "hornetScore": 4,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "story of seasons friends of mineral town",
-        "coral island",
-        "fields of mistria",
-        "graveyard keeper",
-        "my time at portia"
-      ],
-      "mediumInfluences": [
-        "harvest moon",
-        "animal crossing",
-        "rune factory",
-        {
-          "title": "minecraft",
-          "type": "media",
-          "customCover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
-          "note": "linked to video game (2011)"
-        },
-        {
-          "title": "terraria",
-          "type": "media",
-          "customCover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
-          "note": "linked to video game (2026)"
-        },
-        "the legend of zelda"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-03t06:47:50.490z",
-      "updatedAt": "2026-08-06t06:50:18.180z"
     },
     {
       "id": "item-1785656403183",
@@ -2006,6 +1700,312 @@
       "updatedAt": "2026-08-06t11:18:30.524z"
     },
     {
+      "id": "item-1785739670489",
+      "cover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+      "title": "stardew valley",
+      "mainCreator": "eric barone",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "eric barone",
+          "category": "developer",
+          "nation": "united states",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eric_Barone"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2016-02-26",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "low fantasy",
+        "farming",
+        "rpg"
+      ],
+      "philosophicalTags": [
+        "pastoral romanticism",
+        "commons",
+        "critique of neoliberalism",
+        "self improvement",
+        "escape from modernity"
+      ],
+      "genreStyleTags": [
+        "day night cycle",
+        "fishing",
+        "cozy",
+        "mystery",
+        "character customization",
+        "co-op",
+        "item shop",
+        "lgbtq+",
+        "mining",
+        "open world",
+        "pixel art",
+        "puzzles",
+        "romance",
+        "slime",
+        "dungeon crawler",
+        "dating sim",
+        "life sim",
+        "formualic",
+        "seasonal cycle"
+      ],
+      "summaryPlot": "after inheriting your deceased grandfather's dilapidated farm in the rural town of stardew valley, you leave the soulless corporate grind behind to start a new life. you must restore the farm to its former glory, build relationships with the townspeople, and choose whether to revitalize the town's crumbling community center or side with the soulless joja corporation, all while uncovering the secrets of the valley.",
+      "pros": [
+        "whole game is a clear checklist simulator.",
+        "ticking clock and stamina bar force daily planning, route planning and task prioritization.",
+        "unlocking sprinklers, auto-feeders and junimo huts systematically removes manual labor and rewards planning.",
+        "fishing minigame requires timing and reaction skill rather than passive button-mashing.",
+        "seasons and weather comes up with unique events and festivals.",
+        "variety is insane, content is still ongoing after 100+ hours of gameplay.",
+        "npcs has light but effective backstories, town contains gossip lore and mystery, solving the mysteries and worldbuilding by playing is rewarding.",
+        "game requires zero wiki or guide, some aspects are harsh to find but game rewards patience and attention over wiki.",
+        "most systems are interconnected unlike most life and farming rpgs.",
+        "town and interior customization is solid.",
+        "game has dozens of micro management elements which mimicks the urgency of real life, this is a positive as a life sim."
+      ],
+      "cons": [
+        "you can never go bankrupt or lose your farm; even passing out simply results in a minor energy or fee penalty, game is way too cozy despite having deep content. i'm not blaming coziness, i blame the game design by picking the route when had potential. so again \"game is cozy\" could be used to counter any criticism against the game so i don't accept it.",
+        "dungeon crawler combat is primitive. low weapon variety, zero strategy and positioning but just button-smashing. considering the total time you'd spend in mines, enemies becomes chore than threat.",
+        "before all of the automation systems that requires hours of manual work to achieve, gameplay is about doing dozens of activities and farm chores every 14 minutes. this is a crucial con that turns the game into a repetitive daily tasks loop.",
+        "most daily repetitive chores doesn't even reward or punish. if you won't feed your animals, log your kegs, kiss your partner, take care of your greenhouse, pet your cat, you won't be punished sligthly, which makes the gamer question why'd they even bother?",
+        "npc friendship is about formulaic spam of gifting them their fav things twice a week, which ignores any human relationship, psychological depth and logical rpg depth.",
+        "crop and artisan prices are fixed, economy never shapeshifts or market's global needs never changed, which doesn't stop a gamer from doing the same chore to become millionaire, so if you switch chores then that's just decisive.",
+        "single daytime is extremely short and daily routines drains the majority of the day which leaves no space to explore, grind or socialize.",
+        "rpg part of the game is shallow, when a dialogue appears, there is an obvious answer and a ragebait. also interaction with npcs is very limited.",
+        "certain community center bundles and museum donations rely on rng drops which is not related to skill or strategy.",
+        "absence of any risk management makes all of the micro calculations and prioritization meaningless. gamers think of \"if i miss this, i'll have to wait another year\" than \"if i miss this, i'll face the consequences.\""
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "story of seasons friends of mineral town",
+        "coral island",
+        "fields of mistria",
+        "graveyard keeper",
+        "my time at portia"
+      ],
+      "mediumInfluences": [
+        "harvest moon",
+        "animal crossing",
+        "rune factory",
+        {
+          "title": "minecraft",
+          "type": "media",
+          "customCover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
+          "note": "linked to video game (2011)"
+        },
+        {
+          "title": "terraria",
+          "type": "media",
+          "customCover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
+          "note": "linked to video game (2026)"
+        },
+        "the legend of zelda"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-03t06:47:50.490z",
+      "updatedAt": "2026-08-06t06:50:18.180z"
+    },
+    {
+      "id": "item-1785653046899",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olivertwist_front.jpg",
+      "title": "oliver twist",
+      "mainCreator": "charles dickens",
+      "otherCreators": [
+        "george cruikshank/illustrator"
+      ],
+      "creatorDetails": [
+        {
+          "name": "charles dickens",
+          "category": "author",
+          "nation": "united kingdom",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Charles_Dickens&ved=2ahUKEwjb2bCUpYGWAxV4A9sEHZtNG-8QFnoECEEQAQ&sqi=2&usg=AOvVaw2k9PctKLncGzM3nHeiM6s4"
+        },
+        {
+          "name": "george cruikshank",
+          "category": "illustrator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Cruikshank"
+        }
+      ],
+      "mediaFormat": "book",
+      "releaseDate": "1938",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "novel",
+        "social critique",
+        "bildungsroman"
+      ],
+      "philosophicalTags": [
+        "innate morality",
+        "social critique",
+        "nature vs. nurture",
+        "christian morality"
+      ],
+      "genreStyleTags": [
+        "victorian literature",
+        "orphan",
+        "poverty",
+        "melodrama",
+        "satire",
+        "gothic",
+        "corruption"
+      ],
+      "summaryPlot": "oliver twist, an orphan born in a workhouse, endures a miserable childhood of child labor before escaping to london, where he falls in with a gang of pickpockets led by the elderly criminal fagin. after being wrongly accused of theft, oliver is rescued by the kind mr. brownlow, but the gang recaptures him, leading to a series of events that ultimately reveal oliver's true identity and secure his happy ending.",
+      "pros": [
+        "satire execution is sharp, book clearly shows hypocrisy of victorian poor law.",
+        "london's labyrinthine and claustrophobic environment is atmospheric.",
+        "book contains many memorable figures such as fagin, the artful dodger and bill sikes.",
+        "chertsey burglary planning is actually serving tension and execution is tight.",
+        "psychological depth isn't any surface level, for example nancy’s murder captures guilt, paranoia and psychological collapse.",
+        "book rejects victorian romanticism by directly showing child exploitation, urban poverty and systemic corruption.",
+        "settings dynamics as shift from claustrophobic london streets to safe countryside is effective.",
+        "artful dodger’s courtroom scene is damn good, provides street-smart coolness and uses quality satire elements.",
+        "morale stakes are clear, for example reader is left with tension of \"will twist stay still pure after all of these?\""
+      ],
+      "cons": [
+        "oliver usually survive through pure luck, external factors and helpless innocence.",
+        "book excuses heavy coincidences like oliver's burglary spot is being his wealthy relatives.",
+        "oliver is unrealistically untainted by his surroundings despite growing up in a workhouse, kinda points cheap melodrama effect.",
+        "resolution relies on lazy secret plotline.",
+        "figures like mr. brownlow and rose maylie are unrealistically purely good despite living in a corrupted state.",
+        "subplots are conversational fillers that slows down the book's pacing.",
+        "dickens frequently pauses the story just to lecture the reader on victorian morality and christian charity like we are dumbass.",
+        "some key figures like monks are just cheap plot summaries.",
+        "tonal shift is inconsistent by shifting victorian romance and crime thriller awkwardly."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "les misérables",
+        "jane eyre",
+        "the secret garden",
+        "peter pan",
+        "wuthering heights"
+      ],
+      "mediumInfluences": [
+        "the pilgrim's progress",
+        "a rake's progress",
+        "a harlot's progress",
+        "the mudfog papers",
+        "robert blincoe's memoir"
+      ],
+      "consumedVersion": "physical",
+      "isSoundtrack": false,
+      "links": [
+        {
+          "id": "l1",
+          "label": "amazon",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Oliver-Twist-Charles-Dickens/dp/1906230005&ved=2ahUKEwjDlvGTpoGWAxXYcfEDHcfGKVMQFnoECDQQAQ&usg=AOvVaw2I9peZXJLZuwmTFDPuuh_H"
+        }
+      ],
+      "createdAt": "2026-08-02t06:44:06.900z",
+      "updatedAt": "2026-08-02t07:26:29.419z"
+    },
+    {
+      "id": "item-1785654966122",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10",
+      "title": "resident evil",
+      "mainCreator": "shinji mikami",
+      "otherCreators": [
+        "tokuro fujiwara/producer",
+        "capcom/company"
+      ],
+      "creatorDetails": [
+        {
+          "name": "shinji mikami",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shinji_Mikami&ved=2ahUKEwjy89aorYGWAxUVRPEDHZ3FI6QQFnoFCJgBEAE&usg=AOvVaw0wpMPhyATfT3qABTNGyIMU"
+        },
+        {
+          "name": "tokuro fujiwara",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tokuro%20Fujiwara"
+        },
+        {
+          "name": "capcom",
+          "category": "company",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Capcom"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "1996-03-22",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "english",
+      "genres": [
+        "survival horror",
+        "third person shooter"
+      ],
+      "philosophicalTags": [
+        "burkean sublime",
+        "virtual hauntology",
+        "mukokuseki aesthetics",
+        "bioethics",
+        "corporate conspiracy"
+      ],
+      "genreStyleTags": [
+        "fixed camera",
+        "zombie",
+        "low poly",
+        "boss fight",
+        "gore",
+        "gothic",
+        "science fiction",
+        "puzzles",
+        "resource management",
+        "tank controls",
+        "multiple endings",
+        "betrayal",
+        "dark atmosphere"
+      ],
+      "summaryPlot": "in 1998, members of the elite police task force s.t.a.r.s. are sent to investigate a series of gruesome murders in the arklay mountains, only to be attacked by monstrous dogs and forced to take refuge in a mysterious, zombie-infested mansion. as chris redfield or jill valentine, players must explore the mansion, solve puzzles, and uncover the nightmarish truth behind the umbrella corporation's secret biological experiments in order to survive and escape.",
+      "pros": [
+        "architecture of the mansion is interconnected and atmospheric.",
+        "limited resources management creates tension by forcing gamers to choose between fighting or strategically escaping from enemies.",
+        "fixed camera is claustrophobic and serves to theme.",
+        "sound design with elements such as creaking floorboards, door opening audio and uncanny music builds environmental pressure.",
+        "enemy introductions such as zombies and dogs are very iconic, spooky and impactful.",
+        "puzzles are usually environmental and actually rewarding.",
+        "late game introduces way faster and lethal enemies which forces gamer to adapt or surrender."
+      ],
+      "cons": [
+        "6 to 8 inventory grid is too strict even for resource management element where you get a weapon, two magazines and a story item, and now you don't have a space for a key for a crucial door. also this issues leads to backtrackings constantly.",
+        "game wants you to play the game twice and only thing it serves for it is having two characters with minimal differences. the only differences between first and second gameplay is basically just some extra minor cutscenes which doesn't worth it.",
+        "voice acting in gaming wasn't a real industry back then so voice acting sucks.",
+        "requiring a limited consumable item just to save progress leads to loss of progress from unearned cheap deaths.",
+        "game has dozens of b movie elements which looks cheesy and aged awful.",
+        "primitive tank controls are simply annoying, even aiming, which is crucial, is pain.",
+        "the most doors has a five seconds opening animations, some of these contain impactful jumpscares but interrupting the game everytime opening a door is poor designing.",
+        "combat is stiff and basic with auto-aim and obscure skill gaps.",
+        "chris redfield starts with less inventory grids and no lockpick, this is just artificial difficulty.",
+        "final laboratory sequences are uninspired in design compared to early gothic mansion.",
+        "crucial puzzle items are very easy to miss without external factors such as guides and wikis, i personally show zero tolerance to reliance on external factors."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "silent hill",
+        "dino crisis",
+        "clock tower 2",
+        "parasite eve"
+      ],
+      "mediumInfluences": [
+        "sweet home",
+        "alone in the dark",
+        "night of the living dead",
+        "zombie"
+      ],
+      "consumedVersion": "playstation",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-02t07:16:06.125z",
+      "updatedAt": "2026-08-02t16:29:11.404z"
+    },
+    {
       "id": "item-1785672953784",
       "cover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
       "title": "nineteen eighty four",
@@ -2096,6 +2096,194 @@
       ],
       "createdAt": "2026-08-02t12:15:53.788z",
       "updatedAt": "2026-08-08t07:52:51.211z"
+    },
+    {
+      "id": "item-1786086098629",
+      "cover": "https://cdn.mos.cms.futurecdn.net/5nkKWG73WQxddVchHrSu4k.jpg",
+      "title": "bully",
+      "mainCreator": "rockstar vancouver",
+      "otherCreators": [
+        "dan houser/scriptwriter",
+        "jacob krarup/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "rockstar vancouver",
+          "category": "studio / company",
+          "nation": "canada",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rockstar_Vancouver&ved=2ahUKEwj9q7_F9I2WAxWjWkEAHVnfKB4QFnoECBsQAQ&sqi=2&usg=AOvVaw0YGynDTxavTivFGp29W-oi"
+        },
+        {
+          "name": "dan houser",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/dan%20houser"
+        },
+        {
+          "name": "jacob krarup",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/jacob%20krarup"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2006-10-17",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "open world",
+        "black comedy",
+        "action adventure"
+      ],
+      "philosophicalTags": [
+        "rebellion against bureaucracy",
+        "postmodernist ethic",
+        "identity & social hierarchy",
+        "questioning adult institutions"
+      ],
+      "genreStyleTags": [
+        "slapstick",
+        "item shop",
+        "driving/racing",
+        "character customization",
+        "crime",
+        "school",
+        "satire",
+        "life sim",
+        "beat em up",
+        "skateboarding",
+        "romance",
+        "lgbt"
+      ],
+      "summaryPlot": "the single-player story follows 15-year-old juvenile delinquent james \"jimmy\" hopkins, who is involuntarily enrolled at bullworth academy boarding school for a year after being expelled from seven previous schools. jimmy must navigate the school's treacherous social hierarchy by rising through the ranks of its cliques—bullies, nerds, preppies, greasers, and jocks—in order to unite them and put a stop to the bullying that plagues the school, all while uncovering a conspiracy orchestrated by his manipulative nemesis, gary smith.",
+      "pros": [
+        "shifting open-world from standard crime cities to bullworth academy contain unique atmosphere.",
+        "daily schedule such as classes, lunch, curfew creates a time-management loop.",
+        "replacing lethal firearmslingshots, stink bombs, marbles, spud guns gives combat a unique visual identity cuz it feels like cencored grand theft auto.",
+        "social cliques (preppies, greasers, nerds, jocks, townies) has clear visual styles, territories and fighting traits.",
+        "using skateboards, bikes and go-karts is lightweight and fun.",
+        "jimmy isn't a passive character like how cj and niko are being normal people in an absurd world for parody effect, jimmy is indeed fucked up as the environment which supports the bully fantasy feeling."
+      ],
+      "cons": [
+        "fighting is about basic button combinations and simple grapples that lacks any skill, with all of that enemy waves it feels like a lego game.",
+        "missions rely on generic fetch-quests, escorting nerds or gimmicks.",
+        "classes quickly devolve into repetitive button smashing or qte puzzles that feel like chore.",
+        "escaping teachers is easy, simply hiding in a trash can or locker do the job then they forget.",
+        "respect meters based on linear main-story rather than any player-driven choices.",
+        "maxing out relationships with students ia about giving chocolates/flowers to trigger a generic kiss health-buff animation.",
+        "earning money through paper routes or carnival races breaks the economy, leaving nothing to purchase beyond cosmetics."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "saints row",
+        "agefield high rock the school",
+        "yakuza",
+        "shenmue"
+      ],
+      "mediumInfluences": [
+        "grand theft auto",
+        "the warriors",
+        "tom brown's schooldays",
+        "the catcher in the rye"
+      ],
+      "consumedVersion": "playstation 2",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-07t07:01:38.633z",
+      "updatedAt": "2026-08-07t23:16:44.696z"
+    },
+    {
+      "id": "item-1786172958954",
+      "cover": "https://ew.com/thmb/GZkU0aNMlk-PBgvxxvj_rpUHOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saintsrow-morningstar_510-7ef60ac514f1442eb47d9895fbc31002.jpg",
+      "title": "saints row the third",
+      "mainCreator": "volition inc.",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "volition inc.",
+          "category": "studio / company",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Volition_(company)&ved=2ahUKEwjxpePvt5CWAxXQ3AIHHfAjKH4QFnoECCEQAQ&usg=AOvVaw3SxWTazFimBksLXbYZCB7k"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2011-11-15",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "englis",
+      "genres": [
+        "action comedy",
+        "third person shooter",
+        "satire"
+      ],
+      "philosophicalTags": [
+        "satirical nihilism",
+        "foucauldian biopower",
+        "ludonarrative absurdism",
+        "celebration of player ego",
+        "anarchic liberation"
+      ],
+      "genreStyleTags": [
+        "parody",
+        "action adventure",
+        "gang wars",
+        "crime",
+        "driving/racing",
+        "vehicle tuning",
+        "character customization",
+        "science fiction",
+        "anti authoritian",
+        "black comedy",
+        "chaotic",
+        "item shop",
+        "dark humor",
+        "open world",
+        "co-op"
+      ],
+      "summaryPlot": "years after conquering stillwater, the third street saints have become global celebrities—but their fame attracts the attention of the syndicate, a worldwide criminal organization that demands tribute. when the saints refuse to bow down, they're ambushed, captured, and left for dead, forcing them to take the fight to the corrupt metropolis of steelport. what follows is an escalating war against three rival gangs—the morningstar, the luchadores, and the deckers—in a city that offers only two paths: rule or die.",
+      "pros": [
+        "ignores grounded gang realism to aim for pure arcade chaos, wrestling moves and cartoonish violence.",
+        "opening missions are sick like falling out of a cargo plane while firefighting mid-air, 2001 a space odyssey parody and nonstop action sequences as bank robbery.",
+        "access to vtol jets,  drone airstrikes and the genki cannon is rich sandbox catalog.",
+        "tuning is surprisingly just fine.",
+        "arcade style vehicle handling is responsive and fluid.",
+        "unique survival-arena minigames with traps and mascot enemies is fun chaos rejecting standard shooting.",
+        "morningstar, luchadores and deckers serve unqiue visuals, weapon layouts and boss encounters.",
+        "parachuting onto a penthouse roof to kanye west's power is something."
+      ],
+      "cons": [
+        "steelport is a bland, grey, featureless sandbox of identical buildings that lacks any atmospheric detail or landmark identity matching game's chaos.",
+        "campaign pushes its main story progression by forcing you to repetitive side-activities (insurance fraud, mayhem, escort) just to advance.",
+        "gunplay has floaty aiming with soft hit feedback and zero tactical mechanics, arcade doesn't mean it must lack strategy and strategy mustn't have to be realistic.",
+        "like shooting is any fun, end-game upgrades like 100% damage immunity to bullets or fire erase the small fun from the game completely.",
+        "formualic gang wars for small zones issue.",
+        "edgy humor gets cheesy and repetitive after the first a couple of hours.",
+        "enemy ai is braindead that npcs shoots linearly or just running towards to you.",
+        "late-game military elements removes interesting gang rivalries for generic bullet-sponge futuristic soldiers.",
+        "purchasing real estate quickly generates gigantic hourly income, breaking the economy early on.",
+        "missions are way too formulaic with chase and escort tropes.",
+        "none of the characters in story are any interesting, evolves and plot doesn't going anywhere at all."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "grand theft auto 5",
+        "sleeping dogs",
+        "just cause 2"
+      ],
+      "mediumInfluences": [
+        "grand theft auto san andreas",
+        "shoot 'em up",
+        "kill bill",
+        "the a team",
+        "clank",
+        "bad boys",
+        "the west wing",
+        "gilmore girls"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t07:09:18.956z",
+      "updatedAt": "2026-08-08t07:09:18.968z"
     },
     {
       "id": "item-1786014393730",
@@ -2200,194 +2388,6 @@
       "links": [],
       "createdAt": "2026-08-06t11:06:33.733z",
       "updatedAt": "2026-08-06t15:03:03.568z"
-    },
-    {
-      "id": "item-1786172958954",
-      "cover": "https://ew.com/thmb/GZkU0aNMlk-PBgvxxvj_rpUHOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saintsrow-morningstar_510-7ef60ac514f1442eb47d9895fbc31002.jpg",
-      "title": "saints row the third",
-      "mainCreator": "volition inc.",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "volition inc.",
-          "category": "studio / company",
-          "nation": "united states",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Volition_(company)&ved=2ahUKEwjxpePvt5CWAxXQ3AIHHfAjKH4QFnoECCEQAQ&usg=AOvVaw3SxWTazFimBksLXbYZCB7k"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2011-11-15",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "englis",
-      "genres": [
-        "action comedy",
-        "third person shooter",
-        "satire"
-      ],
-      "philosophicalTags": [
-        "satirical nihilism",
-        "foucauldian biopower",
-        "ludonarrative absurdism",
-        "celebration of player ego",
-        "anarchic liberation"
-      ],
-      "genreStyleTags": [
-        "parody",
-        "action adventure",
-        "gang wars",
-        "crime",
-        "driving/racing",
-        "vehicle tuning",
-        "character customization",
-        "science fiction",
-        "anti authoritian",
-        "black comedy",
-        "chaotic",
-        "item shop",
-        "dark humor",
-        "open world",
-        "co-op"
-      ],
-      "summaryPlot": "years after conquering stillwater, the third street saints have become global celebrities—but their fame attracts the attention of the syndicate, a worldwide criminal organization that demands tribute. when the saints refuse to bow down, they're ambushed, captured, and left for dead, forcing them to take the fight to the corrupt metropolis of steelport. what follows is an escalating war against three rival gangs—the morningstar, the luchadores, and the deckers—in a city that offers only two paths: rule or die.",
-      "pros": [
-        "ignores grounded gang realism to aim for pure arcade chaos, wrestling moves and cartoonish violence.",
-        "opening missions are sick like falling out of a cargo plane while firefighting mid-air, 2001 a space odyssey parody and nonstop action sequences as bank robbery.",
-        "access to vtol jets,  drone airstrikes and the genki cannon is rich sandbox catalog.",
-        "tuning is surprisingly just fine.",
-        "arcade style vehicle handling is responsive and fluid.",
-        "unique survival-arena minigames with traps and mascot enemies is fun chaos rejecting standard shooting.",
-        "morningstar, luchadores and deckers serve unqiue visuals, weapon layouts and boss encounters.",
-        "parachuting onto a penthouse roof to kanye west's power is something."
-      ],
-      "cons": [
-        "steelport is a bland, grey, featureless sandbox of identical buildings that lacks any atmospheric detail or landmark identity matching game's chaos.",
-        "campaign pushes its main story progression by forcing you to repetitive side-activities (insurance fraud, mayhem, escort) just to advance.",
-        "gunplay has floaty aiming with soft hit feedback and zero tactical mechanics, arcade doesn't mean it must lack strategy and strategy mustn't have to be realistic.",
-        "like shooting is any fun, end-game upgrades like 100% damage immunity to bullets or fire erase the small fun from the game completely.",
-        "formualic gang wars for small zones issue.",
-        "edgy humor gets cheesy and repetitive after the first a couple of hours.",
-        "enemy ai is braindead that npcs shoots linearly or just running towards to you.",
-        "late-game military elements removes interesting gang rivalries for generic bullet-sponge futuristic soldiers.",
-        "purchasing real estate quickly generates gigantic hourly income, breaking the economy early on.",
-        "missions are way too formulaic with chase and escort tropes.",
-        "none of the characters in story are any interesting, evolves and plot doesn't going anywhere at all."
-      ],
-      "hornetScore": 3,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "grand theft auto 5",
-        "sleeping dogs",
-        "just cause 2"
-      ],
-      "mediumInfluences": [
-        "grand theft auto san andreas",
-        "shoot 'em up",
-        "kill bill",
-        "the a team",
-        "clank",
-        "bad boys",
-        "the west wing",
-        "gilmore girls"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t07:09:18.956z",
-      "updatedAt": "2026-08-08t07:09:18.968z"
-    },
-    {
-      "id": "item-1786086098629",
-      "cover": "https://cdn.mos.cms.futurecdn.net/5nkKWG73WQxddVchHrSu4k.jpg",
-      "title": "bully",
-      "mainCreator": "rockstar vancouver",
-      "otherCreators": [
-        "dan houser/scriptwriter",
-        "jacob krarup/scriptwriter"
-      ],
-      "creatorDetails": [
-        {
-          "name": "rockstar vancouver",
-          "category": "studio / company",
-          "nation": "canada",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rockstar_Vancouver&ved=2ahUKEwj9q7_F9I2WAxWjWkEAHVnfKB4QFnoECBsQAQ&sqi=2&usg=AOvVaw0YGynDTxavTivFGp29W-oi"
-        },
-        {
-          "name": "dan houser",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/dan%20houser"
-        },
-        {
-          "name": "jacob krarup",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/jacob%20krarup"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2006-10-17",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "open world",
-        "black comedy",
-        "action adventure"
-      ],
-      "philosophicalTags": [
-        "rebellion against bureaucracy",
-        "postmodernist ethic",
-        "identity & social hierarchy",
-        "questioning adult institutions"
-      ],
-      "genreStyleTags": [
-        "slapstick",
-        "item shop",
-        "driving/racing",
-        "character customization",
-        "crime",
-        "school",
-        "satire",
-        "life sim",
-        "beat em up",
-        "skateboarding",
-        "romance",
-        "lgbt"
-      ],
-      "summaryPlot": "the single-player story follows 15-year-old juvenile delinquent james \"jimmy\" hopkins, who is involuntarily enrolled at bullworth academy boarding school for a year after being expelled from seven previous schools. jimmy must navigate the school's treacherous social hierarchy by rising through the ranks of its cliques—bullies, nerds, preppies, greasers, and jocks—in order to unite them and put a stop to the bullying that plagues the school, all while uncovering a conspiracy orchestrated by his manipulative nemesis, gary smith.",
-      "pros": [
-        "shifting open-world from standard crime cities to bullworth academy contain unique atmosphere.",
-        "daily schedule such as classes, lunch, curfew creates a time-management loop.",
-        "replacing lethal firearmslingshots, stink bombs, marbles, spud guns gives combat a unique visual identity cuz it feels like cencored grand theft auto.",
-        "social cliques (preppies, greasers, nerds, jocks, townies) has clear visual styles, territories and fighting traits.",
-        "using skateboards, bikes and go-karts is lightweight and fun.",
-        "jimmy isn't a passive character like how cj and niko are being normal people in an absurd world for parody effect, jimmy is indeed fucked up as the environment which supports the bully fantasy feeling."
-      ],
-      "cons": [
-        "fighting is about basic button combinations and simple grapples that lacks any skill, with all of that enemy waves it feels like a lego game.",
-        "missions rely on generic fetch-quests, escorting nerds or gimmicks.",
-        "classes quickly devolve into repetitive button smashing or qte puzzles that feel like chore.",
-        "escaping teachers is easy, simply hiding in a trash can or locker do the job then they forget.",
-        "respect meters based on linear main-story rather than any player-driven choices.",
-        "maxing out relationships with students ia about giving chocolates/flowers to trigger a generic kiss health-buff animation.",
-        "earning money through paper routes or carnival races breaks the economy, leaving nothing to purchase beyond cosmetics."
-      ],
-      "hornetScore": 3,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "saints row",
-        "agefield high rock the school",
-        "yakuza",
-        "shenmue"
-      ],
-      "mediumInfluences": [
-        "grand theft auto",
-        "the warriors",
-        "tom brown's schooldays",
-        "the catcher in the rye"
-      ],
-      "consumedVersion": "playstation 2",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-07t07:01:38.633z",
-      "updatedAt": "2026-08-07t23:16:44.696z"
     },
     {
       "id": "item-1785705768922",
@@ -2509,6 +2509,93 @@
       "links": [],
       "createdAt": "2026-08-02t21:22:48.928z",
       "updatedAt": "2026-08-06t06:51:17.443z"
+    },
+    {
+      "id": "item-1785660198276",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1jWc33L5Q64RECN-ykcw-jqItQoyxU7xol4cja8FwWO5wH-qFNg9hCzH&s=10",
+      "title": "town to city",
+      "mainCreator": "galaxy grove",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "galaxy grove",
+          "category": "studio / company",
+          "nation": "netherlands",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.galaxy-grove.com/&ved=2ahUKEwjlrJeRwoGWAxVdBtsEHTb6LsUQFnoECCYQAQ&usg=AOvVaw1jDm7u_VsLIMLPr-e0ZRoD"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2026-05-26",
+      "countryOfOrigin": "netherlands",
+      "originalLanguage": "english",
+      "genres": [
+        "city building",
+        "cozy",
+        "sandbox"
+      ],
+      "philosophicalTags": [
+        "slow living",
+        "organic growth",
+        "community & belonging",
+        "creative autonomy"
+      ],
+      "genreStyleTags": [
+        "voxel art",
+        "mediterranean",
+        "farming"
+      ],
+      "summaryPlot": "build an idyllic 19th-century mediterranean town from scratch using gridless placement and help it flourish into a prosperous city. in campaign or sandbox mode, you freely place houses and amenities to attract residents, meet their needs, grow your economy, and connect multiple towns through trade and tourism.",
+      "pros": [
+        "premise is clear, leaving chaotic city for a rural town baseline.",
+        "easy-to-understand gathering, crafting and building cycles.",
+        "soft color palettes, stylized low poly or voxel graphics and readable town layouts create a cozy atmosphere.",
+        "milestones are structural such as repairing landmarks buildings for a completionist mindset.",
+        "filling out town museum, crop and fishing are clear item cataloging elements.",
+        "freeform placement of roads, fences and decorations allows grid sandbox organization.",
+        "seasonal shifts changes seasonal variations.",
+        "absence of time limits or combat threats lets players set their own pace."
+      ],
+      "cons": [
+        "zero risk of town bankruptcy, resource collapse or physical danger. a management game cannot be under cozy genre, then it's shouldn't be a management but it clearly contains highly management elements which makes it a management game. i know it's a cozy game but you could counter any criticism by saying \"it's just a cozy game.\"",
+        "in game economy logic is incredibly surface level.",
+        "story progression relies on cheap repetitive fetch quests.",
+        "town residents feels artificial with repetitive soulless dialogues and strict daily paths.",
+        "gating daily progress behind energy meters or real world timers artificially pads runtime without adding any depth.",
+        "building and decorating is just simple button presses without any engineering or logistics.",
+        "hitting rocks, chopping trees and pulling weeds in core gameplay is just a chore grind.",
+        "farming, decorating and fishing are completely isolated and none of the systems in the game are interconnected.",
+        "once the town buildings are restored, gameplay becomes aimless cosmetic filler."
+      ],
+      "hornetScore": 2,
+      "hornetVerdict": "",
+      "similarMedia": [
+        {
+          "title": "stardew valley",
+          "type": "media",
+          "customCover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+          "note": "linked to video game"
+        },
+        "unpacking",
+        "tiny glade",
+        "defromantik",
+        "a little to the left",
+        "mini metro"
+      ],
+      "mediumInfluences": [
+        "townscaper",
+        "islanders"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [
+        {
+          "id": "l1",
+          "label": "steam",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/3115220/Town_to_City/&ved=2ahUKEwiUgrvQw4GWAxXZQvEDHcPcCHcQFnoECCMQAQ&usg=AOvVaw2jxbOzFUFYtEannba77lJk"
+        }
+      ],
+      "createdAt": "2026-08-02t08:43:18.283z",
+      "updatedAt": "2026-08-02t10:49:03.205z"
     },
     {
       "id": "item-1785687311605",
@@ -2722,93 +2809,6 @@
       ],
       "createdAt": "2026-08-02t09:41:09.553z",
       "updatedAt": "2026-08-07t08:34:18.641z"
-    },
-    {
-      "id": "item-1785660198276",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1jWc33L5Q64RECN-ykcw-jqItQoyxU7xol4cja8FwWO5wH-qFNg9hCzH&s=10",
-      "title": "town to city",
-      "mainCreator": "galaxy grove",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "galaxy grove",
-          "category": "studio / company",
-          "nation": "netherlands",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.galaxy-grove.com/&ved=2ahUKEwjlrJeRwoGWAxVdBtsEHTb6LsUQFnoECCYQAQ&usg=AOvVaw1jDm7u_VsLIMLPr-e0ZRoD"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2026-05-26",
-      "countryOfOrigin": "netherlands",
-      "originalLanguage": "english",
-      "genres": [
-        "city building",
-        "cozy",
-        "sandbox"
-      ],
-      "philosophicalTags": [
-        "slow living",
-        "organic growth",
-        "community & belonging",
-        "creative autonomy"
-      ],
-      "genreStyleTags": [
-        "voxel art",
-        "mediterranean",
-        "farming"
-      ],
-      "summaryPlot": "build an idyllic 19th-century mediterranean town from scratch using gridless placement and help it flourish into a prosperous city. in campaign or sandbox mode, you freely place houses and amenities to attract residents, meet their needs, grow your economy, and connect multiple towns through trade and tourism.",
-      "pros": [
-        "premise is clear, leaving chaotic city for a rural town baseline.",
-        "easy-to-understand gathering, crafting and building cycles.",
-        "soft color palettes, stylized low poly or voxel graphics and readable town layouts create a cozy atmosphere.",
-        "milestones are structural such as repairing landmarks buildings for a completionist mindset.",
-        "filling out town museum, crop and fishing are clear item cataloging elements.",
-        "freeform placement of roads, fences and decorations allows grid sandbox organization.",
-        "seasonal shifts changes seasonal variations.",
-        "absence of time limits or combat threats lets players set their own pace."
-      ],
-      "cons": [
-        "zero risk of town bankruptcy, resource collapse or physical danger. a management game cannot be under cozy genre, then it's shouldn't be a management but it clearly contains highly management elements which makes it a management game. i know it's a cozy game but you could counter any criticism by saying \"it's just a cozy game.\"",
-        "in game economy logic is incredibly surface level.",
-        "story progression relies on cheap repetitive fetch quests.",
-        "town residents feels artificial with repetitive soulless dialogues and strict daily paths.",
-        "gating daily progress behind energy meters or real world timers artificially pads runtime without adding any depth.",
-        "building and decorating is just simple button presses without any engineering or logistics.",
-        "hitting rocks, chopping trees and pulling weeds in core gameplay is just a chore grind.",
-        "farming, decorating and fishing are completely isolated and none of the systems in the game are interconnected.",
-        "once the town buildings are restored, gameplay becomes aimless cosmetic filler."
-      ],
-      "hornetScore": 2,
-      "hornetVerdict": "",
-      "similarMedia": [
-        {
-          "title": "stardew valley",
-          "type": "media",
-          "customCover": "https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
-          "note": "linked to video game"
-        },
-        "unpacking",
-        "tiny glade",
-        "defromantik",
-        "a little to the left",
-        "mini metro"
-      ],
-      "mediumInfluences": [
-        "townscaper",
-        "islanders"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [
-        {
-          "id": "l1",
-          "label": "steam",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/3115220/Town_to_City/&ved=2ahUKEwiUgrvQw4GWAxXZQvEDHcPcCHcQFnoECCMQAQ&usg=AOvVaw2jxbOzFUFYtEannba77lJk"
-        }
-      ],
-      "createdAt": "2026-08-02t08:43:18.283z",
-      "updatedAt": "2026-08-02t10:49:03.205z"
     },
     {
       "id": "item-1786028209273",
