@@ -1,6 +1,115 @@
 {
   "items": [
     {
+      "id": "item-1786191875948",
+      "cover": "https://lets-play.by/media/screen-shots/cryostasis-sleep-of-reason/cryostasis-sleep-of-reason-screenshot-%20(4).jpg",
+      "title": "cryostasis sleep of reason",
+      "mainCreator": "action forms",
+      "otherCreators": [
+        "alexander tugaenko/designer",
+        "dmitry nechay/designer",
+        "stanislav dmitriev/programmer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "action forms",
+          "category": "developer",
+          "nation": "ukraine",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Action_Forms&ved=2ahUKEwjXtbmP_ZCWAxX5HRAIHTW9KGEQFnoECBAQAQ&sqi=2&usg=AOvVaw0-27t9ySI3tQjgfxpMKgZl"
+        },
+        {
+          "name": "alexander tugaenko",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander%20Tugaenko"
+        },
+        {
+          "name": "dmitry nechay",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dmitry%20Nechay"
+        },
+        {
+          "name": "stanislav dmitriev",
+          "category": "programmer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stanislav%20Dmitriev"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2008-12-05",
+      "countryOfOrigin": "ukraine",
+      "originalLanguage": "english",
+      "genres": [
+        "psychological horror",
+        "survival horror",
+        "first person shooter"
+      ],
+      "philosophicalTags": [
+        "existentialist self determination",
+        "nietzschean will to power",
+        "hessean spiritual awakening",
+        "fatalism vs. free will",
+        "time paradox & causal loops",
+        "purgatorial afterlife",
+        "symbolic allegory"
+      ],
+      "genreStyleTags": [
+        "atmospheric horror",
+        "science fiction",
+        "time travel",
+        "mystery",
+        "metaphysical horror",
+        "slow burn",
+        "claustrophobic"
+      ],
+      "summaryPlot": "in 1981, russian meteorologist alexander nesterov is sent to investigate the nuclear icebreaker north wind, which has been trapped in arctic ice since 1968. upon arrival, he discovers the crew has been mutated into bizarre creatures, and he must use his unique ability, the \"mental echo\"—which allows him to enter the memories of the dead and change their past actions—to uncover the ship's tragic mystery. as he navigates the frozen vessel, he finds fragments of maxim gorky's fairy tale that parallel the ship's fate, forcing him to confront the nature of tragedy and whether the past can ever truly be rewritten.",
+      "pros": [
+        "possessing the memories of dead crewmen to alter their past actions (closing a pressure valve, throwing a switch) to fix environmental elements in the present is a top-tier puzzle mechanic.",
+        "body-heat managing system replaces traditional health with body temperature.",
+        "frost accumulate on your weapon and vision in real time when entering unheated zones.",
+        "serves a claustrophobic and isolated survival horror setting.",
+        "melee combat (water pipes, axes) and primitive soviet firearms (mosin-nagant, ppsh-41) has heavy momentum and swing animations.",
+        "gorky’s fairy tale of danko's burning heart is a commentary on leadership, sacrifice and the captain's decisions.",
+        "enemies are mutated crewmen bound to their cold-weather gear and industrial tools (welders, chain-men, projectionists), they're very spooky and atmospheric.",
+        "dynamic melting physics in real-time is satisfying.",
+        "zero hud system and heat bar adds up to atmosphere visually."
+      ],
+      "cons": [
+        "atmosfear engine damaged by frame drops, memory leaks and performance hitches, even on high-end modern hardware.",
+        "level layouts are repetitive corridors which gets boring quickly.",
+        "protagonist moves at an slow walking pace, making backtracking or dodging enemy attacks feel like torture..",
+        "certain flashback sequences ask for untelegraphed steps that result in instant failure if not executed perfectly so be ready for absolute ragebait.",
+        "enemy ai is inconsistent and glitchy. enemies constantly stuck on doors and walls or they act dumb.",
+        "late game enemies are ammo-sponge. game wants you to use a shot and step back strategy which is dull, lazy and tired.",
+        "final boss fight inconsistencies in the final confrontation, from the established fps survival gameplay, mechanics-wise feeling out of place.",
+        "despite the giant ship, levels are linear with minimal room for walking around or exploratory sequences are dull..",
+        "key triggers like tiny light switches or hidden ladder rungs are poorly displayed in dark rooms, causes aimless moments."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "amnesia the dark descent",
+        "condemned criminal origins",
+        "call of cthulhu dark corners of the earth",
+        "narcosis",
+        "metro 2033",
+        "penumbra: overture"
+      ],
+      "mediumInfluences": [
+        "bioshock",
+        "francisco goya",
+        "the flaming heart of danko",
+        "maxim gorky",
+        "david cronenberg",
+        "john carpenter",
+        "hermann hesse",
+        "braid"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t12:24:35.953z",
+      "updatedAt": "2026-08-08t12:24:35.971z"
+    },
+    {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
       "title": "sekiro shadows die twice",
