@@ -2995,14 +2995,7 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [
-    {
-      "id": "bingo-1786229314460-1-muup",
-      "title": "interstellar",
-      "mediaFormat": "film",
-      "createdAt": "2026-08-08t22:48:34.460z"
-    }
-  ],
+  "bingo": [],
   "bingoRequests": [],
   "characters": []
 }
