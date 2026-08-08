@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "id": "item-1786211199487",
+      "cover": "https://www.afka.net/images/Books/00s/2003%20apostrophe%20-%20FZ%20cover.jpg",
+      "title": "apostrophe",
+      "mainCreator": "frank zappa",
+      "otherCreators": [
+        "jack bruce/bass",
+        "jim gordon/drummer",
+        "george duke/keyboard",
+        "jean-luc ponty/violin",
+        "tina turner/backvocals"
+      ],
+      "creatorDetails": [
+        {
+          "name": "frank zappa",
+          "category": "music artist",
+          "nation": "united states",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Zappa",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zappa_16011977_01_300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+        },
+        {
+          "name": "jack bruce",
+          "category": "bass",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jack%20Bruce"
+        },
+        {
+          "name": "jim gordon",
+          "category": "drummer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jim%20Gordon"
+        },
+        {
+          "name": "george duke",
+          "category": "keyboard",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Duke"
+        },
+        {
+          "name": "jean-luc ponty",
+          "category": "violin",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Luc%20Ponty"
+        },
+        {
+          "name": "tina turner",
+          "category": "backvocals",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tina%20Turner"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "2026-08-08",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "jazz rock",
+        "progressive rock",
+        "art rock"
+      ],
+      "philosophicalTags": [
+        "satirical nihilism",
+        "anti-authoritarianism",
+        "racial disharmony critique",
+        "consumerism parody",
+        "counterculture skepticism",
+        "outsider identity"
+      ],
+      "genreStyleTags": [
+        "avant garde",
+        "comedy rock",
+        "satire",
+        "psychedelic rock",
+        "blues rock",
+        "winter",
+        "jazz fusion",
+        "surreal humor",
+        "social commentary",
+        "orchestral",
+        "experimental",
+        "funk",
+        "surreal"
+      ],
+      "summaryPlot": "the first side of apostrophe (') loosely follows a surreal, dreamlike narrative. it begins with the singer dreaming he is an eskimo named nanook, who gets into a confrontation about yellow snow, before transitioning to the bizarre \"st. alfonzo's pancake breakfast\". the rest of the album shifts to standalone tracks, including the mystical \"cosmik debris,\" the socially conscious \"uncle remus\" on racism, and the humorous \"stink-foot\". the title track is a fusion instrumental featuring jack bruce on bass.",
+      "pros": [
+        "features elite instrumental performances from george duke (keyboards), jean-luc ponty (violin), jack bruce (bass) and aynsley dunbar (drums).",
+        "apostrophe title track is heavy funk-rock instrumental duel between frank zappa's lead guitar and cream’s jack bruce on bass that ride the momentum.",
+        "album links four distinct movements such as \"yellow snow\", \"nanook\", \"st. alfonzo\", \"father o'blivion\" using intricate 5/4 and 7/8 time signature changes.",
+        "built around a filthy blues-guitar riff paired wit satire mocking fake spiritual gurus and mysticism.",
+        "recorded with hi-fi clarity, is crisp stereo separation, punching your face bass response and dynamic audio space.",
+        "classical-fusion runs that elevate \"uncle remus\" and the title track above standard rock elements.",
+        "uncle ramus track is co-written with george duke that serve social critique on civil rights dynamics over lush piano chords.",
+        "ruth underwood’s marimba and vibraphone add that distinct complexity to tight rhythm sections.",
+        "zappa’s guitar solos are raw and rejects generic blues cliches.",
+        "album's silly structure doesn't take itself serious and forces art music tropes while being art album."
+      ],
+      "cons": [
+        "several impressive instrumental jams like the title track and \"stink-foot\" are fade-outs rather than definitive piece.",
+        "zappa's spoken word is usually too theatrical.",
+        "b side cannot keep the consistency in favor to lean more into comedic values.",
+        "gimmicky sound effects usage age worse than intrumental elements.",
+        "closing track is simple, plodding 4/4 funk beat over 6 minutes, trust a lot to vical gags.",
+        "album is a bit commercialized than what is a jazz fusion is.",
+        "excentrifugal forz feels unfinished."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "unorthodox behaviour",
+        "octopus",
+        "danger money",
+        "we're only in it for the money"
+      ],
+      "mediumInfluences": [
+        "cream",
+        "gentle giant",
+        "miles davis",
+        "king crimson"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t17:46:39.492z",
+      "updatedAt": "2026-08-08t17:46:39.511z"
+    },
+    {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
       "title": "sekiro shadows die twice",
