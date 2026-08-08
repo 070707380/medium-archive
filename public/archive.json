@@ -1,115 +1,6 @@
 {
   "items": [
     {
-      "id": "item-1786191875948",
-      "cover": "https://lets-play.by/media/screen-shots/cryostasis-sleep-of-reason/cryostasis-sleep-of-reason-screenshot-%20(4).jpg",
-      "title": "cryostasis sleep of reason",
-      "mainCreator": "action forms",
-      "otherCreators": [
-        "alexander tugaenko/designer",
-        "dmitry nechay/designer",
-        "stanislav dmitriev/programmer"
-      ],
-      "creatorDetails": [
-        {
-          "name": "action forms",
-          "category": "developer",
-          "nation": "ukraine",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Action_Forms&ved=2ahUKEwjXtbmP_ZCWAxX5HRAIHTW9KGEQFnoECBAQAQ&sqi=2&usg=AOvVaw0-27t9ySI3tQjgfxpMKgZl"
-        },
-        {
-          "name": "alexander tugaenko",
-          "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander%20Tugaenko"
-        },
-        {
-          "name": "dmitry nechay",
-          "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dmitry%20Nechay"
-        },
-        {
-          "name": "stanislav dmitriev",
-          "category": "programmer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Stanislav%20Dmitriev"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2008-12-05",
-      "countryOfOrigin": "ukraine",
-      "originalLanguage": "english",
-      "genres": [
-        "psychological horror",
-        "survival horror",
-        "first person shooter"
-      ],
-      "philosophicalTags": [
-        "existentialist self determination",
-        "nietzschean will to power",
-        "hessean spiritual awakening",
-        "fatalism vs. free will",
-        "time paradox & causal loops",
-        "purgatorial afterlife",
-        "symbolic allegory"
-      ],
-      "genreStyleTags": [
-        "atmospheric horror",
-        "science fiction",
-        "time travel",
-        "mystery",
-        "metaphysical horror",
-        "slow burn",
-        "claustrophobic"
-      ],
-      "summaryPlot": "in 1981, russian meteorologist alexander nesterov is sent to investigate the nuclear icebreaker north wind, which has been trapped in arctic ice since 1968. upon arrival, he discovers the crew has been mutated into bizarre creatures, and he must use his unique ability, the \"mental echo\"—which allows him to enter the memories of the dead and change their past actions—to uncover the ship's tragic mystery. as he navigates the frozen vessel, he finds fragments of maxim gorky's fairy tale that parallel the ship's fate, forcing him to confront the nature of tragedy and whether the past can ever truly be rewritten.",
-      "pros": [
-        "possessing the memories of dead crewmen to alter their past actions (closing a pressure valve, throwing a switch) to fix environmental elements in the present is a top-tier puzzle mechanic.",
-        "body-heat managing system replaces traditional health with body temperature.",
-        "frost accumulate on your weapon and vision in real time when entering unheated zones.",
-        "serves a claustrophobic and isolated survival horror setting.",
-        "melee combat (water pipes, axes) and primitive soviet firearms (mosin-nagant, ppsh-41) has heavy momentum and swing animations.",
-        "gorky’s fairy tale of danko's burning heart is a commentary on leadership, sacrifice and the captain's decisions.",
-        "enemies are mutated crewmen bound to their cold-weather gear and industrial tools (welders, chain-men, projectionists), they're very spooky and atmospheric.",
-        "dynamic melting physics in real-time is satisfying.",
-        "zero hud system and heat bar adds up to atmosphere visually."
-      ],
-      "cons": [
-        "atmosfear engine damaged by frame drops, memory leaks and performance hitches, even on high-end modern hardware.",
-        "level layouts are repetitive corridors which gets boring quickly.",
-        "protagonist moves at an slow walking pace, making backtracking or dodging enemy attacks feel like torture..",
-        "certain flashback sequences ask for untelegraphed steps that result in instant failure if not executed perfectly so be ready for absolute ragebait.",
-        "enemy ai is inconsistent and glitchy. enemies constantly stuck on doors and walls or they act dumb.",
-        "late game enemies are ammo-sponge. game wants you to use a shot and step back strategy which is dull, lazy and tired.",
-        "final boss fight inconsistencies in the final confrontation, from the established fps survival gameplay, mechanics-wise feeling out of place.",
-        "despite the giant ship, levels are linear with minimal room for walking around or exploratory sequences are dull..",
-        "key triggers like tiny light switches or hidden ladder rungs are poorly displayed in dark rooms, causes aimless moments."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "amnesia the dark descent",
-        "condemned criminal origins",
-        "call of cthulhu dark corners of the earth",
-        "narcosis",
-        "metro 2033",
-        "penumbra: overture"
-      ],
-      "mediumInfluences": [
-        "bioshock",
-        "francisco goya",
-        "the flaming heart of danko",
-        "maxim gorky",
-        "david cronenberg",
-        "john carpenter",
-        "hermann hesse",
-        "braid"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t12:24:35.953z",
-      "updatedAt": "2026-08-08t12:24:35.971z"
-    },
-    {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
       "title": "sekiro shadows die twice",
@@ -558,6 +449,91 @@
       "updatedAt": "2026-08-06t23:20:33.807z"
     },
     {
+      "id": "item-1786090720264",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaW6T0ydhXCXbc3ysjaOrlzuNZqxSsg2H6Y1MsE2QnM5KtcMhgJqH3stp&s=10",
+      "title": "hounds of love",
+      "mainCreator": "kate bush",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "kate bush",
+          "category": "music artist",
+          "nation": "united kingdom",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kate_Bush",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kate_Bush_Hounds_of_Love_%281985_EMI_publicity_photo%29_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "1985-90-16",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "art pop",
+        "progressive pop",
+        "synthpop"
+      ],
+      "philosophicalTags": [
+        "intimacy and its limits",
+        "fear and vulnerability",
+        "light and dark",
+        "survival and resilience",
+        "self love"
+      ],
+      "genreStyleTags": [
+        "ethereal wave",
+        "romance",
+        "atmospheric",
+        "haunting",
+        "mystery",
+        "poetic",
+        "maximalist",
+        "winter"
+      ],
+      "summaryPlot": "hounds of love is structured as two distinct halves. the first side explores the ambiguities, fears, and vulnerabilities of romantic love. the second side, the ninth wave, is a seven-song conceptual suite following a woman drifting alone in the sea at night, tracing her journey through crisis, survival, and rebirth.",
+      "pros": [
+        "running up that hill is built around an iconic linndrum rhythm and lush fairlight cmi synth textures.",
+        "kate bush just mastered cmi synthesizer which causes unique textures.",
+        "7-track b-side is high-concept about a person drifting at sea, struggling against drowning and sleep.",
+        "orchestral strings and military snares rides the momentum dynamically.",
+        "minimalist synth-stabs and claustrophobic vocal layering awakens paranoa and isolation.",
+        "irish instruments as fiddles, uilleann pipes and bodhrán joins with unexpected but fresh texture.",
+        "spoken-word samples, distorted vocal shifts and church-bell textures, that's rich catalog of elements used well in experimental scene.",
+        "bush' vocal control and range is unmatched.",
+        "album is divided into an accessible commercial a-side and experimental b-side.",
+        "storytelling is lyrically cinematic."
+      ],
+      "cons": [
+        "reverb snare hits and early digital synths are dated and linked to commercial production tropes.",
+        "album sometimes is too theatrically melodramatic, it feels forced.",
+        "\"the big sky\" is monotonous wall-of-sound that doesn't evolve into something.",
+        "commercial studio polishing ruins the dreamy experimental approach.",
+        "some spoken word samples feels gimmicky.",
+        "commercial side of the album is about generic structure of repetitive and predictable verse-chorus boredom.",
+        "beat crafting and synth-loop repetitions lack glitch details and kinda falls as simple. well it was generational in it's time, i guess?"
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "post",
+        "little earthquakes",
+        "when the pawn...",
+        "dog man star",
+        "is this desire?"
+      ],
+      "mediumInfluences": [
+        "david bowie",
+        "pink floyd",
+        "peter gabriel",
+        "night of the demon",
+        "alfred lord tennyson"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-07t08:18:40.267z",
+      "updatedAt": "2026-08-07t08:18:40.271z"
+    },
+    {
       "id": "item-1786178048567",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
       "title": "paranoid",
@@ -676,91 +652,6 @@
       "updatedAt": "2026-08-08t08:45:19.595z"
     },
     {
-      "id": "item-1786090720264",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaW6T0ydhXCXbc3ysjaOrlzuNZqxSsg2H6Y1MsE2QnM5KtcMhgJqH3stp&s=10",
-      "title": "hounds of love",
-      "mainCreator": "kate bush",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "kate bush",
-          "category": "music artist",
-          "nation": "united kingdom",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Kate_Bush",
-          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kate_Bush_Hounds_of_Love_%281985_EMI_publicity_photo%29_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "1985-90-16",
-      "countryOfOrigin": "united kingdom",
-      "originalLanguage": "english",
-      "genres": [
-        "art pop",
-        "progressive pop",
-        "synthpop"
-      ],
-      "philosophicalTags": [
-        "intimacy and its limits",
-        "fear and vulnerability",
-        "light and dark",
-        "survival and resilience",
-        "self love"
-      ],
-      "genreStyleTags": [
-        "ethereal wave",
-        "romance",
-        "atmospheric",
-        "haunting",
-        "mystery",
-        "poetic",
-        "maximalist",
-        "winter"
-      ],
-      "summaryPlot": "hounds of love is structured as two distinct halves. the first side explores the ambiguities, fears, and vulnerabilities of romantic love. the second side, the ninth wave, is a seven-song conceptual suite following a woman drifting alone in the sea at night, tracing her journey through crisis, survival, and rebirth.",
-      "pros": [
-        "running up that hill is built around an iconic linndrum rhythm and lush fairlight cmi synth textures.",
-        "kate bush just mastered cmi synthesizer which causes unique textures.",
-        "7-track b-side is high-concept about a person drifting at sea, struggling against drowning and sleep.",
-        "orchestral strings and military snares rides the momentum dynamically.",
-        "minimalist synth-stabs and claustrophobic vocal layering awakens paranoa and isolation.",
-        "irish instruments as fiddles, uilleann pipes and bodhrán joins with unexpected but fresh texture.",
-        "spoken-word samples, distorted vocal shifts and church-bell textures, that's rich catalog of elements used well in experimental scene.",
-        "bush' vocal control and range is unmatched.",
-        "album is divided into an accessible commercial a-side and experimental b-side.",
-        "storytelling is lyrically cinematic."
-      ],
-      "cons": [
-        "reverb snare hits and early digital synths are dated and linked to commercial production tropes.",
-        "album sometimes is too theatrically melodramatic, it feels forced.",
-        "\"the big sky\" is monotonous wall-of-sound that doesn't evolve into something.",
-        "commercial studio polishing ruins the dreamy experimental approach.",
-        "some spoken word samples feels gimmicky.",
-        "commercial side of the album is about generic structure of repetitive and predictable verse-chorus boredom.",
-        "beat crafting and synth-loop repetitions lack glitch details and kinda falls as simple. well it was generational in it's time, i guess?"
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "post",
-        "little earthquakes",
-        "when the pawn...",
-        "dog man star",
-        "is this desire?"
-      ],
-      "mediumInfluences": [
-        "david bowie",
-        "pink floyd",
-        "peter gabriel",
-        "night of the demon",
-        "alfred lord tennyson"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-07t08:18:40.267z",
-      "updatedAt": "2026-08-07t08:18:40.271z"
-    },
-    {
       "id": "album-ost-1785683444842-16zbo",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
       "title": "terraria official soundtrack",
@@ -849,6 +740,115 @@
       ],
       "createdAt": "2026-08-02t15:10:44.843z",
       "updatedAt": "2026-08-07t08:33:44.688z"
+    },
+    {
+      "id": "item-1786191875948",
+      "cover": "https://lets-play.by/media/screen-shots/cryostasis-sleep-of-reason/cryostasis-sleep-of-reason-screenshot-%20(4).jpg",
+      "title": "cryostasis sleep of reason",
+      "mainCreator": "action forms",
+      "otherCreators": [
+        "alexander tugaenko/designer",
+        "dmitry nechay/designer",
+        "stanislav dmitriev/programmer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "action forms",
+          "category": "developer",
+          "nation": "ukraine",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Action_Forms&ved=2ahUKEwjXtbmP_ZCWAxX5HRAIHTW9KGEQFnoECBAQAQ&sqi=2&usg=AOvVaw0-27t9ySI3tQjgfxpMKgZl"
+        },
+        {
+          "name": "alexander tugaenko",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander%20Tugaenko"
+        },
+        {
+          "name": "dmitry nechay",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dmitry%20Nechay"
+        },
+        {
+          "name": "stanislav dmitriev",
+          "category": "programmer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stanislav%20Dmitriev"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2008-12-05",
+      "countryOfOrigin": "ukraine",
+      "originalLanguage": "english",
+      "genres": [
+        "psychological horror",
+        "survival horror",
+        "first person shooter"
+      ],
+      "philosophicalTags": [
+        "existentialist self determination",
+        "nietzschean will to power",
+        "hessean spiritual awakening",
+        "fatalism vs. free will",
+        "time paradox & causal loops",
+        "purgatorial afterlife",
+        "symbolic allegory"
+      ],
+      "genreStyleTags": [
+        "atmospheric horror",
+        "science fiction",
+        "time travel",
+        "mystery",
+        "metaphysical horror",
+        "slow burn",
+        "claustrophobic"
+      ],
+      "summaryPlot": "in 1981, russian meteorologist alexander nesterov is sent to investigate the nuclear icebreaker north wind, which has been trapped in arctic ice since 1968. upon arrival, he discovers the crew has been mutated into bizarre creatures, and he must use his unique ability, the \"mental echo\"—which allows him to enter the memories of the dead and change their past actions—to uncover the ship's tragic mystery. as he navigates the frozen vessel, he finds fragments of maxim gorky's fairy tale that parallel the ship's fate, forcing him to confront the nature of tragedy and whether the past can ever truly be rewritten.",
+      "pros": [
+        "possessing the memories of dead crewmen to alter their past actions (closing a pressure valve, throwing a switch) to fix environmental elements in the present is a top-tier puzzle mechanic.",
+        "body-heat managing system replaces traditional health with body temperature.",
+        "frost accumulate on your weapon and vision in real time when entering unheated zones.",
+        "serves a claustrophobic and isolated survival horror setting.",
+        "melee combat (water pipes, axes) and primitive soviet firearms (mosin-nagant, ppsh-41) has heavy momentum and swing animations.",
+        "gorky’s fairy tale of danko's burning heart is a commentary on leadership, sacrifice and the captain's decisions.",
+        "enemies are mutated crewmen bound to their cold-weather gear and industrial tools (welders, chain-men, projectionists), they're very spooky and atmospheric.",
+        "dynamic melting physics in real-time is satisfying.",
+        "zero hud system and heat bar adds up to atmosphere visually."
+      ],
+      "cons": [
+        "atmosfear engine damaged by frame drops, memory leaks and performance hitches, even on high-end modern hardware.",
+        "level layouts are repetitive corridors which gets boring quickly.",
+        "protagonist moves at an slow walking pace, making backtracking or dodging enemy attacks feel like torture..",
+        "certain flashback sequences ask for untelegraphed steps that result in instant failure if not executed perfectly so be ready for absolute ragebait.",
+        "enemy ai is inconsistent and glitchy. enemies constantly stuck on doors and walls or they act dumb.",
+        "late game enemies are ammo-sponge. game wants you to use a shot and step back strategy which is dull, lazy and tired.",
+        "final boss fight inconsistencies in the final confrontation, from the established fps survival gameplay, mechanics-wise feeling out of place.",
+        "despite the giant ship, levels are linear with minimal room for walking around or exploratory sequences are dull..",
+        "key triggers like tiny light switches or hidden ladder rungs are poorly displayed in dark rooms, causes aimless moments."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "amnesia the dark descent",
+        "condemned criminal origins",
+        "call of cthulhu dark corners of the earth",
+        "narcosis",
+        "metro 2033",
+        "penumbra: overture"
+      ],
+      "mediumInfluences": [
+        "bioshock",
+        "francisco goya",
+        "the flaming heart of danko",
+        "maxim gorky",
+        "david cronenberg",
+        "john carpenter",
+        "hermann hesse",
+        "braid"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t12:24:35.953z",
+      "updatedAt": "2026-08-08t12:24:35.971z"
     },
     {
       "id": "item-1785762906387",
@@ -962,232 +962,6 @@
       "links": [],
       "createdAt": "2026-08-03t13:15:06.394z",
       "updatedAt": "2026-08-06t06:48:38.193z"
-    },
-    {
-      "id": "item-1785669348801",
-      "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
-      "title": "terraria",
-      "mainCreator": "re-logic",
-      "otherCreators": [
-        "andrew \"redigit\" spinks/lead developer",
-        "whitney \"cenx\" spinks/lead developer"
-      ],
-      "creatorDetails": [
-        {
-          "name": "re-logic",
-          "category": "studio / company",
-          "nation": "united states",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Re-Logic"
-        },
-        {
-          "name": "andrew \"redigit\" spinks",
-          "category": "lead developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/andrew%20%22redigit%22%20spinks"
-        },
-        {
-          "name": "whitney \"cenx\" spinks",
-          "category": "lead developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/whitney%20%22cenx%22%20spinks"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2011-05-16",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "sandbox",
-        "high fantasy",
-        "boss fight"
-      ],
-      "philosophicalTags": [
-        "cosmic horror",
-        "nihilistic outlook",
-        "man vs. nature",
-        "good and evil",
-        "balance"
-      ],
-      "genreStyleTags": [
-        "day night cycle",
-        "side scroller",
-        "pixel art",
-        "base building",
-        "character customization",
-        "zombie",
-        "vampire",
-        "alien",
-        "hell",
-        "fishing",
-        "science fiction",
-        "metroidvania",
-        "survival craft",
-        "bullet hell",
-        "slime",
-        "black comedy",
-        "co-op",
-        "corruption",
-        "furry"
-      ],
-      "summaryPlot": "long ago, the ancient race of dryads went to war with the cosmic entity cthulhu, tearing off some of his limbs before he retreated to the dark side of the moon. centuries later, you, the terrarian, venture into the world to stop cthulhu—now known as the moon lord—for good.",
-      "pros": [
-        "unlike traditional sandbox routine where gamer imagination decided the content, terraria marks clear objectives such as bosses as gates.",
-        "melee, ranged, summoner and magic classes has insane item and customization variety.",
-        "world layering with surface, underground and hell creates sense of danger and worldbuilding.",
-        "mid game unlocks hardmode which changes the whole structure of the worldbuilding with new challenging enemies and brand new biomes, ores and items.",
-        "invasions, blood moons and solar eclipses breaks the game loop and tests gamer's build and base safety with challenging enemy waves.",
-        "movement pacing is insane, from barely jumping to double jump, grappling hooks and wings system is rich and satisfying.",
-        "unique biome mechanics such as jungle poison hazards, desert sandstorms and underworld lava force players to adapt their gear and strategies per region.",
-        "boss fights are mostly solid, there are some fillers but the most main bosses requires strict patterns, skills and combat building variety.",
-        "sandbox elements favors co-op engagement, designing your own competitive ball sport with your own arena and rules, dealing with complex electric mechanism and activities such as golf, tower defense minigames are fun to engage with."
-      ],
-      "cons": [
-        "progression in game strictly requires external factors as wikis and guide. i show no tolerance on reliance to external factors.",
-        "some crucial items has obscure rng drop rates which makes it farming chore to gain them.",
-        "expansion of corruption/crimson and hollow is annoying, they harass your custom world and only way to stop them is buying too expensive gears, which is also a boring waste of time to use them.",
-        "npc requirements are shallow. you put a table, chair and source of light and town-management is over. npc happiness and trading elements are way too surface level.",
-        "arena construction is repetitive and time wasting. placing all of the buff items and preparing a boss arena all yourself is annoying.",
-        "classes like summoner has awkward progression compared to more straightforward builds.",
-        "game's core pacing is totally broken. grinding for hours, mining and fishing for specific items, finding keys and dealing with low drop rates just to fight a boss is frustrating chore of dozens of hours.",
-        "strongest weapons in the game are gifted after defeating the final boss so gamer has no place to use them except for pointless power fantasy by defeating the previous bosses."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "necesse",
-        "starbound",
-        "core keeper",
-        "craft the world",
-        "dig or die",
-        "crea",
-        "alchemage"
-      ],
-      "mediumInfluences": [
-        {
-          "title": "minecraft",
-          "type": "media",
-          "customCover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
-          "note": "linked to video game (2011)"
-        },
-        "metroid",
-        "castlevania",
-        "super mario bros. x",
-        "dwarf fortress",
-        "the legend of zelda",
-        "diablo"
-      ],
-      "consumedVersion": "mobile",
-      "isSoundtrack": false,
-      "soundtracks": [
-        {
-          "id": "album-ost-1785683444842-16zbo",
-          "title": "terraria official soundtrack"
-        }
-      ],
-      "soundtrackId": "album-ost-1785683444842-16zbo",
-      "soundtrackTitle": "terraria official soundtrack",
-      "links": [
-        {
-          "id": "l1",
-          "label": "play store",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.and.games505.TerrariaPaid%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dbuy%2Bterraria%26pcampaignid%3DAPPU_1_0yZvaoOGMcaE9u8PuO-mmQw&ved=2ahUKEwjDu9XR6IGWAxVGgv0HHbi3KcMQ5YQBegQITBAC&usg=AOvVaw0heXSo_2vRzX80AA5nV3O6"
-        }
-      ],
-      "createdAt": "2026-08-02t11:15:48.802z",
-      "updatedAt": "2026-08-07t08:33:46.214z"
-    },
-    {
-      "id": "item-1785679574333",
-      "cover": "https://wallpaperaccess.com/full/9464755.jpg",
-      "title": "moby dick",
-      "mainCreator": "herman melville",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "herman melville",
-          "category": "author",
-          "nation": "united states",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Herman_Melville&ved=2ahUKEwi7rsXWiIKWAxX5hf0HHWI-EC0QFnoFCLABEAE&usg=AOvVaw2i8nhrM0MlQQ_L3f6rfkv9"
-        }
-      ],
-      "mediaFormat": "book",
-      "releaseDate": "1851-10-18",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "adventure novel",
-        "epic"
-      ],
-      "philosophicalTags": [
-        "microcosmic philosophy",
-        "nietzschean spirit of revenge",
-        "self construction",
-        "schopenhauerian negation of will",
-        "man vs. nature",
-        "monomania",
-        "existentialism",
-        "cosmic indifference",
-        "platonism vs. poetic philosophy",
-        "knowledge as dangerous"
-      ],
-      "genreStyleTags": [
-        "revenge",
-        "symbolism",
-        "tragedy"
-      ],
-      "summaryPlot": "the wandering sailor ishmael signs onto the whaling ship pequod, unaware that its captain, ahab, is driven by a monomaniacal quest for revenge against the massive white sperm whale that bit off his leg on a previous voyage. as the pequod sails across the world's oceans, ahab's obsession consumes the crew and ship, leading them on a fateful chase that culminates in a catastrophic final confrontation with the whale.",
-      "pros": [
-        "captain ahab’s obsessive vengeance against moby dick is focused.",
-        "white whale is actually symbolism for fate.",
-        "pequod’s multi-race crew is a fascinating society with class dynamics..",
-        "new bedford and nantucket establishing ishmael’s worldview and bond with queequeg is exceptional beginning.",
-        "descriptions of lowering boats and harpooning in open waters is actually realistic and tactical.",
-        "ahab vs. starbuck ideological clash is written well.",
-        "pequod’s crossing through other ships like jeroboam, samuel enderby and rachel points alternate faith.",
-        "ahab’s internal monologues are successfully shakespearean.",
-        "the chase of moby dick is a chaotic earned payoff."
-      ],
-      "cons": [
-        "dozens of chapters are textbook essays on whale anatomy, history and classification which doesn't trust the reader slightly. also why teach whale anatomy when it's a symbolism?",
-        "ishmael starts as active in the story but vanishes as a character in the second half.",
-        "switches between adventure and shakespearean script layouts then scientific treatises is tonal betrayal and inconsistency.",
-        "middle part stretches voyage drift by ignoring plot progression.",
-        "determinism often limits suspension and forces tryhardness.",
-        "early figures like queequeg are gone into the background once the ship sets sail.",
-        "biblical allegory feels essayistic than organic.",
-        "ishmael's miraculous survival in floating on queequeg's coffin is unearned. i'm aware it's a metaphor on rebirth or something, it's not about realism i don't even see it as any quality metaphor."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "heart of darkness",
-        "the sea-wolf",
-        "benito cereno",
-        "typee",
-        "omoo",
-        "the master and commander",
-        "don quixote"
-      ],
-      "mediumInfluences": [
-        "macbeth",
-        "paradise lost",
-        "the lusiads",
-        "the bible",
-        "mosses from an old manse",
-        "the tragedy of the whaleship essex",
-        "françois rabelais",
-        "edmund spenser",
-        "dante alighieri"
-      ],
-      "consumedVersion": "physical",
-      "isSoundtrack": false,
-      "links": [
-        {
-          "id": "l1",
-          "label": "amazon",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Moby-Dick-Balina-Herman-Melville/dp/6254058057&ved=2ahUKEwj3uJ-RioKWAxXdVvEDHYcwMukQFnoECCAQAQ&usg=AOvVaw1BlaQM3LJhOBXRNu2fZxkG"
-        }
-      ],
-      "createdAt": "2026-08-02t14:06:14.336z",
-      "updatedAt": "2026-08-06t23:17:49.896z"
     },
     {
       "id": "item-1785696098365",
@@ -1368,6 +1142,325 @@
       "updatedAt": "2026-08-07t08:30:18.290z"
     },
     {
+      "id": "item-1785679574333",
+      "cover": "https://wallpaperaccess.com/full/9464755.jpg",
+      "title": "moby dick",
+      "mainCreator": "herman melville",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "herman melville",
+          "category": "author",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Herman_Melville&ved=2ahUKEwi7rsXWiIKWAxX5hf0HHWI-EC0QFnoFCLABEAE&usg=AOvVaw2i8nhrM0MlQQ_L3f6rfkv9"
+        }
+      ],
+      "mediaFormat": "book",
+      "releaseDate": "1851-10-18",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "adventure novel",
+        "epic"
+      ],
+      "philosophicalTags": [
+        "microcosmic philosophy",
+        "nietzschean spirit of revenge",
+        "self construction",
+        "schopenhauerian negation of will",
+        "man vs. nature",
+        "monomania",
+        "existentialism",
+        "cosmic indifference",
+        "platonism vs. poetic philosophy",
+        "knowledge as dangerous"
+      ],
+      "genreStyleTags": [
+        "revenge",
+        "symbolism",
+        "tragedy"
+      ],
+      "summaryPlot": "the wandering sailor ishmael signs onto the whaling ship pequod, unaware that its captain, ahab, is driven by a monomaniacal quest for revenge against the massive white sperm whale that bit off his leg on a previous voyage. as the pequod sails across the world's oceans, ahab's obsession consumes the crew and ship, leading them on a fateful chase that culminates in a catastrophic final confrontation with the whale.",
+      "pros": [
+        "captain ahab’s obsessive vengeance against moby dick is focused.",
+        "white whale is actually symbolism for fate.",
+        "pequod’s multi-race crew is a fascinating society with class dynamics..",
+        "new bedford and nantucket establishing ishmael’s worldview and bond with queequeg is exceptional beginning.",
+        "descriptions of lowering boats and harpooning in open waters is actually realistic and tactical.",
+        "ahab vs. starbuck ideological clash is written well.",
+        "pequod’s crossing through other ships like jeroboam, samuel enderby and rachel points alternate faith.",
+        "ahab’s internal monologues are successfully shakespearean.",
+        "the chase of moby dick is a chaotic earned payoff."
+      ],
+      "cons": [
+        "dozens of chapters are textbook essays on whale anatomy, history and classification which doesn't trust the reader slightly. also why teach whale anatomy when it's a symbolism?",
+        "ishmael starts as active in the story but vanishes as a character in the second half.",
+        "switches between adventure and shakespearean script layouts then scientific treatises is tonal betrayal and inconsistency.",
+        "middle part stretches voyage drift by ignoring plot progression.",
+        "determinism often limits suspension and forces tryhardness.",
+        "early figures like queequeg are gone into the background once the ship sets sail.",
+        "biblical allegory feels essayistic than organic.",
+        "ishmael's miraculous survival in floating on queequeg's coffin is unearned. i'm aware it's a metaphor on rebirth or something, it's not about realism i don't even see it as any quality metaphor."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "heart of darkness",
+        "the sea-wolf",
+        "benito cereno",
+        "typee",
+        "omoo",
+        "the master and commander",
+        "don quixote"
+      ],
+      "mediumInfluences": [
+        "macbeth",
+        "paradise lost",
+        "the lusiads",
+        "the bible",
+        "mosses from an old manse",
+        "the tragedy of the whaleship essex",
+        "françois rabelais",
+        "edmund spenser",
+        "dante alighieri"
+      ],
+      "consumedVersion": "physical",
+      "isSoundtrack": false,
+      "links": [
+        {
+          "id": "l1",
+          "label": "amazon",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Moby-Dick-Balina-Herman-Melville/dp/6254058057&ved=2ahUKEwj3uJ-RioKWAxXdVvEDHYcwMukQFnoECCAQAQ&usg=AOvVaw1BlaQM3LJhOBXRNu2fZxkG"
+        }
+      ],
+      "createdAt": "2026-08-02t14:06:14.336z",
+      "updatedAt": "2026-08-06t23:17:49.896z"
+    },
+    {
+      "id": "item-1785669348801",
+      "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
+      "title": "terraria",
+      "mainCreator": "re-logic",
+      "otherCreators": [
+        "andrew \"redigit\" spinks/lead developer",
+        "whitney \"cenx\" spinks/lead developer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "re-logic",
+          "category": "studio / company",
+          "nation": "united states",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Re-Logic"
+        },
+        {
+          "name": "andrew \"redigit\" spinks",
+          "category": "lead developer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/andrew%20%22redigit%22%20spinks"
+        },
+        {
+          "name": "whitney \"cenx\" spinks",
+          "category": "lead developer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/whitney%20%22cenx%22%20spinks"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2011-05-16",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "sandbox",
+        "high fantasy",
+        "boss fight"
+      ],
+      "philosophicalTags": [
+        "cosmic horror",
+        "nihilistic outlook",
+        "man vs. nature",
+        "good and evil",
+        "balance"
+      ],
+      "genreStyleTags": [
+        "day night cycle",
+        "side scroller",
+        "pixel art",
+        "base building",
+        "character customization",
+        "zombie",
+        "vampire",
+        "alien",
+        "hell",
+        "fishing",
+        "science fiction",
+        "metroidvania",
+        "survival craft",
+        "bullet hell",
+        "slime",
+        "black comedy",
+        "co-op",
+        "corruption",
+        "furry"
+      ],
+      "summaryPlot": "long ago, the ancient race of dryads went to war with the cosmic entity cthulhu, tearing off some of his limbs before he retreated to the dark side of the moon. centuries later, you, the terrarian, venture into the world to stop cthulhu—now known as the moon lord—for good.",
+      "pros": [
+        "unlike traditional sandbox routine where gamer imagination decided the content, terraria marks clear objectives such as bosses as gates.",
+        "melee, ranged, summoner and magic classes has insane item and customization variety.",
+        "world layering with surface, underground and hell creates sense of danger and worldbuilding.",
+        "mid game unlocks hardmode which changes the whole structure of the worldbuilding with new challenging enemies and brand new biomes, ores and items.",
+        "invasions, blood moons and solar eclipses breaks the game loop and tests gamer's build and base safety with challenging enemy waves.",
+        "movement pacing is insane, from barely jumping to double jump, grappling hooks and wings system is rich and satisfying.",
+        "unique biome mechanics such as jungle poison hazards, desert sandstorms and underworld lava force players to adapt their gear and strategies per region.",
+        "boss fights are mostly solid, there are some fillers but the most main bosses requires strict patterns, skills and combat building variety.",
+        "sandbox elements favors co-op engagement, designing your own competitive ball sport with your own arena and rules, dealing with complex electric mechanism and activities such as golf, tower defense minigames are fun to engage with."
+      ],
+      "cons": [
+        "progression in game strictly requires external factors as wikis and guide. i show no tolerance on reliance to external factors.",
+        "some crucial items has obscure rng drop rates which makes it farming chore to gain them.",
+        "expansion of corruption/crimson and hollow is annoying, they harass your custom world and only way to stop them is buying too expensive gears, which is also a boring waste of time to use them.",
+        "npc requirements are shallow. you put a table, chair and source of light and town-management is over. npc happiness and trading elements are way too surface level.",
+        "arena construction is repetitive and time wasting. placing all of the buff items and preparing a boss arena all yourself is annoying.",
+        "classes like summoner has awkward progression compared to more straightforward builds.",
+        "game's core pacing is totally broken. grinding for hours, mining and fishing for specific items, finding keys and dealing with low drop rates just to fight a boss is frustrating chore of dozens of hours.",
+        "strongest weapons in the game are gifted after defeating the final boss so gamer has no place to use them except for pointless power fantasy by defeating the previous bosses."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "necesse",
+        "starbound",
+        "core keeper",
+        "craft the world",
+        "dig or die",
+        "crea",
+        "alchemage"
+      ],
+      "mediumInfluences": [
+        {
+          "title": "minecraft",
+          "type": "media",
+          "customCover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
+          "note": "linked to video game (2011)"
+        },
+        "metroid",
+        "castlevania",
+        "super mario bros. x",
+        "dwarf fortress",
+        "the legend of zelda",
+        "diablo"
+      ],
+      "consumedVersion": "mobile",
+      "isSoundtrack": false,
+      "soundtracks": [
+        {
+          "id": "album-ost-1785683444842-16zbo",
+          "title": "terraria official soundtrack"
+        }
+      ],
+      "soundtrackId": "album-ost-1785683444842-16zbo",
+      "soundtrackTitle": "terraria official soundtrack",
+      "links": [
+        {
+          "id": "l1",
+          "label": "play store",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.and.games505.TerrariaPaid%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dbuy%2Bterraria%26pcampaignid%3DAPPU_1_0yZvaoOGMcaE9u8PuO-mmQw&ved=2ahUKEwjDu9XR6IGWAxVGgv0HHbi3KcMQ5YQBegQITBAC&usg=AOvVaw0heXSo_2vRzX80AA5nV3O6"
+        }
+      ],
+      "createdAt": "2026-08-02t11:15:48.802z",
+      "updatedAt": "2026-08-07t08:33:46.214z"
+    },
+    {
+      "id": "item-1786181648058",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFEtTgoEFCy2KLnwWQS0RLQn8kPoSqyQ0wC5cpJi887M45xZMyZiKI_mS&s=10",
+      "title": "stalker",
+      "mainCreator": "andrei tarkovsky",
+      "otherCreators": [
+        "arkady strugatsky/co-writer",
+        "aleksandr knyazhinsky/cinematographer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "andrei tarkovsky",
+          "category": "director",
+          "nation": "soviet russia",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Andrey_Tarkovski&ved=2ahUKEwj5oeX91pCWAxVpcfEDHWwKIB4QFnoECEcQAQ&usg=AOvVaw07PBOBmt3oBXnkP9rWRpjW"
+        },
+        {
+          "name": "arkady strugatsky",
+          "category": "co-writer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/arkady%20strugatsky"
+        },
+        {
+          "name": "aleksandr knyazhinsky",
+          "category": "cinematographer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/aleksandr%20knyazhinsky"
+        }
+      ],
+      "mediaFormat": "film",
+      "releaseDate": "1979-05-25",
+      "countryOfOrigin": "soviet russia",
+      "originalLanguage": "russian",
+      "genres": [
+        "psychological drama",
+        "science fiction",
+        "existialist thriller"
+      ],
+      "philosophicalTags": [
+        "heideggerian being toward death",
+        "dostoevskian holy fool",
+        "kierkegaardian leap of faith",
+        "theodicy & divine silence",
+        "jungian shadow integration",
+        "soteriological salvation",
+        "soviet existential despair"
+      ],
+      "genreStyleTags": [
+        "existialist",
+        "slow burn",
+        "dystopian",
+        "meditative",
+        "isolating",
+        "nature",
+        "post apocalyptic",
+        "metaphysical",
+        "mystery"
+      ],
+      "summaryPlot": "in an unspecified soviet-era wasteland, a guide known as the stalker leads a writer and a professor through a forbidden, surreal area called the zone, where a mysterious room is said to grant a visitor's innermost desires. the journey becomes an existential pilgrimage, forcing each man to confront the nature of his own faith, cynicism, and deepest hidden self.",
+      "pros": [
+        "switching from piss filter to vibrant colours in the industrial town has great visual function and symbolization.",
+        "decaying and abandoned industrial ruins of the zone creates atmosphere of post-apocalyptic decay.",
+        "a place that grants a person's subconscious desire than a grant wish is a brilliant psychological element..",
+        "using nut-throwing to detect unseen gravitational anomalies is great invisible danger.",
+        "tragicomic possibility of \"what if zone doesn't even working, is the zone even real?\" questions actually create a great what-if irony.",
+        "spoiler/ realization that the men are terrified to enter the room because they fear their own subconscious is powerful philosophy and the final bomb twist is well-made.",
+        "cinematography & camera movement supports the dreamy like atmosphere.",
+        "spoiler/ they don't enter the room at the end!"
+      ],
+      "cons": [
+        "physical nature of the zone's traps is abstract, i know it meant to be abstract but the whole movie feels like actionless indiana jones movie with all that reaching a macguffin (the room) after passing through traps and claustrophobic sequences in who-knows-what-it-is place. mystery can be explained in a way that it wouldn't feel shallow. this way, everything is an excuse.",
+        "worldbuilding, magical zone and room structure, human factors and characters itself, even plot are just excuse to throw three different guys on forced philosophical dialogues without organic structure throughout the movie than showing the philosophy.",
+        "because no traps are visually shown triggering on screen, the danger claimed by the stalker character feel artificial. it could be seen as some mental gymnastics defense as \"but traps are internal and it reflects something something about stalker.\" yeah i could defend literally anything with that attitude by manipulating philosophy and logic.",
+        "movie is too abstract that if you start talking about what you philosophically see in the movie straightforwardly then you'll inevitably sound forced and delusional and that's the movie on the blame. sometimes movie feels like \"winnie the pooh is peak fiction because all characters reflect different psychological issues.\" like shut the fuck up. non-clarity is being spectrum, being spectrum is playing safe, playing safe is hollow."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the turin horse",
+        "eraserhead",
+        "the cabinet of dr. caligari"
+      ],
+      "mediumInfluences": [
+        "roadside picnic",
+        "the idiot",
+        "the trial",
+        "the seventh seal",
+        "2001 a space odyssey"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t09:34:08.064z",
+      "updatedAt": "2026-08-08t10:39:26.579z"
+    },
+    {
       "id": "item-1785654966122",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10",
       "title": "resident evil",
@@ -1466,6 +1559,102 @@
       "links": [],
       "createdAt": "2026-08-02t07:16:06.125z",
       "updatedAt": "2026-08-02t16:29:11.404z"
+    },
+    {
+      "id": "item-1785653046899",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olivertwist_front.jpg",
+      "title": "oliver twist",
+      "mainCreator": "charles dickens",
+      "otherCreators": [
+        "george cruikshank/illustrator"
+      ],
+      "creatorDetails": [
+        {
+          "name": "charles dickens",
+          "category": "author",
+          "nation": "united kingdom",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Charles_Dickens&ved=2ahUKEwjb2bCUpYGWAxV4A9sEHZtNG-8QFnoECEEQAQ&sqi=2&usg=AOvVaw2k9PctKLncGzM3nHeiM6s4"
+        },
+        {
+          "name": "george cruikshank",
+          "category": "illustrator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Cruikshank"
+        }
+      ],
+      "mediaFormat": "book",
+      "releaseDate": "1938",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "novel",
+        "social critique",
+        "bildungsroman"
+      ],
+      "philosophicalTags": [
+        "innate morality",
+        "social critique",
+        "nature vs. nurture",
+        "christian morality"
+      ],
+      "genreStyleTags": [
+        "victorian literature",
+        "orphan",
+        "poverty",
+        "melodrama",
+        "satire",
+        "gothic",
+        "corruption"
+      ],
+      "summaryPlot": "oliver twist, an orphan born in a workhouse, endures a miserable childhood of child labor before escaping to london, where he falls in with a gang of pickpockets led by the elderly criminal fagin. after being wrongly accused of theft, oliver is rescued by the kind mr. brownlow, but the gang recaptures him, leading to a series of events that ultimately reveal oliver's true identity and secure his happy ending.",
+      "pros": [
+        "satire execution is sharp, book clearly shows hypocrisy of victorian poor law.",
+        "london's labyrinthine and claustrophobic environment is atmospheric.",
+        "book contains many memorable figures such as fagin, the artful dodger and bill sikes.",
+        "chertsey burglary planning is actually serving tension and execution is tight.",
+        "psychological depth isn't any surface level, for example nancy’s murder captures guilt, paranoia and psychological collapse.",
+        "book rejects victorian romanticism by directly showing child exploitation, urban poverty and systemic corruption.",
+        "settings dynamics as shift from claustrophobic london streets to safe countryside is effective.",
+        "artful dodger’s courtroom scene is damn good, provides street-smart coolness and uses quality satire elements.",
+        "morale stakes are clear, for example reader is left with tension of \"will twist stay still pure after all of these?\""
+      ],
+      "cons": [
+        "oliver usually survive through pure luck, external factors and helpless innocence.",
+        "book excuses heavy coincidences like oliver's burglary spot is being his wealthy relatives.",
+        "oliver is unrealistically untainted by his surroundings despite growing up in a workhouse, kinda points cheap melodrama effect.",
+        "resolution relies on lazy secret plotline.",
+        "figures like mr. brownlow and rose maylie are unrealistically purely good despite living in a corrupted state.",
+        "subplots are conversational fillers that slows down the book's pacing.",
+        "dickens frequently pauses the story just to lecture the reader on victorian morality and christian charity like we are dumbass.",
+        "some key figures like monks are just cheap plot summaries.",
+        "tonal shift is inconsistent by shifting victorian romance and crime thriller awkwardly."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "les misérables",
+        "jane eyre",
+        "the secret garden",
+        "peter pan",
+        "wuthering heights"
+      ],
+      "mediumInfluences": [
+        "the pilgrim's progress",
+        "a rake's progress",
+        "a harlot's progress",
+        "the mudfog papers",
+        "robert blincoe's memoir"
+      ],
+      "consumedVersion": "physical",
+      "isSoundtrack": false,
+      "links": [
+        {
+          "id": "l1",
+          "label": "amazon",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Oliver-Twist-Charles-Dickens/dp/1906230005&ved=2ahUKEwjDlvGTpoGWAxXYcfEDHcfGKVMQFnoECDQQAQ&usg=AOvVaw2I9peZXJLZuwmTFDPuuh_H"
+        }
+      ],
+      "createdAt": "2026-08-02t06:44:06.900z",
+      "updatedAt": "2026-08-02t07:26:29.419z"
     },
     {
       "id": "item-1785739670489",
@@ -1697,195 +1886,6 @@
       "updatedAt": "2026-08-06t11:18:30.524z"
     },
     {
-      "id": "item-1785653046899",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Olivertwist_front.jpg",
-      "title": "oliver twist",
-      "mainCreator": "charles dickens",
-      "otherCreators": [
-        "george cruikshank/illustrator"
-      ],
-      "creatorDetails": [
-        {
-          "name": "charles dickens",
-          "category": "author",
-          "nation": "united kingdom",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Charles_Dickens&ved=2ahUKEwjb2bCUpYGWAxV4A9sEHZtNG-8QFnoECEEQAQ&sqi=2&usg=AOvVaw2k9PctKLncGzM3nHeiM6s4"
-        },
-        {
-          "name": "george cruikshank",
-          "category": "illustrator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Cruikshank"
-        }
-      ],
-      "mediaFormat": "book",
-      "releaseDate": "1938",
-      "countryOfOrigin": "united kingdom",
-      "originalLanguage": "english",
-      "genres": [
-        "novel",
-        "social critique",
-        "bildungsroman"
-      ],
-      "philosophicalTags": [
-        "innate morality",
-        "social critique",
-        "nature vs. nurture",
-        "christian morality"
-      ],
-      "genreStyleTags": [
-        "victorian literature",
-        "orphan",
-        "poverty",
-        "melodrama",
-        "satire",
-        "gothic",
-        "corruption"
-      ],
-      "summaryPlot": "oliver twist, an orphan born in a workhouse, endures a miserable childhood of child labor before escaping to london, where he falls in with a gang of pickpockets led by the elderly criminal fagin. after being wrongly accused of theft, oliver is rescued by the kind mr. brownlow, but the gang recaptures him, leading to a series of events that ultimately reveal oliver's true identity and secure his happy ending.",
-      "pros": [
-        "satire execution is sharp, book clearly shows hypocrisy of victorian poor law.",
-        "london's labyrinthine and claustrophobic environment is atmospheric.",
-        "book contains many memorable figures such as fagin, the artful dodger and bill sikes.",
-        "chertsey burglary planning is actually serving tension and execution is tight.",
-        "psychological depth isn't any surface level, for example nancy’s murder captures guilt, paranoia and psychological collapse.",
-        "book rejects victorian romanticism by directly showing child exploitation, urban poverty and systemic corruption.",
-        "settings dynamics as shift from claustrophobic london streets to safe countryside is effective.",
-        "artful dodger’s courtroom scene is damn good, provides street-smart coolness and uses quality satire elements.",
-        "morale stakes are clear, for example reader is left with tension of \"will twist stay still pure after all of these?\""
-      ],
-      "cons": [
-        "oliver usually survive through pure luck, external factors and helpless innocence.",
-        "book excuses heavy coincidences like oliver's burglary spot is being his wealthy relatives.",
-        "oliver is unrealistically untainted by his surroundings despite growing up in a workhouse, kinda points cheap melodrama effect.",
-        "resolution relies on lazy secret plotline.",
-        "figures like mr. brownlow and rose maylie are unrealistically purely good despite living in a corrupted state.",
-        "subplots are conversational fillers that slows down the book's pacing.",
-        "dickens frequently pauses the story just to lecture the reader on victorian morality and christian charity like we are dumbass.",
-        "some key figures like monks are just cheap plot summaries.",
-        "tonal shift is inconsistent by shifting victorian romance and crime thriller awkwardly."
-      ],
-      "hornetScore": 4,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "les misérables",
-        "jane eyre",
-        "the secret garden",
-        "peter pan",
-        "wuthering heights"
-      ],
-      "mediumInfluences": [
-        "the pilgrim's progress",
-        "a rake's progress",
-        "a harlot's progress",
-        "the mudfog papers",
-        "robert blincoe's memoir"
-      ],
-      "consumedVersion": "physical",
-      "isSoundtrack": false,
-      "links": [
-        {
-          "id": "l1",
-          "label": "amazon",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Oliver-Twist-Charles-Dickens/dp/1906230005&ved=2ahUKEwjDlvGTpoGWAxXYcfEDHcfGKVMQFnoECDQQAQ&usg=AOvVaw2I9peZXJLZuwmTFDPuuh_H"
-        }
-      ],
-      "createdAt": "2026-08-02t06:44:06.900z",
-      "updatedAt": "2026-08-02t07:26:29.419z"
-    },
-    {
-      "id": "item-1786181648058",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFEtTgoEFCy2KLnwWQS0RLQn8kPoSqyQ0wC5cpJi887M45xZMyZiKI_mS&s=10",
-      "title": "stalker",
-      "mainCreator": "andrei tarkovsky",
-      "otherCreators": [
-        "arkady strugatsky/co-writer",
-        "aleksandr knyazhinsky/cinematographer"
-      ],
-      "creatorDetails": [
-        {
-          "name": "andrei tarkovsky",
-          "category": "director",
-          "nation": "soviet russia",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Andrey_Tarkovski&ved=2ahUKEwj5oeX91pCWAxVpcfEDHWwKIB4QFnoECEcQAQ&usg=AOvVaw07PBOBmt3oBXnkP9rWRpjW"
-        },
-        {
-          "name": "arkady strugatsky",
-          "category": "co-writer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/arkady%20strugatsky"
-        },
-        {
-          "name": "aleksandr knyazhinsky",
-          "category": "cinematographer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/aleksandr%20knyazhinsky"
-        }
-      ],
-      "mediaFormat": "film",
-      "releaseDate": "1979-05-25",
-      "countryOfOrigin": "soviet russia",
-      "originalLanguage": "russian",
-      "genres": [
-        "psychological drama",
-        "science fiction",
-        "existialist thriller"
-      ],
-      "philosophicalTags": [
-        "heideggerian being toward death",
-        "dostoevskian holy fool",
-        "kierkegaardian leap of faith",
-        "theodicy & divine silence",
-        "jungian shadow integration",
-        "soteriological salvation",
-        "soviet existential despair"
-      ],
-      "genreStyleTags": [
-        "existialist",
-        "slow burn",
-        "dystopian",
-        "meditative",
-        "isolating",
-        "nature",
-        "post apocalyptic",
-        "metaphysical",
-        "mystery"
-      ],
-      "summaryPlot": "in an unspecified soviet-era wasteland, a guide known as the stalker leads a writer and a professor through a forbidden, surreal area called the zone, where a mysterious room is said to grant a visitor's innermost desires. the journey becomes an existential pilgrimage, forcing each man to confront the nature of his own faith, cynicism, and deepest hidden self.",
-      "pros": [
-        "switching from piss filter to vibrant colours in the industrial town has great visual function and symbolization.",
-        "decaying and abandoned industrial ruins of the zone creates atmosphere of post-apocalyptic decay.",
-        "a place that grants a person's subconscious desire than a grant wish is a brilliant psychological element..",
-        "using nut-throwing to detect unseen gravitational anomalies is great invisible danger.",
-        "tragicomic possibility of \"what if zone doesn't even working, is the zone even real?\" questions actually create a great what-if irony.",
-        "spoiler/ realization that the men are terrified to enter the room because they fear their own subconscious is powerful philosophy and the final bomb twist is well-made.",
-        "cinematography & camera movement supports the dreamy like atmosphere.",
-        "spoiler/ they don't enter the room at the end!"
-      ],
-      "cons": [
-        "physical nature of the zone's traps is abstract, i know it meant to be abstract but the whole movie feels like actionless indiana jones movie with all that reaching a macguffin (the room) after passing through traps and claustrophobic sequences in who-knows-what-it-is place. mystery can be explained in a way that it wouldn't feel shallow. this way, everything is an excuse.",
-        "worldbuilding, magical zone and room structure, human factors and characters itself, even plot are just excuse to throw three different guys on forced philosophical dialogues without organic structure throughout the movie than showing the philosophy.",
-        "because no traps are visually shown triggering on screen, the danger claimed by the stalker character feel artificial. it could be seen as some mental gymnastics defense as \"but traps are internal and it reflects something something about stalker.\" yeah i could defend literally anything with that attitude by manipulating philosophy and logic.",
-        "movie is too abstract that if you start talking about what you philosophically see in the movie straightforwardly then you'll inevitably sound forced and delusional and that's the movie on the blame. sometimes movie feels like \"winnie the pooh is peak fiction because all characters reflect different psychological issues.\" like shut the fuck up. non-clarity is being spectrum, being spectrum is playing safe, playing safe is hollow."
-      ],
-      "hornetScore": 4,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "the turin horse",
-        "eraserhead",
-        "the cabinet of dr. caligari"
-      ],
-      "mediumInfluences": [
-        "roadside picnic",
-        "the idiot",
-        "the trial",
-        "the seventh seal",
-        "2001 a space odyssey"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t09:34:08.064z",
-      "updatedAt": "2026-08-08t10:39:26.579z"
-    },
-    {
       "id": "item-1785672953784",
       "cover": "https://t4.ftcdn.net/jpg/05/02/08/27/360_F_502082774_UenZg3MKBnlpiyZIXB0k2uEXdfaxgZ1k.jpg",
       "title": "nineteen eighty four",
@@ -2082,6 +2082,194 @@
       "updatedAt": "2026-08-06t15:03:03.568z"
     },
     {
+      "id": "item-1786172958954",
+      "cover": "https://ew.com/thmb/GZkU0aNMlk-PBgvxxvj_rpUHOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saintsrow-morningstar_510-7ef60ac514f1442eb47d9895fbc31002.jpg",
+      "title": "saints row the third",
+      "mainCreator": "volition inc.",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "volition inc.",
+          "category": "studio / company",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Volition_(company)&ved=2ahUKEwjxpePvt5CWAxXQ3AIHHfAjKH4QFnoECCEQAQ&usg=AOvVaw3SxWTazFimBksLXbYZCB7k"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2011-11-15",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "englis",
+      "genres": [
+        "action comedy",
+        "third person shooter",
+        "satire"
+      ],
+      "philosophicalTags": [
+        "satirical nihilism",
+        "foucauldian biopower",
+        "ludonarrative absurdism",
+        "celebration of player ego",
+        "anarchic liberation"
+      ],
+      "genreStyleTags": [
+        "parody",
+        "action adventure",
+        "gang wars",
+        "crime",
+        "driving/racing",
+        "vehicle tuning",
+        "character customization",
+        "science fiction",
+        "anti authoritian",
+        "black comedy",
+        "chaotic",
+        "item shop",
+        "dark humor",
+        "open world",
+        "co-op"
+      ],
+      "summaryPlot": "years after conquering stillwater, the third street saints have become global celebrities—but their fame attracts the attention of the syndicate, a worldwide criminal organization that demands tribute. when the saints refuse to bow down, they're ambushed, captured, and left for dead, forcing them to take the fight to the corrupt metropolis of steelport. what follows is an escalating war against three rival gangs—the morningstar, the luchadores, and the deckers—in a city that offers only two paths: rule or die.",
+      "pros": [
+        "ignores grounded gang realism to aim for pure arcade chaos, wrestling moves and cartoonish violence.",
+        "opening missions are sick like falling out of a cargo plane while firefighting mid-air, 2001 a space odyssey parody and nonstop action sequences as bank robbery.",
+        "access to vtol jets,  drone airstrikes and the genki cannon is rich sandbox catalog.",
+        "tuning is surprisingly just fine.",
+        "arcade style vehicle handling is responsive and fluid.",
+        "unique survival-arena minigames with traps and mascot enemies is fun chaos rejecting standard shooting.",
+        "morningstar, luchadores and deckers serve unqiue visuals, weapon layouts and boss encounters.",
+        "parachuting onto a penthouse roof to kanye west's power is something."
+      ],
+      "cons": [
+        "steelport is a bland, grey, featureless sandbox of identical buildings that lacks any atmospheric detail or landmark identity matching game's chaos.",
+        "campaign pushes its main story progression by forcing you to repetitive side-activities (insurance fraud, mayhem, escort) just to advance.",
+        "gunplay has floaty aiming with soft hit feedback and zero tactical mechanics, arcade doesn't mean it must lack strategy and strategy mustn't have to be realistic.",
+        "like shooting is any fun, end-game upgrades like 100% damage immunity to bullets or fire erase the small fun from the game completely.",
+        "formualic gang wars for small zones issue.",
+        "edgy humor gets cheesy and repetitive after the first a couple of hours.",
+        "enemy ai is braindead that npcs shoots linearly or just running towards to you.",
+        "late-game military elements removes interesting gang rivalries for generic bullet-sponge futuristic soldiers.",
+        "purchasing real estate quickly generates gigantic hourly income, breaking the economy early on.",
+        "missions are way too formulaic with chase and escort tropes.",
+        "none of the characters in story are any interesting, evolves and plot doesn't going anywhere at all."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "grand theft auto 5",
+        "sleeping dogs",
+        "just cause 2"
+      ],
+      "mediumInfluences": [
+        "grand theft auto san andreas",
+        "shoot 'em up",
+        "kill bill",
+        "the a team",
+        "clank",
+        "bad boys",
+        "the west wing",
+        "gilmore girls"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t07:09:18.956z",
+      "updatedAt": "2026-08-08t07:09:18.968z"
+    },
+    {
+      "id": "item-1786086098629",
+      "cover": "https://cdn.mos.cms.futurecdn.net/5nkKWG73WQxddVchHrSu4k.jpg",
+      "title": "bully",
+      "mainCreator": "rockstar vancouver",
+      "otherCreators": [
+        "dan houser/scriptwriter",
+        "jacob krarup/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "rockstar vancouver",
+          "category": "studio / company",
+          "nation": "canada",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rockstar_Vancouver&ved=2ahUKEwj9q7_F9I2WAxWjWkEAHVnfKB4QFnoECBsQAQ&sqi=2&usg=AOvVaw0YGynDTxavTivFGp29W-oi"
+        },
+        {
+          "name": "dan houser",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/dan%20houser"
+        },
+        {
+          "name": "jacob krarup",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/jacob%20krarup"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2006-10-17",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "open world",
+        "black comedy",
+        "action adventure"
+      ],
+      "philosophicalTags": [
+        "rebellion against bureaucracy",
+        "postmodernist ethic",
+        "identity & social hierarchy",
+        "questioning adult institutions"
+      ],
+      "genreStyleTags": [
+        "slapstick",
+        "item shop",
+        "driving/racing",
+        "character customization",
+        "crime",
+        "school",
+        "satire",
+        "life sim",
+        "beat em up",
+        "skateboarding",
+        "romance",
+        "lgbt"
+      ],
+      "summaryPlot": "the single-player story follows 15-year-old juvenile delinquent james \"jimmy\" hopkins, who is involuntarily enrolled at bullworth academy boarding school for a year after being expelled from seven previous schools. jimmy must navigate the school's treacherous social hierarchy by rising through the ranks of its cliques—bullies, nerds, preppies, greasers, and jocks—in order to unite them and put a stop to the bullying that plagues the school, all while uncovering a conspiracy orchestrated by his manipulative nemesis, gary smith.",
+      "pros": [
+        "shifting open-world from standard crime cities to bullworth academy contain unique atmosphere.",
+        "daily schedule such as classes, lunch, curfew creates a time-management loop.",
+        "replacing lethal firearmslingshots, stink bombs, marbles, spud guns gives combat a unique visual identity cuz it feels like cencored grand theft auto.",
+        "social cliques (preppies, greasers, nerds, jocks, townies) has clear visual styles, territories and fighting traits.",
+        "using skateboards, bikes and go-karts is lightweight and fun.",
+        "jimmy isn't a passive character like how cj and niko are being normal people in an absurd world for parody effect, jimmy is indeed fucked up as the environment which supports the bully fantasy feeling."
+      ],
+      "cons": [
+        "fighting is about basic button combinations and simple grapples that lacks any skill, with all of that enemy waves it feels like a lego game.",
+        "missions rely on generic fetch-quests, escorting nerds or gimmicks.",
+        "classes quickly devolve into repetitive button smashing or qte puzzles that feel like chore.",
+        "escaping teachers is easy, simply hiding in a trash can or locker do the job then they forget.",
+        "respect meters based on linear main-story rather than any player-driven choices.",
+        "maxing out relationships with students ia about giving chocolates/flowers to trigger a generic kiss health-buff animation.",
+        "earning money through paper routes or carnival races breaks the economy, leaving nothing to purchase beyond cosmetics."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "saints row",
+        "agefield high rock the school",
+        "yakuza",
+        "shenmue"
+      ],
+      "mediumInfluences": [
+        "grand theft auto",
+        "the warriors",
+        "tom brown's schooldays",
+        "the catcher in the rye"
+      ],
+      "consumedVersion": "playstation 2",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-07t07:01:38.633z",
+      "updatedAt": "2026-08-07t23:16:44.696z"
+    },
+    {
       "id": "item-1785705768922",
       "cover": "https://play-lh.googleusercontent.com/LvTKBBIfy3RLmCk_EpXDnYMP3NV3MaAOQWnQ1Feuyym2QcmX3sooTLRgkP5KvNp-zGaUyQZ1t11T9YaDea4cdvI=w526-h296-rw",
       "title": "minecraft",
@@ -2201,194 +2389,6 @@
       "links": [],
       "createdAt": "2026-08-02t21:22:48.928z",
       "updatedAt": "2026-08-06t06:51:17.443z"
-    },
-    {
-      "id": "item-1786086098629",
-      "cover": "https://cdn.mos.cms.futurecdn.net/5nkKWG73WQxddVchHrSu4k.jpg",
-      "title": "bully",
-      "mainCreator": "rockstar vancouver",
-      "otherCreators": [
-        "dan houser/scriptwriter",
-        "jacob krarup/scriptwriter"
-      ],
-      "creatorDetails": [
-        {
-          "name": "rockstar vancouver",
-          "category": "studio / company",
-          "nation": "canada",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rockstar_Vancouver&ved=2ahUKEwj9q7_F9I2WAxWjWkEAHVnfKB4QFnoECBsQAQ&sqi=2&usg=AOvVaw0YGynDTxavTivFGp29W-oi"
-        },
-        {
-          "name": "dan houser",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/dan%20houser"
-        },
-        {
-          "name": "jacob krarup",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/jacob%20krarup"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2006-10-17",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "open world",
-        "black comedy",
-        "action adventure"
-      ],
-      "philosophicalTags": [
-        "rebellion against bureaucracy",
-        "postmodernist ethic",
-        "identity & social hierarchy",
-        "questioning adult institutions"
-      ],
-      "genreStyleTags": [
-        "slapstick",
-        "item shop",
-        "driving/racing",
-        "character customization",
-        "crime",
-        "school",
-        "satire",
-        "life sim",
-        "beat em up",
-        "skateboarding",
-        "romance",
-        "lgbt"
-      ],
-      "summaryPlot": "the single-player story follows 15-year-old juvenile delinquent james \"jimmy\" hopkins, who is involuntarily enrolled at bullworth academy boarding school for a year after being expelled from seven previous schools. jimmy must navigate the school's treacherous social hierarchy by rising through the ranks of its cliques—bullies, nerds, preppies, greasers, and jocks—in order to unite them and put a stop to the bullying that plagues the school, all while uncovering a conspiracy orchestrated by his manipulative nemesis, gary smith.",
-      "pros": [
-        "shifting open-world from standard crime cities to bullworth academy contain unique atmosphere.",
-        "daily schedule such as classes, lunch, curfew creates a time-management loop.",
-        "replacing lethal firearmslingshots, stink bombs, marbles, spud guns gives combat a unique visual identity cuz it feels like cencored grand theft auto.",
-        "social cliques (preppies, greasers, nerds, jocks, townies) has clear visual styles, territories and fighting traits.",
-        "using skateboards, bikes and go-karts is lightweight and fun.",
-        "jimmy isn't a passive character like how cj and niko are being normal people in an absurd world for parody effect, jimmy is indeed fucked up as the environment which supports the bully fantasy feeling."
-      ],
-      "cons": [
-        "fighting is about basic button combinations and simple grapples that lacks any skill, with all of that enemy waves it feels like a lego game.",
-        "missions rely on generic fetch-quests, escorting nerds or gimmicks.",
-        "classes quickly devolve into repetitive button smashing or qte puzzles that feel like chore.",
-        "escaping teachers is easy, simply hiding in a trash can or locker do the job then they forget.",
-        "respect meters based on linear main-story rather than any player-driven choices.",
-        "maxing out relationships with students ia about giving chocolates/flowers to trigger a generic kiss health-buff animation.",
-        "earning money through paper routes or carnival races breaks the economy, leaving nothing to purchase beyond cosmetics."
-      ],
-      "hornetScore": 3,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "saints row",
-        "agefield high rock the school",
-        "yakuza",
-        "shenmue"
-      ],
-      "mediumInfluences": [
-        "grand theft auto",
-        "the warriors",
-        "tom brown's schooldays",
-        "the catcher in the rye"
-      ],
-      "consumedVersion": "playstation 2",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-07t07:01:38.633z",
-      "updatedAt": "2026-08-07t23:16:44.696z"
-    },
-    {
-      "id": "item-1786172958954",
-      "cover": "https://ew.com/thmb/GZkU0aNMlk-PBgvxxvj_rpUHOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saintsrow-morningstar_510-7ef60ac514f1442eb47d9895fbc31002.jpg",
-      "title": "saints row the third",
-      "mainCreator": "volition inc.",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "volition inc.",
-          "category": "studio / company",
-          "nation": "united states",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Volition_(company)&ved=2ahUKEwjxpePvt5CWAxXQ3AIHHfAjKH4QFnoECCEQAQ&usg=AOvVaw3SxWTazFimBksLXbYZCB7k"
-        }
-      ],
-      "mediaFormat": "video game",
-      "releaseDate": "2011-11-15",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "englis",
-      "genres": [
-        "action comedy",
-        "third person shooter",
-        "satire"
-      ],
-      "philosophicalTags": [
-        "satirical nihilism",
-        "foucauldian biopower",
-        "ludonarrative absurdism",
-        "celebration of player ego",
-        "anarchic liberation"
-      ],
-      "genreStyleTags": [
-        "parody",
-        "action adventure",
-        "gang wars",
-        "crime",
-        "driving/racing",
-        "vehicle tuning",
-        "character customization",
-        "science fiction",
-        "anti authoritian",
-        "black comedy",
-        "chaotic",
-        "item shop",
-        "dark humor",
-        "open world",
-        "co-op"
-      ],
-      "summaryPlot": "years after conquering stillwater, the third street saints have become global celebrities—but their fame attracts the attention of the syndicate, a worldwide criminal organization that demands tribute. when the saints refuse to bow down, they're ambushed, captured, and left for dead, forcing them to take the fight to the corrupt metropolis of steelport. what follows is an escalating war against three rival gangs—the morningstar, the luchadores, and the deckers—in a city that offers only two paths: rule or die.",
-      "pros": [
-        "ignores grounded gang realism to aim for pure arcade chaos, wrestling moves and cartoonish violence.",
-        "opening missions are sick like falling out of a cargo plane while firefighting mid-air, 2001 a space odyssey parody and nonstop action sequences as bank robbery.",
-        "access to vtol jets,  drone airstrikes and the genki cannon is rich sandbox catalog.",
-        "tuning is surprisingly just fine.",
-        "arcade style vehicle handling is responsive and fluid.",
-        "unique survival-arena minigames with traps and mascot enemies is fun chaos rejecting standard shooting.",
-        "morningstar, luchadores and deckers serve unqiue visuals, weapon layouts and boss encounters.",
-        "parachuting onto a penthouse roof to kanye west's power is something."
-      ],
-      "cons": [
-        "steelport is a bland, grey, featureless sandbox of identical buildings that lacks any atmospheric detail or landmark identity matching game's chaos.",
-        "campaign pushes its main story progression by forcing you to repetitive side-activities (insurance fraud, mayhem, escort) just to advance.",
-        "gunplay has floaty aiming with soft hit feedback and zero tactical mechanics, arcade doesn't mean it must lack strategy and strategy mustn't have to be realistic.",
-        "like shooting is any fun, end-game upgrades like 100% damage immunity to bullets or fire erase the small fun from the game completely.",
-        "formualic gang wars for small zones issue.",
-        "edgy humor gets cheesy and repetitive after the first a couple of hours.",
-        "enemy ai is braindead that npcs shoots linearly or just running towards to you.",
-        "late-game military elements removes interesting gang rivalries for generic bullet-sponge futuristic soldiers.",
-        "purchasing real estate quickly generates gigantic hourly income, breaking the economy early on.",
-        "missions are way too formulaic with chase and escort tropes.",
-        "none of the characters in story are any interesting, evolves and plot doesn't going anywhere at all."
-      ],
-      "hornetScore": 3,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "grand theft auto 5",
-        "sleeping dogs",
-        "just cause 2"
-      ],
-      "mediumInfluences": [
-        "grand theft auto san andreas",
-        "shoot 'em up",
-        "kill bill",
-        "the a team",
-        "clank",
-        "bad boys",
-        "the west wing",
-        "gilmore girls"
-      ],
-      "consumedVersion": "pc",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t07:09:18.956z",
-      "updatedAt": "2026-08-08t07:09:18.968z"
     },
     {
       "id": "item-1785687311605",
