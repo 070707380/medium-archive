@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "item-1786172958954",
+      "cover": "https://ew.com/thmb/GZkU0aNMlk-PBgvxxvj_rpUHOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saintsrow-morningstar_510-7ef60ac514f1442eb47d9895fbc31002.jpg",
+      "title": "saints row the third",
+      "mainCreator": "volition inc.",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "volition inc.",
+          "category": "studio / company",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Volition_(company)&ved=2ahUKEwjxpePvt5CWAxXQ3AIHHfAjKH4QFnoECCEQAQ&usg=AOvVaw3SxWTazFimBksLXbYZCB7k"
+        }
+      ],
+      "mediaFormat": "video game",
+      "releaseDate": "2011-11-15",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "englis",
+      "genres": [
+        "action comedy",
+        "third person shooter",
+        "satire"
+      ],
+      "philosophicalTags": [
+        "satirical nihilism",
+        "foucauldian biopower",
+        "ludonarrative absurdism",
+        "celebration of player ego",
+        "anarchic liberation"
+      ],
+      "genreStyleTags": [
+        "parody",
+        "action adventure",
+        "gang wars",
+        "crime",
+        "driving/racing",
+        "vehicle tuning",
+        "character customization",
+        "science fiction",
+        "anti authoritian",
+        "black comedy",
+        "chaotic",
+        "item shop",
+        "dark humor",
+        "open world",
+        "co-op"
+      ],
+      "summaryPlot": "years after conquering stillwater, the third street saints have become global celebrities—but their fame attracts the attention of the syndicate, a worldwide criminal organization that demands tribute. when the saints refuse to bow down, they're ambushed, captured, and left for dead, forcing them to take the fight to the corrupt metropolis of steelport. what follows is an escalating war against three rival gangs—the morningstar, the luchadores, and the deckers—in a city that offers only two paths: rule or die.",
+      "pros": [
+        "ignores grounded gang realism to aim for pure arcade chaos, wrestling moves and cartoonish violence.",
+        "opening missions are sick like falling out of a cargo plane while firefighting mid-air, 2001 a space odyssey parody and nonstop action sequences as bank robbery.",
+        "access to vtol jets,  drone airstrikes and the genki cannon is rich sandbox catalog.",
+        "tuning is surprisingly just fine.",
+        "arcade style vehicle handling is responsive and fluid.",
+        "unique survival-arena minigames with traps and mascot enemies is fun chaos rejecting standard shooting.",
+        "morningstar, luchadores and deckers serve unqiue visuals, weapon layouts and boss encounters.",
+        "parachuting onto a penthouse roof to kanye west's power is something."
+      ],
+      "cons": [
+        "steelport is a bland, grey, featureless sandbox of identical buildings that lacks any atmospheric detail or landmark identity matching game's chaos.",
+        "campaign pushes its main story progression by forcing you to repetitive side-activities (insurance fraud, mayhem, escort) just to advance.",
+        "gunplay has floaty aiming with soft hit feedback and zero tactical mechanics, arcade doesn't mean it must lack strategy and strategy mustn't have to be realistic.",
+        "like shooting is any fun, end-game upgrades like 100% damage immunity to bullets or fire erase the small fun from the game completely.",
+        "formualic gang wars for small zones issue.",
+        "edgy humor gets cheesy and repetitive after the first a couple of hours.",
+        "enemy ai is braindead that npcs shoots linearly or just running towards to you.",
+        "late-game military elements removes interesting gang rivalries for generic bullet-sponge futuristic soldiers.",
+        "purchasing real estate quickly generates gigantic hourly income, breaking the economy early on.",
+        "missions are way too formulaic with chase and escort tropes.",
+        "none of the characters in story are any interesting, evolves and plot doesn't going anywhere at all."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "grand theft auto 5",
+        "sleeping dogs",
+        "just cause 2"
+      ],
+      "mediumInfluences": [
+        "grand theft auto san andreas",
+        "shoot 'em up",
+        "kill bill",
+        "the a team",
+        "clank",
+        "bad boys",
+        "the west wing",
+        "gilmore girls"
+      ],
+      "consumedVersion": "pc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t07:09:18.956z",
+      "updatedAt": "2026-08-08t07:09:18.968z"
+    },
+    {
       "id": "item-1786090720264",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaW6T0ydhXCXbc3ysjaOrlzuNZqxSsg2H6Y1MsE2QnM5KtcMhgJqH3stp&s=10",
       "title": "hounds of love",
