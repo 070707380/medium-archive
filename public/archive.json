@@ -5497,14 +5497,6 @@
       "createdAt": "2026-08-09t09:20:27.172z"
     }
   ],
-  "bingoRequests": [
-    {
-      "id": "req-1786283640301-0-2mqn",
-      "title": "post",
-      "mediaFormat": "music album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:00.301z"
-    }
-  ],
+  "bingoRequests": [],
   "characters": []
 }
