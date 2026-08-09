@@ -2995,7 +2995,20 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786267227172-0-15u1",
+      "title": "weight of the world",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t09:20:27.172z"
+    },
+    {
+      "id": "bingo-1786267227172-1-in7n",
+      "title": "some rap songs",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t09:20:27.172z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
