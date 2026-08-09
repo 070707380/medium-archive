@@ -2997,6 +2997,18 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786283752521",
+      "title": "the fool",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:52.521z"
+    },
+    {
+      "id": "bingo-1786283752220",
+      "title": "eversince",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:52.220z"
+    },
+    {
       "id": "bingo-1786283751893",
       "title": "unknown death 2002",
       "mediaFormat": "Music Album",
@@ -4823,20 +4835,6 @@
     }
   ],
   "bingoRequests": [
-    {
-      "id": "req-1786283735962-0-0wdx",
-      "title": "scooby doo! wrestlemania",
-      "mediaFormat": "Film",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:55:35.962z"
-    },
-    {
-      "id": "req-1786283713525-0-wt74",
-      "title": "scooby doo! return to zombie island",
-      "mediaFormat": "Film",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:55:13.525z"
-    },
     {
       "id": "req-1786283700557-0-y3cq",
       "title": "happy halloween scooby doo!",
