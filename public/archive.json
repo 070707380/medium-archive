@@ -2995,14 +2995,7 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [
-    {
-      "id": "bingo-1786232417033-1-3dsi",
-      "title": "what's going on",
-      "mediaFormat": "music album",
-      "createdAt": "2026-08-08t23:40:17.033z"
-    }
-  ],
+  "bingo": [],
   "bingoRequests": [],
   "characters": []
 }
