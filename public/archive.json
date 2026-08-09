@@ -2997,18 +2997,6 @@
   ],
   "bingo": [
     {
-      "id": "bingo-1786283752521",
-      "title": "the fool",
-      "mediaFormat": "Music Album",
-      "createdAt": "2026-08-09t13:55:52.521z"
-    },
-    {
-      "id": "bingo-1786283752220",
-      "title": "eversince",
-      "mediaFormat": "Music Album",
-      "createdAt": "2026-08-09t13:55:52.220z"
-    },
-    {
       "id": "bingo-1786283751893",
       "title": "unknown death 2002",
       "mediaFormat": "Music Album",
@@ -4835,20 +4823,6 @@
     }
   ],
   "bingoRequests": [
-    {
-      "id": "req-1786283700557-0-y3cq",
-      "title": "happy halloween scooby doo!",
-      "mediaFormat": "Film",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:55:00.557z"
-    },
-    {
-      "id": "req-1786283679606-0-porr",
-      "title": "unknown death 2002",
-      "mediaFormat": "Music Album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:39.606z"
-    },
     {
       "id": "req-1786283667976-1-3p0a",
       "title": "eversince",
