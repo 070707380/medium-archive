@@ -2995,7 +2995,86 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786314014878-0-nmdn",
+      "title": "resident evil 0",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-1-3xlg",
+      "title": "resident evil 1",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-2-asit",
+      "title": "resident evil 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-3-4kl6",
+      "title": "resident evil 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-4-h6g7",
+      "title": "resident evil code veronica x",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-5-mhtr",
+      "title": "resident evil 4",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-6-mv6o",
+      "title": "resident evil 5",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-7-qqoh",
+      "title": "resident evil 6",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-8-kjfm",
+      "title": "resident evil 7 biohazard",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-9-mqxh",
+      "title": "resident evil village",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-10-vqft",
+      "title": "resident evil requiem",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-11-gu08",
+      "title": "resident evil revelations",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    },
+    {
+      "id": "bingo-1786314014878-12-fssi",
+      "title": "resident evil revelations 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-09t22:20:14.878z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
