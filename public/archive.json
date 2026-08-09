@@ -2997,9 +2997,15 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786270117232-0-pjki",
+      "title": "pocahontas",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t10:08:37.232z"
+    },
+    {
       "id": "bingo-1786269434281",
       "title": "the lion king",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:57:14.281z"
     },
     {
