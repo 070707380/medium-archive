@@ -2997,153 +2997,165 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786268453774-0-eixj",
+      "title": "wild tales",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t09:40:53.774z"
+    },
+    {
+      "id": "bingo-1786268453774-1-howp",
+      "title": "lionheart",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t09:40:53.774z"
+    },
+    {
       "id": "bingo-1786268176789-0-cwai",
       "title": "once upon a time in anatolia",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:36:16.789z"
     },
     {
       "id": "bingo-1786268166770-0-bkv7",
       "title": "the babadook",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:36:06.770z"
     },
     {
       "id": "bingo-1786268166770-1-h9w6",
       "title": "the room",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:36:06.770z"
     },
     {
       "id": "bingo-1786268157338-0-e3h7",
       "title": "forrest gump",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:35:57.338z"
     },
     {
       "id": "bingo-1786268157338-1-m8lx",
       "title": "the king's speech",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:35:57.338z"
     },
     {
       "id": "bingo-1786268131025-0-gotj",
       "title": "city of god",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:35:31.025z"
     },
     {
       "id": "bingo-1786268131025-1-95ig",
       "title": "roma",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:35:31.025z"
     },
     {
       "id": "bingo-1786268119318-0-tncp",
       "title": "good bye lenin!",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:35:19.318z"
     },
     {
       "id": "bingo-1786268119318-1-ksv9",
       "title": "the secrets in their eyes",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:35:19.318z"
     },
     {
       "id": "bingo-1786268095386-0-3apm",
       "title": "life is beautiful",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:34:55.386z"
     },
     {
       "id": "bingo-1786268095386-1-6jx3",
       "title": "spirited away",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:34:55.386z"
     },
     {
       "id": "bingo-1786268085952-0-fren",
       "title": "parasite",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:34:45.952z"
     },
     {
       "id": "bingo-1786268085952-1-hmn5",
       "title": "3 idiots",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:34:45.952z"
     },
     {
       "id": "bingo-1786268085952-2-w2ym",
       "title": "amélie",
-      "mediaFormat": "Film",
+      "mediaFormat": "film",
       "createdAt": "2026-08-09t09:34:45.952z"
     },
     {
       "id": "bingo-1786268054443-0-rmyi",
       "title": "transworld surf",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:34:14.443z"
     },
     {
       "id": "bingo-1786268043893-0-j2y6",
       "title": "over the hedge",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:34:03.893z"
     },
     {
       "id": "bingo-1786268022672-0-xalv",
       "title": "dare devil",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:33:42.672z"
     },
     {
       "id": "bingo-1786268022672-1-hmaf",
       "title": "call of duty 2",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:33:42.672z"
     },
     {
       "id": "bingo-1786268008004-0-n0ea",
       "title": "final fantasy 7",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:33:28.004z"
     },
     {
       "id": "bingo-1786268008004-1-g9ew",
       "title": "red faction",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:33:28.004z"
     },
     {
       "id": "bingo-1786267990727-0-z5fo",
       "title": "smuggler's run",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:33:10.727z"
     },
     {
       "id": "bingo-1786267981140-0-d3mv",
       "title": "the getaway",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:33:01.140z"
     },
     {
       "id": "bingo-1786267969684-0-7w6g",
       "title": "tetris worlds",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:32:49.684z"
     },
     {
       "id": "bingo-1786267969685-1-hflx",
       "title": "starsky & hutch",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:32:49.685z"
     },
     {
       "id": "bingo-1786267948001",
       "title": "gran turismo 3",
-      "mediaFormat": "Video Game",
+      "mediaFormat": "video game",
       "createdAt": "2026-08-09t09:32:28.001z"
     },
     {
