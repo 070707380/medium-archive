@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786283751893",
+      "title": "unknown death 2002",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:51.893z"
+    },
+    {
+      "id": "bingo-1786283751568",
+      "title": "happy halloween scooby doo!",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t13:55:51.568z"
+    },
+    {
+      "id": "bingo-1786283751207",
+      "title": "scooby doo! return to zombie island",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t13:55:51.207z"
+    },
+    {
       "id": "bingo-1786283750705",
       "title": "scooby doo! wrestlemania",
       "mediaFormat": "Film",
