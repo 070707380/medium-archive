@@ -2997,6 +2997,18 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786283753881",
+      "title": "veteran",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:53.881z"
+    },
+    {
+      "id": "bingo-1786283753388",
+      "title": "the powers that b",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:53.388z"
+    },
+    {
       "id": "bingo-1786283752896",
       "title": "333",
       "mediaFormat": "Music Album",
@@ -4841,20 +4853,6 @@
     }
   ],
   "bingoRequests": [
-    {
-      "id": "req-1786283653197-1-mu93",
-      "title": "the powers that b",
-      "mediaFormat": "Music Album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:13.197z"
-    },
-    {
-      "id": "req-1786283653197-0-fnh0",
-      "title": "veteran",
-      "mediaFormat": "Music Album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:13.197z"
-    },
     {
       "id": "req-1786283640301-0-2mqn",
       "title": "post",
