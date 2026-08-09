@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786274123927-0-tze2",
+      "title": "black swan",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t11:15:23.927z"
+    },
+    {
+      "id": "bingo-1786274123927-1-mh7d",
+      "title": "joker",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t11:15:23.927z"
+    },
+    {
+      "id": "bingo-1786274123927-2-6m5j",
+      "title": "interstellar",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-09t11:15:23.927z"
+    },
+    {
       "id": "bingo-1786274101320-0-i7w6",
       "title": "none so vile",
       "mediaFormat": "Music Album",
