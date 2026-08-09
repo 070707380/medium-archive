@@ -3093,14 +3093,6 @@
       "createdAt": "2026-08-09t09:20:27.172z"
     }
   ],
-  "bingoRequests": [
-    {
-      "id": "req-1786267930794-0-j9cp",
-      "title": "gran turismo 3",
-      "mediaFormat": "Video Game",
-      "status": "pending",
-      "requestedAt": "2026-08-09t09:32:10.794z"
-    }
-  ],
+  "bingoRequests": [],
   "characters": []
 }
