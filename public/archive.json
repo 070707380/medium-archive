@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786283752896",
+      "title": "333",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:52.896z"
+    },
+    {
+      "id": "bingo-1786283752521",
+      "title": "the fool",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:52.521z"
+    },
+    {
+      "id": "bingo-1786283752220",
+      "title": "eversince",
+      "mediaFormat": "Music Album",
+      "createdAt": "2026-08-09t13:55:52.220z"
+    },
+    {
       "id": "bingo-1786283751893",
       "title": "unknown death 2002",
       "mediaFormat": "Music Album",
@@ -4823,27 +4841,6 @@
     }
   ],
   "bingoRequests": [
-    {
-      "id": "req-1786283667976-1-3p0a",
-      "title": "eversince",
-      "mediaFormat": "Music Album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:27.976z"
-    },
-    {
-      "id": "req-1786283667976-0-pb40",
-      "title": "the fool",
-      "mediaFormat": "Music Album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:27.976z"
-    },
-    {
-      "id": "req-1786283663347-0-od1l",
-      "title": "333",
-      "mediaFormat": "Music Album",
-      "status": "pending",
-      "requestedAt": "2026-08-09t13:54:23.347z"
-    },
     {
       "id": "req-1786283653197-1-mu93",
       "title": "the powers that b",
