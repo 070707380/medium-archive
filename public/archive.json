@@ -2995,7 +2995,26 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786341181805-0-wj47",
+      "title": "dark",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t05:53:01.805z"
+    },
+    {
+      "id": "bingo-1786341181805-1-dncp",
+      "title": "lost",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t05:53:01.805z"
+    },
+    {
+      "id": "bingo-1786341181805-2-iy97",
+      "title": "breaking bad",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t05:53:01.805z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
