@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786341327504-0-xefw",
+      "title": "the simpsons",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t05:55:27.504z"
+    },
+    {
+      "id": "bingo-1786341327504-1-ld6w",
+      "title": "family guy",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t05:55:27.504z"
+    },
+    {
+      "id": "bingo-1786341327504-2-bvtr",
+      "title": "south park",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t05:55:27.504z"
+    },
+    {
       "id": "bingo-1786341306971-0-rki1",
       "title": "the punisher",
       "mediaFormat": "TV Show",
