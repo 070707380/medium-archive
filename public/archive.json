@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786393859134-0-tygr",
+      "title": "popeye",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t20:30:59.134z"
+    },
+    {
+      "id": "bingo-1786393859134-1-coyx",
+      "title": "dexter's laboratory",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t20:30:59.134z"
+    },
+    {
+      "id": "bingo-1786393859134-2-ppqc",
+      "title": "ed edd & eddy",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t20:30:59.134z"
+    },
+    {
       "id": "bingo-1786393818690-0-95z9",
       "title": "sonic boom",
       "mediaFormat": "TV Show",
