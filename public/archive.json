@@ -2995,7 +2995,26 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786340346281-0-3mgy",
+      "title": "chaos agent",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-10t05:39:06.281z"
+    },
+    {
+      "id": "bingo-1786340346281-1-8nma",
+      "title": "bloodstained ritual of the night",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-10t05:39:06.281z"
+    },
+    {
+      "id": "bingo-1786340346281-2-jghx",
+      "title": "bravely default 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-10t05:39:06.281z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
