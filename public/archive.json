@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786341905913-0-ltfd",
+      "title": "peep show",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t06:05:05.913z"
+    },
+    {
+      "id": "bingo-1786341905913-1-qy4s",
+      "title": "sex and the city",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t06:05:05.913z"
+    },
+    {
+      "id": "bingo-1786341905913-2-0ltz",
+      "title": "sex education",
+      "mediaFormat": "TV Show",
+      "createdAt": "2026-08-10t06:05:05.913z"
+    },
+    {
       "id": "bingo-1786341885662-0-zizu",
       "title": "veep",
       "mediaFormat": "TV Show",
