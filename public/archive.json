@@ -2995,7 +2995,14 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786340580816-0-s6z0",
+      "title": "morbid the seven acolytes",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-10t05:43:00.816z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
