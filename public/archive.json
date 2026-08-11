@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786432706636-0-fb5s",
+      "title": "dave the diver",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-11t07:18:26.636z"
+    },
+    {
+      "id": "bingo-1786432706636-1-09tx",
+      "title": "celeste",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-11t07:18:26.636z"
+    },
+    {
+      "id": "bingo-1786432706636-2-bfhw",
+      "title": "raft",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-11t07:18:26.636z"
+    },
+    {
       "id": "bingo-1786432672282-0-3p1t",
       "title": "octopath traveler",
       "mediaFormat": "Video Game",
