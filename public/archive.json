@@ -2997,12 +2997,6 @@
   ],
   "bingo": [
     {
-      "id": "bingo-1786429469672",
-      "title": "deadly premonition",
-      "mediaFormat": "Video Game",
-      "createdAt": "2026-08-11t06:24:29.672z"
-    },
-    {
       "id": "bingo-1786429468842",
       "title": "deadly premonition 2 a blessing in disguise",
       "mediaFormat": "Video Game",
@@ -6572,13 +6566,6 @@
     }
   ],
   "bingoRequests": [
-    {
-      "id": "req-1786429451308-1-i86m",
-      "title": "deadly premonition 2 a blessing in disguise",
-      "mediaFormat": "Video Game",
-      "status": "pending",
-      "requestedAt": "2026-08-11t06:24:11.308z"
-    },
     {
       "id": "req-1786429451308-0-puu3",
       "title": "deadly premonition",
