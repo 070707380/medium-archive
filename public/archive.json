@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786439912461-0-1cdp",
+      "title": "monster jam",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-11t09:18:32.461z"
+    },
+    {
+      "id": "bingo-1786439912461-1-15c0",
+      "title": "smash cars",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-11t09:18:32.461z"
+    },
+    {
+      "id": "bingo-1786439912461-2-erd1",
+      "title": "monster jam path of destruction",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-11t09:18:32.461z"
+    },
+    {
       "id": "bingo-1786439886329-0-5zd7",
       "title": "monster jam urban assault",
       "mediaFormat": "Video Game",
