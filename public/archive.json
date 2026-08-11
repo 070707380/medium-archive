@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786478810783-0-njr0",
+      "title": "the dark knight",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-11t20:06:50.783z"
+    },
+    {
+      "id": "bingo-1786478810783-1-gcyn",
+      "title": "the dark knight rises",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-11t20:06:50.783z"
+    },
+    {
+      "id": "bingo-1786478810783-2-2o8r",
+      "title": "batman begins",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-11t20:06:50.783z"
+    },
+    {
       "id": "bingo-1786478789590-0-set2",
       "title": "star wars episode 3 revenge of the sith",
       "mediaFormat": "Film",
