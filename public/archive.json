@@ -2995,7 +2995,74 @@
       "updatedAt": "2026-08-06t11:18:17.264z"
     }
   ],
-  "bingo": [],
+  "bingo": [
+    {
+      "id": "bingo-1786566078387-0-rh0j",
+      "title": "disco elysium",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-1-sa4j",
+      "title": "silent hill",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-2-oyo5",
+      "title": "silent hill 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-3-un5w",
+      "title": "silent hill origins",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-4-k9t5",
+      "title": "silent hill downpour",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-5-hr0i",
+      "title": "silent hill shattered memories",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-6-5yny",
+      "title": "silent hill 3",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-7-2vkx",
+      "title": "p.t.",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-8-u93a",
+      "title": "silent hill 4 the room",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-9-8mgy",
+      "title": "silent hill f",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    },
+    {
+      "id": "bingo-1786566078387-10-os4n",
+      "title": "silent hill 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:21:18.387z"
+    }
+  ],
   "bingoRequests": [],
   "characters": []
 }
