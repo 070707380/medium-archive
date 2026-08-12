@@ -2997,6 +2997,30 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786567031867-0-c1ww",
+      "title": "earthbound",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:37:11.867z"
+    },
+    {
+      "id": "bingo-1786567031867-1-d77t",
+      "title": "secret of mana",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:37:11.867z"
+    },
+    {
+      "id": "bingo-1786567031867-2-lshz",
+      "title": "chrono trigger",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:37:11.867z"
+    },
+    {
+      "id": "bingo-1786567031867-3-kmrn",
+      "title": "chrono cross",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-12t20:37:11.867z"
+    },
+    {
       "id": "bingo-1786567014469-0-tk2c",
       "title": "the stanley parable",
       "mediaFormat": "Video Game",
