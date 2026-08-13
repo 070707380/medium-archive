@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786622509056-0-fwil",
+      "title": "peggle",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-13t12:01:49.056z"
+    },
+    {
+      "id": "bingo-1786622509056-1-7z0e",
+      "title": "mario party 2",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-13t12:01:49.056z"
+    },
+    {
+      "id": "bingo-1786622509056-2-1xjy",
+      "title": "zuma",
+      "mediaFormat": "Video Game",
+      "createdAt": "2026-08-13t12:01:49.056z"
+    },
+    {
       "id": "bingo-1786622483176-0-ee00",
       "title": "tomb raider anniversary",
       "mediaFormat": "Video Game",
