@@ -1,6 +1,108 @@
 {
   "items": [
     {
+      "id": "item-1786746840904",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBGf6fyt2dRFd6DC_DyI67OxSvsjnca6rqy5GQsLcENYNuLoGa_S56Hk&s=10",
+      "title": "numb chucks",
+      "mainCreator": "brad ferguson",
+      "otherCreators": [
+        "phil lafrance/creator",
+        "jamie leclaire/creator",
+        "jono howard/developer",
+        "dave brown/director"
+      ],
+      "creatorDetails": [
+        {
+          "name": "brad ferguson",
+          "category": "director",
+          "nation": "canada",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Brad_Ferguson%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwigyMiCk6GWAxXYFhAIHXvCK1gQFnoECC0QAQ&usg=AOvVaw2bOjOAHC4fj-ewrNOK8yAb"
+        },
+        {
+          "name": "phil lafrance",
+          "category": "creator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Phil%20LaFrance"
+        },
+        {
+          "name": "jamie leclaire",
+          "category": "creator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jamie%20LeClaire"
+        },
+        {
+          "name": "jono howard",
+          "category": "developer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jono%20Howard"
+        },
+        {
+          "name": "dave brown",
+          "category": "director",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dave%20Brown"
+        }
+      ],
+      "mediaFormat": "TV Show",
+      "isCustomCategory": false,
+      "releaseDate": "2014-01-07",
+      "countryOfOrigin": "canada",
+      "originalLanguage": "english",
+      "genres": [
+        "slapstick",
+        "parody",
+        "martial arts"
+      ],
+      "philosophicalTags": [
+        "misguided heroism",
+        "the dunning kruger effect",
+        "perseverance through failure",
+        "parody of self improvement culture"
+      ],
+      "genreStyleTags": [
+        "buddy",
+        "action comedy",
+        "animation",
+        "situational comedy",
+        "kung fu",
+        "superhero",
+        "anthropomorphic"
+      ],
+      "summaryPlot": "two well-meaning but half-witted woodchuck brothers, dilweed and fungus, stumble upon a late-night infomercial for a kung-fu video featuring the legendary woodchuck morris. inspired by their new \"mentor,\" they dedicate themselves to using their bungling martial-arts skills to protect the citizens of ding-a-ling springs—whether they need it or not.",
+      "pros": [
+        "premise of two woodchucks attempting to use commercialized martial arts (\"way of the chuck\") to protect their town is easy to grasp.",
+        "11 minutes for this episodic show is safe scale.",
+        "satirization of cheesy 1980s martial arts video games is a consistent motif.",
+        "sound fx is rich and impactful in the show."
+      ],
+      "cons": [
+        "dilweed and fungus are obnoxious brainless characters whose stupidity causes endless predictable and unearned misery for everyone around them.",
+        "humor leans on lazy graphic bodily fluids, boogers&barf or dumb butt jokes.",
+        "almost every single episode follows the same formula which is about the brothers misunderstand a daily situation, misuse a kung-fu technique, destroy the town and escape all consequences.",
+        "voice direction is about ear-jerking yelling that becomes exhausting within minutes.",
+        "standard character movement feels stiff, puppet-rigged and visually cheap.",
+        "zero emotionality or heart, show lacks any warmth, character relationships or heart, feels like hyperactive background noise.",
+        "side characters exist to scream or act mad.",
+        "predictable slapstick timing.",
+        "recycles the hyperactive idiot-duo of fanboy & chum chum or modern low-tier slapstick without adding any original layer."
+      ],
+      "hornetScore": 1,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the ant and the aardvark",
+        "camp lazlo",
+        "odd squad",
+        "cloudy with a chance of meatballs",
+        "monsters vs. aliens"
+      ],
+      "mediumInfluences": [
+        "the way of the dragon",
+        "spongebob squarepants",
+        "the amazing world of gumball"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-14t22:34:00.906z",
+      "updatedAt": "2026-08-14t22:34:00.913z"
+    },
+    {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
       "title": "sekiro shadows die twice",
