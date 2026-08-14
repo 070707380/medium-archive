@@ -1600,21 +1600,22 @@
         {
           "name": "team arcana",
           "category": "developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Team%20Arcana"
+          "wikiUrl": "https://en.wikipedia.org/wiki/team%20arcana"
         },
         {
           "name": "koji takaya",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Koji%20Takaya"
+          "wikiUrl": "https://en.wikipedia.org/wiki/koji%20takaya"
         },
         {
           "name": "hirotaka akaga",
           "category": "artist",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hirotaka%20Akaga"
+          "wikiUrl": "https://en.wikipedia.org/wiki/hirotaka%20akaga"
         }
       ],
-      "mediaFormat": "Video Game",
-      "isCustomCategory": false,
+      "mediaFormat": "video game",
+      "isCustomCategory": true,
+      "customCategoryName": "video game",
       "releaseDate": "2026-08-14",
       "countryOfOrigin": "japan",
       "originalLanguage": "japanese",
@@ -1650,9 +1651,8 @@
       "cons": [
         "reliance on heavy fan-service.",
         "story is generic visual-novel dialogue about saving japan from dimensional collapse cliche.",
-        "side-panel hud is an animated chibi reaction portraits with unnecessary distracting noise.",
         "some arcana/character combinations with same loops and unreactable mix-ups dominates the play.",
-        "stacking homing trails, arcana visual effects, meter bursts and large side bar, character hurtboxes and projectiles gives headache when gamer has to focus.",
+        "stacking homing trails, arcana visual effects, meter bursts and large side bar, character hurtboxes and projectiles gives headache when gamer has to focus and side-panel hud is an animated chibi reaction portraits with unnecessary distracting noise.",
         "because the homing system is universal, many defensive scramble situations turns into predictable routines.",
         "audios aren't rich, the same annoying anime screams and generic rock music bumps your head throughout the game.",
         "ragnarok is an arcade boss which is a giant screen-filling gimmicky hotbox."
@@ -1675,7 +1675,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-14t17:58:28.638z",
-      "updatedAt": "2026-08-14t17:58:28.654z"
+      "updatedAt": "2026-08-14t18:01:52.489z"
     },
     {
       "id": "item-1785656403183",
