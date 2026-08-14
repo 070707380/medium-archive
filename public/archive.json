@@ -2997,6 +2997,24 @@
   ],
   "bingo": [
     {
+      "id": "bingo-1786708022123-0-k3yt",
+      "title": "blade runner",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-14t11:47:02.123z"
+    },
+    {
+      "id": "bingo-1786708022123-1-nuxk",
+      "title": "memento",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-14t11:47:02.123z"
+    },
+    {
+      "id": "bingo-1786708022123-2-18td",
+      "title": "fight club",
+      "mediaFormat": "Film",
+      "createdAt": "2026-08-14t11:47:02.123z"
+    },
+    {
       "id": "bingo-1786708011732-0-c6f4",
       "title": "the godfather",
       "mediaFormat": "Film",
