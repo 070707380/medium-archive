@@ -21,27 +21,27 @@
         {
           "name": "phil lafrance",
           "category": "creator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Phil%20LaFrance"
+          "wikiUrl": "https://en.wikipedia.org/wiki/phil%20lafrance"
         },
         {
           "name": "jamie leclaire",
           "category": "creator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jamie%20LeClaire"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jamie%20leclaire"
         },
         {
           "name": "jono howard",
           "category": "developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jono%20Howard"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jono%20howard"
         },
         {
           "name": "dave brown",
           "category": "director",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dave%20Brown"
+          "wikiUrl": "https://en.wikipedia.org/wiki/dave%20brown"
         }
       ],
       "mediaFormat": "TV Show",
       "isCustomCategory": false,
-      "releaseDate": "2014-01-07",
+      "releaseDate": "2014-02-07",
       "countryOfOrigin": "canada",
       "originalLanguage": "english",
       "genres": [
@@ -100,7 +100,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-14t22:34:00.906z",
-      "updatedAt": "2026-08-14t22:34:00.913z"
+      "updatedAt": "2026-08-14t22:35:41.539z"
     },
     {
       "id": "item-1785666891387",
