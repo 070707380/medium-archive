@@ -1,103 +1,6 @@
 {
   "items": [
     {
-      "id": "item-1786730308635",
-      "cover": "https://www.arcsystemworks.com/wp-content/uploads/2023/01/002.jpg",
-      "title": "arcana heart 3",
-      "mainCreator": "kazuma hayashi",
-      "otherCreators": [
-        "team arcana/developer",
-        "koji takaya/producer",
-        "hirotaka akaga/artist"
-      ],
-      "creatorDetails": [
-        {
-          "name": "kazuma hayashi",
-          "category": "director",
-          "nation": "japan",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Team_Arcana%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwjL5MXi1KCWAxWEIRAIHb6lOo8QFnoECBMQAQ&sqi=2&usg=AOvVaw1w7JWcLH8ntOhX1mNf-6QR"
-        },
-        {
-          "name": "team arcana",
-          "category": "developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Team%20Arcana"
-        },
-        {
-          "name": "koji takaya",
-          "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Koji%20Takaya"
-        },
-        {
-          "name": "hirotaka akaga",
-          "category": "artist",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hirotaka%20Akaga"
-        }
-      ],
-      "mediaFormat": "Video Game",
-      "isCustomCategory": false,
-      "releaseDate": "2026-08-14",
-      "countryOfOrigin": "japan",
-      "originalLanguage": "japanese",
-      "genres": [
-        "fighting",
-        "contemporary fantasy"
-      ],
-      "philosophicalTags": [
-        "gnostic ascension",
-        "norse fatalism",
-        "shadow integration",
-        "tarot archetypes",
-        "posthuman evolution"
-      ],
-      "genreStyleTags": [
-        "anime",
-        "arcade",
-        "character customization",
-        "multiplayer",
-        "martial arts"
-      ],
-      "summaryPlot": "two months after the \"great kanto incident\" of arcana heart 2, dimensional rifts begin appearing across japan, and rumors circulate that the drexler institute—a defunct organization that once distributed demonic arts throughout europe—has resumed operations. the japanese spirit agency dispatches their sacred maidens to investigate, while the newly established rosenberg branch office also deploys their own forces, setting the stage for a confrontation between the maidens and a new foe known as valkyries.",
-      "pros": [
-        "d-button homing mechanic lets multi-directional dashes, tracking cancels and momentum shifts.",
-        "decoupling characters from their elemental spirits which named arcanas lets any fighter to equip any arcana, this means hundreds of different tactical variations.",
-        "extend force causes temporary access to unique arcana attributes, speed boosts and powerful arcana eclipse at the cost of meter management.",
-        "screen space and triple-jump/homing mechanics serves great fightings which rarely seen in traditional ground-based fighters.",
-        "hitboxes trigger a clash state rather than trade damage, this means better attack timing and cancel reactions.",
-        "despite the aesthetics, characters has variety with mechanical types, from puppet characters (lieselotte) to grapplers (kira) to set-play traps (scharlachrot).",
-        "cancels and inputs are fluently responsive.",
-        "complex homing-cancel combos are strict with high barrier ."
-      ],
-      "cons": [
-        "reliance on heavy fan-service.",
-        "story is generic visual-novel dialogue about saving japan from dimensional collapse cliche.",
-        "side-panel hud is an animated chibi reaction portraits with unnecessary distracting noise.",
-        "some arcana/character combinations with same loops and unreactable mix-ups dominates the play.",
-        "stacking homing trails, arcana visual effects, meter bursts and large side bar, character hurtboxes and projectiles gives headache when gamer has to focus.",
-        "because the homing system is universal, many defensive scramble situations turns into predictable routines.",
-        "audios aren't rich, the same annoying anime screams and generic rock music bumps your head throughout the game.",
-        "ragnarok is an arcade boss which is a giant screen-filling gimmicky hotbox."
-      ],
-      "hornetScore": 4,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "melty blood actress again",
-        "under night in birth exe late",
-        "dengeki bunko fighting climax",
-        "koihime enbu",
-        "nitroplus blasterz heroines infinite duel"
-      ],
-      "mediumInfluences": [
-        "guilty gear",
-        "blazblue",
-        "psycho pass"
-      ],
-      "consumedVersion": "playstation 3",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-14t17:58:28.638z",
-      "updatedAt": "2026-08-14t17:58:28.654z"
-    },
-    {
       "id": "item-1785666891387",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yq_ZVAwO9K74qJiZEjLjUdebP6jWTLZg8j9fAO75XwnRW-6-QI9N-Aw_&s=10",
       "title": "sekiro shadows die twice",
@@ -327,214 +230,6 @@
       "updatedAt": "2026-08-06t07:35:40.300z"
     },
     {
-      "id": "album-ost-1785683444842-16zbo",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
-      "title": "terraria official soundtrack",
-      "mainCreator": "scott lloyd shelly",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "scott lloyd shelly",
-          "category": "music artist",
-          "nation": "australia",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rateyourmusic.com/artist/scott_lloyd_shelly&ved=2ahUKEwis9v6lnoKWAxVf_7sIHdAKE5wQFnoECD0QAQ&usg=AOvVaw20ZNoh0jE9NSgypQ3bZqXU"
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "2011-11-01",
-      "countryOfOrigin": "australia",
-      "originalLanguage": "english",
-      "genres": [
-        "digital fusion",
-        "cinematic classical"
-      ],
-      "philosophicalTags": [
-        "tension & release",
-        "exploration",
-        "modern retro",
-        "alienation"
-      ],
-      "genreStyleTags": [
-        "ambient",
-        "chiptune",
-        "orchestral",
-        "chaotic",
-        "8 bit",
-        "dubstep",
-        "downtempo",
-        "glitch hop",
-        "progressive electronic",
-        "instrumental",
-        "futuristic",
-        "video game soundtrack"
-      ],
-      "summaryPlot": "a dynamic, genre-blending instrumental soundtrack that serves as the audio identity for the 2d sandbox adventure game terraria, shifting from serene, ambient melodies for exploration to intense, high-energy orchestral anthems for epic boss battles. the music enhances the game's core themes of discovery, danger, and triumph, creating an immersive backdrop for the player's journey through a vast, procedurally generated world.",
-      "pros": [
-        "soundtrack is iconic and instantly tone setting.",
-        "unique tracks for biomes as jungle, the hallow, corruption and desert give every region atmospheric signature.",
-        "boss tracks are chaotic and serves the same with rich synth and riff elements specifically track plantera which is influenced by the band pantera.",
-        "\"underground\" and \"underworld\" use basslines and sparse synth echoes to build isolation.",
-        "sudden event tracks as \"goblin army,\" \"pirate invasion\" and \"solar eclipse\") shifts the exploration rhythm with synth pulses.",
-        "retro-modern blending is genius, album pulls the 8 bit/16 bit soundtrack structures and reshapes it with modern elementally rich touches.",
-        "melodies are catchy and memorable.",
-        "tracks like \"frost moon\" and \"pumpkin moon\" adapts to the theme of the event."
-      ],
-      "cons": [
-        "if you stay in the same biome for an hour while grinding then soundtrack variety in the specific biome won't be too helpful.",
-        "waooohhh waaaaoohhhh waaaaoooohhh",
-        "soundtrack contains many goofy elements such as high-pitched chiptunes and laser-like synth.",
-        "early 1.0-era tracks uses dated synthesizers.",
-        "soundtrack is master at alienating audio but sitting through it causes listening fatique because synthetic structure."
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "undertale soundtrack",
-        "celeste original soundtrack",
-        "the coffee talk",
-        "vvvvv soundtrack"
-      ],
-      "mediumInfluences": [
-        "minecraft volume alpha",
-        "aphex twin",
-        "brian eno",
-        "kraftwerk",
-        "pantera",
-        "joe hisaishi"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": true,
-      "soundtrackForId": "item-1785669348801",
-      "soundtrackForTitle": "terraria",
-      "links": [
-        {
-          "id": "link-1785684356008",
-          "label": "steam",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/409210/Terraria_Official_Soundtrack/&ved=2ahUKEwi9me3QoIKWAxXu8LsIHSWxALIQFnoECEcQAQ&sqi=2&usg=AOvVaw13EUOBXMj20CPKHNyqZQ4y"
-        }
-      ],
-      "createdAt": "2026-08-02t15:10:44.843z",
-      "updatedAt": "2026-08-07t08:33:44.688z"
-    },
-    {
-      "id": "item-1786178048567",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
-      "title": "paranoid",
-      "mainCreator": "black sabbath",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "black sabbath",
-          "category": "band",
-          "nation": "united kingdom",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Black_Sabbath&ved=2ahUKEwia7bXVyZCWAxX2QfEDHYUyHgMQFnoECF4QAQ&usg=AOvVaw2obFTMRXme9VmqKWDuPKJH",
-          "bandMembers": [
-            {
-              "name": "ozzy osbourne",
-              "bandRole": "vocalist",
-              "participatedInProduct": true,
-              "productRole": "vocal, harmonica"
-            },
-            {
-              "name": "tony iommi",
-              "bandRole": "guitarist",
-              "participatedInProduct": true,
-              "productRole": "guitar, flute"
-            },
-            {
-              "name": "geezer butler",
-              "bandRole": "bass guitarist",
-              "participatedInProduct": true,
-              "productRole": "bass, lyric"
-            },
-            {
-              "name": "bill ward",
-              "bandRole": "drummer",
-              "participatedInProduct": true,
-              "productRole": "drum"
-            },
-            {
-              "name": "rodger bain",
-              "bandRole": "producer",
-              "participatedInProduct": true,
-              "productRole": "produce"
-            }
-          ]
-        }
-      ],
-      "mediaFormat": "music album",
-      "releaseDate": "1970-09-18",
-      "countryOfOrigin": "united kingdom",
-      "originalLanguage": "english",
-      "genres": [
-        "heavy metal",
-        "hard rock",
-        "doom metal"
-      ],
-      "philosophicalTags": [
-        "anti-war",
-        "mental health & paranoia",
-        "drug addiction",
-        "nuclear apocalypse",
-        "working-class strife"
-      ],
-      "genreStyleTags": [
-        "blues rock",
-        "heavy psych",
-        "occult rock",
-        "riff heavy",
-        "groove metal",
-        "proto metal",
-        "depression",
-        "paranoia",
-        "drugs",
-        "political",
-        "war",
-        "pessimistic",
-        "psychedelic"
-      ],
-      "summaryPlot": "thematic exploration of the dark underbelly of the human experience and the anxieties of its era. it serves as a sonic journey through the societal ills of 1970, tackling the horrors of war (\"war pigs\"), mental health struggles (\"paranoid\"), drug addiction (\"hand of doom\"), and apocalyptic dread (\"electric funeral\"), while also showcasing the band's surprising versatility with a haunting, psychedelic interlude on \"planet caravan.\"",
-      "pros": [
-        "tony iommi’s tritone and pentatonic riffs in war pigs, iron man and electric funeral is fresh",
-        "war pig is very dynamic with heavy epicness with tempo shifts, guitar fills and a heavy climax.",
-        "bass lines leads melody and fills the awkward spaces successfully.",
-        "ward’s drumming is unpredictable, fills the melody and uses jazz dynamics that contain heavy riffs above simple 4/4 pounding.",
-        "lyrical themes deal with cold-war military, corruption, psychological decay, nuclear destruction and drug addiction using simple but impactful lyrics.",
-        "heavy riffs perfectly shades the mechanical plot of a time-traveling man turned to steel seeking vengeance.",
-        "psychedelic detour featuring flanged vocals, congas and jazz-guitar arpeggios with brilliant textures.",
-        "ozzy osbourne’s unpolished delivery screws through down tuned instrumentation with clean clarity.",
-        "rat salad solo is fun."
-      ],
-      "cons": [
-        "title track was written as a quick 2-minute studio filler, relying on basic 3-chord punk/rock structures without any complexity.",
-        "rodger bain’s production lacks the raw bass wallop and crushing down-tuned heaviness.",
-        "multiple tracks rely on classic 100% studio fade-outs than musical resolutions.",
-        "early stereo mixing choices place the guitar hard-left and rhythm hard-right on certain sections which is distracting and aged poorly.",
-        "sonic and mechanical clarity is clearly not mastered due to release date.",
-        "planet caravan is a massive 4 minute pacing breaker between two accessible high melody tracks. it's not a bad track but could work as a intro. clearly off-genre and way too long for a bridge between two bangers."
-      ],
-      "hornetScore": 6,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "led zeppelin 4",
-        "deep purple in rock",
-        "machine head",
-        "who's next"
-      ],
-      "mediumInfluences": [
-        "the beatles",
-        "bob dylan",
-        "superunknown",
-        "far beyond driven",
-        "leviathan"
-      ],
-      "consumedVersion": "cd",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-08t08:34:08.570z",
-      "updatedAt": "2026-08-08t08:45:19.595z"
-    },
-    {
       "id": "item-1786211199487",
       "cover": "https://www.afka.net/images/Books/00s/2003%20apostrophe%20-%20FZ%20cover.jpg",
       "title": "apostrophe",
@@ -738,6 +433,214 @@
       "links": [],
       "createdAt": "2026-08-07t08:18:40.267z",
       "updatedAt": "2026-08-07t08:18:40.271z"
+    },
+    {
+      "id": "item-1786178048567",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
+      "title": "paranoid",
+      "mainCreator": "black sabbath",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "black sabbath",
+          "category": "band",
+          "nation": "united kingdom",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Black_Sabbath&ved=2ahUKEwia7bXVyZCWAxX2QfEDHYUyHgMQFnoECF4QAQ&usg=AOvVaw2obFTMRXme9VmqKWDuPKJH",
+          "bandMembers": [
+            {
+              "name": "ozzy osbourne",
+              "bandRole": "vocalist",
+              "participatedInProduct": true,
+              "productRole": "vocal, harmonica"
+            },
+            {
+              "name": "tony iommi",
+              "bandRole": "guitarist",
+              "participatedInProduct": true,
+              "productRole": "guitar, flute"
+            },
+            {
+              "name": "geezer butler",
+              "bandRole": "bass guitarist",
+              "participatedInProduct": true,
+              "productRole": "bass, lyric"
+            },
+            {
+              "name": "bill ward",
+              "bandRole": "drummer",
+              "participatedInProduct": true,
+              "productRole": "drum"
+            },
+            {
+              "name": "rodger bain",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "produce"
+            }
+          ]
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "1970-09-18",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "heavy metal",
+        "hard rock",
+        "doom metal"
+      ],
+      "philosophicalTags": [
+        "anti-war",
+        "mental health & paranoia",
+        "drug addiction",
+        "nuclear apocalypse",
+        "working-class strife"
+      ],
+      "genreStyleTags": [
+        "blues rock",
+        "heavy psych",
+        "occult rock",
+        "riff heavy",
+        "groove metal",
+        "proto metal",
+        "depression",
+        "paranoia",
+        "drugs",
+        "political",
+        "war",
+        "pessimistic",
+        "psychedelic"
+      ],
+      "summaryPlot": "thematic exploration of the dark underbelly of the human experience and the anxieties of its era. it serves as a sonic journey through the societal ills of 1970, tackling the horrors of war (\"war pigs\"), mental health struggles (\"paranoid\"), drug addiction (\"hand of doom\"), and apocalyptic dread (\"electric funeral\"), while also showcasing the band's surprising versatility with a haunting, psychedelic interlude on \"planet caravan.\"",
+      "pros": [
+        "tony iommi’s tritone and pentatonic riffs in war pigs, iron man and electric funeral is fresh",
+        "war pig is very dynamic with heavy epicness with tempo shifts, guitar fills and a heavy climax.",
+        "bass lines leads melody and fills the awkward spaces successfully.",
+        "ward’s drumming is unpredictable, fills the melody and uses jazz dynamics that contain heavy riffs above simple 4/4 pounding.",
+        "lyrical themes deal with cold-war military, corruption, psychological decay, nuclear destruction and drug addiction using simple but impactful lyrics.",
+        "heavy riffs perfectly shades the mechanical plot of a time-traveling man turned to steel seeking vengeance.",
+        "psychedelic detour featuring flanged vocals, congas and jazz-guitar arpeggios with brilliant textures.",
+        "ozzy osbourne’s unpolished delivery screws through down tuned instrumentation with clean clarity.",
+        "rat salad solo is fun."
+      ],
+      "cons": [
+        "title track was written as a quick 2-minute studio filler, relying on basic 3-chord punk/rock structures without any complexity.",
+        "rodger bain’s production lacks the raw bass wallop and crushing down-tuned heaviness.",
+        "multiple tracks rely on classic 100% studio fade-outs than musical resolutions.",
+        "early stereo mixing choices place the guitar hard-left and rhythm hard-right on certain sections which is distracting and aged poorly.",
+        "sonic and mechanical clarity is clearly not mastered due to release date.",
+        "planet caravan is a massive 4 minute pacing breaker between two accessible high melody tracks. it's not a bad track but could work as a intro. clearly off-genre and way too long for a bridge between two bangers."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "led zeppelin 4",
+        "deep purple in rock",
+        "machine head",
+        "who's next"
+      ],
+      "mediumInfluences": [
+        "the beatles",
+        "bob dylan",
+        "superunknown",
+        "far beyond driven",
+        "leviathan"
+      ],
+      "consumedVersion": "cd",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-08t08:34:08.570z",
+      "updatedAt": "2026-08-08t08:45:19.595z"
+    },
+    {
+      "id": "album-ost-1785683444842-16zbo",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QXbCbVPqNYeynWlgNoWMLHGig-xP6o3oy_l9N9VRQg&s=10",
+      "title": "terraria official soundtrack",
+      "mainCreator": "scott lloyd shelly",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "scott lloyd shelly",
+          "category": "music artist",
+          "nation": "australia",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rateyourmusic.com/artist/scott_lloyd_shelly&ved=2ahUKEwis9v6lnoKWAxVf_7sIHdAKE5wQFnoECD0QAQ&usg=AOvVaw20ZNoh0jE9NSgypQ3bZqXU"
+        }
+      ],
+      "mediaFormat": "music album",
+      "releaseDate": "2011-11-01",
+      "countryOfOrigin": "australia",
+      "originalLanguage": "english",
+      "genres": [
+        "digital fusion",
+        "cinematic classical"
+      ],
+      "philosophicalTags": [
+        "tension & release",
+        "exploration",
+        "modern retro",
+        "alienation"
+      ],
+      "genreStyleTags": [
+        "ambient",
+        "chiptune",
+        "orchestral",
+        "chaotic",
+        "8 bit",
+        "dubstep",
+        "downtempo",
+        "glitch hop",
+        "progressive electronic",
+        "instrumental",
+        "futuristic",
+        "video game soundtrack"
+      ],
+      "summaryPlot": "a dynamic, genre-blending instrumental soundtrack that serves as the audio identity for the 2d sandbox adventure game terraria, shifting from serene, ambient melodies for exploration to intense, high-energy orchestral anthems for epic boss battles. the music enhances the game's core themes of discovery, danger, and triumph, creating an immersive backdrop for the player's journey through a vast, procedurally generated world.",
+      "pros": [
+        "soundtrack is iconic and instantly tone setting.",
+        "unique tracks for biomes as jungle, the hallow, corruption and desert give every region atmospheric signature.",
+        "boss tracks are chaotic and serves the same with rich synth and riff elements specifically track plantera which is influenced by the band pantera.",
+        "\"underground\" and \"underworld\" use basslines and sparse synth echoes to build isolation.",
+        "sudden event tracks as \"goblin army,\" \"pirate invasion\" and \"solar eclipse\") shifts the exploration rhythm with synth pulses.",
+        "retro-modern blending is genius, album pulls the 8 bit/16 bit soundtrack structures and reshapes it with modern elementally rich touches.",
+        "melodies are catchy and memorable.",
+        "tracks like \"frost moon\" and \"pumpkin moon\" adapts to the theme of the event."
+      ],
+      "cons": [
+        "if you stay in the same biome for an hour while grinding then soundtrack variety in the specific biome won't be too helpful.",
+        "waooohhh waaaaoohhhh waaaaoooohhh",
+        "soundtrack contains many goofy elements such as high-pitched chiptunes and laser-like synth.",
+        "early 1.0-era tracks uses dated synthesizers.",
+        "soundtrack is master at alienating audio but sitting through it causes listening fatique because synthetic structure."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "undertale soundtrack",
+        "celeste original soundtrack",
+        "the coffee talk",
+        "vvvvv soundtrack"
+      ],
+      "mediumInfluences": [
+        "minecraft volume alpha",
+        "aphex twin",
+        "brian eno",
+        "kraftwerk",
+        "pantera",
+        "joe hisaishi"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": true,
+      "soundtrackForId": "item-1785669348801",
+      "soundtrackForTitle": "terraria",
+      "links": [
+        {
+          "id": "link-1785684356008",
+          "label": "steam",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/409210/Terraria_Official_Soundtrack/&ved=2ahUKEwi9me3QoIKWAxXu8LsIHSWxALIQFnoECEcQAQ&sqi=2&usg=AOvVaw13EUOBXMj20CPKHNyqZQ4y"
+        }
+      ],
+      "createdAt": "2026-08-02t15:10:44.843z",
+      "updatedAt": "2026-08-07t08:33:44.688z"
     },
     {
       "id": "item-1785702301030",
@@ -1045,101 +948,6 @@
       "updatedAt": "2026-08-07t08:30:18.290z"
     },
     {
-      "id": "item-1785679574333",
-      "cover": "https://wallpaperaccess.com/full/9464755.jpg",
-      "title": "moby dick",
-      "mainCreator": "herman melville",
-      "otherCreators": [],
-      "creatorDetails": [
-        {
-          "name": "herman melville",
-          "category": "author",
-          "nation": "united states",
-          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Herman_Melville&ved=2ahUKEwi7rsXWiIKWAxX5hf0HHWI-EC0QFnoFCLABEAE&usg=AOvVaw2i8nhrM0MlQQ_L3f6rfkv9"
-        }
-      ],
-      "mediaFormat": "book",
-      "releaseDate": "1851-10-18",
-      "countryOfOrigin": "united states",
-      "originalLanguage": "english",
-      "genres": [
-        "adventure novel",
-        "epic"
-      ],
-      "philosophicalTags": [
-        "microcosmic philosophy",
-        "nietzschean spirit of revenge",
-        "self construction",
-        "schopenhauerian negation of will",
-        "man vs. nature",
-        "monomania",
-        "existentialism",
-        "cosmic indifference",
-        "platonism vs. poetic philosophy",
-        "knowledge as dangerous"
-      ],
-      "genreStyleTags": [
-        "revenge",
-        "symbolism",
-        "tragedy"
-      ],
-      "summaryPlot": "the wandering sailor ishmael signs onto the whaling ship pequod, unaware that its captain, ahab, is driven by a monomaniacal quest for revenge against the massive white sperm whale that bit off his leg on a previous voyage. as the pequod sails across the world's oceans, ahab's obsession consumes the crew and ship, leading them on a fateful chase that culminates in a catastrophic final confrontation with the whale.",
-      "pros": [
-        "captain ahab’s obsessive vengeance against moby dick is focused.",
-        "white whale is actually symbolism for fate.",
-        "pequod’s multi-race crew is a fascinating society with class dynamics..",
-        "new bedford and nantucket establishing ishmael’s worldview and bond with queequeg is exceptional beginning.",
-        "descriptions of lowering boats and harpooning in open waters is actually realistic and tactical.",
-        "ahab vs. starbuck ideological clash is written well.",
-        "pequod’s crossing through other ships like jeroboam, samuel enderby and rachel points alternate faith.",
-        "ahab’s internal monologues are successfully shakespearean.",
-        "the chase of moby dick is a chaotic earned payoff."
-      ],
-      "cons": [
-        "dozens of chapters are textbook essays on whale anatomy, history and classification which doesn't trust the reader slightly. also why teach whale anatomy when it's a symbolism?",
-        "ishmael starts as active in the story but vanishes as a character in the second half.",
-        "switches between adventure and shakespearean script layouts then scientific treatises is tonal betrayal and inconsistency.",
-        "middle part stretches voyage drift by ignoring plot progression.",
-        "determinism often limits suspension and forces tryhardness.",
-        "early figures like queequeg are gone into the background once the ship sets sail.",
-        "biblical allegory feels essayistic than organic.",
-        "ishmael's miraculous survival in floating on queequeg's coffin is unearned. i'm aware it's a metaphor on rebirth or something, it's not about realism i don't even see it as any quality metaphor."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "heart of darkness",
-        "the sea-wolf",
-        "benito cereno",
-        "typee",
-        "omoo",
-        "the master and commander",
-        "don quixote"
-      ],
-      "mediumInfluences": [
-        "macbeth",
-        "paradise lost",
-        "the lusiads",
-        "the bible",
-        "mosses from an old manse",
-        "the tragedy of the whaleship essex",
-        "françois rabelais",
-        "edmund spenser",
-        "dante alighieri"
-      ],
-      "consumedVersion": "physical",
-      "isSoundtrack": false,
-      "links": [
-        {
-          "id": "l1",
-          "label": "amazon",
-          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Moby-Dick-Balina-Herman-Melville/dp/6254058057&ved=2ahUKEwj3uJ-RioKWAxXdVvEDHYcwMukQFnoECCAQAQ&usg=AOvVaw1BlaQM3LJhOBXRNu2fZxkG"
-        }
-      ],
-      "createdAt": "2026-08-02t14:06:14.336z",
-      "updatedAt": "2026-08-06t23:17:49.896z"
-    },
-    {
       "id": "item-1785669348801",
       "cover": "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/3:2/w_2560%2Cc_limit/terraria.jpg",
       "title": "terraria",
@@ -1271,6 +1079,193 @@
       "updatedAt": "2026-08-07t08:33:46.214z"
     },
     {
+      "id": "item-1785679574333",
+      "cover": "https://wallpaperaccess.com/full/9464755.jpg",
+      "title": "moby dick",
+      "mainCreator": "herman melville",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "herman melville",
+          "category": "author",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Herman_Melville&ved=2ahUKEwi7rsXWiIKWAxX5hf0HHWI-EC0QFnoFCLABEAE&usg=AOvVaw2i8nhrM0MlQQ_L3f6rfkv9"
+        }
+      ],
+      "mediaFormat": "book",
+      "releaseDate": "1851-10-18",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "adventure novel",
+        "epic"
+      ],
+      "philosophicalTags": [
+        "microcosmic philosophy",
+        "nietzschean spirit of revenge",
+        "self construction",
+        "schopenhauerian negation of will",
+        "man vs. nature",
+        "monomania",
+        "existentialism",
+        "cosmic indifference",
+        "platonism vs. poetic philosophy",
+        "knowledge as dangerous"
+      ],
+      "genreStyleTags": [
+        "revenge",
+        "symbolism",
+        "tragedy"
+      ],
+      "summaryPlot": "the wandering sailor ishmael signs onto the whaling ship pequod, unaware that its captain, ahab, is driven by a monomaniacal quest for revenge against the massive white sperm whale that bit off his leg on a previous voyage. as the pequod sails across the world's oceans, ahab's obsession consumes the crew and ship, leading them on a fateful chase that culminates in a catastrophic final confrontation with the whale.",
+      "pros": [
+        "captain ahab’s obsessive vengeance against moby dick is focused.",
+        "white whale is actually symbolism for fate.",
+        "pequod’s multi-race crew is a fascinating society with class dynamics..",
+        "new bedford and nantucket establishing ishmael’s worldview and bond with queequeg is exceptional beginning.",
+        "descriptions of lowering boats and harpooning in open waters is actually realistic and tactical.",
+        "ahab vs. starbuck ideological clash is written well.",
+        "pequod’s crossing through other ships like jeroboam, samuel enderby and rachel points alternate faith.",
+        "ahab’s internal monologues are successfully shakespearean.",
+        "the chase of moby dick is a chaotic earned payoff."
+      ],
+      "cons": [
+        "dozens of chapters are textbook essays on whale anatomy, history and classification which doesn't trust the reader slightly. also why teach whale anatomy when it's a symbolism?",
+        "ishmael starts as active in the story but vanishes as a character in the second half.",
+        "switches between adventure and shakespearean script layouts then scientific treatises is tonal betrayal and inconsistency.",
+        "middle part stretches voyage drift by ignoring plot progression.",
+        "determinism often limits suspension and forces tryhardness.",
+        "early figures like queequeg are gone into the background once the ship sets sail.",
+        "biblical allegory feels essayistic than organic.",
+        "ishmael's miraculous survival in floating on queequeg's coffin is unearned. i'm aware it's a metaphor on rebirth or something, it's not about realism i don't even see it as any quality metaphor."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "heart of darkness",
+        "the sea-wolf",
+        "benito cereno",
+        "typee",
+        "omoo",
+        "the master and commander",
+        "don quixote"
+      ],
+      "mediumInfluences": [
+        "macbeth",
+        "paradise lost",
+        "the lusiads",
+        "the bible",
+        "mosses from an old manse",
+        "the tragedy of the whaleship essex",
+        "françois rabelais",
+        "edmund spenser",
+        "dante alighieri"
+      ],
+      "consumedVersion": "physical",
+      "isSoundtrack": false,
+      "links": [
+        {
+          "id": "l1",
+          "label": "amazon",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com.tr/Moby-Dick-Balina-Herman-Melville/dp/6254058057&ved=2ahUKEwj3uJ-RioKWAxXdVvEDHYcwMukQFnoECCAQAQ&usg=AOvVaw1BlaQM3LJhOBXRNu2fZxkG"
+        }
+      ],
+      "createdAt": "2026-08-02t14:06:14.336z",
+      "updatedAt": "2026-08-06t23:17:49.896z"
+    },
+    {
+      "id": "item-1785696098365",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
+      "title": "ergo proxy",
+      "mainCreator": "shūkō murase",
+      "otherCreators": [
+        "dai satō/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "shūkō murase",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sh%C5%ABk%C5%8D_Murase"
+        },
+        {
+          "name": "dai satō",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/dai%20sat%C5%8D"
+        }
+      ],
+      "mediaFormat": "tv show",
+      "releaseDate": "2006-02-25",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "psychological thriller",
+        "mystery",
+        "cyberpunk"
+      ],
+      "philosophicalTags": [
+        "gnostic cosmology",
+        "cartesian mind body dualism",
+        "existentialist self discovery",
+        "posthumanism",
+        "simulacra",
+        "thanatos drive"
+      ],
+      "genreStyleTags": [
+        "post apocalyptic",
+        "dystopian",
+        "science fiction",
+        "dark fantasy",
+        "noir",
+        "artificial intelligence",
+        "action",
+        "animation",
+        "anime"
+      ],
+      "summaryPlot": "set in a post-apocalyptic future within the domed utopia of romdo, inspector re-l mayer investigates a series of murders committed by autoreiv androids infected with the \"cogito virus\" that grants them self-awareness. the investigation pulls her into a global conspiracy involving vincent law, an immigrant haunted by his past, and mysterious god-like beings called \"proxies,\" forcing them all to confront the true nature of their existence.",
+      "pros": [
+        "romdeau city serves rich dystopian city atmosphere and dynamics with hierarchy and propaganda.",
+        "androids (autoreivs) acquiring self-awareness and emotional souls via a virus is a strong concept.",
+        "sharp usage of dark coloured shadows, rain and lighting gives early episodes a neo-noir tone.",
+        "the mystery of proxy project serves engaging mystery.",
+        "pino which is a autoreiv dressed in a rabbit suit is surprisingly a good companion.",
+        "references to descartes, rené magritte and mythologies can be found in the worldbuilding.",
+        "fights are grounded and realistic physically.",
+        "psychological decay is served as a deep element across characters."
+      ],
+      "cons": [
+        "middle act contains episodic fillers.",
+        "mechanics such as the pulse of the awakening, amrita cells, the creators' return plan etc etc are served as complex infodumps.",
+        "animation quality is visibly inconsistent in later acts.",
+        "final of the show is rushed with overcrowded reveals.",
+        "jumping from massacres to surreal comedy-quiz episodes is tonal inconsistency.",
+        "journey across the ruined wasteland visits fails with domes that feel placeholders than real societies.",
+        "many episodes works with hallucinatory or subconscious dreamlike visuals, it creates forced obscurity in such physical story.",
+        "some of the bigger picture concepts such as fate of the returning true humans from orbit slowly decays, decays and gets forgotten."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "ghost in the shell stand alone complex",
+        "psycho-pass",
+        "wolf's rain",
+        "shinsekai yori",
+        "darker than black"
+      ],
+      "mediumInfluences": [
+        "ghost in the shell",
+        "serial experiments lain",
+        "texhnolyze",
+        "blade runner",
+        "nausicaä of the valley of the wind"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-02t18:41:38.368z",
+      "updatedAt": "2026-08-06t11:18:03.631z"
+    },
+    {
       "id": "item-1786191875948",
       "cover": "https://lets-play.by/media/screen-shots/cryostasis-sleep-of-reason/cryostasis-sleep-of-reason-screenshot-%20(4).jpg",
       "title": "cryostasis sleep of reason",
@@ -1378,98 +1373,6 @@
       "links": [],
       "createdAt": "2026-08-08t12:24:35.953z",
       "updatedAt": "2026-08-08t12:24:35.971z"
-    },
-    {
-      "id": "item-1785696098365",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-2pS97__KLbcsDmQdIK8O02hNeEMXDee47iFpPOZ0tBlwfQO3oagiSl8&s=10",
-      "title": "ergo proxy",
-      "mainCreator": "shūkō murase",
-      "otherCreators": [
-        "dai satō/scriptwriter"
-      ],
-      "creatorDetails": [
-        {
-          "name": "shūkō murase",
-          "category": "director",
-          "nation": "japan",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Sh%C5%ABk%C5%8D_Murase"
-        },
-        {
-          "name": "dai satō",
-          "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/dai%20sat%C5%8D"
-        }
-      ],
-      "mediaFormat": "tv show",
-      "releaseDate": "2006-02-25",
-      "countryOfOrigin": "japan",
-      "originalLanguage": "japanese",
-      "genres": [
-        "psychological thriller",
-        "mystery",
-        "cyberpunk"
-      ],
-      "philosophicalTags": [
-        "gnostic cosmology",
-        "cartesian mind body dualism",
-        "existentialist self discovery",
-        "posthumanism",
-        "simulacra",
-        "thanatos drive"
-      ],
-      "genreStyleTags": [
-        "post apocalyptic",
-        "dystopian",
-        "science fiction",
-        "dark fantasy",
-        "noir",
-        "artificial intelligence",
-        "action",
-        "animation",
-        "anime"
-      ],
-      "summaryPlot": "set in a post-apocalyptic future within the domed utopia of romdo, inspector re-l mayer investigates a series of murders committed by autoreiv androids infected with the \"cogito virus\" that grants them self-awareness. the investigation pulls her into a global conspiracy involving vincent law, an immigrant haunted by his past, and mysterious god-like beings called \"proxies,\" forcing them all to confront the true nature of their existence.",
-      "pros": [
-        "romdeau city serves rich dystopian city atmosphere and dynamics with hierarchy and propaganda.",
-        "androids (autoreivs) acquiring self-awareness and emotional souls via a virus is a strong concept.",
-        "sharp usage of dark coloured shadows, rain and lighting gives early episodes a neo-noir tone.",
-        "the mystery of proxy project serves engaging mystery.",
-        "pino which is a autoreiv dressed in a rabbit suit is surprisingly a good companion.",
-        "references to descartes, rené magritte and mythologies can be found in the worldbuilding.",
-        "fights are grounded and realistic physically.",
-        "psychological decay is served as a deep element across characters."
-      ],
-      "cons": [
-        "middle act contains episodic fillers.",
-        "mechanics such as the pulse of the awakening, amrita cells, the creators' return plan etc etc are served as complex infodumps.",
-        "animation quality is visibly inconsistent in later acts.",
-        "final of the show is rushed with overcrowded reveals.",
-        "jumping from massacres to surreal comedy-quiz episodes is tonal inconsistency.",
-        "journey across the ruined wasteland visits fails with domes that feel placeholders than real societies.",
-        "many episodes works with hallucinatory or subconscious dreamlike visuals, it creates forced obscurity in such physical story.",
-        "some of the bigger picture concepts such as fate of the returning true humans from orbit slowly decays, decays and gets forgotten."
-      ],
-      "hornetScore": 5,
-      "hornetVerdict": "",
-      "similarMedia": [
-        "ghost in the shell stand alone complex",
-        "psycho-pass",
-        "wolf's rain",
-        "shinsekai yori",
-        "darker than black"
-      ],
-      "mediumInfluences": [
-        "ghost in the shell",
-        "serial experiments lain",
-        "texhnolyze",
-        "blade runner",
-        "nausicaä of the valley of the wind"
-      ],
-      "consumedVersion": "digital",
-      "isSoundtrack": false,
-      "links": [],
-      "createdAt": "2026-08-02t18:41:38.368z",
-      "updatedAt": "2026-08-06t11:18:03.631z"
     },
     {
       "id": "item-1785762906387",
@@ -1676,6 +1579,103 @@
       "links": [],
       "createdAt": "2026-08-08t09:34:08.064z",
       "updatedAt": "2026-08-08t10:39:26.579z"
+    },
+    {
+      "id": "item-1786730308635",
+      "cover": "https://www.arcsystemworks.com/wp-content/uploads/2023/01/002.jpg",
+      "title": "arcana heart 3",
+      "mainCreator": "kazuma hayashi",
+      "otherCreators": [
+        "team arcana/developer",
+        "koji takaya/producer",
+        "hirotaka akaga/artist"
+      ],
+      "creatorDetails": [
+        {
+          "name": "kazuma hayashi",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Team_Arcana%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwjL5MXi1KCWAxWEIRAIHb6lOo8QFnoECBMQAQ&sqi=2&usg=AOvVaw1w7JWcLH8ntOhX1mNf-6QR"
+        },
+        {
+          "name": "team arcana",
+          "category": "developer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Team%20Arcana"
+        },
+        {
+          "name": "koji takaya",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Koji%20Takaya"
+        },
+        {
+          "name": "hirotaka akaga",
+          "category": "artist",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hirotaka%20Akaga"
+        }
+      ],
+      "mediaFormat": "Video Game",
+      "isCustomCategory": false,
+      "releaseDate": "2026-08-14",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "fighting",
+        "contemporary fantasy"
+      ],
+      "philosophicalTags": [
+        "gnostic ascension",
+        "norse fatalism",
+        "shadow integration",
+        "tarot archetypes",
+        "posthuman evolution"
+      ],
+      "genreStyleTags": [
+        "anime",
+        "arcade",
+        "character customization",
+        "multiplayer",
+        "martial arts"
+      ],
+      "summaryPlot": "two months after the \"great kanto incident\" of arcana heart 2, dimensional rifts begin appearing across japan, and rumors circulate that the drexler institute—a defunct organization that once distributed demonic arts throughout europe—has resumed operations. the japanese spirit agency dispatches their sacred maidens to investigate, while the newly established rosenberg branch office also deploys their own forces, setting the stage for a confrontation between the maidens and a new foe known as valkyries.",
+      "pros": [
+        "d-button homing mechanic lets multi-directional dashes, tracking cancels and momentum shifts.",
+        "decoupling characters from their elemental spirits which named arcanas lets any fighter to equip any arcana, this means hundreds of different tactical variations.",
+        "extend force causes temporary access to unique arcana attributes, speed boosts and powerful arcana eclipse at the cost of meter management.",
+        "screen space and triple-jump/homing mechanics serves great fightings which rarely seen in traditional ground-based fighters.",
+        "hitboxes trigger a clash state rather than trade damage, this means better attack timing and cancel reactions.",
+        "despite the aesthetics, characters has variety with mechanical types, from puppet characters (lieselotte) to grapplers (kira) to set-play traps (scharlachrot).",
+        "cancels and inputs are fluently responsive.",
+        "complex homing-cancel combos are strict with high barrier ."
+      ],
+      "cons": [
+        "reliance on heavy fan-service.",
+        "story is generic visual-novel dialogue about saving japan from dimensional collapse cliche.",
+        "side-panel hud is an animated chibi reaction portraits with unnecessary distracting noise.",
+        "some arcana/character combinations with same loops and unreactable mix-ups dominates the play.",
+        "stacking homing trails, arcana visual effects, meter bursts and large side bar, character hurtboxes and projectiles gives headache when gamer has to focus.",
+        "because the homing system is universal, many defensive scramble situations turns into predictable routines.",
+        "audios aren't rich, the same annoying anime screams and generic rock music bumps your head throughout the game.",
+        "ragnarok is an arcade boss which is a giant screen-filling gimmicky hotbox."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "melty blood actress again",
+        "under night in birth exe late",
+        "dengeki bunko fighting climax",
+        "koihime enbu",
+        "nitroplus blasterz heroines infinite duel"
+      ],
+      "mediumInfluences": [
+        "guilty gear",
+        "blazblue",
+        "psycho pass"
+      ],
+      "consumedVersion": "playstation 3",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-14t17:58:28.638z",
+      "updatedAt": "2026-08-14t17:58:28.654z"
     },
     {
       "id": "item-1785656403183",
