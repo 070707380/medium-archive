@@ -356,31 +356,32 @@
         {
           "name": "jack bruce",
           "category": "bass",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jack%20Bruce"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jack%20bruce"
         },
         {
           "name": "jim gordon",
           "category": "drummer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jim%20Gordon"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jim%20gordon"
         },
         {
           "name": "george duke",
           "category": "keyboard",
-          "wikiUrl": "https://en.wikipedia.org/wiki/George%20Duke"
+          "wikiUrl": "https://en.wikipedia.org/wiki/george%20duke"
         },
         {
           "name": "jean-luc ponty",
           "category": "violin",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Luc%20Ponty"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jean-luc%20ponty"
         },
         {
           "name": "tina turner",
           "category": "backvocals",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Tina%20Turner"
+          "wikiUrl": "https://en.wikipedia.org/wiki/tina%20turner"
         }
       ],
       "mediaFormat": "Music Album",
-      "releaseDate": "2026-08-08",
+      "isCustomCategory": false,
+      "releaseDate": "1974-03-22",
       "countryOfOrigin": "united states",
       "originalLanguage": "english",
       "genres": [
@@ -451,8 +452,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-08t17:46:39.492z",
-      "updatedAt": "2026-08-08t17:46:39.511z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-14t22:52:44.793z"
     },
     {
       "id": "item-1786090720264",
