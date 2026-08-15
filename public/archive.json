@@ -3329,6 +3329,7 @@
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2026-05-26",
       "countryOfOrigin": "netherlands",
       "originalLanguage": "english",
@@ -3356,8 +3357,7 @@
         "milestones are structural such as repairing landmarks buildings for a completionist mindset.",
         "filling out town museum, crop and fishing are clear item cataloging elements.",
         "freeform placement of roads, fences and decorations allows grid sandbox organization.",
-        "seasonal shifts changes seasonal variations.",
-        "absence of time limits or combat threats lets players set their own pace."
+        "seasonal shifts changes seasonal variations."
       ],
       "cons": [
         "zero risk of town bankruptcy, resource collapse or physical danger. a management game cannot be under cozy genre, then it's shouldn't be a management but it clearly contains highly management elements which makes it a management game. i know it's a cozy game but you could counter any criticism by saying \"it's just a cozy game.\"",
@@ -3399,8 +3399,7 @@
         }
       ],
       "createdAt": "2026-08-02t08:43:18.283z",
-      "updatedAt": "2026-08-02t10:49:03.205z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-15t22:50:57.292z"
     },
     {
       "id": "item-1785687311605",
