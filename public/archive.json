@@ -1,6 +1,117 @@
 {
   "items": [
     {
+      "id": "item-1786794023447",
+      "cover": "https://wallpaperaccess.com/full/9545829.jpg",
+      "title": "grace",
+      "mainCreator": "jeff buckley",
+      "otherCreators": [
+        "andy wallace/producer",
+        "mick grondahl/bass guitarist",
+        "matt johnson/drummer",
+        "michael tighe/guitarist"
+      ],
+      "creatorDetails": [
+        {
+          "name": "jeff buckley",
+          "category": "music artist",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Jeff_Buckley&ved=2ahUKEwi2_pKywqKWAxUqSvEDHf-XMB4QFnoECDgQAQ&sqi=2&usg=AOvVaw3c1eyE0A0kq7_rLYOYc2MR"
+        },
+        {
+          "name": "andy wallace",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andy%20Wallace"
+        },
+        {
+          "name": "mick grondahl",
+          "category": "bass guitarist",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mick%20Grondahl"
+        },
+        {
+          "name": "matt johnson",
+          "category": "drummer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Matt%20Johnson"
+        },
+        {
+          "name": "michael tighe",
+          "category": "guitarist",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Michael%20Tighe"
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "1994-08-15",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "alternative rock",
+        "folk rock",
+        "art rock",
+        "post grunge",
+        "singer songwriter"
+      ],
+      "philosophicalTags": [
+        "memento mori",
+        "romantic transcendentalism",
+        "existentialist yearning",
+        "psychic liberation",
+        "elegiac love"
+      ],
+      "genreStyleTags": [
+        "acoustic rock",
+        "romance",
+        "melancholic",
+        "poetic",
+        "lonely",
+        "dream pop"
+      ],
+      "summaryPlot": "grace is a yearning meditation on time, death, and love. it is a deeply romantic and tragic record, featuring buckley repeatedly pining for an off-screen love interest while wrestling with his own mortality. the album channels diverse traditions—from jazz torch singers to heavy metal and pakistani qawwali—into an intense and profoundly moving experience.",
+      "pros": [
+        "buckley’s vocal control is shifting from breathy, intimate falsettos to resonant belts is elite.",
+        "\"hallelujah\" is stripping leonard cohen’s synth-heavy original down to a solo fender telecaster and dynamic vocal delivery  is timeless.",
+        "title track serve harmonic tension through shifting chord inversions before detonating into a ecstatic vocal crescendo.",
+        "\"lover, you should've come over\"  has earned emotional weight, by a melancholic harmonium pulse, weeping guitar arpeggios and deep lyricism.",
+        "complex harmonic chords & tuning.",
+        "opening track uses subtle guitar, vocal runs and unpredictable rhythmic shifts which builds an eerie soundscape.",
+        "orchestral performance is lush.",
+        "mick grøndahl (bass) and matt johnson (drums) serve fluid jazz inspired dynamics.",
+        "\"dream brother\" shows droning harmonium, percussive textures and modal guitar which feels haunting.",
+        "heavy distorted alt-rock riffing integration with overall lush energy.",
+        "shifting between delicate folk, classical hymns, led zeppelin-inspired heavy rock and soul balladry."
+      ],
+      "cons": [
+        "3 out of the 10 tracks (\"hallelujah\", \"lilac wine\", \"corpus christi carol\") are covers.",
+        "buckley feels theatrical sometimes. extended vibrato and operatic flourishes feels annoying time to times.",
+        "underdeveloped lyricism on heavier tracks.",
+        "several tracks extend around 5-to-6-minute mark with repetitive grooves which should've been tightened."
+      ],
+      "hornetScore": 8,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "ok computer",
+        "either/or",
+        "punisher",
+        "five leaves left",
+        "tidal",
+        "jar of flies"
+      ],
+      "mediumInfluences": [
+        "led zeppelin 4",
+        "nusrat fateh ali khan",
+        "billie holiday",
+        "nina simone",
+        "edith piaf",
+        "janis joplin",
+        "van morrison"
+      ],
+      "consumedVersion": "vinyl",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-15t11:40:23.449z",
+      "updatedAt": "2026-08-15t11:40:23.454z"
+    },
+    {
       "id": "item-1786779915627",
       "cover": "https://i.ytimg.com/vi/O3iihE_58k4/maxresdefault.jpg",
       "title": "wonderful rainbow",
