@@ -1870,20 +1870,21 @@
         {
           "name": "alexander tugaenko",
           "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander%20Tugaenko"
+          "wikiUrl": "https://en.wikipedia.org/wiki/alexander%20tugaenko"
         },
         {
           "name": "dmitry nechay",
           "category": "designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dmitry%20Nechay"
+          "wikiUrl": "https://en.wikipedia.org/wiki/dmitry%20nechay"
         },
         {
           "name": "stanislav dmitriev",
           "category": "programmer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Stanislav%20Dmitriev"
+          "wikiUrl": "https://en.wikipedia.org/wiki/stanislav%20dmitriev"
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2008-12-05",
       "countryOfOrigin": "ukraine",
       "originalLanguage": "english",
@@ -1933,7 +1934,7 @@
         "despite the giant ship, levels are linear with minimal room for walking around or exploratory sequences are dull..",
         "key triggers like tiny light switches or hidden ladder rungs are poorly displayed in dark rooms, causes aimless moments."
       ],
-      "hornetScore": 5,
+      "hornetScore": 4,
       "hornetVerdict": "",
       "similarMedia": [
         "amnesia the dark descent",
@@ -1957,8 +1958,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-08t12:24:35.953z",
-      "updatedAt": "2026-08-08t12:24:35.971z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-15t20:20:29.859z"
     },
     {
       "id": "item-1785762906387",
