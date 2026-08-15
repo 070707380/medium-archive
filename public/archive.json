@@ -21,22 +21,22 @@
         {
           "name": "andy wallace",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Andy%20Wallace"
+          "wikiUrl": "https://en.wikipedia.org/wiki/andy%20wallace"
         },
         {
           "name": "mick grondahl",
           "category": "bass guitarist",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mick%20Grondahl"
+          "wikiUrl": "https://en.wikipedia.org/wiki/mick%20grondahl"
         },
         {
           "name": "matt johnson",
           "category": "drummer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Matt%20Johnson"
+          "wikiUrl": "https://en.wikipedia.org/wiki/matt%20johnson"
         },
         {
           "name": "michael tighe",
           "category": "guitarist",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Michael%20Tighe"
+          "wikiUrl": "https://en.wikipedia.org/wiki/michael%20tighe"
         }
       ],
       "mediaFormat": "Music Album",
@@ -78,7 +78,7 @@
         "mick grøndahl (bass) and matt johnson (drums) serve fluid jazz inspired dynamics.",
         "\"dream brother\" shows droning harmonium, percussive textures and modal guitar which feels haunting.",
         "heavy distorted alt-rock riffing integration with overall lush energy.",
-        "shifting between delicate folk, classical hymns, led zeppelin-inspired heavy rock and soul balladry."
+        "shifting between delicate folk, classical hymns, led zeppelin-inspired heavy rock and soul."
       ],
       "cons": [
         "3 out of the 10 tracks (\"hallelujah\", \"lilac wine\", \"corpus christi carol\") are covers.",
@@ -109,7 +109,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-15t11:40:23.449z",
-      "updatedAt": "2026-08-15t11:40:23.454z"
+      "updatedAt": "2026-08-15t12:29:12.460z"
     },
     {
       "id": "item-1786779915627",
