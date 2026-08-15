@@ -552,7 +552,12 @@
       "hornetVerdict": "",
       "similarMedia": [
         "the ant and the aardvark",
-        "camp lazlo",
+        {
+          "title": "camp lazlo",
+          "type": "media",
+          "customCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdftwSGv1vw1aZJ4CYvW3vj9AVOZDNPMiF3wC_oZmX6Q&s=10",
+          "note": "linked to tv show"
+        },
         "odd squad",
         "cloudy with a chance of meatballs",
         "monsters vs. aliens"
