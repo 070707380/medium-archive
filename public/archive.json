@@ -1354,6 +1354,7 @@
         }
       ],
       "mediaFormat": "Comic/Manga Series",
+      "isCustomCategory": false,
       "releaseDate": "1989-10",
       "countryOfOrigin": "japan",
       "originalLanguage": "japanese",
@@ -1407,7 +1408,7 @@
         "once falconia is appeared, griffith becomes a god and he doesn't need to be the smartest in the room to survive anymore.",
         "casca being in a non-responsive mental state for over 200 chapters strips one of the story's strongest active characters."
       ],
-      "hornetScore": 6,
+      "hornetScore": 1,
       "hornetVerdict": "",
       "similarMedia": [
         "claymore",
@@ -1431,8 +1432,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02t20:25:01.033z",
-      "updatedAt": "2026-08-07t08:33:14.184z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-15t22:48:14.680z"
     },
     {
       "id": "item-1786032256227",
