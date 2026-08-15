@@ -1,6 +1,131 @@
 {
   "items": [
     {
+      "id": "item-1786809378229",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXVve4XmrwthHAsQqGysD-4XSmCNAU9C0b09tRpGReOKaLkdoxsscOzg&s=10",
+      "title": "laughing stock",
+      "mainCreator": "talk talk",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "talk talk",
+          "category": "band",
+          "nation": "united kingdom",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Talk_Talk&ved=2ahUKEwjLm7Gn-6KWAxVxSfEDHRc1GNIQFnoECD4QAQ&usg=AOvVaw3Y6TZr0zKz2QGVT1nJTBGM",
+          "bandMembers": [
+            {
+              "name": "mark hollis",
+              "bandRole": "vocalist",
+              "participatedInProduct": true,
+              "productRole": "vocals, guitar, piano"
+            },
+            {
+              "name": "tim friese-greene",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "keyboard, produce"
+            },
+            {
+              "name": "lee harris",
+              "bandRole": "drummer",
+              "participatedInProduct": true,
+              "productRole": "drums"
+            },
+            {
+              "name": "paul webb",
+              "bandRole": "bass guitarist",
+              "participatedInProduct": true,
+              "productRole": "bass"
+            },
+            {
+              "name": "mark feltham",
+              "bandRole": "harmonica player",
+              "participatedInProduct": true,
+              "productRole": "harmonica"
+            }
+          ]
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "1991-09-16",
+      "countryOfOrigin": "united kingdom",
+      "originalLanguage": "english",
+      "genres": [
+        "post rock",
+        "experimental rock",
+        "ambient",
+        "art rock"
+      ],
+      "philosophicalTags": [
+        "christian redemption",
+        "shame & humility",
+        "death & transcendence",
+        "existential spirituality",
+        "silence & stillness"
+      ],
+      "genreStyleTags": [
+        "avant garde",
+        "noise",
+        "atmospheric",
+        "space",
+        "minimalist",
+        "whispered vocals",
+        "abstract",
+        "dark ambient",
+        "meditative",
+        "spiritual",
+        "religious",
+        "christian",
+        "hypnotic",
+        "autumn",
+        "suicidal"
+      ],
+      "summaryPlot": "an oblique concept album that follows a man's journey through a sinful life, suicide, ascension, and connection with god. it is a dark and spiritual journey exploring themes of death, redemption, and what comes after.",
+      "pros": [
+        "production treats room ambience, mic bleed and prolonged silence as compositional instruments. using gaps as element is hard thing to do.",
+        "opening track is the record's restraint, using acoustic strums, distant vibraphone and quiet amp hum to create tension.",
+        "\"ascension day\" shifts from mark hollis’s murmurs into 9/8 drum patterns and guitar noise.",
+        "lee harris’s drum performance is extraordinary.",
+        "\"after the flood\" is 9-minute masterclass built around a hypnotic organ drone, weeping harmonica and slowly layering textures.",
+        "unconventional instrumentation & texture.",
+        "micro-details and layering with warmth.",
+        "\"new grass\" is transcendence with drum groove and guitar chords, is a meditative payoff with harmony."
+      ],
+      "cons": [
+        "mumbled, indecipherable enunciation requires external factors to understand, crucial.",
+        "mid-section is about heavily dissonant horn swells and random guitar plucks that goes with formless ambient.",
+        "volume gap from whispers to explosive snares isn't really balanced or blended well.",
+        "instant track fade-outs feels unearned considering the rest of the songs.",
+        "closing track is so stark and minimalist and barely more than isolated guitar plucks, outros sometimes meant to be as this but it could've been way more creative than a gimmicky soft goodbye."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "mark hollis",
+        "hex",
+        "spiderland",
+        "soundtracks for the blind",
+        "the blue nile",
+        "pygmalion"
+      ],
+      "mediumInfluences": [
+        "a love supreme",
+        "tago mago",
+        "in a silent way",
+        "for your pleasure",
+        "red",
+        "otis blue",
+        "music for 18 musicians",
+        "the black saint and the sinner lady"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-15t15:56:18.229z",
+      "updatedAt": "2026-08-15t15:56:18.231z"
+    },
+    {
       "id": "item-1786794023447",
       "cover": "https://wallpaperaccess.com/full/9545829.jpg",
       "title": "grace",
