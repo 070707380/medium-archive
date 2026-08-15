@@ -236,7 +236,7 @@
       "title": "sekiro shadows die twice",
       "mainCreator": "hidetaka miyazaki",
       "otherCreators": [
-        "producer/masaru yamamura",
+        "masaru yamamura/producer",
         "fromsoftware/company"
       ],
       "creatorDetails": [
@@ -247,9 +247,9 @@
           "wikiUrl": "https://en.wikipedia.org/wiki/Hidetaka_Miyazaki"
         },
         {
-          "name": "producer",
-          "category": "masaru yamamura",
-          "wikiUrl": "https://en.wikipedia.org/wiki/producer"
+          "name": "masaru yamamura",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/masaru%20yamamura"
         },
         {
           "name": "fromsoftware",
@@ -258,6 +258,7 @@
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2019-03-22",
       "countryOfOrigin": "japan",
       "originalLanguage": "japanese",
@@ -353,8 +354,7 @@
         }
       ],
       "createdAt": "2026-08-02t10:34:51.388z",
-      "updatedAt": "2026-08-08t11:50:27.386z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-15t07:47:28.032z"
     },
     {
       "id": "item-1785750423268",
