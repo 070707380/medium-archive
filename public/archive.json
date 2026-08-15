@@ -1,6 +1,117 @@
 {
   "items": [
     {
+      "id": "item-1786832182880",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxhD2JNHVPPcuLFn0uZoIhtnMaXC_4UjfZ679v84sEHtEZQWmitH4AHdM&s=10",
+      "title": "kya lost linage",
+      "mainCreator": "david nadal",
+      "otherCreators": [
+        "eden games/company",
+        "hervé sliwa/designer",
+        "nour polloni/producer",
+        "jean yves geffroy/programmer",
+        "gilles benois/artist"
+      ],
+      "creatorDetails": [
+        {
+          "name": "david nadal",
+          "category": "author",
+          "nation": "spain",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/name/nm1977185/&ved=2ahUKEwiB-vGqz6OWAxXESfEDHSI8JPwQFnoECCMQAQ&usg=AOvVaw2uOXWjmjZJ1NZg-Yu6R4ab"
+        },
+        {
+          "name": "eden games",
+          "category": "company",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eden%20Games"
+        },
+        {
+          "name": "hervé sliwa",
+          "category": "designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Herv%C3%A9%20Sliwa"
+        },
+        {
+          "name": "nour polloni",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nour%20Polloni"
+        },
+        {
+          "name": "jean yves geffroy",
+          "category": "programmer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jean%20Yves%20Geffroy"
+        },
+        {
+          "name": "gilles benois",
+          "category": "artist",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gilles%20Benois"
+        }
+      ],
+      "mediaFormat": "Video Game",
+      "isCustomCategory": false,
+      "releaseDate": "2003-11-18",
+      "countryOfOrigin": "france",
+      "originalLanguage": "english",
+      "genres": [
+        "platformer",
+        "beat 'em up",
+        "action adventure"
+      ],
+      "philosophicalTags": [
+        "power & corruption",
+        "good vs. evil",
+        "redemption",
+        "family & betrayal"
+      ],
+      "genreStyleTags": [
+        "high fantasy",
+        "floating islands",
+        "collectibles",
+        "hub world",
+        "rescue mission",
+        "portal fantasy",
+        "werewolf",
+        "corruption"
+      ],
+      "summaryPlot": "a young woman named kya and her brother frank are accidentally transported to a strange, magical world through a portal. after being separated, kya discovers that the world is terrorized by the evil brazul, who has been mutating the peaceful, cat-like nativs into savage werewolf-like creatures called the wolfen. kya learns that her own father, brazul, is responsible and has taken frank captive for his sinister experiments. kya must master her combat skills and explore floating islands to rescue her brother, defeat her corrupted father, and free the nativs.",
+      "pros": [
+        "magical boomerang is both a kinetic weapon and a physics-based puzzle tool.",
+        "rescued nativs populate the hub village and open shops which feels progressive.",
+        "airstream boarding sequences require reading and reflexes to navigate.",
+        "boomerang upgrades like capturing different elemental types unlocks environmental progress.",
+        "ability to grapple, judo-throw and manipulate enemy hitboxes adds a layer of control to the melee.",
+        "floating level design feels layered and cohesive.",
+        "game relies on visual cues than ui elements."
+      ],
+      "cons": [
+        "sluggish delayed melee input response.",
+        "stealth sections are lazy and inconsistent with all of the artificial gimmicks.",
+        "platforming feels very floaty and performative.",
+        "poor lock-on targeting is too unreliable that it causes frustration. combined with awkward camera angles, the game becomes pain in the ass sometimes.",
+        "wind-riding sections routinely place obstacles off-screen,  so you do fail and memorization rather than skill.",
+        "combat is about fighting the same wolfen variants with slightly increased health pools, lacks variety or any complex ai.",
+        "lack of fast travel causes annoying runbacks.",
+        "once specific combat upgrades like the multi-target guine are purchased, the combat loses all tactical value."
+      ],
+      "hornetScore": 2,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "ratchet & clank",
+        "sly cooper and the thievius raccoonus",
+        "beyond good & evil",
+        "tak and the power of juju",
+        "ty the tasmanian tiger"
+      ],
+      "mediumInfluences": [
+        "jak and daxter",
+        "prince of persia",
+        "princess mononoke"
+      ],
+      "consumedVersion": "playstation 2",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-15t22:16:22.884z",
+      "updatedAt": "2026-08-15t22:16:22.890z"
+    },
+    {
       "id": "item-1786824598876",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdftwSGv1vw1aZJ4CYvW3vj9AVOZDNPMiF3wC_oZmX6Q&s=10",
       "title": "camp lazlo",
