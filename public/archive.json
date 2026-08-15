@@ -1,6 +1,134 @@
 {
   "items": [
     {
+      "id": "item-1786779915627",
+      "cover": "https://i.ytimg.com/vi/O3iihE_58k4/maxresdefault.jpg",
+      "title": "wonderful rainbow",
+      "mainCreator": "lightning bolt",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "lightning bolt",
+          "category": "band",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Lightning_Bolt_(band)&ved=2ahUKEwiUyd2SjKKWAxXlQ_EDHSQyKusQFnoECFUQAQ&sqi=2&usg=AOvVaw3i7qLPCSz3_RRNPe9QcBNy",
+          "bandMembers": [
+            {
+              "name": "brian chippendale",
+              "bandRole": "drummer",
+              "participatedInProduct": true,
+              "productRole": "drums, vocals"
+            },
+            {
+              "name": "brian gibson",
+              "bandRole": "bass guitarist",
+              "participatedInProduct": true,
+              "productRole": "bass"
+            },
+            {
+              "name": "dave auchenbach",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "recording engineer"
+            },
+            {
+              "name": "mike mchugh",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "recording engineer"
+            },
+            {
+              "name": "jeff lipton",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "mastering"
+            }
+          ]
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "2003-03-04",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "noise rock",
+        "experimental rock",
+        "math rock"
+      ],
+      "philosophicalTags": [
+        "chaos & order interplay",
+        "catharsis through noise",
+        "abstract physiological & temporal rational",
+        "satori",
+        "anti institution"
+      ],
+      "genreStyleTags": [
+        "brutal prog",
+        "garage punk",
+        "psychedelic",
+        "repetitive",
+        "dissonant",
+        "avant garde",
+        "free jazz",
+        "noise",
+        "hardcore punk",
+        "wall of sound"
+      ],
+      "summaryPlot": "the album is widely considered lightning bolt's most accessible work, featuring heavy, catchy bass riffs and frenetic drumming. it conjures a chaotic, abstract world described by critics as evoking \"retarded unicorns\" and \"copulating robots,\" representing a cathartic journey through the interplay of chaos and order.",
+      "pros": [
+        "chemistry between brian chippendale's polyrhythmic drumming and brian gibson's distorted bass is great, kinda gives a great wall of sound with just two instruments.",
+        "\"dracula mountain\" riff is hypnotic bass line that continuously carries up tension.",
+        "gibson strings his bass with banjo strings and cello tuning  with g-g-d-a,  feels crushing.",
+        "chippendale’s drum performance serve non-stop endurance, complex fills and erratic tempo with zero studio grid.",
+        "\"2 morro morro land\" bridges raw noise with bouncy videogame-like math-rock riffs.",
+        "vocal layers are alien-alike and blends in detached in a good way.",
+        "\"dead cowboy\" moves from an opening rhythm into a 8-minute noise crescendo.",
+        "intentional rubbish recording quality feels claustrophobic."
+      ],
+      "cons": [
+        "album lacks breathing rooms and filled with nonstop full volume distortion. causes listening fatigue.",
+        "several tracks uses single riff for minutes without introducing any shift.",
+        "vocals are noise with zero lyrical or thematic content. while detached which is cool, seeks external factors to understand.",
+        "\"30,000 monkeys\" which is the closing track is abrasive finale without the tight architecture of other tracks.",
+        "entire record is made with one bass and one drum kit, variety is narrow and layers are poorly fed.",
+        "the most endings are generic fade-out effect.",
+        "distorted bass frequencies overwhelm the drum impact,",
+        "math rock element in album isn't tight and well-made compared to the genre standarts or essential works."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "atomizer",
+        "super ae",
+        "the devil isn't red",
+        "it's always 1999"
+      ],
+      "mediumInfluences": [
+        "boredoms",
+        "melt banana",
+        "philip glass",
+        "sun ra",
+        "slayer",
+        "ornette coleman",
+        "ruins",
+        {
+          "title": "black sabbath",
+          "type": "creator",
+          "customCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFoOd1ozTL1Tfdg8Jf5TyJbKPtZD_PeIKX65nrHBJSg&s=10",
+          "note": "linked creator bio (band)"
+        },
+        "squarepusher",
+        "fred frith",
+        "derek bailey"
+      ],
+      "consumedVersion": "cd",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-15t07:45:15.630z",
+      "updatedAt": "2026-08-15t07:45:17.369z"
+    },
+    {
       "id": "item-1786746840904",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBGf6fyt2dRFd6DC_DyI67OxSvsjnca6rqy5GQsLcENYNuLoGa_S56Hk&s=10",
       "title": "numb chucks",
