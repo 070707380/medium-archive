@@ -1,6 +1,108 @@
 {
   "items": [
     {
+      "id": "item-1786824598876",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdftwSGv1vw1aZJ4CYvW3vj9AVOZDNPMiF3wC_oZmX6Q&s=10",
+      "title": "camp lazlo",
+      "mainCreator": "joe murray",
+      "otherCreators": [
+        "mark o'hare/creative director",
+        "shareena carlson/producer",
+        "janet dimon/producer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "joe murray",
+          "category": "director",
+          "nation": "united states",
+          "wikiUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdftwSGv1vw1aZJ4CYvW3vj9AVOZDNPMiF3wC_oZmX6Q&s=10"
+        },
+        {
+          "name": "mark o'hare",
+          "category": "creative director",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mark%20O'Hare"
+        },
+        {
+          "name": "shareena carlson",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shareena%20Carlson"
+        },
+        {
+          "name": "janet dimon",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Janet%20Dimon"
+        }
+      ],
+      "mediaFormat": "TV Show",
+      "isCustomCategory": false,
+      "releaseDate": "2005-07-07",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "surreal comedy",
+        "slapstick",
+        "adventure comedy",
+        "situatuonal comedy"
+      ],
+      "philosophicalTags": [
+        "nature vs. technology",
+        "question authority",
+        "be who you are",
+        "culture of obsessive parenting",
+        "friendship"
+      ],
+      "genreStyleTags": [
+        "anthropomorphic",
+        "parody",
+        "gouache painting",
+        "animation",
+        "absurdist comedy",
+        "episodic",
+        "optimistic"
+      ],
+      "summaryPlot": "set in a universe of anthropomorphic animals, the series follows lazlo, an eccentric and optimistic spider monkey, and his two best friends—raj, a timid indian elephant, and clam, a quiet albino pygmy rhinoceros—as they attend the poorly-run camp kidney. the trio's surreal misadventures often put them at odds with their pessimistic camp leader, scoutmaster lumpus, as they navigate camp life, rivalries with the all-female squirrel scouts from across the lake, and the unregulated wonders of nature.",
+      "pros": [
+        "distinct joe murray visual aesthetics.",
+        "lumpus’s rage, pettiness and unhinged schemes provide the primary comedic value than cheap slapstick.",
+        "tom kenny’s voice acting performance.",
+        "slinkman’s deadpan bureaucratic delivery is a great grounding balance to lumpus’s manic narcissism.",
+        "creative parodies scout culture with absurd very damn specific badges and camp rituals."
+      ],
+      "cons": [
+        "formulaic episode structure where lazlo’s harmless optimism disrupts camp rules, lumpus overreacts and lumpus ends up suffering the consequences.",
+        "lacks the sharp satirical edge, surreal darkness and hidden maturity.",
+        "lazlo is endlessly cheerful, imagine a monkey d. luffy without the growth or journey.",
+        "repetitive slapstick rarely serve unexpected outcomes.",
+        "background chars like edward, chip, skip and samson get buried to gag roles.",
+        "static environment where audience gets trapped in camp and flats gets tiring.",
+        "interactions with patsy smiles and the squirrel scouts repeats the same predictableness.",
+        "later seasons run thin on camp scenarios, mostly about recycled characters' stretched-out gags."
+      ],
+      "hornetScore": 2,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the marvelous misadventures of flapjack",
+        "rocko's modern life",
+        "regular show",
+        "the grim adventures of billy & mandy",
+        "foster's home for imaginary friends",
+        "codename kids next door"
+      ],
+      "mediumInfluences": [
+        "rocko's modern life",
+        "camp candy",
+        "spongebob squarepants",
+        "yogi bear",
+        "pablo picasso",
+        "henri matisse"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-15t20:09:58.879z",
+      "updatedAt": "2026-08-15t20:09:58.885z"
+    },
+    {
       "id": "item-1786809378229",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXVve4XmrwthHAsQqGysD-4XSmCNAU9C0b09tRpGReOKaLkdoxsscOzg&s=10",
       "title": "laughing stock",
