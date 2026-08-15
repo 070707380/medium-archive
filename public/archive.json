@@ -131,17 +131,17 @@
         {
           "name": "mark o'hare",
           "category": "creative director",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mark%20O'Hare"
+          "wikiUrl": "https://en.wikipedia.org/wiki/mark%20o'hare"
         },
         {
           "name": "shareena carlson",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Shareena%20Carlson"
+          "wikiUrl": "https://en.wikipedia.org/wiki/shareena%20carlson"
         },
         {
           "name": "janet dimon",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Janet%20Dimon"
+          "wikiUrl": "https://en.wikipedia.org/wiki/janet%20dimon"
         }
       ],
       "mediaFormat": "TV Show",
@@ -211,7 +211,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-15t20:09:58.879z",
-      "updatedAt": "2026-08-15t20:09:58.885z"
+      "updatedAt": "2026-08-15t22:49:47.608z"
     },
     {
       "id": "item-1786809378229",
