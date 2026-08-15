@@ -2397,6 +2397,7 @@
         }
       ],
       "mediaFormat": "TV Show",
+      "isCustomCategory": false,
       "releaseDate": "2010-05-05",
       "countryOfOrigin": "united states",
       "originalLanguage": "english",
@@ -2476,7 +2477,7 @@
         "the legend of zelda",
         "my neighbor totoro",
         "the simpsons",
-        "pee-wee's playhouse",
+        "pee wee's playhouse",
         "the marvelous misadventures of flapjack",
         "felix the cat",
         "meatballs",
@@ -2492,8 +2493,7 @@
         }
       ],
       "createdAt": "2026-08-02t07:40:03.183z",
-      "updatedAt": "2026-08-06t11:18:30.524z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-15t22:26:52.892z"
     },
     {
       "id": "item-1785739670489",
