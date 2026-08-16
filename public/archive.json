@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "id": "item-1786905079568",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9urqBlGvPqrZjK4Slbx67mnhdEZsss_JT8YIr6qMFqA&s=10",
+      "title": "the princess and the pilot",
+      "mainCreator": "jun shishido",
+      "otherCreators": [
+        "koroku inumura/author",
+        "haruyuki morisawa/illustrator",
+        "satoko okudera/screenplayer",
+        "hidetoshi kaneko/character designer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "jun shishido",
+          "category": "author",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.imdb.com/name/nm2596818/&ved=2ahUKEwi_n_i74KWWAxWIgv0HHcRQH54QFnoECG0QAQ&sqi=2&usg=AOvVaw31a11dWvXx52xKtT8G4ujO"
+        },
+        {
+          "name": "koroku inumura",
+          "category": "author",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Koroku%20Inumura"
+        },
+        {
+          "name": "haruyuki morisawa",
+          "category": "illustrator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Haruyuki%20Morisawa"
+        },
+        {
+          "name": "satoko okudera",
+          "category": "screenplayer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Satoko%20Okudera"
+        },
+        {
+          "name": "hidetoshi kaneko",
+          "category": "character designer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hidetoshi%20Kaneko"
+        }
+      ],
+      "mediaFormat": "Video Game",
+      "isCustomCategory": false,
+      "releaseDate": "2008-02-19",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "romantic drama",
+        "action drama",
+        "high fantasy"
+      ],
+      "philosophicalTags": [
+        "class & social hierarchy",
+        "sacrifice & duty",
+        "war & humanism"
+      ],
+      "genreStyleTags": [
+        "war",
+        "forbidden love",
+        "coming of age",
+        "tragedy",
+        "adaptation"
+      ],
+      "summaryPlot": "set in a world at war between the levamme empire and the amatsukami imperium, the mercenary pilot charles karino is given a mission: to fly the princess juana del moral alone across 12,000 kilometers of enemy territory so she can marry her fiancé, prince carlo, who has promised to end the war. during their journey, the two develop a bond that transcends their social divide, all while being hunted by the imperium's forces.",
+      "pros": [
+        "combat serve genuine flight principles such as energy management, altitude advantage, stall speeds and cloud-cover breaking rather than hilarious aura farm.",
+        "story avoids a fairytale romance by acknowledging the inescapable political and class realities of their world, emotional separation and romance are earned.",
+        "class discrimination serve tension and thematic weight",
+        "aircraft is well designed; twin cockpits, realistic instrumentation and mechanical constraints like fuel weight and overheating engines.",
+        "main objective serve vulnerablity and tension.",
+        "madhouse’s open-ocean horizons, cumulonimbus clouds and sunset reflections enhances the sense of geographic feeling.",
+        "dogfight against the rival ace pilot has mutual tactics such as blind spots and sun positioning to outmart the enemy.",
+        "character interactions lacks unnecessary melodrama."
+      ],
+      "cons": [
+        "sheltered royal who learns humility who discovers purpose follow well-trodden anime tropes.",
+        "flight pacing is damaged by repetitive dialogues, repetitive cockpit shots and still flying far from tension.",
+        "macro wars are background noise.",
+        "enemy acts dumb and blind on purpose to plot armor.",
+        "supporting characters on both military sides are flat.",
+        "ending focuses on the personal farewell. systemic societal oppression charles faces stays unresolved."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the sky crawlers",
+        "the wind rises",
+        "last exile",
+        "area 88",
+        "yukikaze"
+      ],
+      "mediumInfluences": [
+        "the cockpit",
+        "porco rosso"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-16t18:31:19.573z",
+      "updatedAt": "2026-08-16t18:31:19.582z"
+    },
+    {
       "id": "item-1786874686225",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJj9bJRZLqgUF4iS1vGeU0wziWf7RxA5gONMPPLlg4ew1Z7YFo8eDPUPE9&s=10",
       "title": "p.n.03",
