@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "id": "item-1786874686225",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJj9bJRZLqgUF4iS1vGeU0wziWf7RxA5gONMPPLlg4ew1Z7YFo8eDPUPE9&s=10",
+      "title": "p.n.03",
+      "mainCreator": "shinji mikami",
+      "otherCreators": [
+        "hiroyuki kobayashi/producer",
+        "capcom/publisher"
+      ],
+      "creatorDetails": [
+        {
+          "name": "shinji mikami",
+          "category": "author",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shinji_Mikami&ved=2ahUKEwj-h8ve7qSWAxUWSvEDHdFpM_IQFnoFCJMBEAE&usg=AOvVaw0wpMPhyATfT3qABTNGyIMU"
+        },
+        {
+          "name": "hiroyuki kobayashi",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hiroyuki%20Kobayashi"
+        },
+        {
+          "name": "capcom",
+          "category": "publisher",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Capcom"
+        }
+      ],
+      "mediaFormat": "Video Game",
+      "isCustomCategory": false,
+      "releaseDate": "2003-03-27",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "third person shooter",
+        "science fiction",
+        "action adventure"
+      ],
+      "philosophicalTags": [
+        "human vs. machine",
+        "identity and the clone",
+        "corporate control",
+        "futuristic alienation",
+        "existentialist action"
+      ],
+      "genreStyleTags": [
+        "arcade",
+        "rhythm",
+        "experimental",
+        "lock on",
+        "boss fight",
+        "futuristic",
+        "space",
+        "robots"
+      ],
+      "summaryPlot": "in a futuristic space colony, a rogue computerized armament management system (cams) has turned its robot army against humanity. players control vanessa z. schneider, a freelance mercenary hired by a mysterious client to destroy the cams facilities and robots. as she fights through eleven linear levels, she uncovers secrets about the client's true motives and even discovers a clone of herself, which she is forced to abandon.",
+      "pros": [
+        "dodging attacks consist of dance routine, utilizing cartwheels, ducking, backflips and side-steps with invulnerability frames.",
+        "aegis suit customization is clear progression.",
+        "laser grids, projectile paths and missile trajectories making the game skill-dependent.",
+        "chaining combos with countdown timer rewards awareness.",
+        "character movement is keyframed with slick and rhythmic visual identity.",
+        "arenas force you to quickly identify and eliminate turrets and long-range snipers first which is tactical prioritization.",
+        "user interface is sleek and clean."
+      ],
+      "cons": [
+        "in an arcade shooting game, it's impossible to shoot when moving.",
+        "every single mission takes place in visually identical, grey-and-white hallways and industrial rooms.",
+        "progressing in harder difficulties requires replaying randomly generated \"trial missions\" to grind points for suit upgrades.",
+        "level design are opening a door, locking into a box room, clearing turrets and moving to the next identical room.",
+        "primary combat is about smashing the auto-targeting triggers zero combo variations and manual aiming is sluggish and imprecise.",
+        "repetitive robotic enemy types.",
+        "defensive roll often ends in dropped inputs due to animation recovery time, disappointing in sleek animations.",
+        "story is functionally barebones and delivered through minimal text, got zero emotional weight."
+      ],
+      "hornetScore": 3,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "bayonetta",
+        "god hand",
+        "viewtiful joe",
+        "gunvalkyrie"
+      ],
+      "mediumInfluences": [
+        "dino crisis",
+        {
+          "title": "resident evil",
+          "type": "media",
+          "customCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKv1YDZi5hkzhQ_iGZTAQZYsvxQHadPDsgCbg3guRE-N6Es7QykCwIorc&s=10",
+          "note": "linked to video game (1996)"
+        },
+        "devil may cry"
+      ],
+      "consumedVersion": "nintendo gamecube",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-16t10:04:46.227z",
+      "updatedAt": "2026-08-16t10:04:47.519z"
+    },
+    {
       "id": "item-1786832182880",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxhD2JNHVPPcuLFn0uZoIhtnMaXC_4UjfZ679v84sEHtEZQWmitH4AHdM&s=10",
       "title": "kya lost linage",
