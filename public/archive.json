@@ -205,25 +205,25 @@
         {
           "name": "koroku inumura",
           "category": "author",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Koroku%20Inumura"
+          "wikiUrl": "https://en.wikipedia.org/wiki/koroku%20inumura"
         },
         {
           "name": "haruyuki morisawa",
           "category": "illustrator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Haruyuki%20Morisawa"
+          "wikiUrl": "https://en.wikipedia.org/wiki/haruyuki%20morisawa"
         },
         {
           "name": "satoko okudera",
           "category": "screenplayer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Satoko%20Okudera"
+          "wikiUrl": "https://en.wikipedia.org/wiki/satoko%20okudera"
         },
         {
           "name": "hidetoshi kaneko",
           "category": "character designer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hidetoshi%20Kaneko"
+          "wikiUrl": "https://en.wikipedia.org/wiki/hidetoshi%20kaneko"
         }
       ],
-      "mediaFormat": "Video Game",
+      "mediaFormat": "Film",
       "isCustomCategory": false,
       "releaseDate": "2008-02-19",
       "countryOfOrigin": "japan",
@@ -281,7 +281,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-16t18:31:19.573z",
-      "updatedAt": "2026-08-16t18:31:19.582z"
+      "updatedAt": "2026-08-17t23:05:40.138z"
     },
     {
       "id": "item-1786874686225",
