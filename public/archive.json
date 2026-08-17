@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "id": "item-1787007569219",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4uo7jcn2wxKEmjYzCyWCGvaq0OJkPZVIX2qsRFvtiH4c6CI6tiL3btr7&s=10",
+      "title": "night on the galactic railroad",
+      "mainCreator": "kenji miyazawa",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "kenji miyazawa",
+          "category": "author",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Kenji_Miyazawa&ved=2ahUKEwiq977N3KiWAxWHVfEDHR9sCjQQFnoECEsQAQ&sqi=2&usg=AOvVaw2zBkebN5sX87EjxLMgIrQM"
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "1951",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "coming of age",
+        "philosophical fantasy"
+      ],
+      "philosophicalTags": [
+        "mahayana buddhist altruism",
+        "memento mori",
+        "true happiness & sacrifice",
+        "life death & the afterlife"
+      ],
+      "genreStyleTags": [
+        "surreal",
+        "allegory",
+        "sacrifice",
+        "loneliness",
+        "buddhist",
+        "poetic",
+        "melancholic",
+        "hopeful",
+        "anthropomorphic",
+        "space",
+        "road journey"
+      ],
+      "summaryPlot": "a poor and lonely boy named giovanni falls asleep on a hill during the star festival and dreams he is riding a magnificent train through the milky way with his beloved friend campanella. as they journey past celestial wonders, they encounter passengers who reveal themselves to be dead, and giovanni ultimately realizes his friend campanella has drowned in a river saving another boy, forcing him to confront the profound meaning of true happiness, self-sacrifice, and death.",
+      "pros": [
+        "story begins with giovanni’s exhausting real-world labor, typesetting letters in a dark print shop and enduring poverty and bullying, which enforces the emotional weight.",
+        "train route charts milky way constellations and nebulae (northern cross, cygnus, scorpius, southern cross, coal sack), turning metaphysics into a transit.",
+        "thematic depth on true happiness with complex moral elements.",
+        "spoiler/ scorpion that laments its useless death and burns its own body to illuminate the darkness is effective thematic stone for selfless sacrifice.",
+        "spoiler/ campanella’s earned melancholy, wet coat and realization of his destination tell his physical death by drowning without melodrama.",
+        "encounter with the tutor and children from the sunken ocean liner tell the celestial train as a universal vessel for souls passing through tragedy.",
+        "digging up 1.2-million-year-old fossilized walnuts along the glowing river bed is a stunning section between paleontology and spiritual eternity.",
+        "rejection of easy religious dogmas with blending budhist concrpts of selflessness with christian iconography  such as hymns and southern cross into a metaphysical frame.",
+        "void of campanella's must into the infinite unknown, leaving giovanni alone.",
+        "spoiler/ giovanni wakes up under the stars to discover campanella’s death in the river, choosing to return home with milk for his mother and bear the burden of living."
+      ],
+      "cons": [
+        "structure is shaky, i think because author revised until he died. external reason aside, you feel the fragmented execution.",
+        "giovanni is more of observant passenger in celestial sights rather than someone active in the conflict.",
+        "characters deliver direct metaphysical lectures on altruism that border on didactic sermonizing.",
+        "episodic structure of passengers sharing their grief at their respective afterlife stations feels formulaic",
+        "schoolyard bullies like zanelli are shallow characters designed specifically to serve single obvious personality and cause.",
+        "transition from grounded poverty to celestial surrealism is too sudden.",
+        "over-reliance on descriptions of glowing crystals, phosphorus sands and silver reeds causes fatigue during the middle parts."
+      ],
+      "hornetScore": 7,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "spirited away",
+        "the little prince",
+        "angel's egg",
+        "paprika",
+        "the polar express",
+        "maboroshi",
+        "sans soleil"
+      ],
+      "mediumInfluences": [
+        "the lotus sutra",
+        "orpheus myth",
+        "scorpion's prayer"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-17t22:59:29.219z",
+      "updatedAt": "2026-08-17t22:59:29.221z"
+    },
+    {
       "id": "item-1786977525221",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6t2lWN-8TBMGXbBLjpKb--9ebq_s9SqtqDleFoUjOA&s=10",
       "title": "depression cherry",
