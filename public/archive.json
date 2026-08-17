@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "id": "item-1786977525221",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6t2lWN-8TBMGXbBLjpKb--9ebq_s9SqtqDleFoUjOA&s=10",
+      "title": "depression cherry",
+      "mainCreator": "beach house",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "beach house",
+          "category": "band",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Beach_House&ved=2ahUKEwjjndv77aeWAxVpBNsEHUynAnsQFnoECDwQAQ&usg=AOvVaw2NR8TNaO010qVfXK9LDSFF",
+          "bandMembers": [
+            {
+              "name": "victoria legrand",
+              "bandRole": "vocalist",
+              "participatedInProduct": true,
+              "productRole": "vocal, organ, keyboard"
+            },
+            {
+              "name": "alex scally",
+              "bandRole": "guitarist",
+              "participatedInProduct": true,
+              "productRole": "guitar, bass, keyboard"
+            },
+            {
+              "name": "chris coady",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "co producer, recording, mixing"
+            }
+          ]
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "2015-08-28",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "dream pop",
+        "ambient pop"
+      ],
+      "philosophicalTags": [
+        "loss & grief",
+        "time & impermanence",
+        "schopenhauerian melancholy"
+      ],
+      "genreStyleTags": [
+        "ethereal",
+        "melancholic",
+        "minimalist",
+        "atmospheric",
+        "depression",
+        "hypnotic",
+        "shoegaze"
+      ],
+      "summaryPlot": "exploration of grief, loss, and the passage of time. it serves as a sonic and emotional landscape, using stripped-down, minimalist dream pop arrangements to evoke a specific feeling—described by the band as \"a color, a place, a feeling, an energy\". the album is a meditative journey through melancholy, designed to immerse the listener in a mood of bittersweet reflection and existential contemplation.",
+      "pros": [
+        "\"space song\" is anchored by an iconic slide-guitar lead and a pulsating keyboard arpeggio.",
+        "minimalism works out with intentionally aggressive live drumming in favor of gentle drum machines and spacious organs with bedroom sounds.",
+        "\"levitation\" uses organ drone that layers victoria legrand’s vocal harmonies to open the record with depth.",
+        "layered vocal loops and distorted guitar fuzz serve textured burst of energy with shoegaze elements.",
+        "generous acoustic headroom around the vocals and hypnotic vocal layering.",
+        "\"ppp\" build on a 6/8 arpeggio that slowly comes up with harmonic tension before turning into a cinematic outro.",
+        "aesthetic of melancholic nostalgia, intimacy and slow-burn reverie.",
+        "very solid pacing with spaces for individual synth chords."
+      ],
+      "cons": [
+        "formulaic song structures.",
+        "electronic drums are buried shallowly under everything else.",
+        "tracks like \"bluebird\" and \"wildflower\" feel lightweight and riskless.",
+        "impressionistic muffled lyricism that seeks external factors.",
+        "limited dynamic contrast.",
+        "reliance on yamaha ps-20 organ feels repetitive.",
+        "absence of dynamic basslines or shifting syncopation makes the harmonic rhythm kinda floaty."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "ceres & calypso in the deep time",
+        "soft sounds from another planet",
+        "ultraviolance",
+        "carrie & lowell"
+      ],
+      "mediumInfluences": [
+        "cocteau twins",
+        "slowdive",
+        "lush",
+        "the velvet underground",
+        "the beach boys"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-17t14:38:45.222z",
+      "updatedAt": "2026-08-17t14:38:45.224z"
+    },
+    {
       "id": "item-1786905079568",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9urqBlGvPqrZjK4Slbx67mnhdEZsss_JT8YIr6qMFqA&s=10",
       "title": "the princess and the pilot",
