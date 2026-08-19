@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "id": "item-1787140541271",
+      "cover": "https://www.silentradio.co.uk/wp-content/uploads/2011/09/A_Winged_Victory_for_the_Sullen.jpg.scaled1000-e1316185016121-620x350.jpg",
+      "title": "a winged victory for the sullen",
+      "mainCreator": "a winged victory for the sullen",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "a winged victory for the sullen",
+          "category": "band",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/A_Winged_Victory_for_the_Sullen&ved=2ahUKEwjzsZ_qzKyWAxXAQ_EDHTFLHBIQFnoECGUQAQ&usg=AOvVaw17QxhhzC9_aJhnalShLvc4",
+          "bandMembers": [
+            {
+              "name": "dustin o'halloran",
+              "bandRole": "producer",
+              "participatedInProduct": true,
+              "productRole": "keyboard, piano"
+            },
+            {
+              "name": "adam wiltzie",
+              "bandRole": "guitarist",
+              "participatedInProduct": true,
+              "productRole": "guitar"
+            }
+          ]
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "2011-09-08",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "ambient",
+        "drone"
+      ],
+      "philosophicalTags": [
+        "transcendental melancholy",
+        "nostalgia & loss",
+        "life death & the afterlife",
+        "hope & despair",
+        "memory & impermanence",
+        "mystical spirituality"
+      ],
+      "genreStyleTags": [
+        "minimalist",
+        "instrumental",
+        "melancholic",
+        "classical",
+        "orchestral",
+        "hopeful",
+        "experimental",
+        "ethereal",
+        "meditative"
+      ],
+      "summaryPlot": "evokes the emotional and spiritual weight of loss, memory, and transcendence. it is a meditation on grief, particularly inspired by the death of mark linkous, blending ambient drone, neoclassical strings, and melancholic piano to create a vast, reflective, and deeply atmospheric soundscape.",
+      "pros": [
+        "recorded in acoustically rich spaces (including berlin's grunewald church), with natural room decay, pedal creaks and bow scrapes with lifelike clarity.",
+        "seamlessly blends dustin o'halloran’s piano motifs with adam wiltzie’s (stars of the lid) layered ambient drones.",
+        "album is opened with with patient piano chords that slowly dissolve into aching cello lines.",
+        "features lush performances by peter broderick-led string ensemble, avoiding orchestral bombast for more harmonic play.",
+        "\"steep hills of vicodin tears\" is emotionally earned with warm analog drones beneath string chords.",
+        "phill brown and francesco donadello's mixing allows individual piano notes to decay naturally without frequency clutters.",
+        "bypasses cheap cinematic melodrama in for minimalism and meditation."
+      ],
+      "cons": [
+        "harmonic pacing causes listening fatigue in the mid-sequences.",
+        "absence of percussive momentum or syncopated tension leaves the load on sustain pedals and sustained bow strokes so album overally becomes so rhythmless.",
+        "pieces like \"minuet for a cheap piano number one\" and \"number two\" share nearly identical arrangement formulas and dynamic arcs.",
+        "relies a lot at ambeint formlessness that risks within the genre is barely taken. album is also considered as a drone album and it lacks the elemental catalog of the expected.",
+        "several tracks adhere to a formulaic loop with sparse piano intro, swelling string drone, decay to silence.",
+        "back half of the record slows its textural progression, reusing motifs used earlier on the tracklist."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "stars of the lid and their refinement of the decline",
+        "structures from silence",
+        "an accidental memory in the case of death",
+        "the disintegration loops",
+        "f#a#∞",
+        "ágætis byrjun"
+      ],
+      "mediumInfluences": [
+        "stars of the lid",
+        "the dead texan",
+        "sparklehorse",
+        "claude debussy",
+        "ryūichi sakamoto",
+        "hilma af klint"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-19t11:55:41.277z",
+      "updatedAt": "2026-08-19t11:55:41.283z"
+    },
+    {
       "id": "item-1787007569219",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4uo7jcn2wxKEmjYzCyWCGvaq0OJkPZVIX2qsRFvtiH4c6CI6tiL3btr7&s=10",
       "title": "night on the galactic railroad",
