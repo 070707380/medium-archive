@@ -1,6 +1,88 @@
 {
   "items": [
     {
+      "id": "item-1787219749063",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5yODTxEFSyd9w64d74y2_pkQ9qrRc78FFO-B9mU7E0A&s=10",
+      "title": "phoenix",
+      "mainCreator": "osamu tezuka",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "osamu tezuka",
+          "category": "author",
+          "nation": "japan",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Osamu_Tezuka",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osamu_Tezuka_1951_Scan10008-2.JPG/330px-Osamu_Tezuka_1951_Scan10008-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        }
+      ],
+      "mediaFormat": "Comic/Manga Series",
+      "isCustomCategory": false,
+      "releaseDate": "1959-09",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "science fiction",
+        "epic",
+        "fantasy drama",
+        "metafictional anthology"
+      ],
+      "philosophicalTags": [
+        "reincarnation & eternal return",
+        "life death & immortality",
+        "buddhist karma",
+        "entropy & dynamic equilibrium",
+        "human instinct for violence & creation",
+        "cyclical history"
+      ],
+      "genreStyleTags": [
+        "historical fantasy",
+        "high fantasy",
+        "reincarnation",
+        "buddhist",
+        "mythology",
+        "karma",
+        "war",
+        "experimental"
+      ],
+      "summaryPlot": "a cosmic, immortal firebird known as the phoenix serves as a guide through a vast, non-linear anthology of stories spanning from the mythic past to the distant future. each self-contained part is set in a different era and explores humanity's endless, often destructive quest for immortality, power, and meaning, as the series delves into the cycle of life, death, and reincarnation that connects all living things.",
+      "pros": [
+        "alternating chronologically from the ancient dawn of civilization and the far future extinction of mankind toward the present.",
+        "future arc depicts the heat death of earth and masato yamanobe’s billions of years in isolation as an immortal consciousness.",
+        "rejects romanticized immortality.",
+        "karma arc explores the rivalry between mutilated bandit gao and privileged sculptor akanemaru, painful reality of artistic creation versus sponsored corruption.",
+        "tracking the karmic lineage of the large-nosed saruta archetype through multiple distinct eras is a through-line of generational suffering and redemption in reincarnation mechanic.",
+        "avant-garde geometry is disintegrating.",
+        "masterfully serves 7th-century shinto-buddhist religious warfare with a 21st-century dystopian shadow society through linked spiritual dreaming.",
+        "manga refuses to sanitize ancient history, it depicts war, religious fanaticism, slavery and political purges with grounded approach.",
+        "spoiler/ setting dying astronauts to escape pods while managing hallucination alien parasites is tezuka's mastery of suspense and resource management."
+      ],
+      "cons": [
+        "tezuka puts slapstick, 4th wall breaker modern celebrity cameos and meta-jokes that damages dark tension.",
+        "because of tezuka’s death in 1989, the manga is never finished. death is just another external factor so unfinished story is critically problematic to me ignoring the context.",
+        "dated disney-influenced character designs.",
+        "some volumes feel lightweight compared to pillars like \"karma\" or \"future\".",
+        "characters reach the phoenix only to realize too late the futility of human greed, which feels formulaic across multiple volumes.",
+        "underdeveloped side characters in shorter arcs."
+      ],
+      "hornetScore": 7,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "nausicaä of the valley of the wind",
+        "monster"
+      ],
+      "mediumInfluences": [
+        "the little humpbacked horse",
+        "helen of troy",
+        "igor stravinsky",
+        "astro boy"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-20t09:55:49.064z",
+      "updatedAt": "2026-08-20t09:55:49.069z"
+    },
+    {
       "id": "item-1787140541271",
       "cover": "https://www.silentradio.co.uk/wp-content/uploads/2011/09/A_Winged_Victory_for_the_Sullen.jpg.scaled1000-e1316185016121-620x350.jpg",
       "title": "a winged victory for the sullen",
