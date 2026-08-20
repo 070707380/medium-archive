@@ -20,17 +20,17 @@
         {
           "name": "shinji mikami",
           "category": "executive producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Shinji%20Mikami"
+          "wikiUrl": "https://en.wikipedia.org/wiki/shinji%20mikami"
         },
         {
           "name": "hiroyuki kobayashi",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hiroyuki%20Kobayashi"
+          "wikiUrl": "https://en.wikipedia.org/wiki/hiroyuki%20kobayashi"
         },
         {
           "name": "akihiko ishizaka",
           "category": "design artist",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Akihiko%20Ishizaka"
+          "wikiUrl": "https://en.wikipedia.org/wiki/akihiko%20ishizaka"
         }
       ],
       "mediaFormat": "Video Game",
@@ -86,7 +86,7 @@
         "lack of mid-mission fast travel.",
         "political exposition told through disembodied ghosts seeks external reading to understand plot points which is huge deal for me."
       ],
-      "hornetScore": 4,
+      "hornetScore": 5,
       "hornetVerdict": "",
       "similarMedia": [
         "no more heroes",
@@ -109,7 +109,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-20t16:39:40.160z",
-      "updatedAt": "2026-08-20t16:39:40.164z"
+      "updatedAt": "2026-08-20t16:46:55.119z"
     },
     {
       "id": "item-1787219749063",
