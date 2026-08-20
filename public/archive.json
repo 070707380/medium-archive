@@ -1,6 +1,117 @@
 {
   "items": [
     {
+      "id": "item-1787243980157",
+      "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/10315283/killer7screenshot.jpg?w=1200&h=675&fit=crop",
+      "title": "killer7",
+      "mainCreator": "goichi suda",
+      "otherCreators": [
+        "shinji mikami/executive producer",
+        "hiroyuki kobayashi/producer",
+        "akihiko ishizaka/design artist"
+      ],
+      "creatorDetails": [
+        {
+          "name": "goichi suda",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://en.wikipedia.org/wiki/Goichi_Suda%26hl%3Dtr%26sl%3Den%26tl%3Dtr%26client%3Dsrp&ved=2ahUKEwiQv_6mzq-WAxXAA9sEHSa5LBgQFnoECFgQAQ&usg=AOvVaw1AIPn9pEx6MHL8dj_on7sb"
+        },
+        {
+          "name": "shinji mikami",
+          "category": "executive producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shinji%20Mikami"
+        },
+        {
+          "name": "hiroyuki kobayashi",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hiroyuki%20Kobayashi"
+        },
+        {
+          "name": "akihiko ishizaka",
+          "category": "design artist",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Akihiko%20Ishizaka"
+        }
+      ],
+      "mediaFormat": "Video Game",
+      "isCustomCategory": false,
+      "releaseDate": "2005-06-09",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "english",
+      "genres": [
+        "action adventure",
+        "psychological thriller",
+        "neo noir",
+        "political drama"
+      ],
+      "philosophicalTags": [
+        "critique of free will",
+        "postmodernist paranoia",
+        "political satire",
+        "the dialectic of friend and enemy",
+        "nihilism"
+      ],
+      "genreStyleTags": [
+        "puzzle",
+        "nihilist",
+        "political",
+        "surrealist",
+        "first person shooter",
+        "dystopian",
+        "cyberpunk",
+        "alternate history",
+        "stealth",
+        "supernatural",
+        "conspiracy"
+      ],
+      "summaryPlot": "the game takes place in an alternate history where a fragile world peace is threatened by \"heaven smiles,\" invisible, laughing, suicide-bomber mutants. you control harman smith, a wheelchair-bound assassin who can manifest seven distinct personalities—each with unique weapons and skills—collectively known as the killer7. hired by the u.s. government, the killer7 are sent to eliminate the heaven smiles and their creator, kun lan. as they carry out hits across the globe, they uncover a deep conspiracy involving the role of japan in u.s. politics and the true, shocking nature of their own existence.",
+      "pros": [
+        "restricting movement to a run button along pre-determined track nodes turns environment into an rhythm-based puzzle.",
+        "first-person scanning and shooting mechanics force you to detonate yellow glowing weak points on camouflaged \"heaven smiles\" under time pressure.",
+        "switching between the 7 assassin personas with each with bespoke firearm caliber, reload speed, spatial abilitoes (kaede’s blood barrier piercing, con’s blind navigation, kevin’s invisibility) is boosts problem-solving and variety.",
+        "harvesting thick and thin blood from fallen smiles to upgrade attributes (power, speed, waver, critical) or recovery vials creates a tight resource management.",
+        "uses cold war remnants, nuclear disarmament treaties and shadow bureaucracy diplimacy between the us and japan for a geopolitical thriller.",
+        "comic book brutalism looking sharp geometric artwork.",
+        "memorable boss actions such as the power rangers parody \"handsome men\", curtis blackburn’s quick-draw duel and the wind-up ayame blackburn fight are over standard shooter tropes.",
+        "spoiler/ deconstruction of harman smith, kun lan and garcian smith’s true identities recontextualizes the gameplay into a psychological point.."
+      ],
+      "cons": [
+        "you cannot move when shooting.",
+        "monotonous branching node turning.",
+        "repetitive basic enemy encounters.",
+        "opening locks requires searching for soul rings and specific heads (iwazaru, travis) which feels lazy and annoying.",
+        "awkward hitbox misalignments.",
+        "once dan smith’s collateral shot and con smith’s agility are maxed out, certain personas like coyote or mask see less tactical utility..",
+        "puzzles are mostly seeks lazy trial-and-error where you try more than thinking.",
+        "lack of mid-mission fast travel.",
+        "political exposition told through disembodied ghosts seeks external reading to understand plot points which is huge deal for me."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "no more heroes",
+        "killer is dead",
+        "fear effect",
+        "deadly premonition",
+        "metal gear solid 2 sons of liberty",
+        "el shaddai ascension of the metatron"
+      ],
+      "mediumInfluences": [
+        "cowboy bebop",
+        "david lynch",
+        "alejandro jodorowsky",
+        "quentin tarantino",
+        "moonlight syndrome",
+        "myst",
+        "snatcher"
+      ],
+      "consumedVersion": "nintendo gamecube",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-20t16:39:40.160z",
+      "updatedAt": "2026-08-20t16:39:40.164z"
+    },
+    {
       "id": "item-1787219749063",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5yODTxEFSyd9w64d74y2_pkQ9qrRc78FFO-B9mU7E0A&s=10",
       "title": "phoenix",
