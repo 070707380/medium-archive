@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "id": "item-1787388994716",
+      "cover": "https://universemagazine.com/wp-content/uploads/2025/12/ezgif-37970ba5f2b6825e-1.jpg",
+      "title": "the rings of saturn",
+      "mainCreator": "w. g. sebald",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "w. g. sebald",
+          "category": "author",
+          "nation": "germany",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/W._G._Sebald&ved=2ahUKEwju_7P_6LOWAxXwcvEDHVt6AZAQFnoECEQQAQ&sqi=2&usg=AOvVaw1n3ebDflhCGSzqJ4MgSW4I"
+        }
+      ],
+      "mediaFormat": "Book",
+      "isCustomCategory": false,
+      "releaseDate": "1995",
+      "countryOfOrigin": "germany",
+      "originalLanguage": "deutsch",
+      "genres": [
+        "travelogue",
+        "meditative essay"
+      ],
+      "philosophicalTags": [
+        "transience & decay",
+        "truman & memory",
+        "history of destruction",
+        "melancholic nihilism",
+        "identity & perception"
+      ],
+      "genreStyleTags": [
+        "road",
+        "meditative",
+        "melancholic",
+        "war",
+        "hypnotic"
+      ],
+      "summaryPlot": "in august 1992, a nameless german-born narrator (resembling sebald) sets off on a walking tour of the suffolk coast in england. what follows is not a straightforward travelogue but a hypnotic, digressive meditation: each step triggers layered reflections on history, literature, natural science, and decay—from sir thomas browne's skull and rembrandt's anatomy lesson to the herring's natural history, the congo atrocities of joseph conrad and roger casement, the firebombing of wwii, and the dowager empress tz'u-hsi's silkworms. exactly one year later, the narrator is admitted to a norwich hospital in a state of near-total immobility.",
+      "pros": [
+        "transitions from physical paths in suffolk into sweeping historical, philosophical and biographical inquiries without jagged structural breaks.",
+        "examines the universal law of decay, demonstrating how empires, grand estates, ecosystems and human bodies inevitably collapse into dust. studies the inevitable.",
+        "features grainy black-and-white photographs, newspaper clippings and diagrams placed directly in the text without captions, it's haunting blend of documentary evidence and feels dreamy.",
+        "details the horrific exploitation of the belgian congo through the intersecting biographies of joseph conrad and roger casement with cold precision.",
+        "opens with 17th-century polymath sir thomas browne, using his dissection of quincunxes, skulls and urn burials to establish the book's metaphysics.",
+        "tells the landscapes of dunwich which is a medieval city lost to the sea and the abandoned cold war military installations at orford ness with earned atmospheric weight.",
+        "concludes with an historical analysis of sericulture (silk production), from imperial china to prussian state control and nazi metaphors.",
+        "refuses to romanticize the past.",
+        "telles the shadow of the holocaust through indirect reflections on ruined european spaces rather than generic explicit exposition.",
+        "it never forces any underdeveloped tension, unearned romance,  or a traditional plot when informing, never tries to something it isn't unlike nineteen ninety eight."
+      ],
+      "cons": [
+        "text contains no chapter breaks, dialogue indents or traditional paragraph scaffolding, wall of text creates fatigue.",
+        "relies on deep familiarity with external factors such as european history, literature (chateaubriand, conrad, swinburne) and art history.",
+        "intentionally blends documented historical facts with fabricated biographical details, this is epistemological...",
+        "repeatedly details overgrown gardens, damp hotel rooms and foggy coastlines gets annoying."
+      ],
+      "hornetScore": 8,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "open city",
+        "the peregrine",
+        "the living mountain",
+        "concrete"
+      ],
+      "mediumInfluences": [
+        "urn burial",
+        "heart of darkness",
+        "the rubáiyát of omar khayyám",
+        "the hunter gracchus",
+        "the burrow",
+        "the anatomy lesson of dr. nicolaes tulp",
+        "jorge luis borges"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-22t08:56:34.722z",
+      "updatedAt": "2026-08-22t08:56:34.727z"
+    },
+    {
       "id": "item-1787243980157",
       "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/10315283/killer7screenshot.jpg?w=1200&h=675&fit=crop",
       "title": "killer7",
