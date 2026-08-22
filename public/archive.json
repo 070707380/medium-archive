@@ -1803,6 +1803,7 @@
         }
       ],
       "mediaFormat": "Music Album",
+      "isCustomCategory": false,
       "releaseDate": "1985-90-16",
       "countryOfOrigin": "united kingdom",
       "originalLanguage": "english",
@@ -1850,7 +1851,7 @@
         "commercial side of the album is about generic structure of repetitive and predictable verse-chorus boredom.",
         "beat crafting and synth-loop repetitions lack glitch details and kinda falls as simple. well it was generational in it's time, i guess?"
       ],
-      "hornetScore": 6,
+      "hornetScore": 5,
       "hornetVerdict": "",
       "similarMedia": [
         "post",
@@ -1870,8 +1871,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-07t08:18:40.267z",
-      "updatedAt": "2026-08-07t08:18:40.271z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-22t09:46:18.620z"
     },
     {
       "id": "item-1786178048567",
