@@ -1595,6 +1595,7 @@
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2004-11-16",
       "countryOfOrigin": "united states",
       "originalLanguage": "english",
@@ -1663,8 +1664,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-03t09:47:03.273z",
-      "updatedAt": "2026-08-06t07:35:40.300z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-22t09:43:05.202z"
     },
     {
       "id": "item-1786211199487",
