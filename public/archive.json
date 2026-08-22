@@ -21,7 +21,6 @@
       "countryOfOrigin": "-",
       "originalLanguage": "-",
       "genres": [
-        "romancisist",
         "gothic horror",
         "erotic dreamscape"
       ],
@@ -34,12 +33,12 @@
         "incubus"
       ],
       "genreStyleTags": [
-        "romancisist",
         "gothic",
         "erotic",
         "supernatural",
         "folk horror",
-        "subliminal"
+        "subliminal",
+        "romanticist"
       ],
       "summaryPlot": "the painting depicts a sleeping woman draped helplessly over the end of a bed, her head and arms hanging down as if in a deep, death-like slumber. an apelike incubus crouches on her chest, leering at the viewer, while a horse with glowing, pupil-less eyes emerges from the shadowy red curtains in the background. the scene captures the terrifying, suffocating, and sexually charged experience of a nightmare, giving physical form to the invisible horrors of the unconscious mind.",
       "pros": [
@@ -79,7 +78,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-22t14:18:07.167z",
-      "updatedAt": "2026-08-22t14:26:13.544z"
+      "updatedAt": "2026-08-22t14:33:16.432z"
     },
     {
       "id": "item-1787388994716",
