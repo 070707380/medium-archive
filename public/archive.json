@@ -2136,7 +2136,8 @@
         "romantic drama",
         "psychological horror",
         "atmospheric horror",
-        "supernatural horror"
+        "supernatural horror",
+        "trauma"
       ],
       "summaryPlot": "the story centers on guts, a lone swordsman branded for sacrifice, who is hunted by demonic forces in a brutal, medieval-inspired world. his quest for revenge against his former friend and leader, griffith, who betrayed their mercenary group in a horrific event known as the eclipse, is a harrowing exploration of fate, trauma, and the will to survive.",
       "pros": [
@@ -2184,7 +2185,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02t20:25:01.033z",
-      "updatedAt": "2026-08-15t22:48:44.484z"
+      "updatedAt": "2026-08-22t11:38:18.058z"
     },
     {
       "id": "item-1786032256227",
