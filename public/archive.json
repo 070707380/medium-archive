@@ -4279,6 +4279,7 @@
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2002-10-29",
       "countryOfOrigin": "united states",
       "originalLanguage": "english",
@@ -4313,7 +4314,7 @@
       "summaryPlot": "after being released from prison, gangster tommy vercetti is sent to vice city to oversee a major drug deal, but the deal is ambushed and his employers are killed, leaving him to hunt down those responsible while building his own criminal empire from scratch. as tommy seizes power from rival gangs and corrupt officials, he transforms from a low-level enforcer into the most powerful crime lord in vice city.",
       "pros": [
         "the game's biggest positive is 80's aesthetics and atmosphere is unmatched in this product.",
-        "radio stations with licensed 80's iconic music in it adds more to the already great aesthetics.",
+        "radio stations with licensed 80's iconic music in it adds more to the already great aesthetics. i can confirmly say this game contains one of the best radio station performance in the gaming industry.",
         "vehicle variety is good, open world is colorful and vibrant.",
         "open world content as rampage missions, vigilante, rewarding collectibles, pizza boy, taxi and ambulance driving exist.",
         "moving from the ocean beach to the industrial docks and starfish island mansions serves environmental variety."
@@ -4322,12 +4323,14 @@
         "clunky gunplay is unforgivingly primitive.",
         "absence of mid-mission checkpoints makes the whole game frustrating when you fail because of something sudden happens in clunky controls.",
         "rc missions are minigame fillers in main mission-line with frustration controls.",
-        "vehicle handling is very floaty.",
+        "vehicle handling is very floaty and uninteresting.",
         "police vehicles spawn out of thin air directly in front of the player in high speeds and without paint spray or collectible cop stars, it's almost impossible to escape 3+ cop stars in traffic which turns cops just a chore.",
-        "story requires asset purchases to unlock main story progression, this requires dealing with annoying asset missions which are just all annoying chores fillers.",
+        "story requires asset purchases to unlock main story progression, this requires dealing with annoying asset missions which are usually annoying chores fillers.",
         "the betrayals and plot twists are too undeserved. characters becomes tight friends in a couple of conversations then game expects us to feel shock when a betrayal happens.",
         "open world isn't living, city npcs are imbeciles and side quests gets repetitive quickly.",
-        "despite scarface route, tommy never sees any consequences of crime life at the end."
+        "despite scarface route, tommy never sees any consequences of crime life at the end.",
+        "tommy's rise is undercooked, everything happens so sudden and it feels unearned in macro tension.",
+        "cop land, four iron, bombs away!, the job etc. missions are all mechanically frustrating in a way that might drive you insane."
       ],
       "hornetScore": 2,
       "hornetVerdict": "",
@@ -4364,8 +4367,7 @@
         }
       ],
       "createdAt": "2026-08-02t09:41:09.553z",
-      "updatedAt": "2026-08-07t08:34:18.641z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-22t09:55:54.412z"
     },
     {
       "id": "item-1786028209273",
