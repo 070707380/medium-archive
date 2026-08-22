@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "id": "item-1787408287165",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg/1280px-Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "title": "the nightmare",
+      "mainCreator": "henry fuseli",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "henry fuseli",
+          "category": "painter",
+          "nation": "switzerland",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Fuseli",
+          "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Henry_Fuseli_by_James_Northcote.jpg/330px-Henry_Fuseli_by_James_Northcote.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        }
+      ],
+      "mediaFormat": "Painting",
+      "isCustomCategory": false,
+      "releaseDate": "1781",
+      "countryOfOrigin": "-",
+      "originalLanguage": "-",
+      "genres": [
+        "romancisist",
+        "gothic horror",
+        "erotic dreamscape"
+      ],
+      "philosophicalTags": [
+        "pre-freudian unconscious",
+        "jungian shadow archetype",
+        "erotic sublime",
+        "the irrational & the gothic",
+        "enlightenment critique",
+        "incubus"
+      ],
+      "genreStyleTags": [
+        "romancisist",
+        "gothic",
+        "erotic",
+        "supernatural",
+        "folk horror",
+        "subliminal"
+      ],
+      "summaryPlot": "the painting depicts a sleeping woman draped helplessly over the end of a bed, her head and arms hanging down as if in a deep, death-like slumber. an apelike incubus crouches on her chest, leering at the viewer, while a horse with glowing, pupil-less eyes emerges from the shadowy red curtains in the background. the scene captures the terrifying, suffocating, and sexually charged experience of a nightmare, giving physical form to the invisible horrors of the unconscious mind.",
+      "pros": [
+        "capturing the physical visualization of sleep paralysis.",
+        "dramatic lighting highlights the pale woman while plunging the surrounding bedroom into an oppressive blackness.",
+        "phantom mare hold its head through the crimson curtain with glowing blank white eyes is an iconic layer of psychological menace.",
+        "gravity iş oppresively felt through the visuals.",
+        "blends vulnerable beauty, the exposed neck with demonic intrusion.",
+        "demon's posture is simian in a way that breaks the fourth wall to touch on the viewer.",
+        "red curtains act as a theatrical aspect where it serves sleep paralysis is being awful but also a literal betting performance for every single night.",
+        "red curtains and the extra melodramatic posture of the women serves a performative consistency."
+      ],
+      "cons": [
+        "space beyond the bed and curtain is flat black void lacking any atmospheric texture.",
+        "literal existence of including a night-mare horse feels slightly overt and literal horror than atmospheric art.",
+        "white dress feels sligthly chalky under the specific saturation, lightning.",
+        "colour palette is incredibly narrow compared to romanticist gothic expectations.",
+        "viewed through a modern lens, certain demonic features carry the repetitive elements of 18th-century folklore.",
+        "bedside table and background furniture are barely sketched in, missing an opportunity for richer environmental storytelling.",
+        "once the shock of the demon and horse is processed, the painting offers barely secondary details to reward deconstruction."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the sleep of reason produces monsters",
+        "witches' sabbath",
+        "the scream",
+        "the dream",
+        "saturn devouring his son",
+        "dream caused by the flight of a bee..."
+      ],
+      "mediumInfluences": [
+        "sleeping psyche",
+        "erasmus darwin"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-22t14:18:07.167z",
+      "updatedAt": "2026-08-22t14:18:07.178z"
+    },
+    {
       "id": "item-1787388994716",
       "cover": "https://universemagazine.com/wp-content/uploads/2025/12/ezgif-37970ba5f2b6825e-1.jpg",
       "title": "the rings of saturn",
