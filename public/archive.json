@@ -4250,10 +4250,11 @@
         {
           "name": "k2 llc",
           "category": "company",
-          "wikiUrl": "https://en.wikipedia.org/wiki/K2%20LLC"
+          "wikiUrl": "https://en.wikipedia.org/wiki/k2%20llc"
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2003-03-04",
       "countryOfOrigin": "japan",
       "originalLanguage": "japanese",
@@ -4285,7 +4286,7 @@
       "cons": [
         "once stealth breaks down, the sword-combat mechanics feel stiff.",
         "fixed camera positioning gets snagged on walls.",
-        "enemy pathfinding and ai predictably and exploitably weak which is critically crucial for stealth genre, could even be insta-kill for a product if it mainly serves stealth.",
+        "enemy pathfinding and ai predictably and exploitably weak which is critically crucial for stealth genre, could even be insta-kill for a game if it mainly serves stealth.",
         "falling into bottomless pits or water traps causes instant failure.",
         "generic b-movie dialogues and melodramatic voice acting ruins the shinobi tone.",
         "bosses forces clunky and unpolished sword duels than stealth which is the stronger element.",
@@ -4316,8 +4317,7 @@
         }
       ],
       "createdAt": "2026-08-02t16:15:11.606z",
-      "updatedAt": "2026-08-06t06:54:14.777z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-25t14:26:56.399z"
     },
     {
       "id": "item-1785663669551",
