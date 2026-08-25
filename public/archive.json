@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "id": "item-1787670483702",
+      "cover": "https://d7hftxdivxxvm.cloudfront.net/?height=900&quality=85&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FfjrGRpX29vMJUlmoTJtkfw%252Fgarden%2Bof%2Bearthly%2Bdelights%2Bemail%2Bthumb.jpg&width=1200",
+      "title": "the garden of earthly delights",
+      "mainCreator": "hieronymus bosch",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "hieronymus bosch",
+          "category": "author",
+          "nation": "netherlands",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.wikipedia.org/wiki/Hieronymus_Bosch&ved=2ahUKEwjR5_W5gbyWAxVQ2SoKHdGjOXMQFnoFCI8BEAE&sqi=2&usg=AOvVaw0N_lrDrC1e5tLgMfZycEA9"
+        }
+      ],
+      "mediaFormat": "Painting",
+      "isCustomCategory": false,
+      "releaseDate": "1490",
+      "countryOfOrigin": "netherlands",
+      "originalLanguage": "-",
+      "genres": [
+        "religious triptych",
+        "moral allegory"
+      ],
+      "philosophicalTags": [
+        "theodicy & the problem of evil",
+        "pre-freudian unconscious",
+        "humanist utopianism",
+        "memento mori",
+        "the sublime"
+      ],
+      "genreStyleTags": [
+        "renaissance",
+        "religious",
+        "surreal",
+        "high fantasy",
+        "punishment",
+        "biblical",
+        "divine",
+        "innocence",
+        "utopian",
+        "heaven"
+      ],
+      "summaryPlot": "the outer panels, visible when closed, show the earth on the third day of creation in grisaille. opening the triptych reveals a continuous narrative: the left panel depicts the tranquil garden of eden with god presenting eve to adam; the vast central panel shows a chaotic world of humanity indulging in lust and pleasure; the right panel portrays a dark, nightmarish hell where sinners are grotesquely tortured.",
+      "pros": [
+        "three inner panels create a system: divine order (eden) -> sensory indulgence (garden) -> systemic retribution (hell).",
+        "right panel’s ingenious transformation of instruments into torture mechanisms like musical hell, a man crucified on a giant harp, a sinner trapped inside a hurdy-gurdy, musical scores tattooed onto buttocks shows conceptual creativity.",
+        "outer closed shutters depict the third day of creation inside a sphere, serves an concept before the color explodes.",
+        "micro detailing is elite and can be reconstructed freely.",
+        "central fountains blend organic plant nodes, flasks and insect shells into an alien yet unified archiyectural language, is bizzare.",
+        "pairs pastel hedonism with giant strawberries and oversized birds, is an unsettling visual dissonance between innocence and decay.",
+        "demon seated on a high throne, swallowing human sinners whole and expelling them into a pit of bubbles, is as an unforgettable punishment cycle.",
+        "dream-logic universe is great worldbuilding.",
+        "paintings tells the mythology in an obtuse, inscrutable symbolic coding."
+      ],
+      "cons": [
+        "the painting is way too compressed and causes headache since the overall image is way too messy and extremely chaotic.",
+        "tonal schism between panels is little jarring.",
+        "certain mid-ground groupings in the central panel rely on pale nude figures that becomes repetitive crows noise.",
+        "surface lighting is too static with ambient and distributed elements across the left and center panels with no fuseli-style dramatic chiaroscuro until the hell panel.",
+        "underneath the surreal imagination, it is a very traditional sermon on the folly of fleshly sin and inevitable damnation."
+      ],
+      "hornetScore": 8,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the triumph of death",
+        "the temptation of st. anthony",
+        "the persistence of memory"
+      ],
+      "mediumInfluences": [
+        "bible",
+        "dante's inferno",
+        "the temptation of st. anthony"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-25t15:08:03.704z",
+      "updatedAt": "2026-08-25t15:08:03.708z"
+    },
+    {
       "id": "item-1787408287165",
       "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg/1280px-Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
       "title": "the nightmare",
