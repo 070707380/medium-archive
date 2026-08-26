@@ -1,6 +1,88 @@
 {
   "items": [
     {
+      "id": "item-1787787843358",
+      "cover": "https://i.pinimg.com/originals/cc/28/48/cc28486d4050694c8b837be82bbb670a.jpg",
+      "title": "the master and margarita",
+      "mainCreator": "mikhail bulgakov",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "mikhail bulgakov",
+          "category": "author",
+          "nation": "soviet russia",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Mikhail_Bulgakov&ved=2ahUKEwjWt8z9uL-WAxWxhf0HHaTTLAgQFnoFCJIBEAE&sqi=2&usg=AOvVaw1ZSrDBsPZRwL0YlMkCPOH4"
+        }
+      ],
+      "mediaFormat": "Book",
+      "isCustomCategory": false,
+      "releaseDate": "1967",
+      "countryOfOrigin": "soviet russia",
+      "originalLanguage": "russian",
+      "genres": [
+        "satire",
+        "dark comedy",
+        "menippean allegory"
+      ],
+      "philosophicalTags": [
+        "good & evil dialectic",
+        "gnostic light/shadow dualism",
+        "artistic integrity vs. state censorship",
+        "cowardice as the greatest vice",
+        "manuscripts don't burn"
+      ],
+      "genreStyleTags": [
+        "supernatural",
+        "political",
+        "religious",
+        "romance",
+        "witchcraft",
+        "carnivalesque"
+      ],
+      "summaryPlot": "the devil, disguised as the mysterious professor woland, arrives in 1930s moscow with his eccentric entourage, unleashing chaos that exposes the greed and hypocrisy of the city's bureaucratic elite. interwoven with this satire is a parallel narrative set in ancient jerusalem, concerning the trial of yeshua ha-nozri, and the story of the master, a repressed novelist, and margarita, who makes a pact with the devil to save him.",
+      "pros": [
+        "brilliant dual-timeline narrative architecture.",
+        "novel-within-a-novel strips away christian mythos to examine pilate as an exhausted bureaucrat paralyzed by political fear, this situation is turning moral cowardice into the human sin.",
+        "manuscripts don't burn metaphorical resonance serves as an unyielding defense of genuine creative expression.",
+        "woland (satan) functions as an objective chaotic auditor exposing the greed, hypocrisy and corription of the soviet elite.",
+        "spoiler/ the iconic theater sequence where fake money falls from the ceiling and luxury parisian dresses vanish is a brilliant satire of public greed, actually very simple but effective.",
+        "absurd banter and violent antics of the giant, gun-toting, vodka-drinking cat behemoth and koroviev inject comedic energy.",
+        "spoiler/ margarita rubbing azazello’s ointment transforming into a witch and gleefully destroying the apartment of the critic who ruined the master delivers a liberating emotional payoff.",
+        "satan's midnight ball is a surreal set piece featuring historical tyrants, murderers and alchemists that provides deep gothic grandeur and scale.",
+        "devastating satire of the soviet literary bureaucracy.",
+        "granting of \"peace\" rather than \"light\" to the master and margarita offers an earned conclusion that respects the psychological weariness of trauma."
+      ],
+      "cons": [
+        "certain bureaucratic jokes and parodies of 1930s soviet writers' unions require external historical footnotes to be fully appreciated.",
+        "first half is usually episodic demonic chaos.",
+        "master spends much of the narrative broken, defeated and hiding in an asylum, acts more as a tragic symbol than an active protagonist driving the plot.",
+        "a few secondary bureaucratic encounters in moscow (such as apartment switcheroos and trade union mix-ups) damages the pacing slightly before the climax.",
+        "thesis that cowardice is the most terrible vice is occasionally stated directly by characters than subtext.",
+        "because bulgakov dictated revisions until his death while terminally ill, minor narrative threads and secondary character fates contain structural inconsistencies.",
+        "ivan’s transition from a brainwashed soviet poet to a somber academic in the epilogue feels slightly compressed compared to the grand scale of the preceding chapters."
+      ],
+      "hornetScore": 7,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "one hundred years of solitude",
+        "the satanic verses",
+        "the gift",
+        "black marsden"
+      ],
+      "mediumInfluences": [
+        "faust part one",
+        "the brothers karamazov",
+        "the government inspector",
+        "the crippled devil",
+        "the new testament"
+      ],
+      "consumedVersion": "dijital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-26t23:44:03.358z",
+      "updatedAt": "2026-08-26t23:44:03.363z"
+    },
+    {
       "id": "item-1787779892050",
       "cover": "https://i.guim.co.uk/img/media/1eb63763776eb057e48cfa686088d3b5aca34629/60_0_1725_1035/master/1725.jpg?width=465&dpr=1&s=none&crop=none",
       "title": "shadow of the colossus",
