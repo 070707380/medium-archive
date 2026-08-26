@@ -105,27 +105,27 @@
         {
           "name": "kenji kaido",
           "category": "producer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Kenji%20Kaido"
+          "wikiUrl": "https://en.wikipedia.org/wiki/kenji%20kaido"
         },
         {
           "name": "junichi hosono",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Junichi%20Hosono"
+          "wikiUrl": "https://en.wikipedia.org/wiki/junichi%20hosono"
         },
         {
           "name": "masashi kudo",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Masashi%20Kudo"
+          "wikiUrl": "https://en.wikipedia.org/wiki/masashi%20kudo"
         },
         {
           "name": "takashi izutani",
           "category": "scriptwriter",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Takashi%20Izutani"
+          "wikiUrl": "https://en.wikipedia.org/wiki/takashi%20izutani"
         },
         {
           "name": "sony",
           "category": "publisher",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Sony"
+          "wikiUrl": "https://en.wikipedia.org/wiki/sony"
         }
       ],
       "mediaFormat": "Video Game",
@@ -180,7 +180,8 @@
         "severe ps2 hardware performance which constantly drops under 20 fps.",
         "certain puzzles are very obscure and without external factors which i hate, it's very challenging to find them which isn't very fun to deal with either.",
         "despite diverse puzzles, every single encounter concludes with the same three-stab charging animation into a glowing seal.",
-        "passive linear story delivery."
+        "passive linear story delivery.",
+        "bow and arrow inaccuracy."
       ],
       "hornetScore": 4,
       "hornetVerdict": "",
@@ -202,7 +203,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-26t21:31:32.050z",
-      "updatedAt": "2026-08-26t21:31:32.053z"
+      "updatedAt": "2026-08-26t23:56:44.400z"
     },
     {
       "id": "item-1787756643758",
