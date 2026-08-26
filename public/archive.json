@@ -4327,15 +4327,16 @@
         {
           "name": "markus \"notch\" persson",
           "category": "developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Markus%20%22Notch%22%20Persson"
+          "wikiUrl": "https://en.wikipedia.org/wiki/markus%20%22notch%22%20persson"
         },
         {
           "name": "jens \"jeb\" bergensten",
           "category": "developer",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jens%20%22Jeb%22%20Bergensten"
+          "wikiUrl": "https://en.wikipedia.org/wiki/jens%20%22jeb%22%20bergensten"
         }
       ],
       "mediaFormat": "Video Game",
+      "isCustomCategory": false,
       "releaseDate": "2011-11-18",
       "countryOfOrigin": "sweden",
       "originalLanguage": "english",
@@ -4366,7 +4367,8 @@
         "mining",
         "3d platformer",
         "co-op",
-        "cozy"
+        "cozy",
+        "horse riding"
       ],
       "summaryPlot": "there is no central narrative; the player is simply \"thrown\" into a randomly generated, infinite world and must survive by gathering resources, crafting tools, and building shelters. the ultimate goal is to travel to another dimension called the end and defeat a dragon, but the game encourages creative expression and player-defined objectives.",
       "pros": [
@@ -4427,8 +4429,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-02t21:22:48.928z",
-      "updatedAt": "2026-08-06t06:51:17.443z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-26t21:32:23.036z"
     },
     {
       "id": "item-1785660198276",
