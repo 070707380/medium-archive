@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "id": "item-1787779892050",
+      "cover": "https://i.guim.co.uk/img/media/1eb63763776eb057e48cfa686088d3b5aca34629/60_0_1725_1035/master/1725.jpg?width=465&dpr=1&s=none&crop=none",
+      "title": "shadow of the colossus",
+      "mainCreator": "fumito ueda",
+      "otherCreators": [
+        "kenji kaido/producer",
+        "junichi hosono/scriptwriter",
+        "masashi kudo/scriptwriter",
+        "takashi izutani/scriptwriter",
+        "sony/publisher"
+      ],
+      "creatorDetails": [
+        {
+          "name": "fumito ueda",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Fumito_Ueda&ved=2ahUKEwjOn5DomL-WAxWYS_EDHYaiDxgQFnoECE4QAQ&sqi=2&usg=AOvVaw3E6sftX8y8Xzuc9rW765uX"
+        },
+        {
+          "name": "kenji kaido",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kenji%20Kaido"
+        },
+        {
+          "name": "junichi hosono",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Junichi%20Hosono"
+        },
+        {
+          "name": "masashi kudo",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Masashi%20Kudo"
+        },
+        {
+          "name": "takashi izutani",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Takashi%20Izutani"
+        },
+        {
+          "name": "sony",
+          "category": "publisher",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sony"
+        }
+      ],
+      "mediaFormat": "Video Game",
+      "isCustomCategory": false,
+      "releaseDate": "2005-10-18",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "action adventure",
+        "puzzle",
+        "boss rush"
+      ],
+      "philosophicalTags": [
+        "sisyphean tragic cycle",
+        "rené girard's scapegoat mechanism",
+        "moral agency",
+        "fatalism",
+        "player complicity",
+        "abject loneliness"
+      ],
+      "genreStyleTags": [
+        "high fantasy",
+        "atmospheric",
+        "epic",
+        "tragedy",
+        "open world",
+        "minimalist",
+        "platformer",
+        "giant monster",
+        "mystery",
+        "lock on",
+        "horse riding",
+        "dark fantasy"
+      ],
+      "summaryPlot": "a young warrior, wander, enters a vast, forbidden land carrying the body of a deceased girl named mono. he seeks out dormin, a mysterious entity, and makes a desperate pact: in exchange for the power to revive mono, he will hunt down and destroy the sixteen colossal beings that roam the land. as wander fulfills his grim task, the line between savior and destroyer blurs, leading to a tragic and devastating conclusion.",
+      "pros": [
+        "grip and stamina mechanic, despite boeing atmospheric, also turning physical endurance into a mechanical resource makes holding onto shaking fur feel tactile and earned.",
+        "combat arenas are giant moving architectural organisms that require routing to conquer.",
+        "no fillers, no bullshit, no encounters ör side conten, the game just leaves you and you go fight bosses one after one, this is a clear and purist goal. i̇ respect art when it doesnt want to be something it is't.t",
+        "sigils pinpointing vital points with the ancient sword's light reflection are clear visual objectives without any ui clutter.",
+        "physical mass, inverse kinematics and bone shaking steps of the colossi feels epic and gigantic.",
+        "each of the 16 colossi seek unique tactics from baiting flying sand-serpents with arrows to using geysers to flip armored turtles.",
+        "fur & ragdoll physics feels epic and smooth with grounded momentum.",
+        "forbidden lands serve haunting ancient post-apocalyptic beauty with wind-swept plains, forgotten temples and canyons."
+      ],
+      "cons": [
+        "awkward annoying unresponsive camera controls.",
+        "clunky annoying horse handling.",
+        "spending 5–10 minutes galloping across barren plains between every single boss fight introduces big big structural pacing drag.",
+        "when a colossus shakes vigorously, wander can become locked in extended flailing animations, draining stamina without any earned player counterplay.",
+        "certain puzzle setups like tricking a colossus into striking a stone pillar or peering down rely on slow to trigger ai pathfinding.",
+        "severe ps2 hardware performance which constantly drops under 20 fps.",
+        "certain puzzles are very obscure and without external factors which i hate, it's very challenging to find them which isn't very fun to deal with either.",
+        "despite diverse puzzles, every single encounter concludes with the same three-stab charging animation into a glowing seal.",
+        "passive linear story delivery."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the last guardian",
+        "praey for the gods",
+        "titan souls",
+        "sinner sacrifice for redemption",
+        "journey",
+        "death stranding"
+      ],
+      "mediumInfluences": [
+        "battlefield 1942",
+        "the legend of zelda",
+        "ico",
+        "monster hunter"
+      ],
+      "consumedVersion": "playstation 2",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-26t21:31:32.050z",
+      "updatedAt": "2026-08-26t21:31:32.053z"
+    },
+    {
       "id": "item-1787756643758",
       "cover": "https://media.istockphoto.com/id/94262390/photo/go-the-board-game.jpg?s=612x612&w=0&k=20&c=QxT5u5BVx-xfi-aTLpCoWCZKU7E6-zcIGBUFD0EtNcs=",
       "title": "weiqi",
