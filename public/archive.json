@@ -1,6 +1,91 @@
 {
   "items": [
     {
+      "id": "item-1787756643758",
+      "cover": "https://media.istockphoto.com/id/94262390/photo/go-the-board-game.jpg?s=612x612&w=0&k=20&c=QxT5u5BVx-xfi-aTLpCoWCZKU7E6-zcIGBUFD0EtNcs=",
+      "title": "weiqi",
+      "mainCreator": "emperor yao",
+      "otherCreators": [],
+      "creatorDetails": [
+        {
+          "name": "emperor yao",
+          "category": "author",
+          "nation": "china",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Emperor_Yao&ved=2ahUKEwj38IqRxL6WAxVTzQIHHct8JF8QFnoECDoQAQ&sqi=2&usg=AOvVaw3ogcyIWXgTrFHp3EAWeg5R"
+        }
+      ],
+      "mediaFormat": "Board Game",
+      "isCustomCategory": false,
+      "releaseDate": "2356 bce",
+      "countryOfOrigin": "china",
+      "originalLanguage": "chinese",
+      "genres": [
+        "strategy game",
+        "territorial conquest"
+      ],
+      "philosophicalTags": [
+        "yin-yang dualism",
+        "memento mori",
+        "mortality",
+        "strategic holism",
+        "daoist cosmology",
+        "balance",
+        "confucian harmony",
+        "self-cultivation"
+      ],
+      "genreStyleTags": [
+        "abstract",
+        "two-player",
+        "ying yang",
+        "four arts",
+        "war",
+        "competitive"
+      ],
+      "summaryPlot": "a game of abstract strategy for two players, where the objective is to control more territory on a 19x19 grid than the opponent. unlike chess, the board starts empty and players place stones one by one, building their \"colonies\" across the board.",
+      "pros": [
+        "built on a minimal ruleset that generates an astronomical complexity 10¹⁷⁰ legal positions).",
+        "100% open information with zero rng, zero hidden cards and zero dice rolls; every single outcome is the pure consequence of player foresight and calculation.",
+        "weiqi starts on an empty canvas and constructs sprawling, interconnected territorial empires from scratch.",
+        "structural requirement that a group must secure two distinct internal liberties to achieve unconditional life (ikite) is one of the most elegant geometric game mechanics ever.",
+        "friction between defending a skirmish or abandoning it (tenuki) to seize territorial value elsewhere rewards strategic prioritization.",
+        "\"ko fights\" forcing players to find viable compensation threats across the board.",
+        "influence vs. cash territory balance (atsumi vs. jitsuri) balances secure territory along the 3rd line against wall influence on the 4th line that can be weaponized in mid-game.",
+        "moves through three distinct operational phases such as territorial framing (opening / fuseki), violent group clashes (mid-game / chuban), and microscopic boundary calculations (endgame / yose)."
+      ],
+      "cons": [
+        "lacks the tactical sudden kill of a checkmate so games frequently resolve into a dry, mathematical counting margin.",
+        "a standard 19 / 19 match spans 200–300 moves which means cognitive endurance and severe downtime during deep positional reading which causes  analysis paralysis biologically.",
+        "death of a major dragon group in the mid-game breaks competitive balance.",
+        "modern high-level play has increasingly computerized and solved early corner sequences, shifting early-game agency toward algorithmic memorization, external factor that isn't mistake of the game itself but directly affects the experience so it's a con.",
+        "because black’s first move causes a tempo initiative, the game requires an artificial point modifier (6.5 or 7.5 komi) to balance win parity.",
+        "matches rarely reach the endgame stage, concluding instead with sudden resignations once an opponent calculates a impossible-to-bury point gap.",
+        "complex capturing races (semeai) requires calculating branching decision trees 20–30 moves ahead which biologically causes analysis paralysis and brute cognitive arithmetics which damages the pacing.",
+        "scanning 19 x 19 grids everytime causes serious pacing issues."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "chess",
+        "shogi",
+        "xiangqi",
+        "baduk",
+        "pente",
+        "renju",
+        "hnefatafl"
+      ],
+      "mediumInfluences": [
+        "zuo zhuan",
+        "shi ben",
+        "the analects of confucius",
+        "xuanxuan qi jing"
+      ],
+      "consumedVersion": "board",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-26t15:04:03.762z",
+      "updatedAt": "2026-08-26t15:04:03.774z"
+    },
+    {
       "id": "item-1787670483702",
       "cover": "https://d7hftxdivxxvm.cloudfront.net/?height=900&quality=85&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FfjrGRpX29vMJUlmoTJtkfw%252Fgarden%2Bof%2Bearthly%2Bdelights%2Bemail%2Bthumb.jpg&width=1200",
       "title": "the garden of earthly delights",
