@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "item-1787825740329",
+      "cover": "https://www.slashfilm.com/img/gallery/how-akiras-record-breaking-use-of-color-resulted-in-50-new-shades/intro-1648039039.jpg",
+      "title": "akira",
+      "mainCreator": "katsuhiro otomo",
+      "otherCreators": [
+        "izo hashimoto/co-writer",
+        "ryōhei suzuki/producer",
+        "shunzō katō/producer"
+      ],
+      "creatorDetails": [
+        {
+          "name": "katsuhiro otomo",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Katsuhiro_Otomo&ved=2ahUKEwiq1aufxcCWAxWe9bsIHXcGDbgQFnoECEIQAQ&sqi=2&usg=AOvVaw21bBtIWiOanRaYvtg41AnV"
+        },
+        {
+          "name": "izo hashimoto",
+          "category": "co-writer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Izo%20Hashimoto"
+        },
+        {
+          "name": "ryōhei suzuki",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ry%C5%8Dhei%20Suzuki"
+        },
+        {
+          "name": "shunzō katō",
+          "category": "producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shunz%C5%8D%20Kat%C5%8D"
+        }
+      ],
+      "mediaFormat": "Film",
+      "isCustomCategory": false,
+      "releaseDate": "1988-07-16",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "action thriller",
+        "science fiction",
+        "epic"
+      ],
+      "philosophicalTags": [
+        "nietzschean übermensch",
+        "creation-destruction dialectic",
+        "critique of modernity & technology",
+        "post-colonial narrative complexity",
+        "systemic violence & terrorism"
+      ],
+      "genreStyleTags": [
+        "post apocalyptic",
+        "dystopian",
+        "cyberpunk",
+        "animation",
+        "anime",
+        "body horror",
+        "urban",
+        "conspiracy",
+        "disaster",
+        "tech noir",
+        "political thriller",
+        "psychological horror",
+        "cosmic horror",
+        "biker gang",
+        "supernatural",
+        "superhero",
+        "mystery",
+        "hand drawn",
+        "adaptation"
+      ],
+      "summaryPlot": "in the dystopian neo-tokyo of 2019, biker gang leader kaneda's volatile friend tetsuo develops devastating psychic powers after a motorcycle accident, which draws the attention of a secretive military project. as tetsuo's abilities spiral out of control, the military races to contain him and the mysterious entity known as \"akira,\" leading to a cataclysmic confrontation that threatens to destroy the city once again.",
+      "pros": [
+        "animated with over 160,000 hand-drawn cels, unmatched fluid motion and physical weight.",
+        "opening highway clash between the capsules and the clowns establishes a definitive visual language with glowing light trails, asphalt momentum and dynamic camera tracking.",
+        "visceral body-horror elements.",
+        "detailed background matte paintings capture urban scale, structural decaynand claustrophobic dystipian density.",
+        "characters’ lip movements were animated specifically to match pre-recorded voice tracks which makes everytime way more earned and realistic.",
+        "nursery sequence where oversized stuffed animals bleed milk and march across the room executes surreal dread flawlessly.",
+        "glass shattering, concrete rupturing and laser blasts tearing through reinforced steel are animated with distinct physical physics with very well-ceafted shadow layers and realistic lightning around the visuals.",
+        "tetsuo’s resentment of kaneda’s paternalistic protection provides a grounded psychological catalyst for his explosive power.",
+        "cold militaristic realism and earned systemic collapse."
+      ],
+      "cons": [
+        "compressing thousands of pages of an unfinished manga into 124 minutes leads to scene jumps, unearned transitions and dropped plot threads.",
+        "metaphysical singularity finale where the espers summon akira's remnants to trigger a cosmic dimension shift is delivered with rushed confusing exposition.",
+        "anti-government resistance movement are plot vehicles to move kaneda between military facilities rather than a political faction.",
+        "kaneda spends the majority of the second act shouting tetsuo’s name and reacting to destruction, lacking internal psychological depth or ideological evolution.",
+        "kaori is introduced as a helpless victim of street violence and crushed inside tetsuo’s expanding flesh which purely designed as cheap shock value.",
+        "sudden power scaling spikes with zero mechanical weight.",
+        "extended middle section inside the underground cryogenic base drags out with repetitive corridor chases and laser exchanges.",
+        "characters frequently pause during chaotic crises to deliver unnatural monologues about human evolution and amoeba cellular energy."
+      ],
+      "hornetScore": 5,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "ghost in the shell",
+        "metropolis",
+        "paprika",
+        "jin roh the wolf brigade",
+        "steamboy",
+        "blade runner",
+        "a scanner darkly"
+      ],
+      "mediumInfluences": [
+        "gigantor",
+        "tron",
+        "carrie",
+        "daredevil",
+        "the fury"
+      ],
+      "consumedVersion": "disc",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-27t10:15:40.332z",
+      "updatedAt": "2026-08-27t10:15:40.342z"
+    },
+    {
       "id": "item-1787787843358",
       "cover": "https://i.pinimg.com/originals/cc/28/48/cc28486d4050694c8b837be82bbb670a.jpg",
       "title": "the master and margarita",
