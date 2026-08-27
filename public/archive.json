@@ -4498,7 +4498,12 @@
         "vivy fluorite eye's song"
       ],
       "mediumInfluences": [
-        "akira",
+        {
+          "title": "akira",
+          "type": "media",
+          "customCover": "https://www.slashfilm.com/img/gallery/how-akiras-record-breaking-use-of-color-resulted-in-50-new-shades/intro-1648039039.jpg",
+          "note": "linked to film (1988)"
+        },
         "cowboy bebop",
         "cyberpunk 2020",
         "neuromancer",
