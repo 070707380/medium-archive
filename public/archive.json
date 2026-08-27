@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "item-1787836546683",
+      "cover": "https://www.alternateending.com/wp-content/uploads/2019/12/htkxsqt90qwLchn266xgWOyDASJ.jpg",
+      "title": "house",
+      "mainCreator": "nobuhiko obayashi",
+      "otherCreators": [
+        "chiho katsura/screenplay",
+        "chigumi obayashi/concept"
+      ],
+      "creatorDetails": [
+        {
+          "name": "nobuhiko obayashi",
+          "category": "director",
+          "nation": "japan",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Nobuhiko_Obayashi&ved=2ahUKEwir74bx7MCWAxXlJBAIHYSrKB8QFnoFCJMBEAE&sqi=2&usg=AOvVaw0D2LCxuEvKPljcxM9cJB2-"
+        },
+        {
+          "name": "chiho katsura",
+          "category": "screenplay",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chiho%20Katsura"
+        },
+        {
+          "name": "chigumi obayashi",
+          "category": "concept",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chigumi%20Obayashi"
+        }
+      ],
+      "mediaFormat": "Film",
+      "isCustomCategory": false,
+      "releaseDate": "1977-07-30",
+      "countryOfOrigin": "japan",
+      "originalLanguage": "japanese",
+      "genres": [
+        "psychedelic horror",
+        "psychedelic comedy",
+        "avant garde fantasy",
+        "haunted house"
+      ],
+      "philosophicalTags": [
+        "post-war trauma",
+        "girlhood's end",
+        "critique of traditional family",
+        "reality vs. fantasy blur",
+        "globalization's strange effects"
+      ],
+      "genreStyleTags": [
+        "surreal",
+        "experimental",
+        "avant garde",
+        "psychedelic",
+        "supernatural",
+        "ghost",
+        "absurdist comedy",
+        "dark comedy",
+        "fairy tale",
+        "satire",
+        "tragicomedy",
+        "hallucinatory",
+        "teen",
+        "black comedy",
+        "slapstick"
+      ],
+      "summaryPlot": "upset about her widowed father's impending remarriage, a teenage girl named gorgeous invites six of her school friends—each defined by a single trait (prof, kung fu, fantasy, sweet, melody, and mac)—to accompany her to her aunt's country house. once there, they discover the house is alive and hungry, and one by one, the girls are devoured by the home and its supernatural inhabitants, including a demonic cat and a bloodthirsty piano.",
+      "pros": [
+        "radical visual experimentation.",
+        "childlike dream-logic architecture.",
+        "masterclass in surreal physical horror, featuring severed fingers animating independently and piano keys transforming into a devouring mouth.",
+        "demonic white feline (blanche/shiro) is a striking visual motif in the manic painting spewing tidal waves of blood.",
+        "incorporates artificial 2d animation overlays and crude composite layering that enhance the storybook visual identity.",
+        "combines martial arts choreography with cartoon physics, turning furniture and floating logs into slapstick.",
+        "haunting melancholy subtext.",
+        "claustrophobic set architecture and pieces.",
+        "hyper-saturated color palettes contrast sunny pastel yellows and pinks against garish neon blood-reds is great technique.",
+        "floating head in the well delivers asurreal visual.",
+        "certain blue-screen composites and crude cutouts exhibit harsh matte lines and lighting mismatches that distract the eye. this should've been a con but i thought it empowered the abstract and surreal absurdism of the piece."
+      ],
+      "cons": [
+        "every girl is strictly defined by a single superficial character trait which is one dimensional.",
+        "house's supernatural powers lack systemic constraints or clear mechanical rules, relying entirely on random whimsical manifestations. i understand the surrealism but without any logic, i cannot feel any tension or mystery since anything is possible anytime.",
+        "zero genuine dramatic tension throughout the film.",
+        "gorgeous’s familial resentment toward her stepmother serves as a flimsy narrative framework that gets lost amidst the haunted house chaos.",
+        "extended exposition in tokyo drags out with repetitive, idyllic romantic montages before the girls arrive at the country home.",
+        "physical layout of the mansion feels disconnected and non-continuous, existing as isolated theatrical stages rather than a place.",
+        "core romantic piano theme is repeated dozens of times across the runtime, causes repetitiveness fatigue.",
+        "climax resolves not through character strategy or physical agency, but through inevitable, passive consumption by the house.",
+        "intentional visual amateurism and over-the-top melodrama create an emotional barrier that keeps the viewer detached."
+      ],
+      "hornetScore": 6,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the evil dead",
+        "suspiria",
+        "tetsuo the iron man",
+        "audition",
+        "videodrome"
+      ],
+      "mediumInfluences": [
+        "jaws",
+        "yellow submarine",
+        "carrie",
+        "snow white and the seven dwarfs"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-27t13:15:46.683z",
+      "updatedAt": "2026-08-27t13:15:46.690z"
+    },
+    {
       "id": "item-1787825740329",
       "cover": "https://www.slashfilm.com/img/gallery/how-akiras-record-breaking-use-of-color-resulted-in-50-new-shades/intro-1648039039.jpg",
       "title": "akira",
