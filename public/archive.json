@@ -948,7 +948,12 @@
       "similarMedia": [
         "the sleep of reason produces monsters",
         "witches' sabbath",
-        "the scream",
+        {
+          "title": "the scream",
+          "type": "media",
+          "customCover": "https://wallpaperaccess.com/full/1376327.jpg",
+          "note": "linked to painting"
+        },
         "the dream",
         "saturn devouring his son",
         "dream caused by the flight of a bee..."
