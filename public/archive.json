@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "id": "item-1787915800076",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTvXs8-FzLr7oUL0Kljb4-AHPqSzEDW8wZh-DDxkqLw&s=10",
+      "title": "ys",
+      "mainCreator": "joanna newsom",
+      "otherCreators": [
+        "van dyke parks/co-producer",
+        "steve albini/recording engineer",
+        "jim o'rourke/mixing"
+      ],
+      "creatorDetails": [
+        {
+          "name": "joanna newsom",
+          "category": "music artist",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Joanna_Newsom&ved=2ahUKEwje_uXtlcOWAxWD97sIHchdMcMQFnoECD8QAQ&sqi=2&usg=AOvVaw1gjGef0spdm6HotVgjMKc0"
+        },
+        {
+          "name": "van dyke parks",
+          "category": "co-producer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Van%20Dyke%20Parks"
+        },
+        {
+          "name": "steve albini",
+          "category": "recording engineer",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve%20Albini"
+        },
+        {
+          "name": "jim o'rourke",
+          "category": "mixing",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jim%20O'Rourke"
+        }
+      ],
+      "mediaFormat": "Music Album",
+      "isCustomCategory": false,
+      "releaseDate": "2006-11-14",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "avant-garde folk",
+        "progressive folk",
+        "baroque pop",
+        "contemporary chamber music"
+      ],
+      "philosophicalTags": [
+        "life",
+        "death & grief",
+        "mortality & cosmic humility",
+        "memory",
+        "mythology & narrative"
+      ],
+      "genreStyleTags": [
+        "orchestral folk",
+        "orchestral",
+        "avant garde",
+        "singer songwriter",
+        "poetic",
+        "mythology",
+        "medieval",
+        "ethereal",
+        "epic",
+        "fairy tale",
+        "polyphonic",
+        "spiritual",
+        "fable"
+      ],
+      "summaryPlot": "a 55-minute, five-song suite driven by newsom's harp and voice, tackling the sudden death of a best friend, a harrowing illness, and a turbulent relationship through dense allegory and myth. framed by the legend of a sunken breton city, it's a sprawling meditation on mortality and cosmic scale, achieved through lavish orchestral arrangements, analog production, and lyrics teeming with poetic imagery.",
+      "pros": [
+        "orchestral scoring interacts dynamically with the harp, using sweeping woodwinds and dramatic string counterpoints.",
+        "albini’s engineering captures the acoustic air around the harp strings, pedal resonance and room reverb with remarkable clarity.",
+        "newsom’s harp playing is technically virtuosic, weaving complex cross-rhythms between her left and right hands beneath the narrative lines.",
+        "prose is exceptionally intricate, utilizing archaic english diction, botanical terminology and poetic internal rhyming schemes.",
+        "album's closer centers on the grief of losing a close friend, grounding the whimsical chamber arrangements in great written personal tragedy.",
+        "\"monkey & bear\" crafts a fable of exploitation and sacrifice using allegorical animals, shifting arrangements from delicate plucks into a thunderous, galloping climax.",
+        "vocal cadences frequently drift outside traditional 4/4 time."
+      ],
+      "cons": [
+        "newsom’s vocal delivery leans into cracked squeaks, shrill breaks and childish inflections that create listening friction.",
+        "\"only skin\" 17-minute centerpiece lacks a melodic anchor, frequently drifting through disparate verse sections that feel loosely stitched together.",
+        "absence of standard percussive elements or dynamic groove makes the harmonic progression feel floaty and momentum-starved.",
+        "vocal phrasing relies repeatedly on the same cadence patterns across extended suites, causes melodic fatigue.",
+        "pretentious overwritten archaic diction feels obscure than expressional.",
+        "dense mythological allegories and fragmented narrative structures demand external transcript analysis which i hate.",
+        "slurred pronunciations and abrupt throat register shifts frequently obscure key lyrical phrases amidst the harp lines.",
+        "extended instrumental stretches rely on continuous, rolling arpeggio figures that begin to sound homogenous over a 55-minute runtime.",
+        "\"sawdust & diamonds\" lacks orchestral variety on the album's longest solo harp section exposes the rhythmic monotony of newsom's solo picking patterns."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "vespertine",
+        "tidal",
+        "the glow pt. 2"
+      ],
+      "mediumInfluences": [
+        "stormcock",
+        "song cycle"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-28t11:16:40.077z",
+      "updatedAt": "2026-08-28t11:16:40.080z"
+    },
+    {
       "id": "item-1787836546683",
       "cover": "https://www.alternateending.com/wp-content/uploads/2019/12/htkxsqt90qwLchn266xgWOyDASJ.jpg",
       "title": "house",
