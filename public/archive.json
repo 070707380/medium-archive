@@ -54,9 +54,9 @@
         "monochromatic repetitive emotional frequency.",
         "sudden shift from deep linear perspective on the left to flat, decorative art nouveau-style curves on the right creates a minor rupture.",
         "heavy rely on obvious contrast tropes.",
-        "because the visual impact is immediate and singular, the piece delivers almost all its information within the first thirty seconds of viewing. beyond the main figure, the two background walkers and the bridge, the painting offers very little secondary details to reward exploration."
+        "because the visual impact is immediate and singular, the piece delivers almost all its information within the first thirty seconds of viewing. beyond the main figure, the two background walkers and the bridge, the painting offers very little secondary details to reward exploration. makes the whole painting a symbol than telling."
       ],
-      "hornetScore": 6,
+      "hornetScore": 5,
       "hornetVerdict": "",
       "similarMedia": [
         "study after velázquez's portrait of pope innocent x",
@@ -73,7 +73,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-28t20:27:56.370z",
-      "updatedAt": "2026-08-28t20:27:56.377z"
+      "updatedAt": "2026-08-28t20:29:01.300z"
     },
     {
       "id": "item-1787928881032",
@@ -948,12 +948,7 @@
       "similarMedia": [
         "the sleep of reason produces monsters",
         "witches' sabbath",
-        {
-          "title": "the scream",
-          "type": "media",
-          "customCover": "https://wallpaperaccess.com/full/1376327.jpg",
-          "note": "linked to painting"
-        },
+        "the scream",
         "the dream",
         "saturn devouring his son",
         "dream caused by the flight of a bee..."
