@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "id": "item-1787928881032",
+      "cover": "https://ew.com/thmb/qU-f47k0vLoUlaOFM1QUfplWB7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-93741501-2000-c37c771141f6458bb8bb289a1bc4c2b0.jpg",
+      "title": "twin peaks",
+      "mainCreator": "david lynch",
+      "otherCreators": [
+        "mark frost/scriptwriter"
+      ],
+      "creatorDetails": [
+        {
+          "name": "david lynch",
+          "category": "director",
+          "nation": "united states",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/David_Lynch&ved=2ahUKEwjVvJ7dxcOWAxXKzgIHHRnKBMAQFnoECFQQAQ&sqi=2&usg=AOvVaw31tMXQOyQ7jtCudFFjzLM2"
+        },
+        {
+          "name": "mark frost",
+          "category": "scriptwriter",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mark%20Frost"
+        }
+      ],
+      "mediaFormat": "TV Show",
+      "isCustomCategory": false,
+      "releaseDate": "1990-05-08",
+      "countryOfOrigin": "united states",
+      "originalLanguage": "english",
+      "genres": [
+        "mystery thriller",
+        "psychological horror",
+        "psychological drama",
+        "gothic noir",
+        "soap opera parody"
+      ],
+      "philosophicalTags": [
+        "jungian shadow archetype",
+        "good vs. evil",
+        "trauma's return",
+        "the sublime",
+        "the mundane"
+      ],
+      "genreStyleTags": [
+        "surrealist",
+        "mystery",
+        "gothic",
+        "ethereal",
+        "supernatural",
+        "murder",
+        "whodunit",
+        "eerie",
+        "melodrama",
+        "dark comedy",
+        "romance",
+        "neo noir",
+        "satire",
+        "body horror",
+        "atmospheric",
+        "esoteric"
+      ],
+      "summaryPlot": "fbi special agent dale cooper is sent to the small, eccentric logging town of twin peaks, washington, to investigate the murder of homecoming queen laura palmer. as cooper delves deeper into the town's dark secrets, he uncovers a web of infidelity, drug trafficking, and supernatural forces tied to an otherworldly dimension known as the black lodge.",
+      "pros": [
+        "uses the central question of whodunit as a narrative doorway into the dark subconscious rot beneath small-town americana.",
+        "special agent dale cooper’s integration of tibetan deductive methods, dream analysis and relentless optimism provides an extraordinary protagonist.",
+        "zigzag chevron flooring, red velvet drapes, reverse-speech audio and non-linear temporal logic in specific sections create a metaphysical space.",
+        "manifesting trauma, incestuous abuse and interdimensional possession through the entity of killer bob gives the horror psychological weight.",
+        "ray wise delivers a terrifying, heartbreaking performance of a grief-stricken father hollowed out by parasitic evil.",
+        "eccentric small-town character ecosystem.",
+        "one-eyed jacks investigation gives audrey active dramatic agency and sharp tension then release mechanics.",
+        "surreal sound design.",
+        "bleak season 2 finale triumph.",
+        "great northern hotel, double r diner and sawmill ground the town in wooden isolationist worldbuilding..",
+        "grounded soap opera parody."
+      ],
+      "cons": [
+        "catastrophic season 2 mid section pacing collapse following the resolution of laura's murder in episode 9, the series loses all forward momentum for nearly ten episodes.",
+        "james's detour with evelyn marsh is an agonizingly dull clichéd film-noir distraction detached from the core town.",
+        "spoiler/ nadine reverting to a teenage mindset with superhuman strength drags out as a repetitive one-note gag.",
+        "spoiler/ abc forcing lynch and frost to reveal the killer early destroyed the show's central narrative.",
+        "comedic custody dispute over little nicky represents the lowest point of uninspired sitcom-tier filler.",
+        "spoiler/ windom earle's transitioning from an unseen psychological shadow into a goofy villain who wears paper-mâché horse costumes damages late-season tension.",
+        "spoiler/ josie's convoluted backstory with thomas eckhardt drags on until her unexplained death and transformation into a wooden doorknob.",
+        "lynch stepping away during the middle of season 2 left guest directors struggling to capture his balance of horror and camp, resulting flat.",
+        "spoiler/ cooper’s sudden romance with annie blackburn feels mechanically rushed to set up the season finale stakes.",
+        "spoiler/ search for laura's secret diary involves repetitive conversational stalling before harold's sudden demise.",
+        "inconsistent audio balancing in season 2.",
+        "teenage dynamics outside of laura's shadow often revert to standard 1990s high-school melodrama.",
+        "abrupt lore infodumps in few final episodes."
+      ],
+      "hornetScore": 4,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "the prisoner",
+        "true detective",
+        "northern exposure",
+        "carnivàle",
+        "the leftovers",
+        "mulholland drive",
+        "maniac"
+      ],
+      "mediumInfluences": [
+        "laura",
+        "sunset boulevard",
+        "the wizard of oz",
+        "peyton place"
+      ],
+      "consumedVersion": "digital",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-28t14:54:41.036z",
+      "updatedAt": "2026-08-28t14:54:41.040z"
+    },
+    {
       "id": "item-1787915800076",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTvXs8-FzLr7oUL0Kljb4-AHPqSzEDW8wZh-DDxkqLw&s=10",
       "title": "ys",
