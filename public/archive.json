@@ -3854,6 +3854,7 @@
         }
       ],
       "mediaFormat": "Film",
+      "isCustomCategory": false,
       "releaseDate": "1979-05-25",
       "countryOfOrigin": "soviet russia",
       "originalLanguage": "russian",
@@ -3897,7 +3898,7 @@
         "physical nature of the zone's traps is abstract, i know it meant to be abstract but the whole movie feels like actionless indiana jones movie with all that reaching a macguffin (the room) after passing through traps and claustrophobic sequences in who-knows-what-it-is place. mystery can be explained in a way that it wouldn't feel shallow. this way, everything is an excuse.",
         "worldbuilding, magical zone and room structure, human factors and characters itself, even plot are just excuse to throw three different guys on forced philosophical dialogues without organic structure throughout the movie than showing the philosophy.",
         "because no traps are visually shown triggering on screen, the danger claimed by the stalker character feel artificial. it could be seen as some mental gymnastics defense as \"but traps are internal and it reflects something something about stalker.\" yeah i could defend literally anything with that attitude by manipulating philosophy and logic.",
-        "movie is too abstract that if you start talking about what you philosophically see in the movie straightforwardly then you'll inevitably sound forced and delusional and that's the movie on the blame. sometimes movie feels like \"winnie the pooh is peak fiction because all characters reflect different psychological issues.\" like shut the fuck up. non-clarity is being spectrum, being spectrum is playing safe, playing safe is hollow."
+        "movie is too abstract that if you start talking about what you philosophically see in the movie straightforwardly then you'll inevitably sound forced and delusional and that's the movie on the blame. sometimes movie feels like \"winnie the pooh is peak fiction because all characters reflect different psychological issues.\" like shut the fuck up. non-clarity is being spectrum, being spectrum is playing safe, playing safe is hollow, atleast for me."
       ],
       "hornetScore": 4,
       "hornetVerdict": "",
@@ -3917,8 +3918,7 @@
       "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-08t09:34:08.064z",
-      "updatedAt": "2026-08-08t10:39:26.579z",
-      "isCustomCategory": false
+      "updatedAt": "2026-08-28t15:11:47.151z"
     },
     {
       "id": "item-1786730308635",
