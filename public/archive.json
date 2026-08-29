@@ -1067,7 +1067,7 @@
       "isCustomCategory": false,
       "releaseDate": "1995",
       "countryOfOrigin": "germany",
-      "originalLanguage": "deutsch",
+      "originalLanguage": "german",
       "genres": [
         "travelogue",
         "meditative essay"
@@ -1124,10 +1124,9 @@
         "jorge luis borges"
       ],
       "consumedVersion": "digital",
-      "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-22t08:56:34.722z",
-      "updatedAt": "2026-08-22t11:37:54.471z"
+      "updatedAt": "2026-08-29t10:31:22.052z"
     },
     {
       "id": "item-1787243980157",
