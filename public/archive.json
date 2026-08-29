@@ -822,7 +822,7 @@
       ],
       "mediaFormat": "Board Game",
       "isCustomCategory": false,
-      "releaseDate": "2356bce",
+      "releaseDate": "bce",
       "countryOfOrigin": "china",
       "originalLanguage": "chinese",
       "genres": [
@@ -886,7 +886,7 @@
       "consumedVersion": "board",
       "links": [],
       "createdAt": "2026-08-26t15:04:03.762z",
-      "updatedAt": "2026-08-29t10:43:32.367z"
+      "updatedAt": "2026-08-29t10:43:47.044z"
     },
     {
       "id": "item-1787670483702",
