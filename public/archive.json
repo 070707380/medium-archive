@@ -19,12 +19,12 @@
         {
           "name": "claus stephan",
           "category": "illustrator",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Claus%20Stephan"
+          "wikiUrl": "https://en.wikipedia.org/wiki/claus%20stephan"
         },
         {
           "name": "damien mammoliti",
           "category": "artist",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Damien%20Mammoliti"
+          "wikiUrl": "https://en.wikipedia.org/wiki/damien%20mammoliti"
         }
       ],
       "mediaFormat": "Board Game",
@@ -82,11 +82,10 @@
         "tigris & euphrates",
         "samurai"
       ],
-      "consumedVersion": "physical",
-      "isSoundtrack": false,
+      "consumedVersion": "board",
       "links": [],
       "createdAt": "2026-08-29t09:45:27.726z",
-      "updatedAt": "2026-08-29t09:45:28.656z"
+      "updatedAt": "2026-08-29t10:20:27.074z"
     },
     {
       "id": "item-1787948876366",
