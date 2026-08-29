@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "id": "item-1787996727724",
+      "cover": "https://www.boardgamequest.com/wp-content/uploads/2024/07/Through-The-Desert-Camels.jpg",
+      "title": "through the desert",
+      "mainCreator": "reiner knizia",
+      "otherCreators": [
+        "claus stephan/illustrator",
+        "damien mammoliti/artist"
+      ],
+      "creatorDetails": [
+        {
+          "name": "reiner knizia",
+          "category": "game designer",
+          "nation": "deutsch",
+          "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Reiner_Knizia&ved=2ahUKEwjluPS1wMWWAxW68LsIHddUPYAQFnoECBoQAQ&sqi=2&usg=AOvVaw3dgB-mv4P7zF3mbvL2bX9z"
+        },
+        {
+          "name": "claus stephan",
+          "category": "illustrator",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Claus%20Stephan"
+        },
+        {
+          "name": "damien mammoliti",
+          "category": "artist",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Damien%20Mammoliti"
+        }
+      ],
+      "mediaFormat": "Board Game",
+      "isCustomCategory": false,
+      "releaseDate": "1998",
+      "countryOfOrigin": "germany",
+      "originalLanguage": "german",
+      "genres": [
+        "strategy game",
+        "route building",
+        "area control"
+      ],
+      "philosophicalTags": [
+        "life as a game",
+        "opportunity cost"
+      ],
+      "genreStyleTags": [
+        "war",
+        "abstract",
+        "desert",
+        "family",
+        "strategy"
+      ],
+      "summaryPlot": "each player leads five camel caravans across a hex-grid desert, strategically placing two camels per turn to claim watering holes, reach oases, and enclose territories. the game ends when any camel color runs out, with bonus points awarded for the longest caravans of each color, and the player with the highest total score wins.",
+      "pros": [
+        "no dice, no hidden hand cards and zero combat rng victory is determined by calculation, tempo efficiency and route reading.",
+        "all players draw from the exact same five color pools of plastic camels, a player can deplete a specific camel color to permanently freeze an opponent's critical route.",
+        "successfully wrapping a continuous line of a single color from board edge to board edge, instantly claims all interior hexes and oases, mirroring the thrill of weiqi’s eye-making mechanics.",
+        "persistent 10-point end-game bonus for holding the longest chain in each of the 5 colors forces players into continuous efficiency races.",
+        "a player can learn the entire ruleset in less than three minutes, yet the strategic decision space expands into multi-turn traps and tempo depth.",
+        "controlling up to five colored camel leaders simultaneously forces players to prioritize which caravan gets tempo each turn and which must be sacrificed.",
+        "because each player turn consists strictly of placing exactly two camels onto adjacent hexes, turns resolve in seconds, serve razor sharp pacing.",
+        "hexagonal board (chokepoints, scattered palms, waterhole tokens) creates natural geography without requiring artificial rules."
+      ],
+      "cons": [
+        "in 3-5 multi-player games, an uncalculated block by one player can inadvertently hand another player an uncontested board quadrant or longest-caravan majority.",
+        "i don't like the plastic childish looking camel designs in-game and bumping the board can easily slide loose plastic camels off their hexes.",
+        "final scoring requires a methodical manual tally of individual hexes, oasis tokens, waterholes, and 10-point bonus markers.",
+        "players can become overly fixated on localized 1-point waterhole brawls while completely failing to spot an opponent's massive macroscopic enclosure.",
+        "lack of asymmetric variance."
+      ],
+      "hornetScore": 7,
+      "hornetVerdict": "",
+      "similarMedia": [
+        "carcassonne",
+        "kingdom builder"
+      ],
+      "mediumInfluences": [
+        {
+          "title": "weiqi",
+          "type": "media",
+          "customCover": "https://media.istockphoto.com/id/94262390/photo/go-the-board-game.jpg?s=612x612&w=0&k=20&c=QxT5u5BVx-xfi-aTLpCoWCZKU7E6-zcIGBUFD0EtNcs=",
+          "note": "linked to board game (2356)"
+        },
+        "tigris & euphrates",
+        "samurai"
+      ],
+      "consumedVersion": "physical",
+      "isSoundtrack": false,
+      "links": [],
+      "createdAt": "2026-08-29t09:45:27.726z",
+      "updatedAt": "2026-08-29t09:45:28.656z"
+    },
+    {
       "id": "item-1787948876366",
       "cover": "https://wallpaperaccess.com/full/1376327.jpg",
       "title": "the scream",
