@@ -815,7 +815,7 @@
       "creatorDetails": [
         {
           "name": "emperor yao",
-          "category": "author",
+          "category": "game designer",
           "nation": "china",
           "wikiUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Emperor_Yao&ved=2ahUKEwj38IqRxL6WAxVTzQIHHct8JF8QFnoECDoQAQ&sqi=2&usg=AOvVaw3ogcyIWXgTrFHp3EAWeg5R"
         }
@@ -884,10 +884,9 @@
         "xuanxuan qi jing"
       ],
       "consumedVersion": "board",
-      "isSoundtrack": false,
       "links": [],
       "createdAt": "2026-08-26t15:04:03.762z",
-      "updatedAt": "2026-08-26t15:17:00.441z"
+      "updatedAt": "2026-08-29t10:20:40.026z"
     },
     {
       "id": "item-1787670483702",
